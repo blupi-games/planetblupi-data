@@ -1,0 +1,5943 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 120
+  heig 120
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra Jeu"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\RAYDREAM\\Blupi3d.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra Jeu"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 14
+     locV 759
+     sizH 275
+     sizV 317
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 13
+     locV 25
+     sizH 1149
+     sizV 702
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra Jeu"
+ ShLv 3
+ Zoom 7
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 81,0,766,960
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 25,25,54,171
+  dbnd 0,0,0,0
+  nbnd 25,25,54,171
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,279,56
+  dbnd 0,0,0,0
+  nbnd 62,4,457,35
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 1
+   }
+  }
+ }
+sc {
+ nm "arbre34"
+ nxtL 1
+ nxtC 3
+ nxtG 2
+ nxtO 0
+ ob {
+  ex {
+   nm "Assistant 3D"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,6.95093,2.7184
+      mbox 0,0,6.95093,2.7184
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 0
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-0.3577,-0.03447
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -1,0
+         ss {
+          s3 -1,-0.55228,-0.55228,-1,0,-1
+          s3 0.55228,-1,1,-0.55228,1,0
+          s3 1,0.55228,0.55228,1,0,1
+          s3 -0.55228,1,-1,0.55228,-1,0
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0.00623,0.20551,0.14362
+     cv 0.00623,0.47841,0.65221
+     cnc 0.00623,0.7513,1.1608
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st 0,0.54999
+         ss {
+          s3 -0.30376,0.54999,-0.54999,0.30373,-0.54999,0
+          s3 -0.54999,-0.30376,-0.30376,-0.54999,0,-0.54999
+          s3 0.30373,-0.54999,0.54999,-0.30376,0.54999,0
+          s3 0.54999,0.30373,0.30373,0.54999,0,0.54999
+          }
+         }
+        }
+       }
+      shnb {
+       shno 1,1
+       }
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,0.82906,1.48157
+     cv 0,0.82906,1.48157
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -0.09998,0
+         ss {
+          s3 -0.09998,-0.05524,-0.05524,-0.09998,0,-0.09998
+          s3 0.05521,-0.09998,0.09998,-0.05524,0.09998,0
+          s3 0.09998,0.05521,0.05521,0.09998,0,0.09998
+          s3 -0.05524,0.09998,-0.09998,0.05521,-0.09998,0
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  ex {
+   nm "Assistant 3D 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,6.95087,1.99103
+      mbox 0,0,6.95087,1.99103
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 0
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -1,0
+         ss {
+          s3 -1,-0.55228,-0.55228,-1,0,-1
+          s3 0.55228,-1,1,-0.55228,1,0
+          s3 1,0.55228,0.55228,1,0,1
+          s3 -0.55228,1,-1,0.55228,-1,0
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0.00623,0.47838,0.00983
+     cv 0.00623,0.47838,0.00983
+     cnc 0.00623,0.47838,0.00983
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st 0,0.54999
+         ss {
+          s3 -0.30376,0.54999,-0.54999,0.30373,-0.54999,0
+          s3 -0.54999,-0.30376,-0.30376,-0.54999,0,-0.54999
+          s3 0.30373,-0.54999,0.54999,-0.30376,0.54999,0
+          s3 0.54999,0.30373,0.30373,0.54999,0,0.54999
+          }
+         }
+        }
+       }
+      shnb {
+       shno 1,1
+       }
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,0.99083,-0.00255
+     cv 0,0.99083,-0.00255
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -0.09998,0
+         ss {
+          s3 -0.09998,-0.05524,-0.05524,-0.09998,0,-0.09998
+          s3 0.05521,-0.09998,0.09998,-0.05524,0.09998,0
+          s3 0.09998,0.05521,0.05521,0.09998,0,0.09998
+          s3 -0.05524,0.09998,-0.09998,0.05521,-0.09998,0
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  ex {
+   nm "Assistant 3D 2"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,12.31644,1.9919
+      mbox 0,0,12.31644,1.9919
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 1
+   evs 1
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-0.94365,0
+     tpc 1,0
+     tv 1,0
+     tnc 0.79224,0.05634
+     bpc 1,0
+     bv 1,0
+     bnc 0.79224,0.05634
+     lpc 1,0
+     lv 1,0
+     lnc 0.79224,0.05634
+     rpc 1,0
+     rv 1,0
+     rnc 0.79224,0.05634
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -1,0
+         ss {
+          s3 -1.23221,-0.10965,-1.24173,-0.41478,-0.91277,-0.36713
+          s3 -0.6955,-0.37607,-0.5981,-0.52446,-0.70711,-0.70711
+          s3 -0.88892,-0.94881,-0.60286,-1.14905,-0.38927,-0.92145
+          s3 -0.2119,-0.7867,-0.06409,-0.74854,0.00475,-0.99045
+          s3 0.12183,-1.33977,0.39362,-1.27303,0.37932,-0.91066
+          s3 0.40587,-0.70192,0.52234,-0.61028,0.6899,-0.72388
+          s3 0.97054,-0.91544,1.11835,-0.60074,0.91655,-0.40047
+          s3 0.79413,-0.23839,0.77028,-0.07628,1,0
+          s3 1.35196,0.15732,1.25661,0.41956,0.93715,0.3862
+          s3 0.71373,0.38158,0.61165,0.54012,0.70708,0.70708
+          s3 0.85611,0.96785,0.64632,1.09662,0.41269,0.90111
+          s3 0.25272,0.7867,0.12711,0.76334,0,1
+          s3 -0.15944,1.29686,-0.41214,1.27303,-0.38788,0.92197
+          s3 -0.39783,0.78191,-0.519,0.5376,-0.70775,0.68657
+          s3 -0.97951,0.82007,-1.14162,0.63889,-0.90799,0.39095
+          s3 -0.79323,0.23343,-0.82219,0.06673,-1,0
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,-0.81096,0
+     cv 0,-0.67551,0
+     cnc 0,-0.64365,0
+     tpc 0.51514,0.13544
+     tv 0.50075,0
+     tnc 0.57982,0.03188
+     bpc 0.51514,0.13544
+     bv 0.50075,0
+     bnc 0.57982,0.03188
+     lpc 0.51514,0.13544
+     lv 0.50075,0
+     lnc 0.57982,0.03188
+     rpc 0.51514,0.13544
+     rv 0.50075,0
+     rnc 0.57982,0.03188
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    sap {
+     cpc 0,-0.61324,0
+     cv 0,-0.58719,0
+     cnc 0,-0.58928,0
+     tpc 0.70125,0.02605
+     tv 0.77451,0
+     tnc 0.60721,-0.00208
+     bpc 0.70125,0.02605
+     bv 0.77451,0
+     bnc 0.60721,-0.00208
+     lpc 0.70125,0.02605
+     lv 0.77451,0
+     lnc 0.60721,-0.00208
+     rpc 0.70125,0.02605
+     rv 0.77451,0
+     rnc 0.60721,-0.00208
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    sap {
+     cpc 0,-0.55219,0
+     cv 0,-0.24889,0
+     cnc 0,-0.22086,0
+     tpc 0.34177,0.3033
+     tv 0.29015,0
+     tnc 0.37891,0.02802
+     bpc 0.34177,0.3033
+     bv 0.29015,0
+     bnc 0.37891,0.02802
+     lpc 0.34177,0.3033
+     lv 0.29015,0
+     lnc 0.37891,0.02802
+     rpc 0.34177,0.3033
+     rv 0.29015,0
+     rnc 0.37891,0.02802
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    sap {
+     cpc 0,-0.21692,0
+     cv 0,-0.18427,0
+     cnc 0,-0.1055,0
+     tpc 0.4334,0.03267
+     tv 0.52335,0
+     tnc 0.21103,0.07874
+     bpc 0.4334,0.03267
+     bv 0.52335,0
+     bnc 0.21103,0.07874
+     lpc 0.4334,0.03267
+     lv 0.52335,0
+     lnc 0.21103,0.07874
+     rpc 0.4334,0.03267
+     rv 0.52335,0
+     rnc 0.21103,0.07874
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    sap {
+     cpc 0,-0.01059,0
+     cv 0,0.07593,0
+     cnc 0,0.09749,0
+     tpc 0.17447,0.08652
+     tv 0.14638,0
+     tnc 0.19489,0.02155
+     bpc 0.17447,0.08652
+     bv 0.14638,0
+     bnc 0.19489,0.02155
+     lpc 0.17447,0.08652
+     lv 0.14638,0
+     lnc 0.19489,0.02155
+     rpc 0.17447,0.08652
+     rv 0.14638,0
+     rnc 0.19489,0.02155
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    sap {
+     cpc 0,0.10846,0
+     cv 0,0.13495,0
+     cnc 0,0.1821,0
+     tpc 0.2598,0.02646
+     tv 0.32674,0
+     tnc 0.12784,0.04715
+     bpc 0.2598,0.02646
+     bv 0.32674,0
+     bnc 0.12784,0.04715
+     lpc 0.2598,0.02646
+     lv 0.32674,0
+     lnc 0.12784,0.04715
+     rpc 0.2598,0.02646
+     rv 0.32674,0
+     rnc 0.12784,0.04715
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    sap {
+     cpc 0,0.61754,0
+     cv 0,0.98772,0
+     cnc 0,0,0
+     tpc 0.07773,0.37018
+     tv -0.00046,0
+     tnc 1,0
+     bpc 0.07773,0.37018
+     bv -0.00046,0
+     bnc 1,0
+     lpc 0.07773,0.37018
+     lv -0.00046,0
+     lnc 1,0
+     rpc 0.07773,0.37018
+     rv -0.00046,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  COfl {
+   prim {
+    COfl {
+     }
+    }
+   nm "Flat Surface"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 30.49135,30.61835,30.97951
+      mat -0.70676,-0.40875,0.57727,0.70734,-0.4079,0.57721,-0.00043,0.81635,0.57755
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 45
+       fall 0
+       brit 1
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 29.52576,0,14.76288
+      mat 0.00089,-0.70776,0.70642,0.99994,0.00089,-0.00037,-0.00037,0.70642,0.70782
+      }
+     only 0
+     }
+    inpr {
+     nm "Flat Surface"
+     AnTr 1
+     Cloa 0
+     tran {
+      po -5,-5,-15.00005
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.99997,0.99997
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Flat Surface"
+     }
+    ca {
+     nm "Caméra Jeu"
+     AnTr 1
+     Cloa 0
+     tran {
+      po 19.68384,19.68384,12.79448
+      mat -0.70599,-0.35559,0.6123,0.70807,-0.35236,0.61182,-0.00177,0.8656,0.50073
+      }
+     proj {
+      iso {
+       zoom 2.50931
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    gr {
+     nm "Arbre"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -7.19054,-0.10616,-2.4509
+      hp -3.48874,-3.83304,-2.4509
+      }
+     so {
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.0618,-3.68567,-9.63524
+        mat 1,0,0,0,0.99506,0.09958,0,-0.09958,0.99506
+        hp 0.00049,-2.45064,-0.18944
+        }
+       defo {
+        affi {
+         ScaX 0.71964
+         ScaY 2.53162
+         ScaZ 0.70296
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -0.10335,-1.16988,-0.23734
+          mat 0.38828,-0.92157,-0.00006,0.91705,0.38641,-0.09872,0.09094,0.0383,0.99515
+          hp 0.00037,-1.73401,-0.11957
+          }
+         defo {
+          affi {
+           ScaX 0.48952
+           ScaY 1.7914
+           ScaZ 0.44365
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.254,-2.5284,0.08368
+          mat 0.73947,0.67316,-0.0047,-0.67023,0.73557,-0.09863,-0.06293,0.07605,0.99512
+          hp 0.00037,-1.73401,-0.11957
+          }
+         defo {
+          affi {
+           ScaX 0.48952
+           ScaY 1.7914
+           ScaZ 0.44365
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.84601,-3.87531,-11.52744
+        mat 0.9494,-0.31415,0,0.31415,0.9494,0,0,0,1
+        hp 0.00046,-3.18993,-0.17386
+        }
+       defo {
+        affi {
+         ScaX 0.65535
+         ScaY 3.29558
+         ScaZ 0.64502
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.34108,-0.64612,-0.10164
+          mat 0.63965,0.76868,0,-0.76868,0.63965,0,0,0,1
+          hp 0.00037,-1.73401,-0.11957
+          }
+         defo {
+          affi {
+           ScaX 0.48952
+           ScaY 1.7914
+           ScaZ 0.44365
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.37459,-5.29984,-11.87056
+        mat -0.5737,0.79605,-0.1925,-0.81113,-0.58478,-0.00092,-0.11334,0.15564,0.98135
+        hp 0.00043,-2.55594,-0.16208
+        }
+       defo {
+        affi {
+         ScaX 0.54848
+         ScaY 2.64046
+         ScaZ 0.60149
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.07822,-0.86139,-0.03328
+          mat 0.73892,-0.66458,-0.11118,0.67337,0.72241,0.15729,-0.02426,-0.1911,0.98129
+          hp 0.00037,-1.73401,-0.11957
+          }
+         defo {
+          affi {
+           ScaX 0.48952
+           ScaY 1.7914
+           ScaZ 0.44365
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.2336,-5.34209,-9.3212
+        mat -0.94333,0.33167,0.0032,-0.328,-0.9314,-0.1575,-0.04929,-0.14963,0.98752
+        hp 0.00063,-2.06754,-0.16643
+        }
+       defo {
+        affi {
+         ScaX 0.85329
+         ScaY 2.13588
+         ScaZ 0.61751
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -0.02312,-0.85405,-0.03093
+          mat 0.33453,-0.94092,-0.05264,0.92938,0.33865,-0.14682,0.15591,0.00015,0.98782
+          hp 0.00037,-1.73401,-0.11957
+          }
+         defo {
+          affi {
+           ScaX 0.48952
+           ScaY 1.7914
+           ScaZ 0.44365
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.26819,-4.34659,-11.54326
+        mat 0.42892,0.90329,0,-0.90329,0.42892,0,0,0,1
+        hp 0.00049,-3.20644,-0.18398
+        }
+       defo {
+        affi {
+         ScaX 0.68805
+         ScaY 3.31241
+         ScaZ 0.6825
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.3949,-5.3597,-10.42426
+        mat -0.97159,-0.23642,0,0.23642,-0.97159,0,0,0,1
+        hp 0.00023,-2.13904,-0.14742
+        }
+       defo {
+        affi {
+         ScaX 0.28908
+         ScaY 2.20981
+         ScaZ 0.54703
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -3.76581,-4.5125,-3.46991
+        mat -0.78296,0.62192,0,-0.62192,-0.78296,0,0,0,1
+        hp 0.00008,-1.20479,-0.11971
+        }
+       defo {
+        affi {
+         ScaX 0.09264
+         ScaY 1.24463
+         ScaZ 0.44417
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 2.26697,-1.19925,-3.62616
+          mat -0.14401,0.9895,0,-0.9895,-0.14401,0,0,0,1
+          hp 0.00037,-1.70525,-0.09073
+          }
+         defo {
+          affi {
+           ScaX 0.46004
+           ScaY 1.76163
+           ScaZ 0.33669
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.3642,-3.28716,-6.48787
+        mat 0.95435,-0.2988,0,0.2988,0.95435,0,0,0,1
+        hp 0.00037,-1.73401,-0.11957
+        }
+       defo {
+        affi {
+         ScaX 0.48952
+         ScaY 1.7914
+         ScaZ 0.44365
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.76355,-4.16518,-5.63927
+        mat 0.19785,-0.98022,0,0.98022,0.19785,0,0,0,1
+        hp 0.00037,-1.73401,-0.11957
+        }
+       defo {
+        affi {
+         ScaX 0.48952
+         ScaY 1.7914
+         ScaZ 0.44365
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.06853,-5.29964,-7.29076
+        mat -0.81171,0.58395,0,-0.58395,-0.81171,0,0,0,1
+        hp 0.0002,-1.39113,-0.11963
+        }
+       defo {
+        affi {
+         ScaX 0.25661
+         ScaY 1.43712
+         ScaZ 0.44397
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.9861,-4.05507,-3.07059
+        mat 0.4111,-0.91159,0,0.91159,0.4111,0,0,0,1
+        hp 0.00046,-1.39792,-0.11957
+        }
+       defo {
+        affi {
+         ScaX 0.60979
+         ScaY 1.44414
+         ScaZ 0.44365
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.36658,-4.9126,-2.79796
+        mat -0.18527,-0.98267,0,0.98267,-0.18527,0,0,0,1
+        hp 0.00037,-1.73401,-0.11957
+        }
+       defo {
+        affi {
+         ScaX 0.48952
+         ScaY 1.7914
+         ScaZ 0.44365
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.10822,-5.21027,-5.44809
+        mat -0.34991,0.93671,0,-0.93671,-0.34991,0,0,0,1
+        hp 0.0002,-1.06029,-0.12299
+        }
+       defo {
+        affi {
+         ScaX 0.25156
+         ScaY 1.09537
+         ScaZ 0.4565
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.0647,-4.40598,-8.77414
+        mat 0.00021,-1,0,1,0.00021,0,0,0,1
+        hp 0.00052,-2.47226,-0.17801
+        }
+       defo {
+        affi {
+         ScaX 0.74001
+         ScaY 2.55408
+         ScaZ 0.6606
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.44678,-4.25589,-10.78679
+        mat 0.52463,-0.85135,0,0.85135,0.52463,0,0,0,1
+        hp 0.0004,-2.41733,-0.12253
+        }
+       defo {
+        affi {
+         ScaX 0.61742
+         ScaY 2.49733
+         ScaZ 0.45456
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.05716,-0.47794,-0.09343
+          mat 0.29089,-0.95676,0,0.95676,0.29089,0,0,0,1
+          hp 0.00037,-1.73383,-0.07471
+          }
+         defo {
+          affi {
+           ScaX 0.48929
+           ScaY 1.79117
+           ScaZ 0.27721
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Tronc"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.74785,-4.33817,-4.39403
+        mat 1,0,0,0,0.00021,-1,0,1,0.00021
+        }
+       defo {
+        affi {
+         ScaX 1.55951
+         ScaY 10.61197
+         ScaZ 1.60091
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D 1"
+       }
+      }
+     boxM 1.40401,1.95282,6.12128
+     boxm -9.80453,-9.38962,-15.00668
+     open 0
+     }
+    gr {
+     nm "Arbre"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.45679,-6.27858,-6.32761
+      Scal 0.68575
+      hp -3.48874,-3.83304,-2.4509
+      }
+     so {
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.0618,-3.68567,-9.63524
+        mat 1,0,0,0,0.99506,0.09958,0,-0.09958,0.99506
+        hp 0.00049,-2.45064,-0.18944
+        }
+       defo {
+        affi {
+         ScaX 0.71964
+         ScaY 2.53162
+         ScaZ 0.70296
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -0.10335,-1.16988,-0.23734
+          mat 0.38828,-0.92157,-0.00006,0.91705,0.38641,-0.09872,0.09094,0.0383,0.99515
+          hp 0.00037,-1.73401,-0.11957
+          }
+         defo {
+          affi {
+           ScaX 0.48952
+           ScaY 1.7914
+           ScaZ 0.44365
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.254,-2.5284,0.08368
+          mat 0.73947,0.67316,-0.0047,-0.67023,0.73557,-0.09863,-0.06293,0.07605,0.99512
+          hp 0.00037,-1.73401,-0.11957
+          }
+         defo {
+          affi {
+           ScaX 0.48952
+           ScaY 1.7914
+           ScaZ 0.44365
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.84601,-3.87531,-11.52744
+        mat 0.9494,-0.31415,0,0.31415,0.9494,0,0,0,1
+        hp 0.00046,-3.18993,-0.17386
+        }
+       defo {
+        affi {
+         ScaX 0.65535
+         ScaY 3.29558
+         ScaZ 0.64502
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.34108,-0.64612,-0.10164
+          mat 0.63965,0.76868,0,-0.76868,0.63965,0,0,0,1
+          hp 0.00037,-1.73401,-0.11957
+          }
+         defo {
+          affi {
+           ScaX 0.48952
+           ScaY 1.7914
+           ScaZ 0.44365
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.37459,-5.29984,-11.87056
+        mat -0.5737,0.79605,-0.1925,-0.81113,-0.58478,-0.00092,-0.11334,0.15564,0.98135
+        hp 0.00043,-2.55594,-0.16208
+        }
+       defo {
+        affi {
+         ScaX 0.54848
+         ScaY 2.64046
+         ScaZ 0.60149
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.07822,-0.86139,-0.03328
+          mat 0.73892,-0.66458,-0.11118,0.67337,0.72241,0.15729,-0.02426,-0.1911,0.98129
+          hp 0.00037,-1.73401,-0.11957
+          }
+         defo {
+          affi {
+           ScaX 0.48952
+           ScaY 1.7914
+           ScaZ 0.44365
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.2336,-5.34209,-9.3212
+        mat -0.94333,0.33167,0.0032,-0.328,-0.9314,-0.1575,-0.04929,-0.14963,0.98752
+        hp 0.00063,-2.06754,-0.16643
+        }
+       defo {
+        affi {
+         ScaX 0.85329
+         ScaY 2.13588
+         ScaZ 0.61751
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -0.02312,-0.85405,-0.03093
+          mat 0.33453,-0.94092,-0.05264,0.92938,0.33865,-0.14682,0.15591,0.00015,0.98782
+          hp 0.00037,-1.73401,-0.11957
+          }
+         defo {
+          affi {
+           ScaX 0.48952
+           ScaY 1.7914
+           ScaZ 0.44365
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.26819,-4.34659,-11.54326
+        mat 0.42892,0.90329,0,-0.90329,0.42892,0,0,0,1
+        hp 0.00049,-3.20644,-0.18398
+        }
+       defo {
+        affi {
+         ScaX 0.68805
+         ScaY 3.31241
+         ScaZ 0.6825
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.3949,-5.3597,-10.42426
+        mat -0.97159,-0.23642,0,0.23642,-0.97159,0,0,0,1
+        hp 0.00023,-2.13904,-0.14742
+        }
+       defo {
+        affi {
+         ScaX 0.28908
+         ScaY 2.20981
+         ScaZ 0.54703
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -3.76581,-4.5125,-3.46991
+        mat -0.78296,0.62192,0,-0.62192,-0.78296,0,0,0,1
+        hp 0.00008,-1.20479,-0.11971
+        }
+       defo {
+        affi {
+         ScaX 0.09264
+         ScaY 1.24463
+         ScaZ 0.44417
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 2.26697,-1.19925,-3.62616
+          mat -0.14401,0.9895,0,-0.9895,-0.14401,0,0,0,1
+          hp 0.00037,-1.70525,-0.09073
+          }
+         defo {
+          affi {
+           ScaX 0.46004
+           ScaY 1.76163
+           ScaZ 0.33669
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.3642,-3.28716,-6.48787
+        mat 0.95435,-0.2988,0,0.2988,0.95435,0,0,0,1
+        hp 0.00037,-1.73401,-0.11957
+        }
+       defo {
+        affi {
+         ScaX 0.48952
+         ScaY 1.7914
+         ScaZ 0.44365
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.76355,-4.16518,-5.63927
+        mat 0.19785,-0.98022,0,0.98022,0.19785,0,0,0,1
+        hp 0.00037,-1.73401,-0.11957
+        }
+       defo {
+        affi {
+         ScaX 0.48952
+         ScaY 1.7914
+         ScaZ 0.44365
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.06853,-5.29964,-7.29076
+        mat -0.81171,0.58395,0,-0.58395,-0.81171,0,0,0,1
+        hp 0.0002,-1.39113,-0.11963
+        }
+       defo {
+        affi {
+         ScaX 0.25661
+         ScaY 1.43712
+         ScaZ 0.44397
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.9861,-4.05507,-3.07059
+        mat 0.4111,-0.91159,0,0.91159,0.4111,0,0,0,1
+        hp 0.00046,-1.39792,-0.11957
+        }
+       defo {
+        affi {
+         ScaX 0.60979
+         ScaY 1.44414
+         ScaZ 0.44365
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.36658,-4.9126,-2.79796
+        mat -0.18527,-0.98267,0,0.98267,-0.18527,0,0,0,1
+        hp 0.00037,-1.73401,-0.11957
+        }
+       defo {
+        affi {
+         ScaX 0.48952
+         ScaY 1.7914
+         ScaZ 0.44365
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.10822,-5.21027,-5.44809
+        mat -0.34991,0.93671,0,-0.93671,-0.34991,0,0,0,1
+        hp 0.0002,-1.06029,-0.12299
+        }
+       defo {
+        affi {
+         ScaX 0.25156
+         ScaY 1.09537
+         ScaZ 0.4565
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.0647,-4.40598,-8.77414
+        mat 0.00021,-1,0,1,0.00021,0,0,0,1
+        hp 0.00052,-2.47226,-0.17801
+        }
+       defo {
+        affi {
+         ScaX 0.74001
+         ScaY 2.55408
+         ScaZ 0.6606
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Branche"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.44678,-4.25589,-10.78679
+        mat 0.52463,-0.85135,0,0.85135,0.52463,0,0,0,1
+        hp 0.0004,-2.41733,-0.12253
+        }
+       defo {
+        affi {
+         ScaX 0.61742
+         ScaY 2.49733
+         ScaZ 0.45456
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       so {
+        inpr {
+         nm "Branche"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.05716,-0.47794,-0.09343
+          mat 0.29089,-0.95676,0,0.95676,0.29089,0,0,0,1
+          hp 0.00037,-1.73383,-0.07471
+          }
+         defo {
+          affi {
+           ScaX 0.48929
+           ScaY 1.79117
+           ScaZ 0.27721
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               smap {
+                MInf {
+                 tile 1
+                 seam 0
+                 cnth 2
+                 cntv 2
+                 flph 0
+                 flpv 1
+                 rotc 0
+                 intp 1
+                 invC 0
+                 }
+                prkd 1
+                CMAp {
+                 IMAP 0
+                 MDTA {
+                  REFN 0
+                  TIME "08:54:224103718"
+                  }
+                 }
+                whit 0
+                }
+               sval {
+                prkd 1
+                Val 0.29578
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D"
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       nm "Tronc"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.74785,-4.33817,-4.39403
+        mat 1,0,0,0,0.00021,-1,0,1,0.00021
+        }
+       defo {
+        affi {
+         ScaX 1.55951
+         ScaY 10.61197
+         ScaZ 1.60091
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 1
+               seam 0
+               cnth 2
+               cntv 2
+               flph 0
+               flpv 1
+               rotc 0
+               intp 1
+               invC 0
+               }
+              prkd 1
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "08:54:224103718"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.29578
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D 1"
+       }
+      }
+     boxM 1.40388,1.95271,6.12108
+     boxm -9.80452,-9.38959,-15.00656
+     open 0
+     }
+    inpr {
+     nm "Branches"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -8.12584,-0.65453,-1.18697
+      mat 0.95874,-0.00006,0.2843,0.2843,0.00031,-0.95871,-0.00006,0.99997,0.00031
+      Scal 6.09314
+      }
+     defo {
+      affi {
+       ScaX 1
+       ScaY 1.54404
+       ScaZ 1.00034
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 1
+             seam 0
+             cnth 3
+             cntv 3
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             }
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 1
+              TIME "08:54:224103900"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 1
+            }
+           sval {
+            prkd 1
+            Val 0.50536
+            }
+           sval {
+            prkd 1
+            Val 1
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 2"
+     }
+    inpr {
+     nm "Branches"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.88045,-6.41318,-4.17595
+      mat 1,0,0,0,0.00021,-1,0,1,0.00021
+      Scal 4.70023
+      }
+     defo {
+      affi {
+       ScaX 1
+       ScaY 1.54404
+       ScaZ 1.00034
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 1
+             seam 0
+             cnth 3
+             cntv 3
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             }
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 1
+              TIME "08:54:224103900"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 1
+            }
+           sval {
+            prkd 1
+            Val 0.50536
+            }
+           sval {
+            prkd 1
+            Val 1
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 2"
+     }
+    }
+   boxM 33.0955,33.22232,32.78244
+   boxm -18.34564,-15,-15.00668
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "08:54:224103718"
+      }
+     DATA {
+      stor 0
+      w 256
+      h 128
+      dpth 8
+      CTAB 00FFA55200F7844200F7733100EF733900E76B3100DE7B3900DE6B3100DE633100D6A55A00D66B3100D6633100CE633100CE632900CE5A3100CE5A2900C65A31
+      MORE 00C65A2900C6522900BD632900BD5A2900BD522900B56B3100B5522900B5522100B54A2900AD522900AD522100AD4A2900AD4A2100A5522900A5522100A54A29
+      MORE 00A54A2100A54221009C5A29009C5229009C5221009C4A29009C4A21009C4229009C4221009C421800944A2100944221009442180094392100943918008C4A21
+      MORE 008C4221008C4218008C3921008C3918008C3110008442210084421800843921008439180084311800843110007B4221007B4218007B3921007B3918007B3118
+      MORE 007B311000734221007339210073391800733118007331100073291800732910006B3918006B3118006B3110006B2918006B2910006331180063311000632918
+      MORE 0063291000632110005A3121005A2918005A2910005A2110005A21080052291000522110005221080052181000521808004A2910004A2110004A2108004A1810
+      MORE 004A1808004231180042211000422108004218100042180800391810003918080039100800390808003118100031180800311008002918080029100800290808
+      MORE 00211008002110000021080800210800002100000018080800180800001008000010000000080000000000000000000000000000000000000000000000000000
+      MORE 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      MORE 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      MORE 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      MORE 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      MORE 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      MORE 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      MORE 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      MORE 00FFFFFF000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      tils 128,128
+      TDTA {
+       TILE $FFFFFFFF12585D5D4C545049444443505458493E4B4D4438FE490350494450FE38183F33443E304438383D3E442B493F4430372B442B2820352B33E4F0622B492B54283F2B30281C2828262838383E3044495050584B44383F2B382844333844382B3044383E444A3F3E4A58584F505850445849544C5D50493850434F494449444B544B504B2B2B32384B3E3E38443844443F37493E33492B383820203E303344E4F00E204B443F131037322B332831384938FE44084944504949542B3F49FE44442B3838443F38262B4A2B2B45504433505D4B57585054505565585050494B4F4D44444A4454504354385428333E3F38383E383F44304430444938382B203E301C445035382BE4F02C384B32202844283E2B282B383E3032445044545444303E4B4420443E3E3338443E38382B2B3E382038454F444AFE58325D545864555858505D3E4949503D3E543E4944384949263820324449384949382B3E373E385449323E3044303844383F3E2844E5F01F16133F3E3F3850442B33283E3E4944494B4F442B38303E543E502B3854194F2BF3F006555D585064585DF8F0253D50383E4D2B2B3E44383F3F304A443E4B3F2B3849303844443E3E3138443F2B3E303044304CE6F0FF2002192044FE2B163F3E2B2B4C3F4958545849333E304444383844283E5832F1F005585D584F5454F1F020382B44325028575044443F373344283744383E372B493037443F33383030383F2BE8F01D2B2638263F3838262B3830444449443E583E38323332281A202037492830EFF0FF580262505FEFF020304949443044494438452B30333253542B4443323E3737382B203F38442B2B261FEAF01C30332649383F4438283338444F5050495D3833261B1C26203820303E32EDF00355586758EDF020545D505549443F4437303F3E504D305044434438323733282B322B302D31263E30ECF01B303F383F3E302B44282B4449445D545D50442B2B3828202B443E493FEBF002545D5DECF022503F4F3E44544F4F383F383049444D30503E30492632203F37382B35193E44262B3F26F1F01D2849332B383F3E3E303F30493E3F2B58504F5058262B382B494438444C3EEAF002645044EBF00B44553E49443E20443038503EFE4415494432442832383F283319283049262B2637202B2B44F7F01F3F38382B3E382B3E382B2844262B2B3E3E3F4949544C49504B38443838443E3EE9F0FE5DEBF04C504444505D384944303850444F3E38202B333826303F2820204C49202B2B2028202B305038493F4444505565674920443838443049323044263F383837442B2B38504F543F44544B545D4B4449E7F0FE5DEAF02D4954503F2B3E26284F382B2B38203E262B2B324430191B4B3F262830302B192844303F3844505054506E6E493F3EFC38FF3F15333838442B373F383E30504B5D49505449586C545855E6F001505DE9F04949443E383E2B493F383230302B383038283828302B1B1C5010282028162B3F3F282B3F3E494B50555D64674B3E3820443F2B4B3E443F3844322B443249322B505D58585555495D54545DE5F0014458E9F00C3F3E494430284B302B38382526FE30F9F030382620203838443F383F505038493E676C5D4A4933493E333E4944494B49334430323E49333038585F5F58505F6258584BE4F0FF64E9F00943383E3238492B2B323EF0F02D443E2B3F383730504438586E6449584B503F3F38304438543E2B3237283F3837503E20384450546565585D665D58E4F0015867E9F00838323F442037492A2BEEF028283E302B304B5D65726758445D54443844443E3F50503F49442B4944383E3E303E284432444F546058FE5D0054E4F0015855E9F0073826322B3E32203FECF02B44202B3F28386B4B54585D5844493E4F44444950504B44383E444949443F3E32373E2654503E50443E3F444BE4F00064E8F0063E302B32282B2BEBF0FF4408383E504B4B54585555FE441D49504944503E3E2B385038444F3F443F3E2B3E4B3838545044545D50504BE4F0005DE8F0064944442B492B4BEBF0FF49294437445D5450555854544958544949443E383F323E503E3F583F3E2B3F4950443E4F444954503F503E3FE4F00067E8F00649444938303820EBF02530493F384938504458444B44504F5044586C2B3E444950324B385D55503E443F304954445454FC500030E4F00064E8F0FF38FF2B02102B28EAF0183E3838324438493E4444504F443E4450445449505838444450FE580E443F4A3F492B4944544950584B5428E4F00065E7F0042820202616E9F02A2B385054503E504449493E3849544458584444585055444B545867555849545049503E3F49504C38504949E4F0005DE7F00414281C3819E9F0FF502844544F5444504F49444A4B545054495854503F544958545865674B5F58585058646467555844504449E4F00054E7F0043016203E20E9F002504950FD44233E444B444F5D5850645D58504B544954584F506758555054555D645D6458545444494954E4F0004CE7F004161C283044E9F011494F3F443E4430504B555D54585D58506465FE58155D545464586558584B555D4B495D5D55585049444F44E4F00050E7F004281A1B3F38E9F02B283820383E38504444494950495D54555D676C626C67656764586564675D585D504C646766655F555450545DE5F0003EE7F0041326333E3EE9F02B3137303F3F3E49444B44504F4F385055656764676E706C676C6C6E66656C64675F676464655D646C67645855E5F001503FE9F00528263E444944E9F02B3F44333F5449444A3E49494A44494F5D64676C6E726E6B756E6E67646E67675D645D6464506C6C64585D5858E5F0014C4BE9F0053E3844582826E8F00F494449493E4B493E44444B3858584F50FE4418677267676C6C6B646C6C666E58676567555458544C495D5D58E6F0014B50E9F0065044442B20104BE9F02C38443E4F3F443F444437445D50493F44444B442B5D6C6E765D5D67676C6B6C6E5D65656C6C6767645D54504955E7F0013E4AEAF0074C4930380C0C1449E9F00B4B4F3F504438505444445D44FE49014B38EDF00864656467635D5F5555E8F00244324BEBF0072B493F201038383FE9F00F4B44494B4950444B495D32493F4C443EEBF008675F5D5058585F585DE9F003584A5454ECF0073744493854323254E9F00D5549544B4B504F444449553E4449E8F008655F54655459505858EAF0FF5404493F4B4F44F0F0014944FE3804552B44372BEAF0064B4F4B444B4454FD50014F54E6F00A505D585F55445D655E5F6BF9F0136467676E656E5D5E62645D65544B504B3E383744F2F00A37494F503F584944502B54EAF0FC4906384B49494F5844E5F00D5D58555D64554454445D5D555858FE5D16585D675F6E6E63676C5E6C67676C54383830583E573E3EF4F00B3F5449384F443844444B3F49EAF00B544B33544B50444954443F50E5F0FF58135D645F5F505D553E4F49585850585467586C6764FE67FF650D6C64656450383249384B4338203DF6F005444B4F38553EFE5003493E443FEBF007505444505D585050FE54015D55E5F02A645D58645F675D60654B585054585458585D586554676463645F5D5D585D5F334438445438493033423832F9F00E43504F4450503E493F3E305044503EECF00C4C2B304F58445D54494450504FE5F02B585F6450543F545F5F49675865545D58505854585D5D58505855505D544B653F4438543830203F3E443F4438FBF00F3E4D3F55374D3F494B4449383E552020ECF00B443854543F495449444F494FE4F041505D6550554F55645F646C645D5844504B495444504B444F4C58504B494C5F444454382820444944573E4C4F49503F3D2B2631434B3E3E324F383E50494C54201332EDF00C3E38444438504F445049494449E4F036575D5458444F546C495466585F58543E444B4950443E3F44584B5864494B5D3E44443F49544949445449553E383E50434B584449442B37FE38083F4B3F14382B3F443EEEF00C2B493E4949584944444B3E5050E4F04358444B54584F3E585D385065645D4E5D584C4F38585D545F50546E6C676C5D384944444F504F504A2B20444F3E4F444D493F44374C3843445038302B1B28494954323F3EEFF00C493F443E4A3F54444B3F44444BE5F0455D555D54504A5D4F384950586765583F585D543838585F655854505D6E6CF0F0383850443E131F302649544A4B444B3E4D37384454494B4F38543E13263E44443F3E444A3849F1F00D49504A4F4F50554C4F444450544BE5F0185D6E705D4B583850544F49584F4B445867675F5D37544F3058FAF0FF3825322B3F444949543D383F443F445035353F4443493E44493E2B194430203044443E49384D4954F4F00E4B3E49504449494F494450444B4455E6F0125064676C5D444C3E54675854494F5858676C6CF3F0134450384950443D4C3F434944493E503E43504954FBF0104F502B323E3F49373849493E3E4449503EF9F00F3E5449505850504F5444444B4450585DE6F01158495067584950555D6767544C4454545D64F1F01054503F583F3F493F3F4D443E4449324C49F7F0123F4C38504938302B323E3D2B382B4438384949FDF00650493E503E5049FD44053F494954584AE7F011445450495555584B5564586754203054676EF0F00E4F5850544450495055494938503E50F3F02449281C2B443F3E3F27161A16544C3F49494C3844503E43554C49544C443E38444B5054444AE6F0FF5D0E5444506C6C674964646754583E5067EFF00C4B505044643E4F4A504F4F543EEDF01F2B383F280F16204449333E443E44384954555450504C3E443F4438443F554B4BE5F00F64655D494454655D5565625D65625854EEF001384BFE44065054504C494444EBF01D2B3E2B163E493E3744383244445044493844495050444C55544430384944E4F00E72645D3E3F3E505867665D5D645830EDF00A584A3F4F503744494B4F37E9F01B5838163E443E4438504949503E3E49443D4F3F3E5438443049384449E4F00E545D6558443F4944505D6464676C58ECF0094B442B4937584449553EE8F01B502B3D4C443754384B3E4949384F443F50494B44434C49444449493FE4F00D65675844544458505058543E646CEBF0083F4C37384B3F385F28E7F01B4428574449544E505044544C505038443E3E4B30433F444F4C505049E4F00D49323F3E5F5D75505D67642B5D64EBF0074944505058585438E5F01954494F50544950444F44444F503F444938334430443F32494449E4F00D585D64335D3E586E584F684F445DEAF007493358445D4F2038E5F0185054545044493E493E53443F44494C444450383E3349494450E4F00D5D58655F653E3F585D49444A5850E9F007445444383F2B3E44E5F010504949443E4444323E3E442B383F3F5033DCF00C54584F58543F20334F3E545050E8F0013F49FE2B013230E4F00E4B443E50444F49543E32505438263FDBF00D3F54546564584B383E3F2B384F44E8F0064944443F4C443DE4F0FF500B4944444D38443E3D492B4A55DAF00C5449504B655D5044443F383744E7F00649543E33554944E4F00C3F494449384F4B3E3E49384432DAF0FF540B5D443E386754505450443E49E7F00649444954625D49E4F00B38373E50382631443E283E2BD9F0004CFE5008494449545858504B3FE6F006504420384C3F4DE4F00B38374F383E3E442B303E302BDAF00249674BFE44074B4F5849505F4B4FE6F00654584F543F204FE4F0044944494444FD49013854DAF00D4F583F44383F505D583E49505058E5F007544450504B383749E5F00A503E303F3D43382B30372BDBF00E4F3F2B443F505450504458544B5D50E5F0084954443F50504B3044E6F0FF4908443F49373F383E383EDBF00D44494B54585054503854545D5444E4F009495038443E544E304443E7F00A493E44494338384A4F5350DBF00D5058584F4F504949585D5D67584FE4F00A4B4F4F30384B3E44445858E9F00B4C38493E2B4B3E3F303E3038DCF00E493E44445858505D545D5849676444E4F00B443E50444B49493F38433E50EBF00C4F3E3F433E4438495038444F3FDDF00F444F543E4444544F54584A49505D6C54E4F00C5854493E4F5426383F432B323EEDF00D3F31493F354444263E373F2B3E4BDEF01038544F1B193F544C4C496450546E6E685FE4F0FF58FF540A503E374450353E3F3E2B44F0F00E49443E44332B323F49373F3E4F323FDFF00C33505054162B5855645D586465FD670065E4F01354445044584B303F443D3F30495D58585449491FF9F0123F49444B442B4F283E494449374D493E444F44E1F0135038323854545D3F545868585D586E64656C6558E4F0016550FE442938304B4C353E504F495050444438194D544C49544B504944383E503F38443F4937443F4D494B504F4F58E2F014444B3F3E5554505D5830545D6C3F3E505D5D584458E4F027654F4950493F303F3E4D3F4438582B49493E55334455504D4C54544938583E383F44443E3F44494AFE490350445044E4F016383F4B3832555D555F3F383E443E3F3F5857545D655F58E4F00064FE502A444F3E3F383D3F443F442B3854505554495049544C4F4438494B3F4449493344444D44384F494450444949E5F017445D654F2B385858505D504C203850503F5D6767546C5D64E4F00458503F503FF7F018585044544F535855585044585430503F50443744504B494454FE44043E444D3F4EE9F00F3F50445850646C3F495054655454643EFE5408656465675F58677265E5F003555D5050F5F0195D54585449504950544B50495454443F50494449444449444449FE500358554430EBF01C4958443F495D57674F505558504F58655458385D58646E65445D585D65E5F0025D4F49F3F01A4354505855554F3E5450543E445444494C44504C44444C55585865FE58015538EDF01F383354444949555464504F50585855555F5D4F302B546064654944646458586CE6F001584AF2F00B5D494B4F55505450553E3E44FE3F104C4450443F4D50585854675D5F5F555850EEF0204F33304B444C3E4454504D495564585D443F50492B58675D58383E44555D545865E6F00058F1F01F446558584C5449544B384450443E544444383E505058505558505D5D5055545DF1F0233F44382B38443854333849583F38645858444F5450443F5058585D495049325455586764E6F00050F0F01854504344443E442B4B44494954384C444455545855545D504BFE540355505454F5F023383E3E443E32263E4944303E4949444B4F4F585850655858443244645F583E58583F555FFE58E6F00050F0F01450444955554F4944383F3E5549493F545555544F55FE5407494C4949555D5855F8F002443349FC38212826333832442B44443F5450505F6467656C544433505767554B5844686C645D5458E6F00058F0F0154F50494450494F4B50495044443E505858504B544950FE54074958494B58645850FBF0164F4B443F2B443F2B3843382B383F38303E443E3F585444F7F00B5044584B504F67675D556449E7F00054F0F021544B535550504F5050545044444950574450554F505054504F494F4F555858674B54FDF0165444495049384438323F2B4931493F442B3F544458655FF5F00B38503054586567584454585DE8F00058F0F00F505D4D50656E50584C4F38504B584C55FE501D544F4C494F50495865585D5D585D494F49444D5565544B49373E44372B38FD4405383E38445866F2F00B3E494B5D645454504958555DE9F00058F0F0FE581265586564554B3F5044545850384450504F504BFE54FF5818544C585D585D493E4C385455445550503230303F383037323FFE49022B5D50F1F00C49646564645D505D5854655F54EAF00057F0F038665F6458505D495544554F585450444F5550554D50495854585454494B5D4F4B4B5854493E64494449584F542B383F3E32382B5458543E4464EFF00D5D676E6E6B556458645D586C5F49ECF00058F0F0FE5D325054375858505058585D5D5044545050494E504F5450545053384F584444494454504F443F445058444B32333E302B58584A4BECF00F5D546E676758625D545868646E3F262BEEF0004FF1F035556C5F5850585854585D5D66585837385458504C545050544F58554444323F504444493F4F544954494F445D494F443E3E2B55494F62EBF00049FE5DFF580B5D505554504958385038544BF0F00055F1F0346C6765675055645864585D5D673E544C5454504F5049553E584B4944494C3E445544443F50544F495850494F5D50504C384F585865EAF0FF3F105D6B6C58584B304B385444444F58585F50F1F0005FF1F0036C5D6B64FE580655656C5D584944FDF021544A495455544D5050353E3E504F4438374B544954504B4449495D5844583858585DEAF01550543E586567505D4432443E3850385064725D545F54F3F0015D58F2F0076C605D5F60585D58F2F00C4F5454444B49384949503F4344FE490B545D4F44554C5F4449586858EAF0FF5005545D58584F50FE3EFF3F0B49383E44585D58505D544944F5F002504454F4F0070F2B725F6555585DECF01644584F3854442A4455504938493E44504F645050586444EAF01A44585D50555844584454544C3E3E54443F28494950545D55495058F7F003555D4950F6F007194F675D585D5F50EAF0FF65132B542B2B44493E494F44384F5050644F5864584FE9F028555F504954585F505E55494B493E4454443844302B54674F6C725D3320384B64636358586464585D54F8F0076426676C54584F50E7F0082B4F3E3E3F49544444FE49FF50055D504F5D5444E8F0285D493849443F4F5554585D544F4A3E3E49493858585D4F58645D44203E5D5F635D656C585D554B5455FBF009546E44386465585D435FE5F0074430504449504449FE4406545D50505D3E4FE8F0335D5455443F3858545464646765504F3F3E44442B3F5D5F50505450163F5D70656C5D506458555554647228266E3E142613267244FE5D0053DFF00C493F443F444B64584B675D444FE8F00950646054505858556464FE54294F443E3345383344505464676B2B2B32506467585F5454585D5458586719726C67787068726E6C656755DDF00C49543F4950675F6B6467504B16E9F0356567675D55545D58655554503844442B3228382B384C4944442616383F4957505758455458545D586749686562676B6C6C6767547065DBF00B494455665D6C6E505F503833E9F03564655D67585D646454585D6464583E301C3330383E4B3F4944383738493E4B50504454655D584F64555D6C65676C5D676C676C6E646CDBF0FF3E09586C646C72675844493FE9F0356665585D68676764645858675D5D67493E282B2B3228192026202B44383E4B5450543F585D5D49585D37556E6C645F676C6B6765676CDBF00B443F65676C6C64656744443FEAF03168585454675764655868656C6E675D645849332620282610102016282B38494F383E4431504F50585D4449654F6C64586768FE67006EDAF00B545F6467655D5D655844383EEBF035645558585D674F58645F6C6C675D5D645D58443820303828191C16193E4B3F544B50504438385458443E505D5F50545068585D6B6B70DAF00C55585450645D655D5D5F54503FECF035645865545F586C585D645F6C6E5D5D6C6E6E383E31283033382B14331C325454504F573E495458492B3F4B584D3F6549505F646E6C65D9F00D44544F545D6562585454555F504BEEF0FF5D046558545876FE5D0C5F656467646564676244282E16FBF00A262B3E575D5D5E6458546EFE490B442649584A5D67555D6C676CD9F00E4C4944505D58505454445054503E38F0F002585F54FE5F0C6E5D6465645F5D65646B6C6764F4F0174F585764546464635458504F583E375F5854544C655D6773D9F0FF500D544E585D49504957384A494B5550F3F012283F4458585D5F645854675D64645F67655F6BF0F014655D585D676550444455494F494458585049585D5DD9F011494F4F58585D503E49445450445055444944F7F0FF380D55302B444F5D675F6767585D5D62FDF00064EEF01365645F58643F49445038584F4950504F5D585854DAF029493E5049544C76384458544F3F494C583E4B4938443254305872505D2032202B3830385050675D655D5DE5F011645F58653E4F5044554B4D3E324D5058585DDAF02950384450503864583F495064584950545F2B38504944323254284F383E3033383837284F44283E655D5DE3F01055585F656467584B554D586C545D585050DCF0FF6728323749545054543E3F495D4F44545067583E44504B54503F6C26162B202B1F37503850443838302B58E2F00C585D5D645D645F67585D5D555DFD58DCF0295D444949544944504C4F442B54656C54443854543F49493F582B1B553F132030285D6C3E1C325D49192BE1F0105D5F6550584F495D6B646C44543E546765DCF028573F494F494C545D44493F444958545D44445F5549555D504944281C2B2B1B1B144C442B132B3F262BDFF00F5D58504A58385858494F5554585D6758DCF0273D4A544949545D444F4A4B585855586438625F5D544F6C65443F2B38332B4426203844192B302B16DEF00F585E5D5838495D583E4C50495565676CDDF0274B3E545549495D3F3F4F444F554B6B58643F5D5850555549493F202B303044303F324949202B321BDDF010645E676C504B5D3E4450554965585D6E6EDEF026445449495844503244383F503F5464645D50546758583844542B332B334430383044503E383233DCF01158544464495D5D585450505865605D64655FFDF002645858E7F0084454504B4B543E443EFE381B493750444B584965585D54503838303038442B323F303E3832382B38DCF00F554E674449443E645D65685D5D555864FE58FF5D04655D54555DF1F0013E4DFBF00D50494F544444505D333832384449FE50035D44545DFE58104930443E384438442820201C26383E323EDCF0FF441C5D5058265D5857685D65676564575F5D5D5F67585850383D5844494450F8F01E583F5444373E5444323F3E44504F4938433E543828383844443F443E495D5DFE5410383F383F38443F1630202B383E333E3F44DCF020323E544F4B4F5D3E504B655458506767546754545D58493E5D3E3E2B444B545849FDF00B545058494B3844503F3F3E2BFE4426384D50494B44505044494F504F38383233445D57504930443E38443E263749443E49443F3F3849DCF009383F58445858644B4955F9F03F5464645449335E4F4428384449585450503E444454585D50443754503E3E3F3F543E32434958434F5849505458585D58493F383E333F443E38383F44443F4B5DFD64046C4F204950DDF00928384458543E6C64555DF7F02C545554443E3E4938333E49504F5049583E50545D5850444F44383E3F3E3833383F3F443F65443E5D3F49445054FE49FF440454493F3E3EFD3F0344645D64FE6506674F545F655D65DFF0092B203F585D4954675D5FF5F04358444D4455444B38444449505054506754545043445444443F30493849304438493544652B643F3E3244443F44384F495850494F3E50444B54586563584950503E44505DFE44005DE0F0092B332B3249545F6B5D5DF4F02B37444D544B3544502B4B50445444584B58545443504C444932384932443F4438443E444454504F3E382B3826F2F00D3F3E38383E3F443337443E3F3330E5F00D3E382B2B202B20383F4F65505D58F4F0283F3E4344443750443330505444443F4B3E3E4B4343503E4D38443E3E444438383F49544F3E3E44443EEEF00C38442B322838443838492B3226E7F00F3E302B492B383830263844505D54555FF4F0FF44104338444938503E4444504428493E3E503FFE4911324930383E3D44383854544938384438383EECF00C2B322B2B493E44282B10201028E9F0102B3E43303826332B38322B494B585D5858F4F0245030433F4A543E543E44385850444B3E37443F4F505037503E3F44493344503F3E3E37383EE8F00C262B281C3F371C321016141638EBF012284F334B382B312B30303E3028656758556555F5F023493753444C433E38492B49443F44443E324944444B4B3754303E38444B384450444D3E3FE6F0FF100B131B161C071016334438333FEFF0152B3E3F3F3E44383733382849383244545D645D555043F7F023443E494F505543443E443E3E4C494C443844383844503849443E303E4444383E4C434344E4F03510040E060B173E1B3E383F2B383E3F3E44382B442B1C1630202B282B492030333F3E382C4444383732304A283E385858654954583E49F9F0234F4458494D4450575454384B493E3E502B444438443D3E49493E322849493E373E324454E2F035100A26141628373F382B2B2633261928542820203F334443383F2B202B303E2026333349284932502B44383849585D3F445D493E494CFDF00D5054504849585443444B545D4449FD440D3F3E332B4928444C2B4F3038493FFE4403333F2B43E2F0601614102B323F44322826282B322B16203F4B373E383828443E38204438383F2B442B383E382B443F305438443E5D4F54545D503D49444D495154543F3E445D3F49504C504949553F323E3F3844443E493E444D38443E2B4A4438373F3826322844E1F006202B44303F2B28FE2B21202B1F26333F5058494C3E493E3E4438443E37303830383832303F44443845384949$
+       TILE $FFFFFFFF0E333238203F382655494454494B3F38FE2001262BFE4430383F382B383F3E4450545054583F4B44383E323E493744494B6462546C5D5864655D54505854585055505455545D5F4B50EDF0076454584D50545844FE5811645D675D65645754585D5D55584F545D6454FD584454584B3F493F3E2B20321420374A49443F443020201C261C383844383F383849444B55443F54544B4C45303E2B4933444F5458555D586467675864585450705F505E58505DFD58EAF01B5D494F4958574B64645D646E645F5D585D50585D675D5D58585F5D65FE584854585455323049383020282B1628283844493F3732201C162B1C283E453F49403844444F3E4F50583F5D454F3E5449444450444465645F57546465655D5855646C5F44554A50505D54E8F06554495454555558645D5D6767586454585558586567585D586465555D5458545D4F553E3E44503830193F19203E2C2B3F28132614280A19202032502B44334C444A4B54555458505054444F44545450495050655D6772655D706E64504C494B6454505D545449E6F0445450585D5D545D62645D675D62585D5865556465645D5D656558584950585D5D58F02B444A3F202B2B2633203F2A211816161C0C1438204B5038384B3F444F495449545458FE541B505D495D5049503E545D58646C6C546B76646457556744505D545058E5F0FF541E5D654F5D676C67676554545864585E5D556E5D5044335F6E645D445D5D5458FEF02C4C3230383E1626202B442C2016200E203020493E1B38283F4C4B44544C494C54493F4450493844442638504944FE580E68675D5D646565644F5D6558504D58E4F020545D5D5F4B586C646864585D545D5D656558675D5D553F49546C665D544955585DFCF03C443820383E311328332B162019101C3F4C2B202B4937384A4449553E3749495044494950494F4F49503E3F4454575058554F655D5D655D5454584C4F5DE3F01F6458585D676C675D5D5465545D6C5F58586758645D5464586465584F58495450FBF0194419322B382B163E331920190C283F3E202633444D3F4C44443FF3F012382B3F3E4F5455585D64585864645855545058E2F00D4F5D54675D6C6464655854646766FDF0FD58095F504F645D5454646454FAF007202B3F2C2B262B38FE200B192B4C442B28332838333F30F0F0113044543844493F4F585D58655849555D4F58E2F00C5455675D64655F54645D5D585DFBF0084958585554705D5458FE5D0058F9F00F192B3F30262B333E16262032453E1A32FE3801443EEDF00F44383F4B503F445D505058645D555457E2F00B54675F655D64585D585D6464F8F00A5055584964645550605454F8F012382B2B3E322B372B1C20383F38262B3120283EEBF00E3E3844543854544B575F5458505554E2F00A54646554675D655767645DF5F003655D5D55FE58016758F7F00338203750FE2B053E144C383219FE2B0044E9F00D3E544F3F503F544F545450505858E2F00964655858556564656B64F2F0065D585058676454F7F00F383230383F303037323F383E2828382BE7F00C4944384B4954545D5454555054E1F0076258545864585867F0F005585D5F5D5449F7F00E3244204F2B4926323849382830262BE5F00B3E3844493F49444F50555554E1F0075D555D585565655FEFF0045D65545449F6F007304B334438382644FE38022B203EE4F00A2B383E5044445455505544E1F007545D5D58665D5850EEF003555D585DF6F00D312B3833503F3828324944383338E3F0094F504F4B49444F545049E1F0075F5D505464675D58EDF002546558F6F00C32382B3F204F26283832383F3EE1F008504F4F4950504C4954E1F0076458545854675854EDF002505558F6F00C323F2B383E38442B4431382832E1F008464B504F4949505054E1F007585D585D5D6E6550EDF0FF58005DF6F00C323E2B2B443F302B4432282038E1F0FE44054B444F444B4DE1F0014458FE6402676454EDF002544954F6F00C281C20383E3E313E30382B3828E1F0083F44384B44504C5058E1F00750495F6C6764544FEDF002545864F6F00C1020282B2B442B3F4432302B37E1F0FF44FF49003FFE500054E1F0FF5D05556767584B64EDF0025D5F67F6F00C142013322B383E19442B2B1431E0F0072B4B495458505549E1F007646564666C5D4958EEF0034F685D5DF6F00C132614202B3E3F2B304420332BE0F0075038585049505049E1F007556B646C5D505455EEF0035F58685DF6F00C192026191449372B2B492B263EE0F008264444583E444B5055E2F001655FFD58015067EEF0034F64654FF7F00D1C101A32281C3844191B49302630E0F008324F38495046504B54E2F00055FE5804645862555DEFF003675F5844F7F0031020103FFE3E06441638443E2832E0F009443F444F384C44384450E3F008585F5864675D585D65F0F004644F543E38F7F00D372B2838442B3E38381920382638E0F00A3F263F4F4C494450554C49E4F009585D5D5864675D675854F1F0044C4F494444F7F00D3E33382B373F442B20302B492B32E0F00B3E383E4B49444C443F555058E5F0FF5D08656C655058555D6564F3F00550443E494449F8F00E38322020261C304B2B202B38442B49E0F00C4432503E3E4C44443E4B4B5455E7F00C5D655F58545D5D676054556758FDF00062FAF006505D3E38504449F8F00E2B44332030283849382638383F4438E0F00D323E4944443F443E3E50495D505DE8F01364585D585D645858655D585D646767655850645FFDF0075D50444954444F4BF9F00F503F503F3E2826443838202832382B49E0F00E32504F493845464F4B445054654C5DEAF02067505858505458505D58585D6558675D5854675854585D674949543E3E3F50583EFAF010584F5455443E493F58442B1B262B442644E0F0FF30FF490C4B4C49444A504F545D58505D58EDF0215D545850585057585D5458545F676549555855645D585862545044494C4958494444FDF01367645F54384A4F3F4F444B3E4B4A263832493738E0F01219333F44444C4C384B5844585850545D585454F0F03A6550575554544950555D5449646458505049674464656C5D4F58544B444B4F385450445D5865585054544B4F494455494B4C3E5050382B442B5438E1F0142B3038443E3F444B3E444B445850545860544F585FF5F03F44583E50644B583E54444954544450685D54495554495D5D6564585450503F3F504A44543850495D64545D50504F4944505D495444333832543E333844443E4CE2F0602B2044445438503F493E50505855555D5D58544F5D585D5F585850645D545544504C49545D5D5849495044494B5450545F5850585D5D65655864585D544444504454443E44543E586550585D4B443F5049385037385838384F44503E383E3E3F44E3F0612E3F2B383E3E444C4A3E5050445850555F555544585D545864555D545D58585050585D55545D495D50433F4949504F445D585750645D4958646566544B3E504F3F50445444545054545D5D50545444583E3F44493E4F55503E33493050303044334BE3F0622E333226493E4438503E494B5058505855545D5854545867585D5854655055584B5054545554584F4D4344504C4B545F64585F5465645D555D5D544F50444F5450445550494454544964585D5550503E5049443F3F2B2B4444383F3E3E4428323F4F3FE4F0624C382B444438443F4C3F385044555054555D5054545D5D5458545F585D5D4D5D5849545D583F543F574955443E495D58545D5858555D585D6754494454444B4450443F50384F4F543E5D586467585854494449492B38443E2B4F493E3E49382B3F383EE4F01E3828302B4B443844493E4B494F505058585558545054645D585D585D585850FE5829505D5455503E54354C544458585F585F5854555D5454654F495038384454384B504A5058575038504F58FE5D145F5850544C383E44383E38504F304F3F382B323838E6F00A283838263E44443E445038F5F01D645055585D58644A4F4B4F4954584C494F504D43494F49495D6454585F58FDF02C623F504954544444553E49584F584F3F385454555D505558645D58646458504433383F4B504950503F44203838E8F00A203838503F283849444744F2F0066558506558504FFE540D4B5F543249384349444F445D6454F7F00E4F544B444B50445054505444443838F7F0126C68675F49443E382B585D494F50443E324449EEF00E3E30502B3F26203E38303F3E3E504CF0F001585DFE5810505454585D5850444F3F4844444B505D67F4F00C5049493F58494B443E3E2B3230F5F00D64655D5D663E28603F504F504B49FD3E024B5058F2F00D49443037443E3020492B38304C3FEEF0FD580F4950644944584B3E4938533E49543F58F1F00A44504F5049443E2B382B38F4F0FF6C124C6E492B5D49585050584438543849505D5458F4F0074F443E2B3E384420FE2B0237302BEDF01165584450504F504F5055503E443F353E553FEEF0094B3E38443E381C4C2B44F3F0196C643E3E305D65675D5F6257542B3F4F4F50504F5058493E5833FBF00E4B5458383E3E30443E2B38441C2B38EBF00E3E444B505054544958504F544D4449ECF0082B3F444438493E4F3EF2F007652B324965644438FE5822504B493249584F49444950544E3E4B545D64686B65645D4B3738382B49302B2B264930EAF00C444B505854505F49545D5D4349EAF0FF4905502B44584450F1F02C283E54584944585D584B44582828304F583F50554944543F495D6C5D656467445F584F50334449443F2B37382BE9F00A3050545050605550585D55E8F0063F443850504444F0F01E505F38495D4B6E66493F584F26202B5050545044494E3354286C676C64383EFE5D09645D443E4444382B303EE9F00A3854545D5554584F585550E8F006443E504B265049F0F00C584F38495F5054645030646E33FE381B4F5849504954441F443E58655D494964584F65584F4F1A3738283F44E9F0003FFD54045860545458E7F00649445444504B3EEFF02A302B305444546C5044494C44303E2B504A544458584E3F383E3E44503E505F586C64503844383E383E2654E8F003544D5F54FE58015558E7F0064B5544583F4454EEF02920504449544B2B4B546B583F38284A495D495F573F30443F3F54444F495858645D585054494C322B3E3FE8F0FF44064F545850586558E7F0065444504458503FEDF0285D504438383E545D6E70553E443E585050555D44443F38302B544F50555855545854503850302B3E44E8F008493E44545558585D64E7F006505F5058544432ECF015655444505054505F64583F3844503850656758646449FE2B0E44385465505558444B444932443E3EE8F00854504954505054555DE6F0FF5403444B2B44EBF02658495F585D3E50383844265444505D5D645D65645D3258493238443F445458544A4A2B2B384450E8F0086564445455494F4458E6F005552B3F554932EBF006543E5D5F49493FFE381C4C4F50545054656564675449676C5438443231384F4B2B503F2B44503FE8F008546C64585D5F585054E6F00544264B444450EAF026495432492B262B3E544F44585458675F54586C553E67545044443028443838454426442B494449EAF0094454505D5858625D584BE6F0013E49FD44EAF00A3130282B3E4449554C4950FE5D0058F5F00C323F383F4A38202B4F44494450EBF00955545D5D585D5D585F67E6F0054F3F3E3E383EEAF0FF3FFF3E094B555450503350506465F2F0FF440B333854374C443249504C5855EFF00A665854445554605464655DE6F00549504B4B384BE9F00B383F584F4438445450445D58EFF00C4C402B30443054444B583E5055F0F00A6C5D645D49545455545D5DE6F00549504B543844E9F00B33503E4A443E49584B676765EEF00C2D38322B4F3E4949383E49504CF2F00B766C6C585D6550505D495444E6F0054B4454545549E8F00A5444444F5550655D5D6554EDF00C3038304C32443E493850545855F4F00D676E6E6C6C655D58556550504954E8F006385054493F4950E8F00A3E49505455545D64495058ECF0FF2B0B3F2B3E44545050544F505558F8F00F6B64656E6C5F6E6767584C5D54545554E8F0065D50505544504FE8F00A443E5D504958493E384938ECF0093E324A203854443E5459FE58025D555DFBF010686E6C6C6765676C67675F505D50585558E8F006504F49384F4B4BE8F00A4B444954494955443E4F50ECF0263330332B55493E4958545D5D585D645D6E58676458676E6C6867676B6E64586B584C5F4B58585DE8F0065D50445550384FE8F00A323E44443F444438553838ECF0FF2B01302BFE441F2B58505858556458645D5454585F5D656C5D64676C6765675F495055585D545DE9F007584C585454583E54E8F00A38443E3F333858494C3E3FECF00B2B2644442B49503858555054FE58175D6458585F5D546B6766656C675F64674F54585D5D645864EAF0085865675054545D5455E8F0FF380844313858503F383244EBF0193F333237204F38445064555864585867585D5D665F6764646C72FE64085864585464646C585DEBF009675D675D5D645D5D5850E8F00A2838495054544F383E3E4FEBF00C1C3F202B3844384954505F6465FE5816646C6C65656464686E5F645D655D584B55585D65585454EDF00A65646458555D5D6C676454E8F00A443E505458445030494444EBF02737301C3837442B445054646467626E67675D64645F67685D646764585850545455584F645854584AEFF0FF6709656C54675D5855586767E8F00A3855504A494F585D495850EBF0262B3837442B321C3E50545567656C6C446B6B50656567676C655D6458645D544F55585465505554FE580065F3F00466675D655DFE670465643E4458E8F00A4450505458545054545865EBF01F373E28382B302849504F54585D64265D6E656E586C706E6C6565645D5D4F5450FE58076755545858645D5FFE5D0B67505865645F676768666766FE6708585D6C65586C544958E8F00A4954544B55545050585D64EBF01F38321B374B283F3F495044646C3820205D676E44775D3E5072765D5D54585054FD58135D585D5F58585D5D545F645D585D585F6E58555DFD67095F645D67676867654450E8F002445058FD54FF58015D65EBF00A204C33282B30384444545FFBF01D2038381B5464676C6C5D58545D5D4950585850585D545854546444495060FD6412655D5F585F5D546C545D6C6264706564655858E8F00A44495D554F44555D584C55EBF002491628FE3801443EF4F001725FFC6718545D4958585464645D585464504F504F54546064645F5D6555FE580D6458645D6764546E6B6C585F5558E8F0053E4954545565FE54015058EBF006333F3832492638F0F02D656E67585D585450545058575854585D50444450545065645D6558545850545D64665F5D6458656C6C6E5D65585DE8F00A4B44583E505844585D5058EBF005334430383E3FEEF0FF58245D5854495550545854585D54555450504C50585D655F64585D5558585D67676558645D5850FE58025F5554E8F00A543F583F3E5F58675D5D50EBF0043F30383E3ED3F00057FE580E656467585D5D544954585D65655858E8F00A50544F324F5F584F5D505DEBF00338333844CFF00F65585D5850555454505D675D675F5849E8F00A445D5044445D5D545D6E6BEBF0033E44303FCCF00C5850545F58626555675550505DE8F00A5F3F5F58505D544964655FEBF0032B384438CBF0015855FE58064F58544B555055E9F00B556C494F5854656467666465EBF0022B373EC9F0FF5408553F5D54503E505854EAF00C49575D5454585458585D675858EBF002304428C8F009585458584432545F6755EAF0FF440A58645438444A4458494A49EBF002163F49C7F008583F3854545D554C4DEBF00D5058504F6C5454283E492B443E44EBF0FF38002BC7F0FF58065464585044494FECF00E58495858505D58492B3F444938503EEBF0022B3833C7F0085D676C306450495858EDF00F4450504B495D4454443E3E302B383F44EBF0023E3830C6F0076558494C58585550F2F0145464544E3E5054384B50443F50542B323226493F44EBF0034438382BC7F0074F44555D54586754F4F016545F5044384454544F5458493F44325438304449303330EBF0043F38383E44C8F00430505D5064FE58F8F0FF50024F445EFE49FB500B4F44384B3E442B38443E1C38EAF0043F3E383E49C8F02A44645D5D545F5D585D1058675D5D5F5854505844545050445050493F5549543F3F3E383F2B2B3F44373F3FEAF00532383E3F5444CAF02B58645F58645D5F65505844305D5F64676758503F4F54544F58504549585049382B503E2B32284B33303E443FEAF0063E3F374944493ECBF02A54385850545050445858545050494F5854494A4A55445454494C504A49444F323844201C2B382B44503E38E9F00C493F3044444C584B5855555058D2F02B5F546C64645F5858445855544F5850504F504944505444383E44504C54494C3E3838302B284420444F3F382BE9F00344493E44FE540B5E58504954585455504F444BD9F02B2062505854645D5D5858655D504950543F50383844503F3844584F4C4438495037443820162B30384438332BE8F0154449494B5054495454554B5849505554495450503F4FE1F029544B4B49545864545058583F495554544950544E493E3F33443F574438504B3832444A3833442620332BFE3F01322BE7F0FF4438504949545858555854555E645454505849504449505858555E5D54504F545D55585D545D585F675855585458585D555D5F5D62545058503E55FD580C5455585D5D67585D4B49504C49FD44134939502B283F3F504B38493E261633283E383F28E5F010494F503F585054545858555D5054645450FD581354504B50545D54544F5854555D5F54675D5D5460FE58315D645D675F5D57545854584F4B505F58545854545D505D5F5865493E444450493F505038443F3828443E3E50494430441B26DFF00533444B3E5450FE54185D655D5454555855585854545049494F5F44585D6458504454FE5831625D585F5850656C5D585854545D545C5455495058556254554F6767545D585D5858383844453E3F3F3E443F50493E444B58D8F0233E4954545858544955555D645D5550585054545D5558543F445065585555585458544B4FFE581B6558656464545D65674F5762575D4B58495D5865493858644B646B58FE5F0D544449493F4F3E4B3F4F44542B3ED5F00344555D4FFE44144C50554A5058555D585054545058495D4B5054505DFE580F5D585554545858505D5D655D676C5867FD5D1E545058505D64585558555D5D5F504A584F5444444B54544A3F494449444A44D3F029444F445450554950555D5D716A76675D675D545D585854504F50505858545D5D4F675050585050586665FE5D0064FD5D0B585464585D585D585D545D6EFD580E5D665F58545055545049445054384CD2F04F50585D50504C555055587272677267726E6454585454585D4F5F5850545D5D4F585558504955505D585F5F656C675D5D58575F58505864663E4B675467545D6465655D545F5D67585055445D5D584C4FD1F01754584A494454585D50656C6E6C5F6E6C6767585D54555860F7F01355585450545455675D5F675D646458585F64655DF9F0106C6667645D655844305D5D583F4B626667D0F0134449444F54545D494B585D6B646C6C726E675D5DF2F001585DFC580A505864675D6C675867675FF6F0FF640B58505855335F5D504B505058D0F00050FD44064B55494B655D64FE6E03726E675DEFF0FF580054FE5D09545D655F675D67676567F4F00C6558546554505D50544A49555DD0F00038FE440D4C44504B555054556C6E6C675D65E7F008585D64656467646C67F3F00B5550585838585D5850496467D0F00F4F494F584954504958505554585D6458E4F0066458646C6E6764F1F00A5054504F5D5D55583E6764D0F00C443854504F586058666767545FE0F0016764FE670072F1F00A5458585D65585D49505867D0F00B3E4B3E505D54585454675D54DEF0046467677676F1F00A495D54645558544C54585FD1F00B33383F445D4F555D5F444B58DDF0FF67026C7050F1F00A5F6558545D584B5D4F5044D2F0093844384449554F6C6767FE50DDF0045F6C677212F1F00A5D6764585D5855583F3E49D2F00C2B3844385049676E676E495D49DDF004655D546561F1F00B67585467445058583F335844D4F00D203E443349494B58666C544B4F49DDF0045D5F584955F1F0FF58094A4B445450503049544BD5F00E283E32332B493E444F58504F4B5450DDF0FF58026C5454F1F00B64675D494A493F4450504954D5F00E20282B2B3E3E443E444F5D503E5450DDF0FF54036C5D3267F2F00C675858504949304F3238544930D7F00F443F2B3249373844493849554B544B50DDF0065F5D675D44496EF3F00D675D585444302B3F4949543F493FD9F010445D54502B5D544B3F3844445458445050DDF00858646C58504E67656EF6F00F58495F58493F263F4444544450493E49DBF0115850645F444F6C6C673E5444444F4F374B49DDF0095D5F6758546455656558F8F00B54495D5855383E38444F3E58FE4402383E44DDF00A5F64445D49585D5D64674BFE58044B50445450DDF00B585D655D645D5D5567655D54FBF014646C645D554C443038503F44543E44493E38443832E0F0FF5D1265445054585867645D586B54505449544F5558DEF0286C64545F5D586758655D6464504B4F6C5D6564655D505D645D3F3E4949544458443849442B4C332B2BE4F017585D586E6458545458556C675567645D4F583F5854554950DFF0295D6C5D655D5F645F5F6765646B58586758585D67584950655D334F49443849493F4B3F4420503F372626FDF00028EBF0FF4BFF5815676454585D4F54495450675D665055495054504F5449E0F02E6C6E6C5D64645858646664625F5850494954645D5050555F4F443850503E4B493E38444B2B33333E3849192B383F44EDF01C543E444F545D675D44505854584F544C656B58554F4949504954646565E2F030646E72736C6C6758555D645D67655D5550584B5F5D585D65643F494B443E3E493E4B49303F2B3821191B323E2B26283230EFF01E4B49494458505450443F54555858645438445D5D4F5049494C543E67766E54E4F032646C6C575D6C67676458585D6465585458675D5858545F44645455383849493E3F49543F3E4430382826263838282B38382832F2F0FF44FF4909544B3E4F4B5850555864FE581065724C44443E49545449493F5067673E58E6F0355867646E756E685D6464556750655867645F5D645044445050585458441949504B44493F3E4B2B33383E2026283338282B382B283349F5F024553F4444544444503854585864646767645D675555495832505854545E443F585550675058ECF06D5D5550545D5867676E765D675D5D5467645D5D67545F50494954505F58505855302B4438383E4B493E503E201C3838202B262032333E26322B3E444A44645F5D5D58584938385431444949383E49545858545D686C5867725D5D67556767505D5058544B50505F58505049445D54F5F00C494444585D5864554F55545864FE677165675D5D5065676B655D544F445D44545D545054505D2B3E3E2B3238503F44494C503E2B201B38202B203E2B2B30332B303344445449545855503744443E3744302B384B5D4F58583868686C55766C5465505D645558585058585D4B584F65504C4F555844505058504F494A58503E496560FE587E655D5D4450545D58646C655D665F64555F645F54585850584965655D58585D5D55383830301B3E3F493E3F5450443820263130263E383E3E38383F3838443E494B3F44504F445050373838443E383F505466655450545D5D676C5D5464545F545F4F5050586C644458495058504F4E4950504449504B4B58544954555F5D5D0654505458504B58FE5D175F67675D655854655D5854502B5458655558545D54585455$
+       }
+      DefM {
+       tile 1
+       seam 0
+       cnth 2
+       cntv 2
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       }
+      }
+     }
+    ROBJ {
+     IDEN {
+      REFN 1
+      TIME "08:54:224103900"
+      }
+     DATA {
+      stor 0
+      w 90
+      h 88
+      dpth 32
+      tils 64,64
+      TDTA {
+       TILE $FFFFFFFFFFFBFCF6FEF321F0E5DCD5CFD5D2C5B3ABB6BDC5DCEAD5C1BDCFD5CFD9E5EBE8E2D9D5D9D5D5D9E5EDFDF603F3EBEBF3FDF401F6F0FEEB02EDF3F0FEFBFFF6FFF3FEF006EBE2D2CBC5CFCBFDBDFFB61DCFDFE8DCDCE5E2CFCFD9EAEDE5DFD5D9D2CFD9DFE8F3F6F4F4F3EBE8EBF3FDF403FBF0EDEDFEF024F6FBFBF6F6F3EDEDF0F3F3E8D9CFCBCBC8C8CBCBC5BDB2B6D2D9DFEBFBEADFCFCFE5F3FBE8FEDFFFDC0FDFE2EDEDF3F4FBEBE5E5EAEDFBFBF6FBFEF3FFF6FEF4FFFB3FF6F3F3F0F0F6F6F3E8DCD9D9D5D2CFCFD2C5BDBDC5CFCFD5F6F4EADFD5DFF6F4FBEDEDE8E5E8E2E2E5E8EDF6FBF0EAE5EAEBF3F6F3F6F6F3F6F3F6F4F6F4F4F6FEFBFEF308FBF6F3EBEAEBEADFD9FECF1CD5D2D9CFBDC5E8FBF4FBE8DCE8FBF4F4F3EAE8E8E5E2D9DFE5F3F6FBF3FEED00FBFEF307F6F3F0F3FBF6F6FBFEF403FBF6FBFBFDF601F0EAFEED14E2D5CFCFD2D2DFD2AFAFD2EDF6F6FBDFDCEDF4F4FBFEE501EAE2FED905E8F3FBF4F6F3FBFB08F6F3F3F6FBF3F6FBF6FEF400F6FEFB04F6F3F3E8E8FEF321E2D5D2C8CBD9D9B6ABC1D9EDF3F0EDEBF3FBFBF3EAE8EBEDEAE2DCD5DCE8FBFBF6F3FCFBFEF4FEFB04F3F6FBFBF6FEF401F6FBFDF616EBE5EAF0F0E5D9CFCBCFD9DFC8C1C1CBD9EAEAE2E2EDEDFCF0FFF313F0EBD9D9DCEBF6F3EAF0F3FBF6FBF6F4F4F6FBFBFEF602FBF4F4FEF6FCFB3BF3EBE8E8EBEBE2D9D9DFEDEDDCCFC8CFD5DFCBC5C5CBD2DFF0F3F3E5F0F3F3F0E8D9DCEBF3EBE2EAEDEAEAEDF6F6F4FBF6F3F6FBF6FBFBF4F6F6FBFBFDF425F3F0EBEBEDF0F3EBEAEBFBF4E8D9D5DCE8E2CBB6B2BDC1CBCFE5D9D2D9DFEBF3F3E5E8F0F6F6FEEB0BE8E2E5EBF3F6F6F3F0F3FBF6FCFB01F6FBFEF401F6FBF9F3FFF621FBE8D5C1D9F6F6D9C1AFB3B6BDBDC1C1BDB6C1CFE8F0EAE8F3FBFBF3F0EBEAE2E2E8FEEA0BF0EDEAEDF3F3FBF6FBF3F6F6FDF43EFBF6F6FBF6F6EDEDEBEBF3F0DCCFC1CBE8F4F6DFC5B3B2ABABAFB3AFA7B2B6D9EBEBE8E8F6F4FBF3E5E5EBF3F0EBE8E8EBF6E8EAEAEDF3F6FBF6F3F6FBFBF4FEF6FFFB09F6FBF6F3EDEAF0F6EADCFED92BEAF6F6F3D9CBB6B2B2BDB6B3BDBDC1D9E5E2D9E2EDF3EDE2E2E8EBFBFBEBEBEDF3EAEAE5EAF3FBF4FBFBF6F3FEFBFFF607FBF6F4F6FBFBF3F0FDFB04F3E8D9D2E2FEF401EACFFEC827CFD2CFC8BDC1D9E2D5CBD9E8DFD9D9DCE2F0FBFBF0EDEDF6F3F0EDF0F3F6F6FBFBF3F6F3FBF6FBF6FEF4FFF6FFFBFDF605F4F6D2C5D2EAFEF410FBDCD9D9E2EBE2D5C8B3C1DFDFCFD2E2D5FED218D5E5F0F6FBEDEBF4FBF3EBEAF0FBF4F6FBF3F6FBF6FBFBF6FBFCF4FFFB00F6FDF40AD9C5C5DCF4F4E5D9E5F3FBFEF40AF6E2C8C5D9E5DCE2F0E8D5FECF0CD5E5F3F6FBEDF3FBF3F0F0EDF0FEF6FEFBFFF6FFFB02F6FBFBFEF4FFFB0FF6F3F3F4F4E2C8CBE8F4F6CFC1CBE2F6FCF41AF3EDE8D9E5F6F4F4F3EBE2D2CFCFEAFBF4F3E5E8E8EDF0F0EAEDF6FDFB0BF6FBFBF6F3FBFBF6F6FBF6FBFEF00EF3FBE2D9D2EAF4E8C8B3ABC1CBD2F3FCF403EBCFD9F3FDF412F3D9CBCBD9EBF4F3E2DCDFE8F0EAE2E5EAF3F6FEF304F6FBFBF3F6FDFB07F6FBF6F3EDF6FBEDFEDF09E2DCCBB6A79CA0B2C5E2FDF403EDBDC5DCFCF41AE2D5CFD2E5F3F0E2DCDCE2EBE8DFDFE2F3F0EBEDF0F0FBFBF3F6F3FEFBFEF6FFF3FFF417F3EAE5E2E2E5CFC1AF9CA0A7B2C8EBFBF4F4F3C8B3CFDFF6FEF415EADFD9D5E2EBF0E2DCD9E2E8E5DFD9E2F3F6EBEBF0F0FAF3FFFBFFF6FFFBFEF43AF3EAE5EAEDDFCFBDB2BDBDC1CBE8DCE8F4F6D2B3BDCFE8F4F4F6E5DFE2E2E8F3F4E5E5E2E5E8E8E2D9DFF3FBF3EAE8F0F0EDF0F3F0EDF0F3FBF6F6FEFBFEF4FFEB3AF3F4EDE2D9CBD2CFCFD5D2CFE5FBF6DCC1BDC8DFFBFBE2DCDFE5EAF0F4F4E8E5EBF0F6F6E5D9DCE8F3F3EBEDF0EDEAEBF0F0EDEDF3F6F4F6F6F0F3FEF402F6F3F6FEF425EBDFDCDCCFC8C1CBD5EDF4F6D9D5D5F3F4F6E8DFE2E2E8EDF6F4D9DCE8EDF6F6EBD5D2DCE5E8FEEBFFEA0CEBF0F0EDEDF0F3F4FBF3EBEDF3FEF601EBEAFEF405EDE5E2DFD9CBFEC105DCF3F4F4FBFBFEF4FFF61AF3EAEAEDF3F4D5D9D9DFF3F6EBDFD2D9DCE2E8EBEDEBEAEDF0F0EDFEF0FFFB16F3EDE8E5F0F3EDE5DFE8EAEAE5E2E2DFDFD2C8BDB6C1DCFEF401FBF6FBF416F6F3F3F4CFD2CFDCF3F6EDEADCD9DCDFE2EAEDEAE8EAF0FEEDFFF00FF6F4F3F0EAE8E8EAE5DCDFDCD9DCD9DFFEE20CD5CBC5BDC1CFEAF4F3DFDFF0F6FCF415FBF3FBCFCFD2DCF6F4F4F3E2DFE2E2E5F0EBE5E5E8E8FEE201EAF0FEF407F6F3EBEAEAE8E5DFFDD912D5DCE8E8DFD9D9CBC5C8D9E8E5D9CFD9EAF3FBFEF40CF3F0F6DCD5D2DCF0F4F4F6EDE8FDF30AE5E2DFE2E8E5DFDCE5EBF6FDF430F6EDEBEAEBEAEBE5DFD5D5E2F0EDE2DFE2D9CFC8CFDFE8D5CBCBCFD2E2F0FBFBF0E8F3E5D9D2D5DFE8F3F0EDF6FBF6F6FBFEE202E8EAE5FDE201EBF0FDF40CFBF0EAE8EDF3F0E5DCD9DFF0F4FEE201E8E5FEE227EBE2D9CBCFCFD2DCEAE5E2E5EDF3E5D9CFD2E2E8EBEDF3F4FBF6F6EBEAEBF3F4FBEAE8E5E5E2E8F3FDF416F3E8E8EAEAF3F0E2DCD9EAF4EAE8EAF4F4F3F3F4F4F0E8FDD916E2EAE5DFE2F0F6EADFD5D5D9E2E5EBF0F6F6F3EAE5EDF6FEF400EBFEEAFFE201E5F6FEF401FBEAFEE802E5F0EBFEE203EBE8E8F6F9F426F6F3EDE2E8EBEDEDF3F3F6F3F3EAE2E2E8DFE8EDF3F4EDDFD9E2EAF4F4FBE8E8EDF0E5DCDCEBF6FEF410F0EBE8E5DFE2EAEBE8E2DFDCD9EDF4F4FBF9F4FFEB37E8EBEDF0F0F6F3F3F0E5E2EAEAE2E2E5F3EDE8D9DCDFEBF4F3E5E8F0F6E8DCDCE2E5E8F3FBF6FBF0E8DCDCE5FBF4F0D9CBCFDFEAE5E2E8F3FBF43CFBEDEBE8EDF0F3F6F3F3F0E8E5EBEBE5DFDCEBF3EDE8DFDFEAF0EDE5E8EBF4F0E8E2E2D9D9DCE5EAFBF4EBDCD9DFF0F4F4DCCBCFD9E2DCD9E2E2E8F0FBFCF418F0EBF0F3F0F3F6F3EBE8EAEAF3EBE2E2E5F0F3FBEDEBEDF3F0FEEB1FF6F4F3E8E2D9D9D2D5DFE8F4FBE8DCD9E5F4F4E2D5D2D9DFDCDCD9DFE2E8F3FBFDF40AF0EDE8EDF0FBF3F3E5E2EAFEED06E8E2E2EAFBF4F4FEFBFFF302EDEAF3FEF40FF3EBE8E2D9DCE2FBF4F3E8DCE2EBF4F4FEDC01E8EAFCE5FEF0FEF414F0EAE2EBF3FBF3EBE2E5E2E8EBF0EBE2E2E8F0FBFBFDF405F3EDEDEBF0F3FDF41DF3E8E2EAF0FBF4F3E8E2EAF6F4F0E2D9E2EAF4F6EDEDFBFBEDE5EAF3F6EBFEE804EBFBF3EBEBFEE214E5F0EDEAEAE5EAEDEDF3F6FBF6FBF0F0EDEBEAE8F3FDF405EBEAE5EAE8EDFEEB28F0F4F3E2D5D9DFE2EDEBF0F6F4F0E2DFE8EBEAE8EBEDEDF3F3F0FBF3F3E8E5EBF0F0EDEBEAEAEBF0F3FDFB26F3F0EDEAE2E8EBFBF4F4EDE2DFDCD9D9E5EBEDF0F4F4E8D9D2D9DCD9DCE5E5EBEDE2DFE2E5E8EBFEFB08F0EDF0EDF6FBF3EDF0FEF305EDEBEAEBF0F3FEFBFFF40CF6F3EDE8DFE5E8F3F3E8E2DCDCFDD928E8EBF3F4F4EAE2DCDCDFDFE2E2E5EAEAE5E2E2E5EBF0FBF6F0F0EDF0F3F6FBF3F0F3F3F6F3F3FBFBF6FEFB1FF6FBF6F4FBF0EDE8E5EAEAEBEAE2E2E8EAE2D9D9DFE5EDF3FBFBF6E8E5E2E2E5FEE20CEDFBF3F0EAE8E8EBEDF3F0EDEDFEF40AFBF3F0F0F3F3FBFBF6F6FBFEF6FCFB02F3F0F0FDEA01E5E8FEEA1AE5DFDCDFE8EDF0F3F3EBE2E2F0F0EBEAE2E2EDF6F4EBE5E2E2E5EDFEF012F3F4F4FBF3EDEBEDF3F3FBF6F6F4FBF6FBF6F6FCFB34F0EDEDEAEBF0EBEAEAEBF0EBEAE8EAEAF0F0EBE8DFE5EAFBFBEDDFDFD9EAF4F4E5DCDFE5E8EBEBEDF3F3FBF3F0F3F0EBEDEDF6F6FBFEF6F8FB00F3FDF008EBEAEAEBEDFBFBF3F3FEED16E8E2DFD9DFE8F3E2D9D5CFD9EAF4F4E5DFE2E8EDE5E8EBFBF00AEBE8EAEDF6FBF6F6F4F4F6FCFBFFF401F6FBFEF008EDEAEBEBEDF3F6F4F6FDED16EBDFDCDCE5EAE2DCC8C1CBD9F6F4F3E2DCEDEBE8E2E5EAFEED09EBEDEBE8E8EAF3FBFBF6FEF400F6FCFBFFF4FFFBFFF303F0EDE8E8FEEB07F3FBF0EDFBFBF6F3FEEA12EBE8E2CFBDC1D5EAF4F4DCD5F6F3E5E2E5E5E8FEEB0CF0EDEDEAEAF0F3FBFBF6F4F4F6FBFB00F6FDFB07F6F0EAEBEBEAEAEDFEFBFDF413FBF4F4FBEAE2D9C1B6C8E5F4F4EADCFBFBE8E2E5FEF00AEBEDF0F6FBF0EDF0F3F3F6F9FBFFF6FCFB0AF3EBEAEBF0EDEDF3FBF4FBFAF40DF6F3F0E2CBB6BDD9F6F4F6E8F3F6FEEB05F3F6F6F3F0F3FEF400F3FEF0FEF300FBFEF602FBF6F3FEFBFFF6FFFB2CF0EDEBEAEBEDF3FBF4FBFBF4F6F0F0F6F4F6F6FBFBE2C5B2C1D9F6EBD9EAEBEBEDEAEAFBF6F6F3EAF0F3F3F0EDFAF3FFFBFFF605F3F0F6FBF6F6FEFB25F6F3EBEDEBF3F3F6F3FBFBF0EBEAEDF6FBF6F4F4F6DFC1BDCFD9D2CFFBF3EDF0EAE5E5F6F6FBFDEAFFE800EDFCF3FCF6FEF3FDFBFFF6FFFB01F6F0FEED05F0EAEDF3F0E8FEE218E8EAF0FBF4F6DCC5D2D9CFBDFBF6F6FBEAD5D5E2F6F4FBF3EAFEE200EAFDF3FFF600F3FBF607FBF4F4FBF6F6FBFBFEF61FF3EDEDEBEDF3F0E5DCD9CFD5D5D9E2F6F4F6E2D9E2D9BDE5E2E8FBF6D9CFD5EAFDF411F0EAE5E5F3F3F6FBF4F4FBF6FBFBF6FBF4F6FEF4FEFBFFF303F6FBFBF6FCF319EBE5E2D5CFCBCFD9E8F3F3E2E2F3E8CBCFC8D2E2F6F3CFC5CBE8FDF40BF3E8EBF3F6F3F3F6F6F4FBF3FCF601F3F6FEF406FBF3F0F6F6F4F4FBFB1AF3F0E8E2DCD9E2E5EBE2DCDCF6F4DFC1BDBDD2EBF6D2B3B6C5DFF6FDEA00F0FDF303EDF3F4F4FEFBFFF6FDF3FEF400FBFEF3FCFBFAF42DF6F3EDEDEBEAD9D9DCFBF6C5BDBDC8D9EBE2B6ABB2C1CFCBCFD2E5EAEBE8EAEBEBF0F3F4F4F6FBFBF6F3F0EDEDF3FEF4FFF309F0EDF0F3F3FBFBF6F6FBFBF4FFFB1EF6E5D5C5D2EBE2D5CBC5D5E5EDD2B2A7AFC5C8C1BDCBD9DCDFE5E8E8E5F0F0FEF6FEFB04F3EBEBF0F3FEF4FFF0FFEDFFF300F0FEF302EDF3F6FDF4FFF019FBEBCFB3B3CBF3EDE2D2D5F3F6EDC5AFA7C1CBCBC8C8CFCFD2DFFEE204DFEAEDF3F3FDFB07EDEBF3F3FBF6FBF6FEF338F6FBF0F0EDEDEBEAEDF3F6F4FBEDEAF3EDDFC5BDB6DFE8E8E2E2F3FBF4D9C1B2C8DFE5E2DFCFCFD2D5DCE2E8EAEAEDF3FBF4F6F6FBF6F3F3F6FDF300F6FDF401F6F3FEF0FFEA23EBEDFBF3EDEBEDF3EBE5D9C5DCE2E8E2DCE5F3EBCFBDC1CFD9FBF6EDD2D2CFCFDCEBF3F6FEF300FBFDF404FBF3F3FBFBFEF3FFF600FBFDF40AF6F4FBF3EBEAEDF3FBFBF6FDF404F6F3E2E5EBFDE20ED5B6AFBDC8CFDCEBE5DCDFE5E8E2EDFDF405F6E8EDF6F4F4FAFBFCF300F6FCF400FBFCF300F6FAF42DE2E5E8EAE5E2D9D2B2A7ABB3BDC8D2DFE2F6F4FBE2D9E5FBF4F4EADFD9EBF6F4F6FBFBF6F4F6FBFBF0EAEDEBF0F6F9F4FEF6FFF426F6FBFBF4F4E2E5F0EBE5E2DFD5C1AFA7AFAFB6BDC8D2E8FBE8D2C8C8D2E8F0E5D9D2E2F0F4F4F6FCFB07F3F0EBEBEAEAF0F3F9F401F0EBFEF318EDEAEDF0E8E8EDF0F0EDE2D9CFC5B6B3A7AFB3BDC8CFD9D9C8FEC10ACBD9DFD9DCE2F0F4FBF6F6FEFBFFF301F0EDFEEB04EDF3FBF4F4FEF3FFF402EDEBEBFEEA02EBEDF081FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF97FF00FE81FF81FF81FFC6FF02FEF9FAC3FF02F9FAFE81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FFE2FF00FEC1FF00FE81FF83FF00FEC1FF00FEC0FF00FECEFF$
+       TILE $FFFFFFFF0BEAE5EAE5E8EAEDFBFBF0EBEDFEFBFCF300F6FCFB15F0EDEBEDE8EAEDEDFBEBE8EBEAF6FBF3F3F0F3F0F3F6FBFBFFED3EF0F3F0EDEBE5E2E5E5EAF3FBF3F0EDEBF0F3F6F6FBF4F4F6F0EDF3F6F3F0E5E2DFDFE2E2EBFBF4F3F0EDF0F3F3F6FBF6F4FBF0EBEDFBFBF0EBE5E2E5E2E8EBFDFBFFF3FEF6FFFBFFF602F3EAF0FEFB05F3EBEAE8EAEBFCFB02EDF3FBFDF602FBF4FBFEF306F6FBFBF6F6FBF6FEFB06F6F3F0EAEBF0FBFEF603FBF6F6FBFEF3FFF600FBFDF608FBEDEBEDEDEAE8EBF0FEF6FFFB00F6FCFB11F6F0EBEBF6F6EBE8EBF3FBEBEAE8EAEDF3F6FEFBFEF6FFFB15EDEBE8EBEAE8E2E8EAF4F6FBE8E2E5EAF0F6F6FBF6FBFEF315EBE8E5E5E8EBE5DFE2EBF6F6FBEBE5E8E8EAF0FBF6FBFDF314EBE5E2E5F3FBE5E2DCE2F0F6F6EBE5E8EAEDEAFBFBFEF6FFF313EBEAE5E5FBFBEDE2DCDCE5E8EAE8E5EAE8EBE5F3FEF6FFFBFFF313EAE8E2F0FBF3E2DCDCE2E2DFDFE8EBEDF3EBF3FBFEF618FBF6F6F3EBE2E5F6F3E5E2E2E8DFDFDCE2EBF6F6FBEBF0FBF6FEF4FFF614F3EDEBF6FBF6F0EDEDEADFDFE5EAEBEDF6E8E8F3FBFEF402F6FBF6FDFBFFF618FBF6F3E2E2DFE2E8E8EDE5E2E8F0FBF4FBF3F3FBF4F4FBF3F6FDFB43E8DFDCD9E2E2EADFD9E2EBF3FBF3EDF0F6F4F6F0EAEAF3F3F0E8E5E2E2DCDCDFE2E5D9D9E2F3FBF3EBEAF0F6F3EBE5E2EAEDE5E2E2E5EAE2DFE2E5F3E2DFE2F3F4FBF3EDFEF312EBE2E2EAF3E8E8E5E2DFDFE2E2EAF4EBE5E2F3FEF4FFF315F6F3F0E8E5EAFBF0F3EAEAE2DCDCE2EAF4F6E8E2F0F6FBF404F3EDEBEBEDFEF00EEBE5D9D9DCDFF4F6E8E2E8EDEBF3FBFDF401F3F0FEEDFFF30FF0EBDFD9DCD9F4F4EBE2E2E5E2E8EDF3FEF417FBF3F3F0F0F3FBFBF3EAE2DCD9F4F4FBEDE8E8E2E2E8EDFBFEF4FEF6FFF3FEF603EBE8DFDCFEF4FFF607EDEBE2E5EDFBF4F4FEF609FBF6F3FBFBF6F3EDE8DFFBF404F3EAEAEDF3FEF60EF3F6F6FBFBF6FBF3F0F0EDEBF6FBFBFEF409F6EAE8EAF0F3F6EDF3F6FCFBFEF300FBFEF327F6FBF4F4F6F0EAE8EBF0EDF0F0F6FBFBF6FBF6F3F3FBF4FBF3F3F0EDF6F4F4F3EBEAEDF3F3F0F0F3FEFBFFF304F6F3F6F4F4FDF300FBFEF409F6EDF3FBF4F3F0F3F6FBFCF3FFFB26F6F3F0EBEBEDFBF4F4FBF3F3F6F4F6F0F3F0F6F3F0EDEBEBF0F6F6F0F0EDEAEBF6F4F4F6F3EDFBFEF4FFF3FFFB06F0EDEBEAEBF3F3FEF029E8F0FBF6F4FBEBEDF3FBF4F4FBF3F3FBFBF6F3F0EDF3FBF3F0EAEBEDF6F4FBF3EAE8EDF3F6FBF3EDEDF3FEFBFEF316FBF3F0EDEBEBF0F4FBF0EBE8E8EAEDF6F0EBE8EDF3FBFBFEF303F6EBF0F0FEEBFDF305EAE8EAEAF0F0FEEB01EDF0FCF3FFF614F4F3EDF0EAEAEDF6FBF6F0EDF0F0EDF0F3F6F6F3FBFCF314FBF4F4F3EAE5E8E5F3F6F6F3F0F3F0F3FBFBF3F6FBFEF6FFEB00EAFEF40BEAE5E2EAEDF6F4F6F3F0EDEDFCF302FBF6F6FEE508EBFBF6F6EAE2E8F6FBFEF60DF3EBEAEBEDF0EDEDF3FBF6E5E2E2FDE8FFEB15E8EAFBFBF6F3F6E8E5E8EBEBEAEBEBEDEDE5E2E5E8E8FEE20BE5E2E5EDF0EAF0F6F3E8E2E2FCE804E5DCE2E8E8FEE202E5E2DFFDE24CE5F0F3EDDFDCE2E5EAE8E5E8D5DFEAE8E2E2EAEAE2DCDCDFDFDCDFEAF3F3E2D9D9E2EBE8E5E5D9EDEDEAEAF0FBEDE8E2E2DFDCE2E2E8F3F3EBDFDCEAF0EBEAF0EAFBFBEDEDF6F4F6EBE8E8EDEDFEE20AF0F4FBE8E8F3F6EBEAF3E5FEF410FBF0F3FBEDEAEBF3FBF3E8E2EBFBF6EDEAFEFB03F3EBD9FBFEF400FBFEED0CF3F0F0F6FBF3E8E2E5EAE2E2F0FEFB02F6C5D9FCF402FBF3F3FEEB02F6FBF3FEE203D2CFDCF6FEFB03AFC8E5FBFDF441F6FBEBE2E8EBF4FBF3EBE2D2CFCFE2F3F6F6B3BDCFD9E2EDEBE5E8FBFBE8E5E8F0FBF6FBF6DFD5CFD9DFE2EBC8C1C5BDC5C8C8C1CFE8F6F3E5E2DFE8FBF6F4F3E2D5FED211CFEBDCD9C1BDBDB2ABBDD2EDF4E5D9D9DFE2FEF321EAE2E2D9CFC8F6F6F3DCD9CFBDBDB6CBE2EDE8D9D2D5DFDCE2E2E8EDEAE2D9CFDCF3FEF40AFBEDD9D2CFDCEBF3E2D5D2FCD908E2EDF0F3EAB6C5DFF6FEF449F6EADCDFFBF4F3E2D5D9DCDCD9D9D5DFEAF0F0B2B2C1DCEDEBE8EDEDE8EAF6F4F4E5D9D9E5E8E8E2DFD5DFE2E2D5C1C1CBCFCFD2DCE5DCD9E5F6EBDCD9DFEAEBF6F3E8DFDCDCD9FBDFD5FEC52DCFD9D9D2CFDCE8DFCFCFD9E2E8F3F3F0E8E2DFDFF4F4F0D9CBCBD2D9EDD9D5D9DFD9CBC8CFD9E2EAF0F3F0F3F0EAFEF425F3E2DCD9E2F6F6E8DFDCD5CBC5C8CFD9E2EBEDF0F3F3EAEDF0F6F4F4EBDCDCFBF4F6F3E8DCD5FECF07D2D9E2E5EBF0F0ED81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF$
+       TILE $FFFFFFFFFEEB23F3F0F3EBE2DCD9CBC1B3B3AFB6C1CFCFC8C5C5C8BDBDC8D9E2E5EDF6F3EAEDF0F3F6FBF6FDF315EDF0F3F6FBF4F6F3EDEBF3F4F0EDE5E8E5E8E8EDEAF0FEEDFFF30DEBE5E8E8DFCFBDB2B3B3C1CFCFCBFECF0AC1B6B6C5D9F0F4F4F6EAEBFEF3FFF601F3F6FDF3FEFB0FF4F6F3EAE2EAF3F6F4E8E5E2E8E8EAEBFEF31AF0F3F0EBEBEDF0E8DCCFC1B6BDC1D2D5D9E2E8EADCC5ABB3D2E2FBFEF400F6FDF301F6F3FEFB00F6FDFBFFF412F3EAE5EAEDF0F0FBEAE2E5E5E8EDF3F4F6F6F3FEF00CF3F6FBEDE5D9C5C1C1D2DCE2EAFEF405D9ABA3B2CBE8FDF405FBF3F0F3F3F6FAFB2FF6FBF4FBF0EAEBEBEDEBF3F6EAE8E8E2E2F0F6F4F6FBF3F0F0F3F6F6F4F3E2D9D2CFD9D5D2DFEAF4F4E8C19C9CABCBF0FEF403F3EDF3F3FEF6FCFBFFF339FBF6F4FBF6F3F3EDEBEDF0F4E8E8E5E5E8EDF3F4F4F3F0F0F3F3FBF6F6E8E2E2E8DCD2C5C1CBE2F4F4CFB3A0ABBDDCFBF4FBEAEAEBF0F6FBF6F6FAFB00F6FEF402F6FBF3FDF0FFED06EBE8E2E8EBF3FBFCF6FFF023EBE2D9DFDCD9CFC1BDBDC5DCFBE8D5CFC8BDC8DFF3FBEDEAE5EAF3FBF3F3FBFBF6FBFBF6FAF4FFFBFBF305F0E2E8E5EDF3FEFBFFF622F3F0EBE2D5D9D5D5CFCFC8BDB2C8E2F6F3EBE2CFC1CFE2F6F4F3EBEAF3F3F6F3F3FBFBFDF4F8FBFCF32EF0EBEBE8EAEDF3F3FBF4F6F6EDEAEAE8E2E5E2DFE2E2CFC1C1D2DCE5FBF4E2D5CFDFF3F4F4F3F6FBF4FBF3F3FBF6FBFEF400F6FEFB00F6FBFB15F3FBF4F4F3EDEBEAEBEDF0F3FBF4FBFBF6F0F3F3F0F0FEEB0DE8D5CBD2D2E2EAF4F4E8E2E2EAF6FCF406FBF6F3F3F6F3F6FDF400F6FCFB06F4FBFBF6F3FBF4FDF3FEF001F3FBFEF6FEFB14F6F4F6F3EBEAF0EDE2DCD5D5E2FBF4F4F6EBEAEBFBFEF402FBF6F6FEFBF9F6FDFB08F6F4FBF6F3F6FBF0F6FDF301F0F3FCF606FBF3FBF4F6F6F0FEED05EAE8DFD5D9EAFEF403FBEBEDF3FEF4FFF6F9FBFCF6FDFBFFF600FBFEF6FAF3FFF6FFFBFFF6FFF000F3FEF6FFF308F0EAEAE8E5DCDCEAF0FDF401FBF6FEF4FEFBFFF400F6FCFB02F6FBFBFEF6FAFB00F6FEF3FFF6FEFB1AF6F0F3F6FBF3EBEAEBFBF6F6F0EDF0EDEDEBE8E2E8EBF0FBFBF6F6FCF4FFFBFDF4F8FBFEF6FDF401F6FBFEF6FEFBFFF622F0EBEDF3F6F0EBE8E5EBF6FBF3F0F3F3FBF6EBEAEAF0F3F3F0EBEBF3F3FBF4F4FBF6FBFEF404F6FBFBF4F4FBFBFAF400F6FEFBFDF3FFE800EDFEF305EDE8E8EBF3F6FDFBFFF416F3EAEAEBFBF6F0E5E2EDEDF0F3FBF3EDF0F3FBF6F4FBFBFBF40BFBF6F6F4F4FBFBF4F4F6F6FBFDF303EDE2E2E8FEF015EAE2E2EDFBF6F6FBF6FBFBF6F0E5E2EBFBF4F3EAE8EAFEEB06EDF0EBEAEBF3F6FEFBFBF4FFFB00F6FEFB0DF6FBFBF3F6F3F6F3F6F6EBDFD9DFFEED20E2D9DCEBF0EAE2E8EBEDF3F6EADFDFE8F3F4F4F3F0E8E8E5E8EBEBE8E8EAEDF3F6FCFB08F6F4FBF3F6F6F3F6F3FEF600F0FEF3FFF62CFBF3E2D9D5D9DFE2D5CFD2E5EBE5DCE2E2DFEAF0EBE8E5E8EDF6FBF6FBF3EDEAEAEDEBEAE8EAEBEBF3F3F6F3F6FEF303FBF3F3F0FDF300F6FEF3FFF008F3F6FBF3E8D9D5CFD5FECF03D5E2F0EAFEE20ADFEAEDF3F6FBF3F0EAEBFBFEF6FFF0FEEDFFF007EDEBEDF3F6F3EDEBFEF003F6FBEDF0FCF321FBF6F3EDF3F3F0F6EAE2D9D9D5CBCBCFD9E8F0F3F6F3F0F0EDEAEBF3FBF6EBE5E8F3FEF600FBFEF3FEF605F3EDEDF0F6F3FEED05EBEAEBEBF3EDFDF003F3F4FBF6FDF31CFBF6F0EBE8DFD2C8CFD5D5DFEDFBF4F6F3E8DFE2E8F0FBEADFE5F0F6F6FEF3FFFBFFF606F4F6F3EDEBF3F6FDF30CEBEAEBEBF3EDEDF0F0EBF4FBF6FEFB07F6F4F6F6F4F6EAD9FECF17CBC1CFE2F6F3EBE2CFC5CFE2EAE5E5E8F3FBFBE8E2EBF3FBFBF6FEF30DF6FBF6FBF6F0F0EBEBF3EAF0F0EDFCFB3AF6FBF6F6FBF6F6EBD9D2DCD5C1B3BDC1CFDCEBE8C8BDBDCBD9D9E2EAF3FBEBDFDCDFE8EAE8F6FBF6F6FBF6F3F0F3FBF4F4F6FBF3EDEBEAEDEDF3EB81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FF81FFA7FF00FCC2FFFFF9C2FF00FA81FF81FF81FF81FF81FF81FF81FF81FF81FFDDFF$
+       TILE $FFFFFFFF37E5DCE8F6F4F4EADCDFF6F4F4F3E5DCD9CFCFD2D9D9DFE8EDF0EDE5CFDCF3F4F4F6E2DCEAF4F4EDE2E2DFD9D5D2D2D9DCE2EDEBF0EDDFD9EBFEF417EBD9E2F6F4EDEAF3F0E5DCCFD2D9D9E2EAEBF3F3EBE2EBFBFEF4FFE203FBF4FBF3FEFB15EDDFD9D5D9E2E8EDF0E2EDE8E2EDFBF4F4F0E5EBF4F4FEF6FFF415F6E5E2E2E5E8EDEDE8E5EBE2DFEBFBF4F6EAE8FBF4F4FEF601F4F6FEE201EDEAFEE818EAF3E8E2DFEDF4F4F6E2EAF6F4F6F3EBE5E2D5D2DFE5E5E2E2FDF308EBE2EDF6F6F3E2E2EBFEF6FFE23DD9CFC8D2D9DFDFE2F4F6F3F0F3F3F0F0F3EAD9D5DCE8FBFBF0E2DCD2D2D9DFE2E5EAF4F4F6F3F6F6F3EBE8DCCFCBD5DFEDF6F6F3EDE2E2E8E8EAEDF0F6F4FDF608FBF3F0E2D5D2D9E5EDFEF607FBF3F3F6F6FBF3F0FEFB00F6FDF406F6F3EBE5EBF6F4FDF60AF0F3FBF4F4FBF0F6FBFBF6FDF4FFF602FBF6F6FEF4FFFB07F3EDEBF0FBF4F4F6FBFBFBF6FFFB00F6FDF307EDEAEDF3FBF4F6F6FBFB01F6FBFEF310F6FBF3F0F3FBF6F3EAEBF0F3FBFBF4F4F6FEF3FFFB00F6FEF3FFF0FFEB09F3F4F6FBF3EDEDF0F3FBFEF400FBFEF3FFF6FDF303F0EAEBF0FEFB02F3F0F0FDF603FBF6F4FBFBF30BF6FBF0EDEAF0F3FBFBF6F3F0FCF3FEF60FFBF0F0EDF3F3FBFBF3F3EDEDF0F3F3F6FDF307F0F3EDF0F6F4F6FBFEED03F3F6F6F3FEF014EDF0F3F3F6FBFBF6F3F3F0F0F3F4F4F6F3EDEBF3FBFBF3FFF00DF3F6F6F4F6FBF3EDF0F3FBF4F4F6FEF3FDF603F3F6FBF6FEF30BFBF6F4F4E8EDEBEDF3FBF4F4FEF3FBFBFFF6FDF303FBF6F4E8FEEA06EBF0F6F6FBF3F3FEFBFEF603FBF6F3F0FEF301FBF681FF81FF81FF81FF91FF81FF81FF81FF81FF91FF$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

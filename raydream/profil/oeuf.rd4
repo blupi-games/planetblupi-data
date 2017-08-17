@@ -1,0 +1,518 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 60
+  heig 60
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 0
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra 2"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\RAYDREAM\\RayDream.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra 2"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 4
+     locV 722
+     sizH 993
+     sizV 359
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 25
+     sizH 1170
+     sizV 670
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra 2"
+ ShLv 3
+ Zoom 8
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 112,0,765,960
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,420,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ back {
+  colo {
+   colo 0.5,0.5,0.5
+   }
+  }
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 0.50632
+   }
+  }
+ }
+sc {
+ nm "oeuf"
+ nxtL 1
+ nxtC 2
+ nxtG 4
+ nxtO 0
+ ob {
+  ex {
+   nm "Assistant 3D"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 1
+   evs 1
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1.03409,0
+     cnc 0,-1.00131,0
+     tpc 1,0
+     tv 1,0
+     tnc 39.03709,0.03278
+     bpc 1,0
+     bv 1,0
+     bnc 39.03709,0.03278
+     lpc 1,0
+     lv 1,0
+     lnc 39.03709,0.03278
+     rpc 1,0
+     rv 1,0
+     rnc 39.03709,0.03278
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -0.04828,0
+         ss {
+          s3 -0.04828,-0.02673,-0.02673,-0.04828,0,-0.04828
+          s3 0.0264,-0.04828,0.04791,-0.02673,0.04791,0
+          s3 0.04791,0.0264,0.0264,0.04791,0,0.04791
+          s3 -0.02673,0.04791,-0.04828,0.0264,-0.04828,0
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1.0173,0
+     cv 0,1.01735,0
+     cnc 0,0,0
+     tpc 28.6521,0.00005
+     tv 0.02626,0
+     tnc 1,0
+     bpc 28.6521,0.00005
+     bv 0.02626,0
+     bnc 1,0
+     lpc 28.6521,0.00005
+     lv 0.02626,0
+     lnc 1,0
+     rpc 28.6521,0.00005
+     rv 0.02626,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 41.03899,40.64278,7.67867
+      mat -0.70569,-0.26959,0.65515,0.70837,-0.28091,0.64743,0.00952,0.92105,0.38931
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.86719,0.63672,0.64844
+       angl 19.56522
+       fall 0.2029
+       brit 2
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 20.00055,-5.23636,-3.58916
+      mat 0.15402,-0.39999,0.90341,0.98801,0.06247,-0.14078,-0.00009,0.91434,0.40491
+      Scal 1.09322
+      }
+     defo {
+      affi {
+       ScaX 1.02576
+       ScaY 4.51076
+       ScaZ 1.03873
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     only 0
+     }
+    ca {
+     nm "Caméra 2"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 4.8494,-2.653,-8.86588
+      mat 0.00006,-0.00003,0.99997,0.99997,0,-0.00003,0.00003,0.99997,0.00006
+      }
+     proj {
+      iso {
+       zoom 6.08582
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.00099,-2.7644,-10.99954
+      }
+     defo {
+      affi {
+       ScaX 2.13008
+       ScaY 3.70003
+       ScaZ 2.13042
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,0.33429,2.05144
+        mbox 0,0,0.33429,2.05144
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.99997,0.99997,0.99997
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D"
+     }
+    }
+   boxM 43.51007,43.12854,9.46861
+   boxm -3.49187,-6.69264,-14.27083
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

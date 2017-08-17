@@ -1,0 +1,5047 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 120
+  heig 120
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra Jeu"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\RAYDREAM\\Blupi3d.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra Jeu"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 14
+     locV 759
+     sizH 975
+     sizV 317
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 13
+     locV 25
+     sizH 1149
+     sizV 702
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra Jeu"
+ ShLv 3
+ Zoom 7
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 129,0,814,960
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 25,25,54,171
+  dbnd 0,0,0,0
+  nbnd 25,25,54,171
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,420,56
+  dbnd 0,0,0,0
+  nbnd 62,4,457,35
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ drop {
+  colo {
+   colo 0.5,0.5,0.5
+   }
+  }
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 1
+   }
+  }
+ }
+sc {
+ nm "misc26"
+ nxtL 1
+ nxtC 3
+ nxtG 3
+ nxtO 0
+ ob {
+  ex {
+   nm "Assistant 3D"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,0.63599,3.77985
+      mbox 0,0,0.63599,3.77985
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 1
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-0.99152,0
+     cnc 0,-0.22284,1.59798
+     tpc 1,0
+     tv 1,0
+     tnc 3.21091,1.28061
+     bpc 1,0
+     bv 1,0
+     bnc 2.27553,1.21326
+     lpc 1,0
+     lv 1,0
+     lnc 2.84749,1.00063
+     rpc 1,0
+     rv 1,0
+     rnc 2.72339,0.55365
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -0.25516,0.11748
+         ss {
+          s3 -0.14296,0.07123,-0.0853,-0.00771,-0.01955,-0.07834
+          s3 0.02689,-0.02945,0.09969,0.06305,0.22101,0.12291
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,0.99083,0
+     cv 0,0.99083,0
+     cnc 0,0,0
+     tpc -0.10274,0
+     tv -0.06154,0
+     tnc 1,0
+     bpc -4.99379,0.83606
+     bv 0.42046,0
+     bnc 1,0
+     lpc 0.76598,0.62653
+     lv 0.11043,0
+     lnc 1,0
+     rpc 0.13225,0
+     rv 0.13147,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  COfl {
+   prim {
+    COfl {
+     }
+    }
+   nm "Flat Surface"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 30.49135,30.61835,30.97951
+      mat -0.70676,-0.40875,0.57727,0.70734,-0.4079,0.57721,-0.00043,0.81635,0.57755
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 45
+       fall 0
+       brit 1
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 29.52576,0,14.76288
+      mat 0.00089,-0.70776,0.70642,0.99994,0.00089,-0.00037,-0.00037,0.70642,0.70782
+      }
+     only 0
+     }
+    inpr {
+     nm "Flat Surface"
+     AnTr 1
+     Cloa 0
+     tran {
+      po -5.47983,-5,-15.00124
+      hp -0.47983,0,-0.00121
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.99997,0.99997
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Flat Surface"
+     }
+    ca {
+     nm "Caméra Jeu"
+     AnTr 1
+     Cloa 0
+     tran {
+      po 19.68384,19.68384,12.79448
+      mat -0.70599,-0.35559,0.6123,0.70807,-0.35236,0.61182,-0.00177,0.8656,0.50073
+      }
+     proj {
+      iso {
+       zoom 2.50931
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    gr {
+     nm "feuilles"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 1.06746,0.49962,9.32381
+      mat 0.64581,0.76349,0,-0.76349,0.64581,0,0,0,1
+      Scal 1.2365
+      hp -7.4493,-6.68726,4.66611
+      }
+     so {
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09409,-6.61977,-14.77457
+        mat 1,0,0,0,0.98764,-0.15692,0,0.15692,0.98764
+        Scal 1.459
+        hp 0,-2.16324,0.00362
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 2.18053
+         ScaZ 1.47536
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09415,-6.61951,-14.79688
+        mat 0.96255,0.27115,0,-0.27115,0.96255,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.62508,-6.41779,-14.81624
+        mat 0.50485,0.86319,0,-0.86319,0.50485,0,0,0,1
+        Scal 1.2726
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.33165,-6.33008,-14.80965
+        mat 0.00845,0.99991,0,-0.99991,0.00845,0,0,0,1
+        Scal 1.336
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09409,-6.62021,-14.79688
+        mat -0.30048,0.95374,0,-0.95374,-0.30048,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09401,-6.62053,-14.79688
+        mat -0.85889,0.51199,-0.00024,-0.49649,-0.83267,0.245,0.12524,0.21057,0.96957
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09398,-6.6207,-14.79688
+        mat -0.99976,0.0191,0,-0.0191,-0.99976,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09398,-6.62093,-14.79688
+        mat -0.87534,-0.4834,0,0.4834,-0.87534,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09395,-6.62114,-14.79688
+        mat -0.51877,-0.85489,0,0.85489,-0.51877,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.34035,-6.62108,-14.85744
+        mat 0.39282,-0.89398,0.21576,0.91553,0.40222,-0.00043,-0.08643,0.19769,0.9765
+        Scal 1.45897
+        hp 0,-1.62949,0.00255
+        }
+       defo {
+        affi {
+         ScaX 0.74016
+         ScaY 1.64249
+         ScaZ 1.0378
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.25792,-7.08719,-14.81371
+        mat 0.85062,-0.52582,0,0.52582,0.85062,0,0,0,1
+        Scal 1.29712
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      }
+     boxM -2.40028,-0.36244,-10.71315
+     boxm -11.87582,-11.34633,-15.04285
+     open 0
+     }
+    gr {
+     nm "feuilles"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -9.01537,0.49959,9.32381
+      Scal 1.2365
+      hp -7.4493,-6.68726,4.66611
+      }
+     so {
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09409,-6.61977,-14.77457
+        mat 1,0,0,0,0.98764,-0.15692,0,0.15692,0.98764
+        Scal 1.459
+        hp 0,-2.16324,0.00362
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 2.18053
+         ScaZ 1.47536
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09415,-6.61951,-14.79688
+        mat 0.96255,0.27115,0,-0.27115,0.96255,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.62508,-6.41779,-14.81624
+        mat 0.50485,0.86319,0,-0.86319,0.50485,0,0,0,1
+        Scal 1.2726
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.33165,-6.33008,-14.80965
+        mat 0.00845,0.99991,0,-0.99991,0.00845,0,0,0,1
+        Scal 1.336
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09409,-6.62021,-14.79688
+        mat -0.30048,0.95374,0,-0.95374,-0.30048,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09401,-6.62053,-14.79688
+        mat -0.85889,0.51199,-0.00024,-0.49649,-0.83267,0.245,0.12524,0.21057,0.96957
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09398,-6.6207,-14.79688
+        mat -0.99976,0.0191,0,-0.0191,-0.99976,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09398,-6.62093,-14.79688
+        mat -0.87534,-0.4834,0,0.4834,-0.87534,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09395,-6.62114,-14.79688
+        mat -0.51877,-0.85489,0,0.85489,-0.51877,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.34035,-6.62108,-14.85744
+        mat 0.39288,-0.89401,0.21548,0.9155,0.40228,-0.00027,-0.08646,0.19736,0.97656
+        Scal 1.45897
+        hp 0,-1.62949,0.00255
+        }
+       defo {
+        affi {
+         ScaX 0.74016
+         ScaY 1.64249
+         ScaZ 1.0378
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.25792,-7.08719,-14.81371
+        mat 0.85062,-0.52582,0,0.52582,0.85062,0,0,0,1
+        Scal 1.29712
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      }
+     boxM -2.40027,-0.36238,-10.71315
+     boxm -11.87602,-11.34613,-15.04288
+     open 0
+     }
+    gr {
+     nm "feuilles"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -10.69684,-9.68451,9.32381
+      mat 0.98566,0.16888,0,-0.16888,0.98566,0,0,0,1
+      Scal 1.2365
+      hp -7.4493,-6.68726,4.66611
+      }
+     so {
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09409,-6.61977,-14.77457
+        mat 1,0,0,0,0.98764,-0.15692,0,0.15692,0.98764
+        Scal 1.459
+        hp 0,-2.16324,0.00362
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 2.18053
+         ScaZ 1.47536
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09415,-6.61951,-14.79688
+        mat 0.96255,0.27115,0,-0.27115,0.96255,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.62508,-6.41779,-14.81624
+        mat 0.50485,0.86319,0,-0.86319,0.50485,0,0,0,1
+        Scal 1.2726
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.33165,-6.33008,-14.80965
+        mat 0.00845,0.99991,0,-0.99991,0.00845,0,0,0,1
+        Scal 1.336
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09409,-6.62021,-14.79688
+        mat -0.30048,0.95374,0,-0.95374,-0.30048,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09401,-6.62053,-14.79688
+        mat -0.85889,0.51199,-0.00024,-0.49649,-0.83267,0.245,0.12524,0.21057,0.96957
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09398,-6.6207,-14.79688
+        mat -0.99976,0.0191,0,-0.0191,-0.99976,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09398,-6.62093,-14.79688
+        mat -0.87534,-0.4834,0,0.4834,-0.87534,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09395,-6.62114,-14.79688
+        mat -0.51877,-0.85489,0,0.85489,-0.51877,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.34055,-6.62105,-14.85764
+        mat 0.38336,-0.80695,0.4494,0.92352,0.32852,-0.19794,0.01208,0.49091,0.87119
+        Scal 1.459
+        hp 0,-1.62949,0.00255
+        }
+       defo {
+        affi {
+         ScaX 0.74016
+         ScaY 1.64249
+         ScaZ 1.0378
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.25792,-7.08719,-14.81371
+        mat 0.85062,-0.52582,0,0.52582,0.85062,0,0,0,1
+        Scal 1.29712
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      }
+     boxM -2.40028,-0.36241,-10.61002
+     boxm -11.52037,-11.34633,-15.02681
+     open 0
+     }
+    gr {
+     nm "feuilles"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -3.29146,-9.01021,23.71158
+      mat 0.97897,-0.20413,0,0.20413,0.97897,0,0,0,1
+      Scal 1.96712
+      hp -7.4493,-6.68726,4.66611
+      }
+     so {
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09409,-6.61977,-14.77457
+        mat 1,0,0,0,0.9877,-0.15656,0,0.15656,0.9877
+        Scal 1.459
+        hp 0,-2.16324,0.00362
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 2.18053
+         ScaZ 1.47536
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09415,-6.61951,-14.79688
+        mat 0.96259,0.27106,0,-0.27106,0.96259,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.62508,-6.41779,-14.81624
+        mat 0.50485,0.86319,0,-0.86319,0.50485,0,0,0,1
+        Scal 1.2726
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.33165,-6.33008,-14.80965
+        mat 0.00845,0.99991,0,-0.99991,0.00845,0,0,0,1
+        Scal 1.336
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09409,-6.62021,-14.79688
+        mat -0.30045,0.95377,0,-0.95377,-0.30045,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09401,-6.62053,-14.79688
+        mat -0.85876,0.51218,-0.0011,-0.49686,-0.83255,0.24451,0.12433,0.21057,0.9697
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09398,-6.6207,-14.79688
+        mat -0.99969,0.02206,0,-0.02206,-0.99969,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09398,-6.62093,-14.79688
+        mat -0.87527,-0.48349,0,0.48349,-0.87527,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.09395,-6.62114,-14.79688
+        mat -0.51871,-0.85492,0,0.85492,-0.51871,0,0,0,1
+        Scal 1.459
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.31763,-6.54729,-14.86876
+        mat 0.37393,-0.90326,0.21069,0.92554,0.34863,-0.14804,0.06018,0.25034,0.96634
+        Scal 1.45894
+        hp 0,-1.26195,0.00226
+        }
+       defo {
+        affi {
+         ScaX 0.66623
+         ScaY 1.27199
+         ScaZ 0.9162
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.25792,-7.08719,-14.81371
+        mat 0.85062,-0.52582,0,0.52582,0.85062,0,0,0,1
+        Scal 1.29712
+        hp 0,-1.61568,0.00313
+        }
+       defo {
+        affi {
+         ScaX 0.74077
+         ScaY 1.62862
+         ScaZ 1.28583
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smap {
+              MInf {
+               tile 0
+               seam 0
+               cnth 1
+               cntv 1
+               flph 0
+               flpv 1
+               rotc 1
+               intp 1
+               invC 0
+               }
+              prkd 0
+              CMAp {
+               IMAP 0
+               MDTA {
+                REFN 0
+                TIME "10:42:574704707"
+                }
+               }
+              whit 0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D"
+       }
+      }
+     boxM -2.40048,-0.36241,-10.71498
+     boxm -11.52029,-11.34802,-15.02592
+     open 0
+     }
+    }
+   boxM 33.0955,33.22232,32.78244
+   boxm -16.63139,-19.62006,-15.04628
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "10:42:574704707"
+      }
+     DATA {
+      stor 0
+      w 500
+      h 500
+      dpth 32
+      tils 64,64
+      TDTA {
+       TILE $FFFFFFFF819D819C819C819C819B819B819B819A819A819A81998199C199819881988198819781978197819681968196819681958195819581948194819481938193C193819281EF81EE81EE81EE81ED81ED81ED81EC81EC81EC81EB81EBC1EB81EA81EA81EA81E981E981E981E881E881E881E781E781E781E681E681E681E581E581E581E4C1E481548153815381538153815281528152815281528151815181518151C1518150815081508150814F814F814F814F814F814E814E814E814E814E814D814D814DC14D$
+       TILE $FFFFFFFF819D819C819C819C819B819B819B819A819A819A81998199C199819881988198819781978197819681968196819681958195819581948194819481938193C193819281EF81EE81EE81EE81ED81ED81ED81EC81EC81EC81EB81EBC1EB81EA81EA81EA81E981E981E981E881E881E881E781E781E781E681E681E681E581E581E581E4C1E481548153815381538153815281528152815281528151815181518151C1518150815081508150814F814F814F814F814F814E814E814E814E814E814D814D814DC14D$
+       TILE $FFFFFFFF819D819C819C819C819B819B819B819A819A819A81998199C199819881988198819781978197819681968196819681958195819581948194819481938193C193819281EF81EE81EE81EE81ED81ED81ED81EC81EC81EC81EB81EBC1EB81EA81EA81EA81E981E981E981E881E881E881E781E781E781E681E681E681E581E581E581E4C1E481548153815381538153815281528152815281528151815181518151C1518150815081508150814F814F814F814F814F814E814E814E814E814E814D814D814DC14D$
+       TILE $FFFFFFFF819D819C819C819C819B819B819B819A819A819A81998199C199819881988198819781978197819681968196819681958195819581948194819481938193C193819281EF81EE81EE81EE81ED81ED81ED81EC81EC81EC81EB81EBC1EB81EA81EA81EA81E981E981E981E881E881E881E781E781E781E681E681E681E581E581E581E4C1E481548153815381538153815281528152815281528151815181518151C1518150815081508150814F814F814F814F814F814E814E814E814E814E814D814D814DC14D$
+       TILE $FFFFFFFF819D819C819C819C819B819B819B819A819A819A81998199C199819881988198819781978197819681968196819681958195819581948194819481938193C193819281EF81EE81EE81EE81ED81ED81ED81EC81EC81EC81EB81EBC1EB81EA81EA81EA81E981E981E981E881E881E881E781E781E781E681E681E681E581E581E581E4C1E481548153815381538153815281528152815281528151815181518151C1518150815081508150814F814F814F814F814F814E814E814E814E814E814D814D814DC14D$
+       TILE $FFFFFFFF819D819C819C819C819B819B819B819A819A819A81998199C199819881988198819781978197819681968196819681958195819581948194819481938193C193819281EF81EE81EE81EE81ED81ED81ED81EC81EC81EC81EB81EBC1EB81EA81EA81EA81E981E981E981E881E881E881E781E781E781E681E681E681E581E581E581E4C1E481548153815381538153815281528152815281528151815181518151C1518150815081508150814F814F814F814F814F814E814E814E814E814E814D814D814DC14D$
+       TILE $FFFFFFFF819D819C819C819C819B819B819B819A819A819A81998199C199819881988198819781978197819681968196819681958195819581948194819481938193C193819281EF81EE81EE81EE81ED81ED81ED81EC81EC81EC81EB81EBC1EB81EA81EA81EA81E981E981E981E881E881E881E781E781E781E681E681E681E581E581E581E4C1E481548153815381538153815281528152815281528151815181518151C1518150815081508150814F814F814F814F814F814E814E814E814E814E814D814D814DC14D$
+       TILE $FFFFFFFF999D819C819CC99C819B819BC99B819A819AC99A81998199FD9981988198C99881978197C997819681968196E19681958195C99581948194C99481938193FD93999299EF81EE81EEC9EE81ED81EDC9ED81EC81ECC9EC81EB81EBFDEB81EA81EAC9EA81E981E9C9E981E881E8C9E881E781E7C9E781E681E6C9E681E581E5C9E581E4E5E49954815381538153E1538152815281528152F952815181518151AD51815081508150E150814F814F814F814FF94F814E814E814E814EF94E814D814D954D$
+       TILE $FFFFFFFF81928192819181918191819081908190818F818F818F818F818E818E818E818D818D818D818C818CC18C818B818B818B818A818A818A81898189818981888188C18881E481E381E381E381E281E281E281E181E181E181E081E081E081DF81DF81DF81DE81DE81DE81DD81DDC1DD81DC81DC81DC81DB81DB81DB81DA81DA81DA81D9C1D9814D814C814C814C814C814B814B814B814B814B814A814A814A814A814A81498149814981498148814881488148C14881478147814781478147814681468146C146$
+       TILE $FFFFFFFF81928192819181918191819081908190818F818F818F818F818E818E818E818D818D818D818C818CC18C818B818B818B818A818A818A81898189818981888188C18881E481E381E381E381E281E281E281E181E181E181E081E081E081DF81DF81DF81DE81DE81DE81DD81DDC1DD81DC81DC81DC81DB81DB81DB81DA81DA81DA81D9C1D9814D814C814C814C814C814B814B814B814B814B814A814A814A814A814A81498149814981498148814881488148C14881478147814781478147814681468146C146$
+       TILE $FFFFFFFF81928192819181918191819081908190818F818F818F818F818E818E818E818D818D818D818C818CC18C818B818B818B818A818A818A81898189818981888188C18881E481E381E381E381E281E281E281E181E181E181E081E081E081DF81DF81DF81DE81DE81DE81DD81DDC1DD81DC81DC81DC81DB81DB81DB81DA81DA81DA81D9C1D9814D814C814C814C814C814B814B814B814B814B814A814A814A814A814A81498149814981498148814881488148C14881478147814781478147814681468146C146$
+       TILE $FFFFFFFF81928192819181918191819081908190818F818F818F818F818E818E818E818D818D818D818C818CC18C818B818B818B818A818A818A81898189818981888188C18881E481E381E381E381E281E281E281E181E181E181E081E081E081DF81DF81DF81DE81DE81DE81DD81DDC1DD81DC81DC81DC81DB81DB81DB81DA81DA81DA81D9C1D9814D814C814C814C814C814B814B814B814B814B814A814A814A814A814A81498149814981498148814881488148C14881478147814781478147814681468146C146$
+       TILE $FFFFFFFF81928192819181918191819081908190818F818F818F818F818E818E818E818D818D818D818C818CC18C818B818B818B818A818A818A81898189818981888188C18881E481E381E381E381E281E281E281E181E181E181E081E081E081DF81DF81DF81DE81DE81DE81DD81DDC1DD81DC81DC81DC81DB81DB81DB81DA81DA81DA81D9C1D9814D814C814C814C814C814B814B814B814B814B814A814A814A814A814A81498149814981498148814881488148C14881478147814781478147814681468146C146$
+       TILE $FFFFFFFF81928192819181918191819081908190818F818F818F818F818E818E818E818D818D818D818C818CC18C818B818B818B818A818A818A81898189818981888188C18881E481E381E381E381E281E281E281E181E181E181E081E081E081DF81DF81DF81DE81DE81DE81DD81DDC1DD81DC81DC81DC81DB81DB81DB81DA81DA81DA81D9C1D9814D814C814C814C814C814B814B814B814B814B814A814A814A814A814A81498149814981498148814881488148C14881478147814781478147814681468146C146$
+       TILE $FFFFFFFF81928192819181918191819081908190818F818F818F818F818E818E818E818D818D818D818C818CC18C818B818B818B818A818A818A81898189818981888188C18881E481E381E381E381E281E281E281E181E181E181E081E081E081DF81DF81DF81DE81DE81DE81DD81DDC1DD81DC81DC81DC81DB81DB81DB81DA81DA81DA81D9C1D9814D814C814C814C814C814B814B814B814B814B814A814A814A814A814A81498149814981498148814881488148C14881478147814781478147814681468146C146$
+       TILE $FFFFFFFF8192B19281918191C99181908190C990818F818F818FE18F818E818EC98E818D818DC98D818C818CFD8C818B818BC98B818A818AC98A81898189C98981888188FD8899E481E381E3C9E381E281E2C9E281E181E1C9E181E081E0C9E081DF81DFC9DF81DE81DEC9DE81DD81DDFDDD81DC81DCC9DC81DB81DBC9DB81DA81DAC9DA81D9E5D9994D814C814C814CE14C814B814B814B814BF94B814A814A814A814AF94A814981498149E149814881488148AD488147814781478147F947814681469546$
+       TILE $FFFFFFFF8188C18881878187818781868186818681858185C1858184818481848183818381838182818281828181818181818181818081808180817F817F817F817E817EC17EC17D81D9C1D981D881D881D881D781D781D781D681D6C1D681D581D581D581D481D481D481D381D381D381D281D281D281D281D181D181D181D081D081D081CF81CFC1CFC1CE8146C14681458145814581458144814481448144C1448143814381438143814381428142814281428141814181418141814181408140814081408140813F813F813F$
+       TILE $FFFFFFFF8188C18881878187818781868186818681858185C1858184818481848183818381838182818281828181818181818181818081808180817F817F817F817E817EC17EC17D81D9C1D981D881D881D881D781D781D781D681D6C1D681D581D581D581D481D481D481D381D381D381D281D281D281D281D181D181D181D081D081D081CF81CFC1CFC1CE8146C14681458145814581458144814481448144C1448143814381438143814381428142814281428141814181418141814181408140814081408140813F813F813F$
+       TILE $FFFFFFFF8188C18881878187818781868186818681858185C1858184818481848183818381838182818281828181818181818181818081808180817F817F817F817E817EC17EC17D81D9C1D981D881D881D881D781D781D781D681D6C1D681D581D581D581D481D481D481D381D381D381D281D281D281D281D181D181D181D081D081D081CF81CFC1CFC1CE8146C14681458145814581458144814481448144C1448143814381438143814381428142814281428141814181418141814181408140814081408140813F813F813F$
+       TILE $FFFFFFFF8188C18881878187818781868186818681858185C1858184818481848183818381838182818281828181818181818181818081808180817F817F817F817E817EC17EC17D81D9C1D981D881D881D881D781D781D781D681D6C1D681D581D581D581D481D481D481D381D381D381D281D281D281D281D181D181D181D081D081D081CF81CFC1CFC1CE8146C14681458145814581458144814481448144C1448143814381438143814381428142814281428141814181418141814181408140814081408140813F813F813F$
+       TILE $FFFFFFFF8188C18881878187818781868186818681858185C1858184818481848183818381838182818281828181818181818181818081808180817F817F817F817E817EC17EC17D81D9C1D981D881D881D881D781D781D781D681D6C1D681D581D581D581D481D481D481D381D381D381D281D281D281D281D181D181D181D081D081D081CF81CFC1CFC1CE8146C14681458145814581458144814481448144C1448143814381438143814381428142814281428141814181418141814181408140814081408140813F813F813F$
+       TILE $FFFFFFFF8188C18881878187818781868186818681858185C1858184818481848183818381838182818281828181818181818181818081808180817F817F817F817E817EC17EC17D81D9C1D981D881D881D881D781D781D781D681D6C1D681D581D581D581D481D481D481D381D381D381D281D281D281D281D181D181D181D081D081D081CF81CFC1CFC1CE8146C14681458145814581458144814481448144C1448143814381438143814381428142814281428141814181418141814181408140814081408140813F813F813F$
+       TILE $FFFFFFFF8188C18881878187818781868186818681858185C1858184818481848183818381838182818281828181818181818181818081808180817F817F817F817E817EC17EC17D81D9C1D981D881D881D881D781D781D781D681D6C1D681D581D581D581D481D481D481D381D381D381D281D281D281D281D181D181D181D081D081D081CF81CFC1CFC1CE8146C14681458145814581458144814481448144C1448143814381438143814381428142814281428141814181418141814181408140814081408140813F813F813F$
+       TILE $FFFFFFFF8188E58881878187C98781868186C98681858185FD8581848184C98481838183C98381828182C982818181818181E18181808180C980817F817FC97F817E817EFD7ECD7D81D9E5D981D881D8C9D881D781D7C9D781D681D6FDD681D581D5C9D581D481D4C9D481D381D3C9D381D281D281D2E1D281D181D1C9D181D081D0C9D081CF81CFFDCFCDCE8146E546814581458145E145814481448144AD448143814381438143F943814281428142E1428141814181418141F9418140814081408140F940813F813FC93F$
+       TILE $FFFFFFFF817D817DC17D817C817C817C817B817B817B817B817A817A817A81798179817981788178817881778177C1778176817681768175817581758174817481748174817381CE81CEC1CE81CD81CD81CD81CC81CC81CC81CB81CB81CB81CA81CA81CA81C981C981C981C881C8C1C881C781C781C781C681C681C681C581C581C581C481C481C4813FC13F813E813E813E813E813D813D813D813D813D813C813C813C813C813C813B813B813B813BC13B813A813A813A813A81398139813981398139813881388138$
+       TILE $FFFFFFFF817D817DC17D817C817C817C817B817B817B817B817A817A817A81798179817981788178817881778177C1778176817681768175817581758174817481748174817381CE81CEC1CE81CD81CD81CD81CC81CC81CC81CB81CB81CB81CA81CA81CA81C981C981C981C881C8C1C881C781C781C781C681C681C681C581C581C581C481C481C4813FC13F813E813E813E813E813D813D813D813D813D813C813C813C813C813C813B813B813B813BC13B813A813A813A813A81398139813981398139813881388138$
+       TILE $FFFFFFFF817D817DC17D817C817C817C817B817B817B817B817A817A817A81798179817981788178817881778177C1778176817681768175817581758174817481748174817381CE81CEC1CE81CD81CD81CD81CC81CC81CC81CB81CB81CB81CA81CA81CA81C981C981C981C881C8C1C881C781C781C781C681C681C681C581C581C581C481C481C4813FC13F813E813E813E813E813D813D813D813D813D813C813C813C813C813C813B813B813B813BC13B813A813A813A813A81398139813981398139813881388138$
+       TILE $FFFFFFFF817D817DC17D817C817C817C817B817B817B817B817A817A817A81798179817981788178817881778177C1778176817681768175817581758174817481748174817381CE81CEC1CE81CD81CD81CD81CC81CC81CC81CB81CB81CB81CA81CA81CA81C981C981C981C881C8C1C881C781C781C781C681C681C681C581C581C581C481C481C4813FC13F813E813E813E813E813D813D813D813D813D813C813C813C813C813C813B813B813B813BC13B813A813A813A813A81398139813981398139813881388138$
+       TILE $FFFFFFFF817D817DC17D817C817C817C817B817B817B817B817A817A817A81798179817981788178817881778177C1778176817681768175817581758174817481748174817381CE81CEC1CE81CD81CD81CD81CC81CC81CC81CB81CB81CB81CA81CA81CA81C981C981C981C881C8C1C881C781C781C781C681C681C681C581C581C581C481C481C4813FC13F813E813E813E813E813D813D813D813D813D813C813C813C813C813C813B813B813B813BC13B813A813A813A813A81398139813981398139813881388138$
+       TILE $FFFFFFFF817D817DC17D817C817C817C817B817B817B817B817A817A817A81798179817981788178817881778177C1778176817681768175817581758174817481748174817381CE81CEC1CE81CD81CD81CD81CC81CC81CC81CB81CB81CB81CA81CA81CA81C981C981C981C881C8C1C881C781C781C781C681C681C681C581C581C581C481C481C4813FC13F813E813E813E813E813D813D813D813D813D813C813C813C813C813C813B813B813B813BC13B813A813A813A813A81398139813981398139813881388138$
+       TILE $FFFFFFFF817D817DC17D817C817C817C817B817B817B817B817A817A817A81798179817981788178817881778177C1778176817681768175817581758174817481748174817381CE81CEC1CE81CD81CD81CD81CC81CC81CC81CB81CB81CB81CA81CA81CA81C981C981C981C881C8C1C881C781C781C781C681C681C681C581C581C581C481C481C4813FC13F813E813E813E813E813D813D813D813D813D813C813C813C813C813C813B813B813B813BC13B813A813A813A813A81398139813981398139813881388138$
+       TILE $FFFFFFFF817D817DFD7D817C817CC97C817B817B817BE17B817A817AC97A81798179C97981788178C97881778177FD7781768176C97681758175C975817481748174E174997381CE81CEFDCE81CD81CDC9CD81CC81CCC9CC81CB81CBC9CB81CA81CAC9CA81C981C9C9C981C881C8FDC881C781C7C9C781C681C6C9C681C581C5C9C581C481C4C9C4813FE53F813E813E813EE13E813D813D813D813DF93D813C813C813C813CF93C813B813B813BAD3B813A813A813AE13A8139813981398139F93981388138C938$
+       TILE $FFFFFFFF8173817381728172817281718171C171817081708170816F816F816F816E816E816E816D816D816D816D816C816C816C816B816B816B816A816AC16A81698169816981C381C381C381C281C281C281C181C1C1C181C081C081C081BF81BF81BF81BE81BE81BE81BD81BD81BD81BC81BC81BC81BB81BB81BB81BA81BAC1BA81B981B981B98138813881378137813781378136813681368136C136813581358135813581358134813481348134813481338133813381338132813281328132C132813181318131$
+       TILE $FFFFFFFF8173817381728172817281718171C171817081708170816F816F816F816E816E816E816D816D816D816D816C816C816C816B816B816B816A816AC16A81698169816981C381C381C381C281C281C281C181C1C1C181C081C081C081BF81BF81BF81BE81BE81BE81BD81BD81BD81BC81BC81BC81BB81BB81BB81BA81BAC1BA81B981B981B98138813881378137813781378136813681368136C136813581358135813581358134813481348134813481338133813381338132813281328132C132813181318131$
+       TILE $FFFFFFFF8173817381728172817281718171C171817081708170816F816F816F816E816E816E816D816D816D816D816C816C816C816B816B816B816A816AC16A81698169816981C381C381C381C281C281C281C181C1C1C181C081C081C081BF81BF81BF81BE81BE81BE81BD81BD81BD81BC81BC81BC81BB81BB81BB81BA81BAC1BA81B981B981B98138813881378137813781378136813681368136C136813581358135813581358134813481348134813481338133813381338132813281328132C132813181318131$
+       TILE $FFFFFFFF8173817381728172817281718171C171817081708170816F816F816F816E816E816E816D816D816D816D816C816C816C816B816B816B816A816AC16A81698169816981C381C381C381C281C281C281C181C1C1C181C081C081C081BF81BF81BF81BE81BE81BE81BD81BD81BD81BC81BC81BC81BB81BB81BB81BA81BAC1BA81B981B981B98138813881378137813781378136813681368136C136813581358135813581358134813481348134813481338133813381338132813281328132C132813181318131$
+       TILE $FFFFFFFF8173817381728172817281718171C171817081708170816F816F816F816E816E816E816D816D816D816D816C816C816C816B816B816B816A816AC16A81698169816981C381C381C381C281C281C281C181C1C1C181C081C081C081BF81BF81BF81BE81BE81BE81BD81BD81BD81BC81BC81BC81BB81BB81BB81BA81BAC1BA81B981B981B98138813881378137813781378136813681368136C136813581358135813581358134813481348134813481338133813381338132813281328132C132813181318131$
+       TILE $FFFFFFFF8173817381728172817281718171C171817081708170816F816F816F816E816E816E816D816D816D816D816C816C816C816B816B816B816A816AC16A81698169816981C381C381C381C281C281C281C181C1C1C181C081C081C081BF81BF81BF81BE81BE81BE81BD81BD81BD81BC81BC81BC81BB81BB81BB81BA81BAC1BA81B981B981B98138813881378137813781378136813681368136C136813581358135813581358134813481348134813481338133813381338132813281328132C132813181318131$
+       TILE $FFFFFFFF8173817381728172817281718171C171817081708170816F816F816F816E816E816E816D816D816D816D816C816C816C816B816B816B816A816AC16A81698169816981C381C381C381C281C281C281C181C1C1C181C081C081C081BF81BF81BF81BE81BE81BE81BD81BD81BD81BC81BC81BC81BB81BB81BB81BA81BAC1BA81B981B981B98138813881378137813781378136813681368136C136813581358135813581358134813481348134813481338133813381338132813281328132C132813181318131$
+       TILE $FFFFFFFF8173B17381728172C97281718171FD7181708170C970816F816FC96F816E816EC96E816D816D816DE16D816C816CC96C816B816BC96B816A816AFD6A81698169C96981C381C3C9C381C281C2C9C281C181C1FDC181C081C0C9C081BF81BFC9BF81BE81BEC9BE81BD81BDC9BD81BC81BCC9BC81BB81BBC9BB81BA81BAFDBA81B981B9C9B98138B138813781378137E137813681368136AD368135813581358135F9358134813481348134F934813381338133E133813281328132AD3281318131C931$
+       TILE $FFFFFFFF816881688168816781678167816681668166816681658165816581648164816481638163C1638162816281628161816181618160816081608160815F815F815FC15E81B881B881B881B781B781B781B681B681B681B681B581B581B581B481B481B481B381B3C1B381B281B281B281B181B181B181B081B081B081AF81AF81AF81AEC1AE813181318130813081308130812F812F812F812F812F812E812E812E812E812E812D812D812D812DC12D812C812C812C812C812B812B812B812B812B812A812AC12A$
+       TILE $FFFFFFFF816881688168816781678167816681668166816681658165816581648164816481638163C1638162816281628161816181618160816081608160815F815F815FC15E81B881B881B881B781B781B781B681B681B681B681B581B581B581B481B481B481B381B3C1B381B281B281B281B181B181B181B081B081B081AF81AF81AF81AEC1AE813181318130813081308130812F812F812F812F812F812E812E812E812E812E812D812D812D812DC12D812C812C812C812C812B812B812B812B812B812A812AC12A$
+       TILE $FFFFFFFF816881688168816781678167816681668166816681658165816581648164816481638163C1638162816281628161816181618160816081608160815F815F815FC15E81B881B881B881B781B781B781B681B681B681B681B581B581B581B481B481B481B381B3C1B381B281B281B281B181B181B181B081B081B081AF81AF81AF81AEC1AE813181318130813081308130812F812F812F812F812F812E812E812E812E812E812D812D812D812DC12D812C812C812C812C812B812B812B812B812B812A812AC12A$
+       TILE $FFFFFFFF816881688168816781678167816681668166816681658165816581648164816481638163C1638162816281628161816181618160816081608160815F815F815FC15E81B881B881B881B781B781B781B681B681B681B681B581B581B581B481B481B481B381B3C1B381B281B281B281B181B181B181B081B081B081AF81AF81AF81AEC1AE813181318130813081308130812F812F812F812F812F812E812E812E812E812E812D812D812D812DC12D812C812C812C812C812B812B812B812B812B812A812AC12A$
+       TILE $FFFFFFFF816881688168816781678167816681668166816681658165816581648164816481638163C1638162816281628161816181618160816081608160815F815F815FC15E81B881B881B881B781B781B781B681B681B681B681B581B581B581B481B481B481B381B3C1B381B281B281B281B181B181B181B081B081B081AF81AF81AF81AEC1AE813181318130813081308130812F812F812F812F812F812E812E812E812E812E812D812D812D812DC12D812C812C812C812C812B812B812B812B812B812A812AC12A$
+       TILE $FFFFFFFF816881688168816781678167816681668166816681658165816581648164816481638163C1638162816281628161816181618160816081608160815F815F815FC15E81B881B881B881B781B781B781B681B681B681B681B581B581B581B481B481B481B381B3C1B381B281B281B281B181B181B181B081B081B081AF81AF81AF81AEC1AE813181318130813081308130812F812F812F812F812F812E812E812E812E812E812D812D812D812DC12D812C812C812C812C812B812B812B812B812B812A812AC12A$
+       TILE $FFFFFFFF816881688168816781678167816681668166816681658165816581648164816481638163C1638162816281628161816181618160816081608160815F815F815FC15E81B881B881B881B781B781B781B681B681B681B681B581B581B581B481B481B481B381B3C1B381B281B281B281B181B181B181B081B081B081AF81AF81AF81AEC1AE813181318130813081308130812F812F812F812F812F812E812E812E812E812E812D812D812D812DC12D812C812C812C812C812B812B812B812B812B812A812AC12A$
+       TILE $FFFFFFFF81688168C96881678167C967816681668166E16681658165C96581648164C96481638163FD6381628162C96281618161C961816081608160E160815F815FC95FCD5E81B881B8C9B881B781B7C9B781B681B681B6E1B681B581B5C9B581B481B4C9B481B381B3FDB381B281B2C9B281B181B1C9B181B081B0C9B081AF81AFC9AF81AEE5AE8131B131813081308130E130812F812F812F812FF92F812E812E812E812EF92E812D812D812DAD2D812C812C812CE12C812B812B812B812BF92B812A812AFD2A$
+       TILE $FFFFFFFF815E815EC15E815D815D815D815C815CC15C815B815B815B815A815A815A815981598159815981588158815881578157815781568156C15681558155815581548154C15481AEC1AE81AD81AD81AD81AC81ACC1AC81AB81AB81AB81AA81AA81AA81A981A981A981A881A881A881A781A781A781A681A681A681A581A5C1A581A481A481A481A3C1A3812A812AC12A8129812981298129C1298128812881288128812781278127812781278126812681268126812681258125812581258124812481248124C12481238123C123$
+       TILE $FFFFFFFF815E815EC15E815D815D815D815C815CC15C815B815B815B815A815A815A815981598159815981588158815881578157815781568156C15681558155815581548154C15481AEC1AE81AD81AD81AD81AC81ACC1AC81AB81AB81AB81AA81AA81AA81A981A981A981A881A881A881A781A781A781A681A681A681A581A5C1A581A481A481A481A3C1A3812A812AC12A8129812981298129C1298128812881288128812781278127812781278126812681268126812681258125812581258124812481248124C12481238123C123$
+       TILE $FFFFFFFF815E815EC15E815D815D815D815C815CC15C815B815B815B815A815A815A815981598159815981588158815881578157815781568156C15681558155815581548154C15481AEC1AE81AD81AD81AD81AC81ACC1AC81AB81AB81AB81AA81AA81AA81A981A981A981A881A881A881A781A781A781A681A681A681A581A5C1A581A481A481A481A3C1A3812A812AC12A8129812981298129C1298128812881288128812781278127812781278126812681268126812681258125812581258124812481248124C12481238123C123$
+       TILE $FFFFFFFF815E815EC15E815D815D815D815C815CC15C815B815B815B815A815A815A815981598159815981588158815881578157815781568156C15681558155815581548154C15481AEC1AE81AD81AD81AD81AC81ACC1AC81AB81AB81AB81AA81AA81AA81A981A981A981A881A881A881A781A781A781A681A681A681A581A5C1A581A481A481A481A3C1A3812A812AC12A8129812981298129C1298128812881288128812781278127812781278126812681268126812681258125812581258124812481248124C12481238123C123$
+       TILE $FFFFFFFF815E815EC15E815D815D815D815C815CC15C815B815B815B815A815A815A815981598159815981588158815881578157815781568156C15681558155815581548154C15481AEC1AE81AD81AD81AD81AC81ACC1AC81AB81AB81AB81AA81AA81AA81A981A981A981A881A881A881A781A781A781A681A681A681A581A5C1A581A481A481A481A3C1A3812A812AC12A8129812981298129C1298128812881288128812781278127812781278126812681268126812681258125812581258124812481248124C12481238123C123$
+       TILE $FFFFFFFF815E815EC15E815D815D815D815C815CC15C815B815B815B815A815A815A815981598159815981588158815881578157815781568156C15681558155815581548154C15481AEC1AE81AD81AD81AD81AC81ACC1AC81AB81AB81AB81AA81AA81AA81A981A981A981A881A881A881A781A781A781A681A681A681A581A5C1A581A481A481A481A3C1A3812A812AC12A8129812981298129C1298128812881288128812781278127812781278126812681268126812681258125812581258124812481248124C12481238123C123$
+       TILE $FFFFFFFF815E815EC15E815D815D815D815C815CC15C815B815B815B815A815A815A815981598159815981588158815881578157815781568156C15681558155815581548154C15481AEC1AE81AD81AD81AD81AC81ACC1AC81AB81AB81AB81AA81AA81AA81A981A981A981A881A881A881A781A781A781A681A681A681A581A5C1A581A481A481A481A3C1A3812A812AC12A8129812981298129C1298128812881288128812781278127812781278126812681268126812681258125812581258124812481248124C12481238123C123$
+       TILE $FFFFFFFF815E815EFD5E815D815DC95D815C815CFD5C815B815BC95B815A815AC95A815981598159E15981588158C95881578157C95781568156FD5681558155C95581548154FD5481AEE5AE81AD81ADC9AD81AC81ACFDAC81AB81ABC9AB81AA81AAC9AA81A981A9C9A981A881A8C9A881A781A7C9A781A681A6C9A681A581A5FDA581A481A4C9A481A3E5A3812A812AFD2A812981298129AD29812881288128E1288127812781278127F9278126812681268126F926812581258125E125812481248124AD2481238123FD23$
+       TILE $FFFFFFFFC1548153815381538152815281528152815181518151815081508150814F814FC14F814E814E814E814D814D814D814C814C814C814C81A3C1A381A281A281A281A181A181A181A081A081A0819F819F819F819E819EC19E819D819D819D819C819C819C819B819B819B819B81238123C1238122812281228122812281218121812181218120812081208120C120811F811F811F811F811F811E811E811E811E811E$
+       TILE $FFFFFFFFC1548153815381538152815281528152815181518151815081508150814F814FC14F814E814E814E814D814D814D814C814C814C814C81A3C1A381A281A281A281A181A181A181A081A081A0819F819F819F819E819EC19E819D819D819D819C819C819C819B819B819B819B81238123C1238122812281228122812281218121812181218120812081208120C120811F811F811F811F811F811E811E811E811E811E$
+       TILE $FFFFFFFFC1548153815381538152815281528152815181518151815081508150814F814FC14F814E814E814E814D814D814D814C814C814C814C81A3C1A381A281A281A281A181A181A181A081A081A0819F819F819F819E819EC19E819D819D819D819C819C819C819B819B819B819B81238123C1238122812281228122812281218121812181218120812081208120C120811F811F811F811F811F811E811E811E811E811E$
+       TILE $FFFFFFFFC1548153815381538152815281528152815181518151815081508150814F814FC14F814E814E814E814D814D814D814C814C814C814C81A3C1A381A281A281A281A181A181A181A081A081A0819F819F819F819E819EC19E819D819D819D819C819C819C819B819B819B819B81238123C1238122812281228122812281218121812181218120812081208120C120811F811F811F811F811F811E811E811E811E811E$
+       TILE $FFFFFFFFC1548153815381538152815281528152815181518151815081508150814F814FC14F814E814E814E814D814D814D814C814C814C814C81A3C1A381A281A281A281A181A181A181A081A081A0819F819F819F819E819EC19E819D819D819D819C819C819C819B819B819B819B81238123C1238122812281228122812281218121812181218120812081208120C120811F811F811F811F811F811E811E811E811E811E$
+       TILE $FFFFFFFFC1548153815381538152815281528152815181518151815081508150814F814FC14F814E814E814E814D814D814D814C814C814C814C81A3C1A381A281A281A281A181A181A181A081A081A0819F819F819F819E819EC19E819D819D819D819C819C819C819B819B819B819B81238123C1238122812281228122812281218121812181218120812081208120C120811F811F811F811F811F811E811E811E811E811E$
+       TILE $FFFFFFFFC1548153815381538152815281528152815181518151815081508150814F814FC14F814E814E814E814D814D814D814C814C814C814C81A3C1A381A281A281A281A181A181A181A081A081A0819F819F819F819E819EC19E819D819D819D819C819C819C819B819B819B819B81238123C1238122812281228122812281218121812181218120812081208120C120811F811F811F811F811F811E811E811E811E811E$
+       TILE $FFFFFFFFCD5481538153C953815281528152E15281518151C95181508150C950814F814FFD4F814E814EC94E814D814DC94D814C814C814CE14C81A3E5A381A281A2C9A281A181A1C9A181A081A0C9A0819F819FC99F819E819EFD9E819D819DC99D819C819CC99C819B819B819BE19B81238123FD238122812281228122F922812181218121E121812081208120AD20811F811F811F811FF91F811E811E811E811EF91E$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

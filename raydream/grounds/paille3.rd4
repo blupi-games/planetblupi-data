@@ -1,0 +1,2480 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 120
+  heig 60
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 0
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra Jeu"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\RAYDREAM\\Blupi3d.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra Jeu"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 11
+     locV 777
+     sizH 975
+     sizV 305
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 13
+     locV 22
+     sizH 973
+     sizV 719
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra Jeu"
+ ShLv 3
+ Zoom 7
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 121,0,823,956
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 25,25,54,171
+  dbnd 0,0,0,0
+  nbnd 25,25,54,171
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,420,56
+  dbnd 0,0,0,0
+  nbnd 62,4,457,35
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 1
+   }
+  }
+ }
+sc {
+ nm "paille2"
+ nxtL 1
+ nxtC 2
+ nxtG 0
+ nxtO 0
+ ob {
+  cyli {
+   prim {
+    cyli {
+     }
+    }
+   nm "Cylindre"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  COfl {
+   prim {
+    COfl {
+     }
+    }
+   nm "Flat Surface"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,20,20
+      mbox 0,0,20,20
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 34.94893,34.94893,15.26497
+      mat -0.7067,-0.40891,0.5773,0.70743,-0.40787,0.57712,-0.00052,0.81631,0.57758
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      dist {
+       colo 0.5,0.5,0.5
+       brit 1
+       shad 1
+       dire 0.57735,0.57735,0.57735
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 15.00005,-0.00002,0
+      mat 0.00049,-0.70746,0.70673,0.99994,0.00049,-0.00018,-0.00018,0.70673,0.70752
+      }
+     only 0
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 0,0,-15.00005
+      Scal 0.4921
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,20,20
+        mbox 0,0,20,20
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 2
+             intp 1
+             invC 0
+             }
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "08:03:232156717"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Flat Surface"
+     }
+    ca {
+     nm "Caméra Jeu"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 19.68384,19.68384,0.96448
+      mat -0.70679,-0.35413,0.61234,0.70734,-0.35318,0.61221,-0.00052,0.86588,0.50021
+      }
+     proj {
+      iso {
+       zoom 7.41045
+       }
+      }
+     cc 1
+     size 98.64844,65.76012
+     ofst 0.63997,-0.00014
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.83817,-5.99187,-14.78868
+      mat 1,0,0,0,0.00092,-1,0,1,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06656
+       ScaZ 0.99904
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 2.63539,3.47353,-14.81345
+      mat 0.86488,0.00046,-0.50197,-0.50197,0.00079,-0.86488,0,1,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.05794
+       ScaZ 0.45554
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.73761,3.61639,-14.81345
+      mat 0.69417,0.00066,-0.71982,-0.71982,0.00063,-0.69415,0,1,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.05794
+       ScaZ 0.45554
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -1.52922,-1.94818,-14.81345
+      mat 0.94057,0.00031,-0.33958,-0.33958,0.00085,-0.94057,0,1,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.05794
+       ScaZ 0.45554
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.34818,2.13022,-14.81345
+      mat 1,0,0,0,0.00092,-1,0,1,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.05794
+       ScaZ 0.45554
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -3.42433,2.8764,-14.81345
+      mat 1,0,0,0,0.00092,-1,0,1,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.05794
+       ScaZ 0.45554
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,3.66666,6.28319
+        mbox 0,0,3.66666,6.28319
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 0.40915,-2.85909,-14.81345
+      mat 1,0,0,0,0.00092,-1,0,1,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.05794
+       ScaZ 0.45554
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 5.36613,-0.41106,-14.81346
+      mat -0.0148,0.00085,-0.99988,-0.99988,0.00003,0.0148,0,0.99997,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.05794
+       ScaZ 0.45554
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -3.35307,-0.4315,-14.81375
+      mat -0.0148,0.00085,-0.99988,-0.99988,0.00003,0.0148,0,0.99997,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.07791
+       ScaY 0.05766
+       ScaZ 0.8083
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,3.66666,6.28319
+        mbox 0,0,3.66666,6.28319
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -2.50255,0.82866,-14.82242
+      mat 0.15887,0.00085,-0.98724,-0.98724,0.00031,-0.15881,0.00006,0.99994,0.00098
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.72324
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.34634,-0.50237,-14.83858
+      mat 0.88388,-0.00046,0.46771,0.46773,0.00079,-0.88388,0.00003,1,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.72324
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 2.23073,-3.43965,-15.01941
+      mat -0.30882,0.00095,-0.95113,-0.95113,-0.00024,0.30882,0.00006,1,0.00098
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.72324
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 1.94533,-2.61543,-14.82242
+      mat -0.9899,0.0002,-0.1418,-0.1418,-0.00095,0.9899,0.00006,1,0.00098
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.72324
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 2.31682,3.1702,-14.82242
+      mat 0.15887,0.00085,-0.98724,-0.98724,0.00031,-0.15881,0.00006,0.99994,0.00098
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.72324
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 3.70819,-0.65363,-14.82242
+      mat -0.9733,-0.00064,0.2294,0.2294,-0.00067,0.97333,-0.00046,1,0.00089
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.72324
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 2.6113,1.13202,-14.82242
+      mat 0.15887,0.00085,-0.98724,-0.98724,0.00031,-0.15881,0.00006,0.99994,0.00098
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.72324
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.60233,3.78334,-14.82242
+      mat -0.18839,0.00098,-0.9821,-0.9821,-0.00009,0.18839,0.00009,1,0.00098
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.72324
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.80421,-1.84552,-14.82242
+      mat 0.15887,0.00085,-0.98724,-0.98724,0.00031,-0.15881,0.00006,0.99994,0.00098
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.72324
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -4.54099,-2.8824,-14.80548
+      mat 0.38135,-0.00082,0.92441,0.92441,0.00046,-0.38132,-0.00009,0.99997,0.00095
+      }
+     defo {
+      affi {
+       ScaX 0.08376
+       ScaY 0.06064
+       ScaZ 0.47076
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -4.80211,2.90088,-14.8053
+      mat -0.75076,-0.00064,0.66031,0.66031,-0.00043,0.75085,-0.00015,0.99994,0.00095
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.73946
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 4.89752,3.06975,-14.80579
+      mat -0.75076,-0.00064,0.66031,0.66031,-0.00043,0.75085,-0.00015,0.99994,0.00095
+      }
+     defo {
+      affi {
+       ScaX 0.07491
+       ScaY 0.06071
+       ScaZ 0.92787
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,3.66666,6.28319
+        mbox 0,0,3.66666,6.28319
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 6.06,-3.14766,-14.8053
+      mat 0.38135,-0.00082,0.92441,0.92441,0.00046,-0.38132,-0.00009,0.99997,0.00095
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06087
+       ScaZ 0.73946
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 1.08061,0.25136,-14.78867
+      mat 0.43993,-0.00084,0.89804,0.89804,0.00049,-0.43993,-0.00006,1,0.00098
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06656
+       ScaZ 0.99904
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.8382,6.72881,-14.7887
+      mat 1,0,0,0,0.00092,-1,0,1,0.00092
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06656
+       ScaZ 0.99904
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -3.15846,-2.40469,-14.8051
+      mat 0.88156,-0.00035,0.47206,0.47206,0.00092,-0.88156,-0.00012,1,0.00098
+      }
+     defo {
+      affi {
+       ScaX 0.08043
+       ScaY 0.06081
+       ScaZ 0.64211
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.88672,0.61327,0.10938
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    }
+   boxM 37.5531,37.55287,17.06807
+   boxm -6.20432,-4.99649,-15.2038
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "08:03:232156717"
+      }
+     DATA {
+      stor 0
+      w 90
+      h 88
+      dpth 32
+      tils 64,64
+      TDTA {
+       TILE $FFFFFFFFFFD7FCD524D2D4D2D1C7C1BBB7BBB9B0A59FA6AAB0C1CBBBACA8B6BBB7BDC7CDC9C6BFBBBDBBBBBFC7CEFDDB03D4CDCDD2FDDC01DBD1FECD02CED4D1FED7FFD5FFD2FED106CDC6B9B4B0B6B4FDAAFFA61DB6C3C9C1C1C7C4B6B6BFCBCEC7C3BBBDB9B7BFC3C9D4DBDCDCD4CDC9CDD2FDDC03D7D1CECEFED124DBD9D7D5D5D4CECED1D4D4C9BDB6B4B4B1B1B4B4B0A8A2A6B9BFC3CDD9CBC3B6B7C7D4D7C9FEC3FFC114C3C6CECED4DCD9CDC7C7CBCED7D9DBD7D4D4D2D5DBFEDC44D9D7D5D4D2D1D1D5DBD2C9C1BFBFBBB9B7B6B9B0AAA8B0B7B6BBD5DCCBC3BBC3D5DCD7CECEC9C7C9C6C6C7C9CED5D9D1CBC7CBCDD4D5D2D5D5D2D5D4DBDCDBDCDCDBD9D9D7FED428D7D5D2CDCBCDCBC3BFB6B6B7BBB9BFB7AAB0C9D7DCD7C9C1C9D9DCDCD4CBC9C9C7C4BFC3C7D2D5D9D2FECE0BD7D4D2D4D5D2D1D4D7DBD5D9FEDC03D9DBD7D7FDD501D1CBFECE14C6BBB6B7B9B9C3B9A1A1B9CED5DBD7C3C1CEDCDCD7FEC701CBC4FEBF14C9D2D9DCD5D4D9D7D7D9D7D7D5D4D2D5D9D4D5D7DBFEDC00DBFED72AD5D4D2C9C9D2D4D2C4BBB9B1B4BDBDA69FACBDCED4D1CECDD2D7D7D4CBC9CDCECBC6C1BBC1C9D7D9DBD4D7FDD9FEDCFFD705D9D4D5D7D7DBFEDC01DBD7FDD516CDC7CBD1D1C7BFB7B4B7BFC3B1ACACB4BDCBCBC6C6CECEFCD115D4D2D1CDBFBDC1CDD5D2CBD1D2D7D5D7DBDCDCDBD9D9FED502D9DCDCFEDBFFD7FFD93CD7D2CDC9C9CDCDC6BFBDC3CECEC1B6B1B7BBC3B4B0B0B4B9C3D1D2D4C7D1D4D2D1C9BFC1CDD2CDC6CBCECBCBCED5DBDCD7D5D2DBD7D5D9D9DCDBDBD7D7FDDC25D4D1CDCDCED1D2CDCBCDD9DCC9BDBBC1C9C4B4A6A2A8ACB4B7C7BFB9BFC3CDD4D4C7C9D1D5D5FECD12C9C6C7CDD2D5D5D4D1D4D7D5D9D7D9D9D7D5D7FEDC2DDBD9D4D2D4D4D2D4D2D4D5D5D9C9BBAEBDD5DBBDACA1A5A6A8A8AEACA8A6AEB7C9D1CBC9D4D7D7D4D1CDCBC6C4C9FECB7ED1CECBCED4D2D7DBD7D4D5D5DCDEDCDCD9D5D5D7DBD5CECECDCDD4D1C1B6ACB4C9DCDBC3B0A5A29F9FA1A5A19CA2A6BDCDCDC9C9D5DCD9D4C7C7CDD2D1CDC9C9CDD5C9CBCBCED4DBD9D5D4D5D7D9DCDBD5D5D9D9DBD9D5D2CECBD1D5CBC1BDBDBFCBDBDBD2BFB4A6A2A2A8A6A5A8AAAEBFC7C4BFC4CED4CEC4C4C9CDD7D7CD0DCDCED4CBCBC7CBD2D9DCD9D7D5D4FED7FFD508D7DBDCDBD7D7D4D1D7FED904D4C9BDB9C4FEDC01CBB7FEB127B6B9B7B1AAACBFC4BBB4BDC9C3BFBFC1C6D1D9D9D1CECED5D2D1CED1D4DBDBD7D7D4D5D4D7D5D7DBFEDCFFDBFFD9FDDB05DCDBB9B0B9CBFEDC10D7C1BDBFC6CDC6BBB1A5AEC3C3B7B9C6BBFEB918BBC7D1DBD9CECDDCD9D4CDCBD1D9DCDBD7D4D5D7D5D7D9DBD9FCDCFFD900DBFDDC0ABFB0B0C1DCDCC7BFC7D4D9FEDC1DD5C4B1B0BDC7C1C6D1C9BBB7B6B7BBC7D2DBD9CED2D9D2D1D1CED1D5DBDBFED7FFD5FFD702D5D7D7FEDC11D9D7D5D2D4DCDCC4B1B4C9DCD5B6ACB4C4D5FCDC2AD4CEC9BFC7DBDCDCD4CDC4B9B6B7CBD9DCD2C7C9C9CED1D1CBCED5D9D7D9D7D5D7D7D5D4D7D9DBDBD9DBD7FED10ED4D9C6BDB9CBDCC9B1A59FACB4B9D2FCDE03CDB6BFD2FDDE1AD4BFB4B4BDCDDED4C4C1C3C9D1CBC4C7CBD2D5D2D2D4D5D9D7D4D5FDD907DBD9D5D4CED5D9CEFEC309C6C1B4A69C9698A2B0C4FDDE04CEAAB0C1DCFDDE1DC6BBB6B9C7D2D1C4C1C1C4CDC9C3C3C6D2D1CDCED1D1D9D9D4D5D4D7D9D9FEDB1BD4D2DCDED4CBC7C4C6C7B7ACA196989DA2B1CDD9DEDED2B1A5B6C3DBFEDE18CBC3BFBBC4CDD1C6C1BFC4C9C7C3BFC6D2D5CDCDD1D1D2D4D4FDD2FFD9FFDBFFD7FEDE3DD4CBC7CBCEC3B6A8A2A8AAAEB4C9C1C9DEDBB9A5A8B7C9DEDED5C7C3C4C4C9D4DEC7C7C4C7C9C9C6BFC3D2D7D2CBC9D1D1CED1D2D1CED1D2D7DBDBD9D7D9FEDEFFCD69D4DECEC6BDB4B9B7B7BBB9B6C7D7DBC1AEA8B1C3D7D9C6C1C3C7CBD1DEDEC9C7CDD1DBD5C7BDC1C9D2D4CDCED1CECBCDD1D1CECED2D5DEDBD5D1D4DCDEDEDBD4DBDEDEDCCDC3C1C1B7B1AEB4BBCEDEDBBFBBBBD2DEDBC9C3C6C6C9CED5DEBDC1C9CEDBD5CDBBB9C1C7C9FECDFFCB23CDD1D1CECED1D2DCD9D2CDCED2D5DBD5CDCBDCDEDECEC7C4C3BDB4AEACAEC1D4DEDED7D9FEDE1CDBD5D2CBCBCED2DEBBBDBFC3D4D5CDC3B9BDC1C6C9CDCECDCBCED1D1CEFED1FFD716D2CEC9C7D1D4CEC7C3C9CBCBC7C6C4C3C3B9B1A8A6AEC1FEDE01D9DBFBDE16DBD2D4DEB7B9B7C1D4DBCECBC1BFC1C3C6CBCECBC9CBD1FECEFFD11FD5DCD2D1CBC9C9CBC7C1C3C1BFC1BDC3C4C6C4BBB4B0AAACB6CBDCD4C3C3D1DBFCDE3CD9D2D7B7B7B9C1DBDCDCD4C6C3C6C6C7D1CDC7C7C9C9C4C4C6CBD1DCDEDED5D2CDCBCBC9C7C3BFBFBDBDBBC1C9C9C3BFBDB4B0B1BDC9C7BDB7BFCBD2D9FEDE1BD2D1D5C1BBB9C1D1DCDCD5CEC9D2D2D4D4C7C4C3C6C9C7C3C1C7CDD5FDDE3CD5CECDCBCDCBCDC7C3BBBBC4D1CEC6C3C4BFB6B1B6C3C9BBB4B4B6B9C4D1D7D9D1C9D2C7BFB9BBC3C9D4D1CED5D9D5D5D7C6C4C4C9CBC7C6C4C4C6CDD1FDDE0CD9D1CBC9CED2D1C7C1BFC3D1DCFEC62CC9C7C4C4C6CDC6BDB4B6B6B9C1CBC7C6C7CED2C7BDB6B9C4C9CDCED4DCD7D5D5CDCBCDD4DED9CBC9C7C7C6C9D4FDDE35D4C9C9CBCBD2D1C4C1BFCBDECBC9CBDEDED4D4DEDED1C9BFBFBDBFC4CBC7C3C6D1D5CBC3BBBBBFC4C7CDD1DBDBD4CBC7CEDBDCDEDECDFECB03C6C4C7D5FEDE01D7CBFEC909C7D1CDC4C4C6CDC9C9D5F9DE26D5D4CEC6C9CDCECED2D2D5D4D2CBC4C4C9C3C9CED2DCCEC3BDC6CBDCDED9C9C9CED1C7C1C1CDD5FEDE10D1CDC9C7C3C4CBCDC9C6C3C1BFCEDEDED7F9DEFFCD37C9CDCED1D1D5D4D4D1C7C6CBCBC4C4C7D4CEC9BFC1C3CDDCD4C7C9D1DBC9C1C1C4C7C9D2D7DBD7D1C9C1C1C7D7DED1BDB4B7C3CBC7C4C9D4FBDE3CD7CECDC9CED1D2D5D4D2D1C9C7CDCDC7C3C1CDD4CEC9C3C3CBD1CEC7C9CDDCD1C9C6C4BFBFC1C7CBD9DECDC1BFC3D1DEDCC1B4B6BDC4C1BFC4C6C9D1D9FCDE18D1CDD1D2D1D2D5D2CDC9CBCBD2CDC6C4C7D1D4D7CECDCED2D1FECD1FDBDED4C9C6BFBDB9BBC3C9DED7C9C1BDC7DEDEC6BBB9BFC3C1C1BFC3C4C9D2D7FDDE0AD1CEC9CED1D9D4D2C7C6CBFECE21C9C6C6CBD7DCDCD9D7D9D4D2CECBD4DEDEDCD4CDC9C4BFC1C6D7DED2C9C1C4CDDEDEFEC101C9CBFCC7FED1FEDE14D1CBC6CDD4D9D4CDC6C7C6C9CDD1CDC6C4C9D1D9D9FDDC06D4CECECDD1D2DCFEDE1DD2C9C4CBD1D9DED4C9C4CBD5DED1C6BFC4CBDED5CECED9D9CEC7CBD2DBCDFEC91CCDD7D4CDCDC6C4C4C7D1CECBCBC7CBCECED4D5D9DBD7D1D1CECDCBC9D4FDDE05CDCBC7CBC9CEFECD5FD1DED2C6BBBDC3C6CECDD1DBDED1C4C3C9CDCBC9CDCECED2D2D1D9D4D2C9C7CDD1D1CECDCBCBCDD1D4D7D7D9D9D4D1CECBC6C9CDD7DEDECEC4C3C1BFBFC7CDCED1DEDEC9BFB9BDC1BFC1C7C7CDCEC4C3C4C7C9CDD7D9D7D1CED1CED5D7D2CED1FED244CECDCBCDD1D4D7D7D9DCDEDBD2CEC9C3C7C9D4D4C9C4C1C1BFBFBDBFC9CDD4DEDCCBC4C1C1C3C3C4C6C7CBCBC7C6C6C7CDD1D9DBD1D1CED1D2DBD7D4D1D2D4D5D2D4D7D9D5FED72FD5D7DBDED9D1CEC9C7CBCBCDCBC4C4C9CBC4BFBFC3C7CED4D7D9D5C9C7C4C6C7C4C4C6CED7D2D1CBC9C9CDCED4D1CECEFEDC0AD7D4D1D1D2D4D7D9DBDBD9FED5FFD7FFD903D7D4D1D1FDCB01C7C9FECB1AC7C3C1C3C9CED1D2D4CDC6C6D1D1CDCBC4C6CEDBDCCDC7C4C4C7CEFED112D2DCDCD9D2CECDCED4D4D7DBDBDCD7D5D7D5D5FED7FFD937D1CECECBCDD1CDCBCBCDD1CDCBC9CBCBD1D1CDC9C3C7CBD7D9CEC3C3BFCBDEDCC7C1C3C7C9CDCDCED2D4D9D4D1D2D1CDCECED5D5D9DBD5D5FBD7FFD901D7D4FDD108CDCBCBCDCED7D7D2D2FECE16C9C6C3BFC3C9D2C6BFBBB7BFCBDEDCC7C3C6C9CEC7C9CDFBD10ACDC9CBCED5D7DBDBDEDEDBFED7FFD903DCDEDBD7FED108CECBCDCDCED2D5DCD5FDCE16CDC3C1C1C7CBC4C1B1AEB4BFDBDED4C4C1CECDC9C6C7CBFECE09CDCECDC9C9CBD2D9D9DBFEDE02DBD9D9FED7FFDE07D9D7D4D4D1CEC9C9FECD07D2D9D1CED7D7D5D2FECB12CDC9C6B6AAAEBBCBDEDEC1BBD5D2C7C4C7C7C9FECD0ED1CECECBCBD1D2D7D7DBDEDCDBD9D9FED710D9DBD9D7D9D9D5D1CBCDCDCBCBCED7D9D7FDDE13D9DCDED9CBC6BFACA6B1C7DEDECBC1D9D7C9C4C7FED139CDCED1DBD9D1CED1D2D4D5D7D9D9D7D9D9D7D7D5D5D9D7D7D9D9D4CDCBCDD1CECED2D7DED9DCDEDEDCDCDEDEDBD4D1C4B4A6A8BDD5DEDBC9D2D5FECD05D2DBDBD2D1D2FEDC00D2FED1FFD207D4D7D5D5DBD9D5D4FED7FFD5FFD72CD1CECDCBCDCED4D9DED9D9DED5D1D1DBDEDBD5D7D7C4B0A2ACBDD5CDBFCBCDCDCECBCBD7DBDBD2CBD1D4D2D1CEFCD2FFD4FFD7FFD505D4D1D5D7D5D5FED725D5D2CDCECDD2D4D5D2D7D9D1CDCBCED5D7D5DCDED5C3ACAAB6BFB9B6D9D2CED1CBC7C7DBDBD9FDCBFFC905CED2D4D2D2D4FCD5FED409D7D9D7D7D5D5D7D7D5D1FECE05D1CBCED2D1C9FEC61CC9CBD1D9DED5C1B0B9BDB7AAD9DBDBD7CBBBBBC6DBDCD7D4CBC4C6C6CBFDD4FFD500D4FBD507D9DEDED9D5D5D7D7FED51FD2CECECDCED2D1C7C1BDB7BBBBBDC6D5DED5C4BFC6BDAAC7C4C9D7DBBFB7BBCBFDDC3CD1CBC7C7D2D4D5D7DCDCD9D5D7D7D5D7DCDBDCDEDED9D7D7D2D4D5D9D7D5D4D2D2D4D2CDC7C6BBB6B4B6BFC9D4D4C4C4D2C9B4B7B1B9C4DBD2B6B0B4C9FDDC0BD2C9CDD4D5D2D4D5DBDED7D4FCD501D4D5FEDE07D7D4D1D5DBDEDED9FED7FFD91AD4D1C9C6C1BFC4C7CDC6C1C1DBDEC3AEA8AAB9CDDBB9A5A6B0C3D5FDCB01D1D4FED20CCED2DCDCD9D7D7D5D5D4D2D2D4FEDE03D7D2D4D4FED901D7D9FBDE2EDCD5D2CECECDCBBFBDC1D9DBB0AAA8B1BFCDC4A69FA2ACB7B4B6B9C7CBCDC9CBCDCDD1D2DCDEDBD7D7D5D4D1CECED2FEDEFFD40AD1CED1D4D4D7D9DBDBD9DCFCDE20D7D9D5C7BBB0B9CDC4BBB4B0BBC7CEB9A29DA1B0B1AEA8B4BDC1C3C7C9C9C7D1D1FED5FED704D2CDCDD1D4FEDEFFD1FFCE08D2D4D1D2D4D4CED2D5FEDE25DCD1D1D7CDB7A5A5B4D2CEC6B9BBD2DBCEB0A19DACB4B4B1B1B7B7B9C3C6C4C4C3CBCED2D4D9FED748CECDD4D2D9DBD7D5D4D4D2D5D7D1D1CECECDCBCED4DBDED7CECBD2CEC3B0A8A6C3C9C9C4C4D2D9DCBFACA2B1C3C7C4C3B7B7B9BBC1C6C9CBCBCED2D9DCDBDBD7D5D2D2D5D4D4D2D2D5FDDE01DBD2FED1FFCB27CDCED9D4CECDCED2CDC7BFB0C1C6C9C6C1C7D4CDB6AAACB6BDD7DBCEB9B9B7B7C1CDD4D5D4D2D4D9FDDE0AD9D4D4D7D9D4D2D2D5D5D9FDDE26DBDCD7D2CDCBCED4D7D9DBDCDCDEDEDBD2C6C7CDC6C4C4C6BBA6A1A8B1B6C1CDC7C1C3C7C9C6CEFDDE08D5C9CEDBDEDED9D7D7FED901D7D4FDD200D5FCDE02D9D2D2FED400DBFADE2DC6C7C9CBC7C4BFB9A29C9FA5A8B1B9C3C6D5DED9C4BDC7D7DEDECBC3BDCDDBDEDBD7D7DBDEDBD7D7D1CBCECDD1D5F9DE39DBD5D5DCDEDBD9D9DCDEC6C7D1CDC7C6C3BBACA19DA1A1A6AAB1B9C9D9C9B9B1B1B9C9D1C7BDB9C4D1DEDCD5D7D9D9D7D7D4D1CDCDCBCBD1D4DCFADE32D1CDD2D2D4CECBCED1C9C9CED1D1CEC6BFB7B0A6A59DA1A5AAB1B6BDBDB1AEAEACB4BDC3BDC1C6D1DCD7D5D5D9D7D7D2D2D1CEFECD0CCED2D7DEDED4D2D4DEDECECDCDFECB02CDCED1FFB2FCAC24A9ABA9A8A7A4A4A1A4A29E9896999B9EA4A8A49D9BA1A4A1A3A7AAA9A6A5A4A3A4A4A5A7ABFDB603ABAAAAA9FDB901B6A8FEAAFFAB00A8FEB2FFACFFA9FEA806AAA6A2A09EA1A0FD9BFF991DA1A6A9A4A4A7A7A1A1A5A8ABA7A6A4A3A2A1A5A6A9ABB6B9B9ABAAA9AAA9FDB903B2A8ABABFEA804B6B4B2ACACFEAB05A8ABABA9A3A1FBA0109E9B9899A2A5A6AAB4A8A6A1A1A7ABB2A9FEA6FFA4FFA6FEAB0FB9B4AAA7A7A8ABB2B4B6B2ABABA9ACB6FEB944B4B2ACABA9A8A8ACB6A9A9A4A5A5A4A2A1A1A29E9B9B9EA1A1A4ACB9A8A6A4A6ACB9B2ABABA9A7A9A6A6A7A9ABACB4A8A8A7A8AAABACA9ACACA9ACABB6B9B6B9B9B6B4B4B2FEAB08B2ACA9AAA8AAA8A6A5FEA11CA4A2A5A19B9EA9B2B9B2A9A4A9B4B9B9ABA8A9A9A7A7A5A6A7A9ACB4A9FEAB0BB2ABA9ABACA9A8ABB2B6ACB4FEB903B4B6B2B2FDACFFA8FEAB14A6A4A1A1A2A2A6A29696A2ABACB6B2A6A4ABB9B9B2FEA701A8A7FEA5FFA912B4B9ACABB4B2B2B4B2B2ACABA9ACB4ABACB2B6FEB900B6FEB201ACABFDA91BABA9A7A4A2A0A0A3A399969DA3ABABA8ABAAA9B2B2ABA8A9AAABA8A6FEA405A9B2B4B6ABB2FDB4FEB9FFB205B4ABACB2B2B6FEB901B6B2FDAC01AAA7FEA811A7A5A1A0A1A5A6A09D9DA0A3A8A8A6A6ABABFCA815ABA9A8AAA5A3A4AAACA9A8A8A9B2ACB2B6B9B9B6B4B4FEAC02B4B9B9FEB6FFB2FFB43CB2A9AAA9A9AAAAA6A5A3A6ABABA4A1A0A1A4A6A09E9EA0A2A6A8A9ABA7A8ABA9A8A9A5A4AAA9AAA6A8ABA8A8ABACB6B9B2ACA9B6B2ACB4B4B9B6B6B2B2FDB925ABA8AAAAABA8A9AAA8AAB4B9A9A3A4A4A9A7A099989B9DA0A1A7A5A2A5A6AAABABA7A9A8ACACFEAA12A9A6A7AAA9ACACABA8ABB2ACB4B2B4B4B2ACB2FEB92DB6B4ABA9ABABA9ABA9ABACACB4A9A49DA3ACB6A39D9698999B9B9D9D9B999DA1A9A8A8A9ABB2B2ABA8AAA8A6A7A9FDA825ABA8ABABA9B2B6B2ABACACB9BAB9B9B4ACACB2B6ACABABAAAAABA8A4A19DA0A9B9B6A69E9898FE964A9896939899A3AAAAA9A9ACB9B4ABA7A7AAA9A8AAA9A9AAACA9A8A8ABABB6B4ACABACB2B4B9B6ACACB4B4B6B4ACA9ABA8A8ACA8A4A3A3A5A8B6B6A9A5A09998989B99989B9B9DA5A7A7A5A7FEABFFA712A9AAB2B2AAAAABABA8A8A7A8A9B4B9B4B2ACABFEB2FFAC08B2B6B9B6B2B2ABA8B2FEB404ABA9A3A2A7FEB901A8A1FEA027A1A2A1A09B9DA5A7A4A0A3A9A6A5A5A4A6A8B4B4A8ABABACA9A8ABA8ABB6B6B2B2ABACABB2ACB2B6FEB9FFB6FFB4FDB605B9B6A29EA2A8FEB910B2A4A3A5A6AAA6A4A0989DA6A6A1A2A6A4FEA218A4A7A8B6B4ABAAB9B4ABAAA8A8B4B9B6B2ABACB2ACB2B4B6B4FCB9FFB400B6FDB90AA59E9EA4B9B9A7A5A7ABB4FEB90AACA7A09EA3A7A4A6A8A9A4FEA10FA4A7A9B6B4ABA9B4A9A8A8ABA8ACB6B6FEB2FFACFFB202ACB2B2FEB911B4B2ACA9ABB9B9A7A0A0A9B9ACA19DA0A7ACFCB9FFAB13A9A5A7B6B9B9ABAAA7A2A1A1A8B4B9A9A7A9A9ABFEA811ABACB4B2B4B2ACB2B2ACABB2B4B6B6B4B6B2FEA80EABB4A6A3A2A8B9A9A098969DA0A2A9FCBA03AAA1A5A9FDBA1AABA5A0A0A3AABAABA7A4A6A9A8A8A7A7A8A9ACA9A9ABACB4B2ABACFDB407B6B4ACABABACB4ABFDA608A4A099938F91989EA7FDBA04AB9B9EA4B9FDBA0CA6A4A1A2A7A9A8A7A4A4A7AAA9FEA60DA9A8AAABA8A8B4B4ABACABB2B4B4FEB61BABA9B9BAABA8A7A7A6A7A19D968F919598A0AAB4BABAA9A098A1A6B6FEBA18A8A6A5A4A7AAA8A6A4A5A7A9A7A6A5A6A9ACAAAAA8A8A9ABABFDA9FFB4FFB6FFB2FEBA20ABA8A7A8ABA6A19B989B9B9DA0A9A4A9BAB6A2989BA1A9BABAACA7A6A7A7A9ABBAFDA7FFA916A6A5A6A9B2A9A8A9A8A8ABA8A9A8ABA8A9B2B6B6B4B2B4FEBAFFAA56ABBAABA6A3A0A2A1A1A4A2A1A7B2B6A49D9BA0A6B2B4A6A4A6A7A8A8BABAA9A7AAA8B6ACA7A3A4A9A9ABAAABA8ABA8AAA8A8ABABA9ACBAB6ACA8ABB9BABAB6ABB6BABAB9AAA6A4A4A1A09DA0A4ABBAB6A5A4A4A9BAB6A9FEA60FA9ABACBAA3A4A9ABB6ACAAA4A2A4A7A9FEAAFFA81AAAA8A8ABABA8A9B9B4A9AAABA9ACB6ACAAA8B9BABAABA7A7A6A3A0FE9D05A4ABBABAB2B4FEBA1CB6ACA9A8A8ABA9BAA4A3A5A6ABACAAA6A2A3A4A6A9AAABAAA8ABA8A8ABFEA8FFB216A9ABA9A7A8ABABA7A6A9A8A8A7A6A7A6A6A2A09B999DA4FEBA01B4B6FBBA16B6A9ABBAA1A2A1A4ABB6ABA8A4A5A4A6A6A8ABA8A9A8A8FEABFFA81FACB9A9A8A8A9A9A8A7A4A6A4A5A4A3A6A7A6A7A4A09E9B9DA1A8B9ABA6A6A8B6FCBA0AB4A9B2A1A1A2A4B6B9B9ABFDA62DA7A8AAA7A7A9A9A7A7A6A8A8B9BABAACA9AAA8A8A9A7A6A5A5A3A3A4A4A9A9A6A5A3A09EA0A3A9A7A3A1A5A8A9B4FEBA0BA9A8ACA4A4A2A4A8B9B9ACABFEA9FFABFFA7FFA606A9A7A6A4A7AAACFDBA3CACABAAA8AAA8AAA7A6A4A4A7A8ABA6A6A7A5A1A0A1A6A9A4A0A0A1A2A7A8B2B4A8A9A9A7A5A2A4A6A9ABA8ABACB4ACACB2A6A7A7A9A8A7A6A7A7A6AAA8FDBA0CB4A8A8A9ABA9A8A7A4A5A6A8B9FEA600A9FEA728A6AAA6A3A0A1A1A2A4A8A7A6A7ABA9A7A3A1A2A7A9AAABABB9B2ACACAAA8AAABBAB4A8A9A7A7A6A9ABFDBA35ABA9A9A8A8A9A8A7A4A5A8BAA8A9A8BABAABABBABAA8A9A5A5A3A5A7A8A7A6A6A8ACA8A6A4A4A5A7A7AAA8B6B6ABA8A7ABB6B9BABAAAFEA803A6A7A7ACFEBA01B2A8FEA909A7A8AAA7A7A6AAA9A9ACF9BA26ACABABA6A9AAABABA9A9ACABA9A8A7A7A9A6A9ABA9B9ABA6A3A6A8B9BAB4A9A9ABA8A7A4A4AAACFEBA10A8AAA9A7A6A7A8AAA9A6A6A4A5ABBABAB2F9BAFFAA0CA9AAABA8A8ACABABA8A7A6A8A8FEA7FFAB25A9A5A4A6AAB9ABA7A9A8B6A9A4A4A7A7A9A9B2B6B2A8A9A4A4A7B2BAA8A3A0A1A6A8A7A7A9ABFBBA3CB2ABAAA9ABA8A9ACABA9A8A9A7AAAAA7A6A4AAABABA9A6A6A8A8ABA7A9AAB9A8A9A6A7A5A5A4A7A8B4BAAAA4A5A6A8BAB9A4A0A1A3A7A4A5A7A6A9A8B4FCBA18A8AAA8A9A8A9ACA9AAA9A8A8A9AAA6A7A7A8ABB2ABAAABA9A8FEAA1FB6BAABA9A6A5A3A2A4A6A9BAB2A9A4A3A7BABAA6A4A2A5A6A4A4A5A6A7A9A9B2FDBA0AA8ABA9ABA8B4ABA9A7A6A8FEAB21A9A6A6A8B2B9B9B4B2B4ABA9ABA8ABBABAB9ABAAA9A7A5A4A6B2BAA9A9A4A7AABABAFEA401A9A8FCA7FEA8FEBAFFA812A6AAABB4ABAAA6A7A6A9AAA8AAA6A7A9A8B4B4FDB9FEAB03AAA8A9B9FEBAFFA91BA7A8A8B4BAABA9A7A8ACBAA8A6A5A7A8BAACABABB4B4ABA7A8A9B6AAFEA905AAB2ABAAAAA6FEA705A8ABA8A8A7A8FEAB0AACB4B6B2A8A8ABAAA8A9ABFDBA05AAA8A7A8A9ABFEAA5FA8BAA9A6A4A3A6A6ABAAA8B6BAA8A7A6A9AAA8A9AAABABA9A9A8B4ABA9A9A7AAA8A8ABAAA8A8AAA8ABB2B2B4B4ABA8ABA8A6A9AAB2BABAABA7A6A4A5A5A7AAABA8BABAA9A5A2A3A4A5A4A7A7AAABA7A6A7A7A9AAB2B4B2A8ABA8ABACB2A9ABA8FEA944ABAAA8AAA8ABB2B2B4B9BAB6A9ABA9A6A7A9ABABA9A7A4A4A5A5A3A5A9AAABBAB9A8A7A4A4A6A6A7A6A7A8A8A7A6A6A7AAA8B4B6A8A8ABA8A9B6B2ABA8A9ABACA9ABB2B4ACFEB21EACB2B6BAB4A8ABA9A7A8A8AAA8A7A7A9A8A7A5A5A6A7ABABB2B4ACA9A7A7A6FEA70DA6ABB2A9A8A8A9A9AAABABA8ABABFEB90AB2ABA8A8A9ABB2B4B6B6B4FEACFFB2FFB401B2ABFBA801A7A9FEA815A7A6A4A6A9ABA8A9ABAAA6A6A8A8AAA8A7A6ABB6B9AAFDA700ABFEA806A9B9B9B4A9ABAAFEAB08B2B6B6B9B2ACB2ACACFEB2FFB40DA8ABABA8AAA8AAA8A8AAA8AAA8A9FDA825AAA9A6A7A8B2B4ABA6A6A5A8BAB9A7A4A6A7A9AAAAABA9ABB4ABA8A9A8AAABABACACB4B6ACACFBB2FFB401B2ABFDA808AAA8A8AAABB2B2A9A9FEAB16A9A6A6A5A6A9A9A6A5A4A1A5A8BAB9A7A6A6A9ABA7A9AAFBA80AAAA9A8ABACB2B6B6BABAB6FEB2FFB403B9BAB6B2FEA808ABA8AAAAABA9ACB9ACFDAB16AAA6A4A4A7A8A7A4A09DA0A5B6BAABA7A4ABAAA9A6A7A8FEAB09AAABAAA9A9A8A9B4B4B6FEBA02B6B4B4FEB2FFBA07B4B2ABABA8ABA9A9FEAA07A9B4A8ABB2B2ACA9FEA80DAAA9A6A19B9DA4A8BABAA4A4ACA9FDA700A9FEAA02A8ABABFEA808A9B2B2B6BAB9B6B4B4FEB210B4B6B4B2B4B4ACA8A8AAAAA8A8ABB2B4B2FDBA13B4B9BAB4A8A6A59D99A0A7BABAA8A4B4B2A9A7A7FEA839AAABA8B6B4A8ABA8A9ABACB2B4B4B2B4B4B2B2ACACB4B2B2B4B4ABAAA8AAA8ABABA9B2BAB4B9BABAB9B9BABAB6ABA8A7A0999BA3ACBAB6A9A9ACFEAA05A9B6B6A9A8A9FEB900A9FEA8FFA907ABB2ACACB6B4ACABFEB2FFACFFB22CA8ABAAA8AAABABB4BAB4B4BAACA8A8B6BAB6ACB2B2A79E989DA3ACAAA5A8AAAAABA8A8B2B6B6A9A8A8ABA9A8ABFCA9FFABFFB2FFAC05ABA8ACB2ACACFEB225ACA9AAABAAA9ABACA9B2B4A8AAA8ABACB2ACB9BAACA69D9BA1A5A2A1B4A9ABA8A8A7A7B6B6B4FDA8FFA905ABA9ABA9A9ABFCACFEAB09B2B4B2B2ACACB2B2ACA8FEABFFA803ABA9A8A9FEA61CA9A8A8B4BAACA49EA2A3A19BB4B6B6B2A8A4A4A6B6B9B2ABA8A7A6A6A8FDABFFAC00ABFBAC07B4BABAB4ACACB2B2FEAC1FA9ABABAAABA9A8A7A4A3A1A4A4A3A6ACBAACA7A5A6A39BA7A7A9B2B6A5A1A4A8FDB9FFA8FFA738A9ABACB2B9B9B4ACB2B2ACB2B9B6B9BABAB4B2B2A9ABACB4B2ACABA9A9ABA9AAA7A6A4A1A0A1A5A9ABABA7A7A9A9A0A1A0A2A7B6A9A19EA0A9FDB9FFA909AAABACA9ABACB6BAB2ABFCAC01ABACFEBA07B2ABA8ACB6BABAB4FEB2FFB41AABA8A9A6A4A5A7A7AAA6A4A4B6BAA69D9B9BA2AAB6A298999EA6ACFCA800ABFEA90CABA9B9B9B4B2B2ACACABA9A9ABFEBA03B2A9ABABFEB401B2B4FBBA2EB9ACA9ABABAAA8A5A3A4B4B69E9B9BA0A5AAA79996989DA1A0A1A2A7A8AAA9A8AAAAA8A9B9BAB6B2B2ACABA8ABABA9FEBAFFAB0AA8ABA8ABABB2B4B6B6B4B9FCBA20B2B4ACA7A49EA2AAA7A4A09EA4A7ABA29895969EA09D9BA0A3A4A6A7A9A9A7A8A8FEACFEB204A9AAAAA8ABFEBAFFA8FFAB03A9ABA8A9FEAB01A9ACFEBA14B9A8A8B2AAA19898A0A9ABA6A2A4A9B6AB9E96959DFDA0FFA10AA2A6A6A7A7A6A8ABA9ABB4FEB248ABAAABA9B4B6B2ACABABA9ACB2A8A8ABABAAA8ABABB6BAB2ABA8A9ABA69E9B99A6A9A9A7A7A9B4B9A59D98A0A6A7A7A6A1A1A2A4A4A6A9A8A8ABA9B4B9B6B6B2ACA9A9ACABABA9A9ACFDBA01B6A9FCA827AAABB4ABABAAABA9AAA7A59EA4A6A9A6A4A7ABAAA19B9DA1A3B2B6ABA2A2A1A1A4AAABACABA9ABB4FDBA0AB4ABABB2B4ABA9A9ACACB4FDBA26B6B9B2A9AAA8ABABB2B4B6B9B9BABAB6A9A6A7AAA6A7A7A6A499969BA0A1A4AAA7A4A6A7A9A6ABFDBA08ACA9ABB6BABAB4B2B2FEB401B2ABFDA900ACFCBA02B4A9A9FEAB00B6FABA2DA6A7A9A8A7A7A5A2989396989BA0A2A6A6ACBAB4A7A3A7B2BABAA8A6A3AAB6BAB6B2B2B6BAB6B2B2A8A8ABAAA8ACF9BA34B6ACACB9BAB6B4B4B9BAA6A7A8AAA7A6A6A49D96959696999BA0A2A9B4A9A2A0A0A2A9A8A7A3A2A7A8BAB9ACB2B4B4B2B2ABA8AAAAFEA801ABB9FABA1DA8AAA9A9ABABA8ABA8A9A9ABA8A8ABA6A5A19E99989596989BA0A1A3A3A0FE9D11A0A3A6A3A4A6A8B9B2ACACB4B2B2A9A9A8ABFEAA0CABA9B2BABAABA9ABBABAABAAAAFEA802AAABA8F507FC06FB05040607060505FD06FE07FA06E007FE0602050606FB05FF060307060607FD06FE07FA06E007F906FD05FE06FE07FE06FD07FA06E007F906FD05FE06FE07FE06F907FF06DC07F806FF05FC070006F807FE06DD07F906FF050006FD07FF06F907FD06DD07FA06FE050006F307FD06DD07FA06FF05FF06FF07FF06F607FE06DE07FD06FF07FA06FF05FE06F807FF06FE070006DB07FE0602070606FD05FF060007FD06F5070006DF0705060506070706F6050006F607FF06E107FF06010506FE070006F6050006D407FD06FD07FF06F805010607FE06FE07FF06DB07FE06FD07F906FF05FC060007FC06DD0702060506FC07FD060007FE06FF05F706DD070306050506FE070006FA07FF060605060706060707FC06DE07FE06FE070306050606F8070006FB07FD06DF07FE06FE070006FE05FF06FA07FF06FB07FD06FE07FE06FE070006E907FB06FF05FF04FF050006FC07FF050006FC07FD06FE07FD06FF07FE06E907FF0608070605050404050506FC070306050606FC07FD06FF07FD06FF07FE06E607FF06FC0502060706FE070306050506FC07FE06FC070006FE07FE06E507F806FE070606050506060707FE06F507FF06E307FC0602050606FE07FE06FD07FE06FD07FF06FC07FE06E307FD06FE050006F107FD06FE07FC06EB070006FD07FB06FE050006F207FD06FD07FC06ED07F506FE050006FE07FF06F707FD06FD07FD06FA07FE06F507FA06FF07FD06040506060707FE06F807FD06F607FE06FF07FF06F207FD06FF07F9060007FB06FA07FD06F807FE06FE07FD06F307FE06FF07FE06FF07FE060007FA06FF070006FD07FD06EF070006F407FE06F407FC06FF07FF06FE07FC06F007FF06F407FE06F2070006F707FF06010706FC07FE06F807FF06F807FF06FE07FD06E907040607070606FD07FE06F907FE06F907FF06FD07FD06FF070006E907FF06FD07FF06F807FC06FC07FE06FE07F806EB07FF06F107FB06FD07FF06FE07F706F1070006FC07FF06EF07FD06FD07FF06FE07FE06F2070006FC0702060706FD07FF06ED070006FB070006FD07FE06EC07FE06DC07FC06FB07FF06E0070006FB07FC06FA07FB06FD07FE06E0070006FC07FA06FB07FA06FD07FF06DB07FF06FF07FD06F907FF060007FE06D107FE06FB07FF06FD07FF06FC07FF06D0070006FC07FE06FD07FF06D107FD06FF07FC06FD07FF06D107FE06FF07FE0602050606FE07FF06FE070006CF07FF06FF050006FE07FF06FE070006CF07FF06FF050006FD070006FE070006CE07FF06FF050006C5070006FE050306070706C80702060505FD06D007FE06FB07010605FE060005FC07FE06FC07FE06E007FA06FE07FD0602050706FE07FE06D707FB06FE07FF06FF07FC06FF0702060506D607FD06FF07FE06FF070006FE050306070706FE050006D107FE06FF07FE05FF06010706FD05FD06D4070306050607FE06040506070706FD0502060505FD06D80705060505060707FE06FE07FD05F506DD070006FE05040607070606FE0705060505060607F906D9070606050606070606FE07040605050606FE07FC06D60702060707FC06FE05FE06FF07FF06FF070006D6070006FD07FE06FC05FD06FE07FF06FC07FF06DE070006FD07FE06FA05FF06FE07FD06FE07FE06D907FE06FA05FC06FE05FB06DF07$
+       TILE $FFFFFFFF0ECBC7CBC7C9CBCED7D7D1CDCED9D7D9FCD401D5D7FDD916D1CECDCEC9CBCECED7CDC9CDCBD5D7D2D2D1D2D1D2D5D7FDD947D7CECED1D2D1CECDC7C4C7C7CBD2D7D4D1CECDD1D4D5D5D9DCDCDBD1CED2D5D4D1C7C4C3C3C4C6CDD7DCD2D1CED1D4D4D5D7DBDCD9D1CDCED7D7D1CDC7C6C7C6C9CDD7D9D9D7D2D2FEDBFFD7FFDB13D4CBD1D7D9D7D2CDCBC9CBCDD7D7D9D7D9CED2D7FEDB03D5D9DCD9FED406D5D7D9DBD5D9DBFED90DD5D4D1CBCDD1D7DBDBD5D9DBDBD7FED4FFD500D9FDDB10D9CECDCECECBC9CDD1D5DBD5D7D9DBD9D9FED711D5D1CDCDD5D5CDC9CDD4D7CDCBC9CBCED4D5FED7FED530D9D7CECDC9CDCBC9C6C9CBDCDBD7C9C6C7CBD1D5D5D7D5D7D2D2D4CDC9C7C7C9CDC7C3C6CDDBDBD9CDC7C9C9CBD1D9D5D7FED415D2CDC7C6C7D2D9C7C4C1C6D1DBDBCDC7C9CBCECBD9D9FED5FFD42ECDCBC7C7D7D7CEC6C1C1C7C9CBC9C7CBC9CDC7D2DBDBD5D7D7D4D2CBC9C6D1D9D4C6C1C1C4C4C3C3C9CDCED4CDD2D7FEDB18D7D5D5D2CDC6C7D5D4C7C4C6C9C3C3C1C6CDD5DBD9CDD1D9DBFEDC16DBD5D2CECDD5D7D5D1CECECBC3C3C7CBCDCED5C9C9D2D9FEDC03DBD9DBD9FED7FFD560D7DBD2C6C4C3C4C9C9CEC7C4C9D1D9DED7D4D4D9DCDCD9D2D5D7D7D9D9C9C3C1BFC4C6CBC3BFC4CDD4D7D4CED1D5DCDBD1CBCBD2D4D1C9C7C6C6C1C1C3C6C7BFBFC6D2D7D2CDCBD1D5D2CDC7C6CBCEC7C6C6C7CBC6C3C6C7D2C6C3C6D2DED9D2CEFED212CDC6C4CBD4C9C9C7C4C3C3C4C6CBDECDC7C6D2FEDEFFD417D5D2D1C9C7CBD7D1D2CBCBC4C1C1C4CBDED5C9C4D1D5DEDEFDDC04D4CECDCDCEFED10ECDC7BFBDC1C3DEDBC9C6C9CECDD2D7FDDC01D2D1FECE11D2D4D1CDC3BDC1BFDEDECDC6C6C7C6C9CED2FEDC17D7D4D4D1D1D2D7D7D4CBC4C1BDDEDED9CEC9C9C4C6C9CED9FEDCFED5FFD221D5DBD5CDC9C3C1DCDEDEDBD5CECDC6C7CED9DCDCDBD5D5D7D5D2D7D9D5D4CEC9C3DCFDDE17DCD2CBCBCED4DBDBD5D2D5DBD7D7D5D9D2D1D1CECDD5D7D9FEDE09D5CBC9CBD1D2D5CED2D5FCD7FFD22CD4D7D2D4D4D5D7DEDEDBD1CBC9CDD1CED1D1D5D9D7D5D7D5D4D4D7DCD9D2D2D1CEDBDEDED4CDCBCED2D4D1D1D4FED9FFD409D5D4D5DCDCD2D2D4D4D7FEDE45D5CED2D9DCD2D1D2D5D9D4D2D2D4D4D7D9DBD2D1CDCDCED9DEDED7D4D4DBDCDBD1D2D1D5D4D1CECDCDD1D5D5D1D1CECBCDD5DEDED5D4CED7DCDCDED4D2D7D7D1CECDCBCDD2D2FED12CC9D1D9D5DED7CDCED2D7DCDED7D2D4D7D7D5D2D1CED2D7D4D1CBCDCEDBDED9D4CBC9CED2D5D9D4CECED4D9D9D7FED216D9D4D1CECDCDD1DCD9D1CDC9C9CBCED5D1CDC9CED4D9D7FED403D5CDD1D1FECD09D4D2D2D4CBC9CBCBD1D1FECD1DCED1D4D4D2D4D4D5D5DCD2CED1CBCBCEDBD7D5D1CED1D1CED1D4D5D5D4D9FCD429D9DEDED2CBC7C9C7D4DBD5D2D1D2D1D4D7D7D4D5D7DBDBD5CDCDCBDCDEDECBC7C4CBCEDBDCD5D2D1CECEFED204D4D2D9DBDBFEC719CDD9DBD5CBC6C9DBD9DBDBD5D2CDCBCDCED1CECED2D7D5C7C4C6FDC9FFCD24C9CBD9D7D5D4D5C9C7C9CDCDCBCDCDCECEC7C6C7C9C9C6C4C6C7C6C7CED1CBD1D5D2C9C6C4FCC904C7C1C6C9C9FEC661C7C4C3C4C6C6C4C7D1D2CEC3C1C4C7CBC9C7C9BBC3CBC9C6C6CBCBC6C1C1C3C3C1C3CBD2D2C4BFBFC6CDC9C7C7BFCECECBCBD1D7CEC9C4C4C3C1C4C4C9D2D4CDC3C1CBD1CDCBD1CBD9D9CECED5DEDBCDC9C9CECEC6C4C6D1DCD7C9C9D4D5CDCBD2C7FEDE17D9D1D4D9CECBCDD4D9D4C9C6CDD9D5CECBD7D9D9D4CDBDD7FEDE00D7FECE12D2D1D1DBD7D2C9C4C7CBC4C4D1D7D9D9D5B0BFFDDE03DCD7D2D2FECD09DBD7D2C4C6C4B9B7C1D5FED903A1B1C7D9FDDE41DBD7CDC6C9CDDCD7D4CDC6B9B6B7C4D2DBDBA5A8B7BDC4CECDC7C9D9D9C9C7C9D1D7D5D9D5C3BBB7BDC3C4CDB1ACB0A8B0B1B1ACB7C9DBD2C7C4C3C9D7DBDCD2C4BBFEB911B7CDC1BDAEA8A8A29FA8B9CEDCC7BFBDC3C6FED23DCBC6C4BFB7B1DBDBD4C1BFB6A8AAA6B4C6CEC9BDB9BBC3C1C4C4C9CECBC4BFB7C1D4DCDEDED7CEBFB9B7C1CDD2C6BBB9BFBFBDBFBFC6CED1D2CBA6B0C3DBFEDE49DBCBC1C3D9DCD2C6BBBDC1C1BFBDBBC3CBD1D1A2A2AEC1CECDC9CECEC9CBDBDCDCC7BDBDC7C9C9C4C3BBC3C6C4BBAEAEB4B7B7B9C1C7C1BFC7DBCDC1BDC3CBCDD5D4C9C3C1C1BFD7C3BBFEB02DB6BDBFB9B6C1C9C3B7B6BDC6C9D2D4D1C9C6C3C3DEDED1BDB4B4B9BFCEBFBBBFC3BDB4B1B6BDC6CBD1D2D1D2D1CBFEDE25D2C4C1BFC4DBD5C9C3C1BBB4B0B1B7BFC4CDCED1D2D4CBCED1DBDEDECDC1C1D9DCDBD2C9C1BBFEB607B9BFC4C7CDD1D1CE0EA8A7A8A7A9A8ABB2B2A8AAABB4B2B4FCAB01ACB2FDB416A8ABAAABA9A8ABABB2AAA9AAA8ACB2A9A9A8A9A8A9ACB2FDB407B2ABABA8A9A8ABAAFDA73BA8A9B2ABA8ABAAA8ABACACB4B9B9B6A8ABA9ACABA8A7A7A6A6A7A6AAB2B9A9A8ABA8ABABACB2B6B9B4A8AAABB2B2A8AAA7A6A7A6A9AAB2B4B4B2A9A9FEB6FFB2FFB613ABA8A8B2B4B2A9AAA8A9A8AAB2B2B4B2B4ABA9B2FEB603ACB4B9B4FEAB06ACB2B4B6ACB4B6FEB40DACABA8A8AAA8B2B6B6ACB4B6B6B2FEABFFAC00B4FDB610B4ABAAABABA8A9AAA8ACB6ACB2B4B6B4B4FEB211ACA8AAAAACACAAA9AAABB2AAA8A9A8ABABACFEB2FEAC30B4B2ABAAA9AAA8A9A6A9A8B9B6B2A9A6A7A8A8ACACB2ACB2A9A9ABAAA9A7A7A9AAA7A6A6AAB6B6B4AAA7A9A9A8A8B4ACB2FEAB15A9AAA7A6A7A9B4A7A7A4A6A8B6B6AAA7A9A8ABA8B4B4FEACFFAB2EAAA8A7A7B2B2ABA6A4A4A7A9A8A9A7A8A9AAA7A9B6B6ACB2B2ABA9A8A9A6A8B4ABA6A4A4A7A7A6A6A9AAABABAAA9B2FEB618B2ACACA9AAA6A7ACABA7A7A6A9A6A6A4A6AAACB6B4AAA8B4B6FEB912B6ACA9ABAAACB2ACA8ABABA8A6A6A7A8AAABACFEA900B4FEB903B6B4B6B4FEB2FFAC2FB2B6A9A6A7A6A7A9A9ABA7A7A9A8B4BAB2ABABB4B9B9B4A9ACB2B2B4B4A9A6A4A5A7A6A8A6A5A7AAABB2ABABA8ACB9B6FEA820A9ABA8A9A7A6A6A4A4A6A6A7A5A5A6A9B2A9AAA8A8ACA9AAA7A6A8ABA7A6A6A7A8FEA601A7A9FEA604A9BAB4A9ABFEA912AAA6A7A8ABA9A9A7A7A6A6A7A6A8BAAAA7A6A9FEBAFFAB17ACA9A8A9A7A8B2A8A9A8A8A7A4A4A7A8BAACA9A7A8ACBABAFDB9FFABFFAA00ABFEA80EAAA7A5A3A4A6BAB6A9A6A9ABAAA9B2FDB901A9A8FEAB11A9ABA8AAA6A3A4A5BABAAAA6A6A7A6A9ABA9FEB917B2ABABA8A8A9B2B2ABA8A7A4A3BABAB4ABA9A9A7A6A9ABB4FEB9FEACFFA921ACB6ACAAA9A6A4B9BABAB6ACABAAA6A7ABB4B9B9B6ACACB2ACA9B2B4ACABABA9A6B9FDBA17B9A9A8A8ABABB6B6ACA9ACB6B2B2ACB4A9A8A8ABAAACB2B4FEBA09ACA8A9A8A8A9ACABA9ACFCB2FFA92CABB2A9ABABACB2BABAB6A8A8A9AAA8ABA8A8ACB4B2ACB2ACABABB2B9B4A9A9A8ABB6BABAABAAA8ABA9ABA8A8ABFEB4FFAB09ACABACB9B9A9A9ABABB2FEBA45ACABA9B4B9A9A8A9ACB4ABA9A9ABABB2B4B6A9A8AAAAABB4BABAB2ABABB6B9B6A8A9A8ACABA8ABAAAAA8ACACA8A8ABA8AAACBABAACABABB2B9B9BAABA9B2B2A8ABAAA8AAA9A9FEA825A9A8B4ACBAB2AAABA9B2B9BAB2A9ABB2B2ACA9A8ABA9B2ABA8A8AAABB6BAB4ABA8A9ABA9ACB4FDABFFB400B2FEA916B4ABA8ABAAAAA8B9B4A8AAA9A9A8ABACA8AAA9ABABB4B2FEAB03ACAAA8A8FEAA05ABA9A9ABA8A9FDA8FEAA0BABA8ABABA9ABABACACB9A9ABFEA80EABB6B2ACA8ABA8A8ABA8ABACACABB4FCAB29B4BABAA9A8A7A9A7ABB6ACA9A8A9A8ABB2B2ABACB2B6B6ACAAAAA8B9BABAA8A7A7A8ABB6B9ACA9A8ABABFEA904ABA9B4B6B6FEA719AAB4B6ACA8A6A9B6B4B6B6ACA9AAA8AAABA8ABABA9B2ACA7A7A6FDA9FFAA1CA9A8B4B2ACABACA9A7A9AAAAA8AAAAABABA7A6A7A9A9A6A7A6A7A6A7ABFEA804ACA9A9A6A7FCA904A7A4A6A9A9FEA6FFA72DA6A7A6A6A7A7A8A9ABA6A4A7A7A8A9A7A9A4A6A8A9A6A6A8A8A6A4A4A6A6A4A6A8A9A9A7A5A5A6AAA9A7A7A5ABABFEA811B2ABA9A7A7A6A4A7A7A9A9ABAAA6A4A8A8AAFEA8FFB4FFAB15ACBAB6AAA9A9ABABA6A7A6A8B9B2A9A9ABACAAA8A9A7FEBA17B4A8ABB4ABA8AAABB4ABA9A6AAB4ACABA8B2B4B4ABAAA3B2FEBA00B2FEAB12A9A8A8B6B2A9A9A7A7A8A7A7A8B2B4B4AC9EA5FDBA03B9B2A9A9FEAA09B6B2A9A7A6A7A2A1A4ACFEB40396A0A7B4FDBA41B6B2AAA6A9AAB9B2ABAAA6A2A1A1A7A9B6B6989BA1A3A7ABAAA7A9B4B4A9A7A9A8B2ACB4ACA6A4A1A3A6A7AAA09D9E9B9EA0A09DA1A9B6A9A7A7A6A9B2B6B9A9A7A4FEA211A1AAA4A39D9B9B98969BA2ABB9A7A5A3A6A6FEA93DA8A6A7A5A1A0B6B6ABA4A5A19B9B99A0A6ABA9A3A2A4A6A4A7A7A9ABA8A7A5A1A4ABB9BABAB2ABA5A2A1A4AAA9A6A4A2A5A5A3A5A5A6ABA8A9A8999EA6B6FEBA0FB6A8A4A6B4B9A9A6A4A3A4A4A5A3A4A6FEA8FF98349DA4ABAAA9ABABA9A8B6B9B9A7A3A3A7A9A9A7A6A4A6A6A7A49D9DA0A1A1A2A4A7A4A5A7B6AAA4A3A6A8AAACABA9A6A4A4A5B2A6A4FE9E10A1A3A5A2A1A4A9A6A1A1A3A6A9A9ABA8A9FEA6FFBA17A8A3A0A0A2A5ABA5A4A5A6A3A0A0A1A3A6A8A8A9A8A9A8A8FEBA25A9A7A4A5A7B6ACA9A6A4A4A09EA0A1A5A7AAABA8A9ABA8ABA8B6BABAAAA4A4B4B9B6A9A9A4A4FEA107A2A5A7A7AAA8A8ABC3070006E907FC06EB07020607068107FE070006FB070006EF07FF06EE070006FD07FE06EA07FE06EE070006FE07FA06F2070006FD07FF060007FD06EA07FF06E907FD06FD070006EF07FC060007FE06F007FB060007FE06F7070006FE07FF06FF07FE06FF07FE06F807FF06FC07FC06FD070006F007FD06FD070006EF07FD06FE070006EF07FD06FE07FF06010706F107FE06FB07FF06F107FF06FA070006F007000681078107A7070006E8070006EF07FF06E9070006FE07FE06010706F907FF06FB07FF06FF07FE060007FB06FD07FE06FC07FF06FF07FF06FF07FA06FE07FD06FD070006F907FB06FD07FF06EF07FE06E8070006F7070006F207040607070606FC07010506F307FB06FD07010506F8070006FB07FC06FE07FF05FE06F307FB06010706FD05FF06010506FD07FF06FC07FB0602070606FB050006FE07FD06FD07FC06FE07FE06FE05FF06FF07FA06FE07FD06FB07FD06FF07F806FD07FF050006FB07FF06FE07F806FE07FE050006F607FF06FE07FA06FF05FC0602070606FE07FE06FC07FD0602070606FE05FB060007FC06FC07FE06FE07FC060007F706F607FD06FE07FD060005FD06F507FF06FC07F906FC07$
+       TILE $FFFFFFFFFECD3DD2D1D2CDC4C1BDB4ACA5A5A1A6ACB6B6B1B0B0B1AAA8B1BFC4C7CEDBD4CBCED1D4D5D7D5D4D2D4D2CED1D2D5D9DEDBD2CECDD4DED1CEC7C9C7C9C9CECBD1FECEFFD20DCDC7C9C9C3B6AAA2A5A5ACB6B6B4FEB60AAEA6A6B0BFD1DCDED5CBCDFED2FFD518D4D5D4D2D4D4D7D7D9DEDBD2CBC6CBD2DBDCC9C7C6C9C9CBCDFED21AD1D4D1CDCDCED1C9C1B7AEA6AAACB9BBBFC4C9CBC1B09FA5B9C4D7FEDE06D5D2D4D2D2D5D4FED700D5FED715D9DEDED4CBC7CBCED1D1D9CBC6C7C7C9CED4DCDBDBD4FED10CD2D5D7CEC7BDB0AEAEB9C1C4CBFEDE05BD9F99A2B4C9FDDE05D7D2D1D2D4D5FED700D9FED72FD5D9DED9D1CBCDCDCECDD2DBCBC9C9C6C6D1D5DCDBD7D2D1D1D4D5DBDED2C6BFB9B7BFBBB9C3CBDEDEC9AC96969FB4D1FEDE03D2CED2D2FED501D7D9FED7FFD43AD7DBDCD9D5D4D2CECDCED1DCC9C9C7C7C9CED4DCDCD4D1D1D2D4D7DBD5C9C4C6C9C1B9B0AEB4C4DEDEB7A5989FA8C1D7DED9CBCBCDD1D5D7D5D5D9FBD700DBFEDE02DBD7D4FDD1FFCE06CDC9C6C9CDD4D9FCD5FFD123CDC6BFC3C1BDB6AEA8A8B0C1D9C9BBB6B1AAB1C3D4D9CECBC7CBD4D7D2D4D7D9DBD9D9DBFADEFFD933D4D2D2D4D4D2D1C6C9C7CED4D9D7D7D5D5D2D1CDC4BBBDBBBBB6B7B1AAA2B1C6D5D2CDC4B7AEB6C6DBDCD2CDCBD2D4D5D4D4D7D9FDDC02D9D7D7FED902D7D9D7FED2FFD42ED1CDCDC9CBCED4D4D9DCD5D5CECBCBC9C6C7C4C3C4C4B7AEACB9C1C7D9DCC4BBB6C3D4DCDCD4D5D7DCD7D4D2D7D5D9FEDC00DBFED902D5D7D7FED916D7D4D9DCDCD4CECDCBCDCED1D4D9DCD7D7D5D1D4D2D1D1FECD0DC9BBB4B9B9C4CBDCDCC9C6C4CBDBFCDC06D7D5D4D4D5D4DBFDDC10DBD9D7D7D9D7DCD9D7D5D4D9DCD2D4D2D2FED101D2D7FEDB17D9D7D7DBDCD5D2CDCBD1CEC4C1BBBBC4D7DCDCD5CDCBCDD9FEDC02D7D5D5FED7FFD5FBDB13D9D7D9D7DBDCD9D5D4D5D7D1D5D4D4D2D2D1D2D5FDDB06D7D4D9DCDBD5D1FECE05CBC9C3BBBFCBFEDC03D9CDCED4FEDCFFD5F9D7FCDBFFD904D7D9DBDBD7FED5FED2FDD4FFD506D7D9DBDBD1D1D2FEDBFFD209D1CBCBC9C7C1C1CBD1DEFEDC01D9DBFEDCFED9FFDE01DBD9FDD702DBD9D9FEDB00D7FCD906D7D5D2D2D4D5D5FED71AD5D1D2D5D9D2CDCBCDD9DBD5D1CED1CECECDC9C6C9CDD1D9D9D5D5FCDCFFD9FDDC08D9D7D9D7D9D7D7D9D9FEDBFDDC01DBD9FED5FED7FFD522D1CDCED4D5D1CDC9C7CDD5D9D2D1D2D4D7D5CDCBCBD1D2D2D1CDCDD2D2D7DCDCD9D5D9FEDC06DBD7D9DCDCD7D7FDD9FADC03DBD9D7D7FDD2FFC900CEFED422CEC9C9CDD4DBD9D7D7D9DCDCD2CBCBCDD7D5D1C7C6CECED1D2D7D4CED1D4D7DBDCD9D9FBDC0CD9D5DBDCDCD9D9DCDCD5D5D7D4FED203CEC4C6C9FED115CBC4C6CED7D5D5D7D5D7D9DBD1C7C4CDD7DCD4CBC9CBFECD06CED1CDCBCDD2D5FED9FBDCFFD700D5FED70DD5D7D9D4D5D4D5D4D5D5CDC3BDC3FECE21C6BDC1CDD1CBC6C9CDCED2D5CBC3C3C9D2DCDCD2D1C9C9C7C9CDCDC9C9CBCED2D5D7FDD908DBDCD9D4D5D5D4D5D4FED500D1FED22ED5DBD9D2C6BDBBBFC3C4BBB7B9C7CDC7C1C4C4C3CBD1CDC9C7C9CED5D9DBD7D2CECBCBCECDCBC9CBCDCDD2D4D5D4D5FED430D9D2D2D1D2D2D4D2D5D4D4D2D1D1D4D5D9D2C9BFBBB7BBB7B7B6BBC6D1CBC6C4C4C3CBCED4D5D7D4D1CBCDD9DBDBD5D1D1FECEFFD107CECDCED2D5D2CECDFED103D5D7CED1FCD221D7D5D2CED2D2D1D5CBC6BFBDBBB4B4B6BFC9D1D2D5D4D1D1CECBCDD2D7DBCDC7C9D4FEDB03D7D4D2D4FED505D2CECED1D5D4FECE05CDCBCDCDD4CEFDD104D2DCD9D5D2FED42AD9D5D1CDC9C3B9B1B6BBBBC3CED7DCDBD2C9C3C6C9D1D7CBC3C7D1DBDBD2D2D4D9D9DBDBDCDBD2CECDD4D5FED40DD2CDCBCDCDD4CECED1D1CDDCD9DBFED907DBDCDBDBDCDBCBBDFEB717B4AEB7C6D5D4CDC4B7B0B7C6CBC7C7C9D4D9D7C9C6CDD4D7FCDB11D5D4D2D2D5D9DBD9D5D1D1CDCDD4CBD1D1CEFED73CD9D7DBD7D5DBD9DBDBCDBFB9C1BBACA5A8AEB7C1CDC9B1A8A8B4BFBFC6CBD2D7CDC3C1C3C9CBC9D5D9DBDBD9DBD2D1D2D7DCDCDBD9D2CECDCBCECED2CDFEAA3DA9A8A9AAA7A4A3A09D989896999DA1A1A09E9EA09B9BA0A5A7A7ABB6ABA8ABA8ABACB2ACABA9ABA9ABA8A9ACB4BAB6A9ABAAABBAA8ABA7A9A7A9A9ABA8A8FEABFFA906AAA7A9A9A6A19BFE98039DA1A1A0FEA10A9D99999EA5A8B9BAACA8AAFEA9FFAC18ABACABA9ABABB2B2B4BAB6A9A8A6A8A9B6B9A9A7A6A9A9A8AAFEA91AA8ABA8AAAAABA8A9A4A19D999B9DA2A4A5A7A9A8A49E9698A2A7B2FEBA06ACA9ABA9A9ACABFEB200ACFEB215B4BABAABA8A7A8ABA8A8B4A8A6A7A7A9ABABB9B6B6ABFEA80CA9ACB2ABA7A39E9D9DA2A4A7A8FEBA05A3969398A0A9FDBA05B2A9A8A9ABACFEB200B4FEB22FACB4BAB4A8A8AAAAABAAA9B6A8A9A9A6A6A8ACB9B6B2A9A8A8ABACB6BAA9A6A5A2A1A5A4A2A6A8BABAA99D8F8F96A0A8FEBA03A9ABA9A9FEAC01B2B4FEB2FFAB3AB2B6B9B4ACABA9ABAAABA8B9A9A9A7A7A9ABABB9B9ABA8A8A9ABB2B6ACA9A7A6A9A4A29E9DA0A7BABAA19891969BA4B2BAB4A8A8AAA8ACB2ACACB4FBB200B6FEBA02B6B2ABFDA8FFAB06AAA9A6A9AAABB4FCACFFA823AAA6A5A6A4A3A19D9B9B9EA4B4A9A4A1A09BA0A6ABB4ABA8A7A8ABB2A9ABB2B4B6B4B4B6FABAFFB433ABA9A9ABABA9A8A6A9A7ABABB4B2B2ACACA9A8AAA7A4A3A4A4A1A1A09B98A0A6ACA9AAA7A19DA1A6B6B9A9AAA8A9ABACABABB2B4FDB902B4B2B2FEB402B2B4B2FEA9FFAB04A8AAAAA9A8FEAB26B4B9ACACABA8A8A9A6A7A7A6A7A7A19D9DA2A4A7B4B9A7A4A1A6ABB9B9ABACB2B9B2ABA9B2ACB4FEB900B6FEB402ACB2B2FEB416B2ABB4B9B9ABABAAA8AAABA8ABB4B9B2B2ACA8ABA9A8A8FEAA0DA9A4A0A2A2A7A8B9B9A9A6A7A8B6FCB906B2ACABABACABB6FDB910B6B4B2B2B4B2B9B4B2ACABB4B9A9ABA9A9FEA801A9B2FEB60BB4B2B2B6B9ACA9AAA8A8ABA7FEA408A7B2B9B9ACAAA8AAB4FEB902B2ACACFEB2FFACFBB613B4B2B4B2B6B9B4ACABACB2A8ACABABA9A9A8A9ACFDB606B2ABB4B9B6ACA8FEAB05A8A9A6A4A5A8FEB903B4AAABABFEB9FFACF9B2FCB6FFB404B2B4B6B6B2FEACFEA9FDABFFAC06B2B4B6B6A8A8A9FEB6FFA9FEA806A9A7A4A4A8A8BAFEB901B4B6FEB9FEB4FFBA01B6B4FDB202B6B4B4FEB600B2FCB406B2ACA9A9ABACACFEB21AACA8A9ACB4A9AAA8AAB4B6ACA8ABA8ABABAAA9A6A9AAA8B4B4ACACFCB9FFB4FDB908B4B2B4B2B4B2B2B4B4FEB6FDB901B6B4FEACFEB2FFAC12A8AAABABACA8AAA9A7AAACB4A9A8A9ABB2ACAAFEA8FFA90AA8AAAAA9A9B2B9B9B4ACB4FEB906B6B2B4B9B9B2B2FDB4FAB903B6B4B2B2FBA9FCABFFA91FAAABB6B4B2B2B4B9B9A9A8A8AAB2ACA8A7A6ABABA8A9B2ABABA8ABB2B6B9B4B4FBB90CB4ACB6B9B9B4B4B9B9ACACB2ABFEA903ABA7A6A9FDA814A7A6ABB2ACACB2ACB2B4B6A8A7A7AAB2B9ABA8A9A8FEAA06ABA8AAA8AAA9ACFEB4FBB9FFB200ACFEB20DACB2B4ABACABACABACACAAA6A3A6FEAB21A6A3A4AAA8A8A6A9AAABA9ACA8A6A6A9A9B9B9A9A8A9A9A7A9AAAAA9A9A8ABA9ACB2FDB408B6B9B4ABACACABACABFEAC00A8FEA92EACB6B4A9A6A3A4A5A6A7A4A1A2A7AAA7A4A7A7A6A8A8AAA9A7A9ABACB4B6B2A9ABA8A8ABAAA8A9A8AAAAA9ABACABACFEAB16B4A9A9A8A9A9ABA9ACABABA9A8A8ABACB4A9A9A5A4A1A4FEA116A4A6A8A8A6A7A7A6A8ABABACB2ABA8A8AAB4B6B6ACA8A8FEABFFA807ABAAABA9ACA9ABAAFEA803ACB2ABA8FCA921B2ACA9ABA9A9A8ACA8A6A5A3A4A0A0A1A5A9A8A9ACABA8A8ABA8AAA9B2B6AAA7A9ABFEB603B2ABA9ABFEAC04A9ABABA8ACFDAB05AAA8AAAAABABFDA804A9B9B4ACA9FEAB2AB4ACA8AAA9A6A2A0A1A4A4A6ABB2B9B6A9A9A6A6A9A8B2A8A6A7A8B6B6A9A9ABB4B4B6B6B9B6A9ABAAABACFEAB04A9AAA8AAAAFEABFFA803AAB9B4B6FEB407B6B9B6B6B9B6A8A3FEA117A09DA1A6ACABAAA7A19EA1A6A8A7A7A9ABB4B2A9A6AAABB2FCB60DACABA9A9ACB4B6B4ACA8A8AAAAABFEA800ABFEB23CB4B2B6B2ACB6B4B6B6AAA5A2A4A49D989B9DA1A4AAA9A09B9BA0A5A5A6A8A9B2AAA6A4A6A9A8A9ACB4B6B6B4B6A9A8A9B2B9B9B6B4A9ABAAA8ABABA9AAFA07FD06FB05FE06FF0502060505FE06D307FF06FC05FB06FD050006E9070006FB070006F207FF06FD05FD06FF070006FE05FF06E3070006F0070006FE05FE06FD07040605040506E007FF06F407F906FD07040504040506D107FF060E070606050506060707060504050506E0070006F507FB06FD0502060707FE0602050606E1070006F507F906FF05FF06FE07FF0602050606D307010607FC06FF05FF06FE07FD06CC07FC06FD07FF06CB07FC06C407FE06C307FF06C20700068107FB070006DC07FF06FC07FF06F6070006D607FE06FE07FE06FE070006FB07FF06D607F806FE07FD06D007F806FF07FD06D007F906C607FA06FB07FF06FD070006D407FC0602050606FE07FF0602050606F9070006DA07FD06FD05FF06FF0702060505FD06FD07FE06E807$
+       TILE $FFFFFFFF37C7C1C9DBDEDECBC1C3DBDCDCD4C7C1BFB7B7B9BDBFC3C9CED1CEC7B7C1D4DEDED5C4C1CBDCDCCEC6C4C3BFBBB9B9BDC1C6CECDD1CEC3BFCDFEDE39CDBFC4DBDCCECBD2D1C7C1B7B9BDBFC4CBCDD2D4CDC4CDD7DEDEDCC4C6D7DCD9D4D7D9D7CEC3BDBBBFC4C9CED1C4CEC9C6CED7DEDED1C7CDDCDCFEDBFFDC15D5C7C4C4C7C9CECEC9C7CDC4C3CDD7DEDBCBC9D7DCDCFEDB06DCD5C6C4C6CECBFEC918CBD2C9C4C3CEDEDCD5C6CBDBDCDBD4CDC7C4BBB9C3C7C7C6C6FDD24BCDC6CED5DBD4C4C6CDDBDBD5C6C4BDB6B1B9BFC3C3C6DCDBD2D1D2D2D1D1D2CBBDBBC1C9D9D9D1C6C1B9B9BDC3C4C7CBDCDCD5D4D5D5D4CDC9C1B7B4BBC3CEDBDBD4CEC6C6C9C9CBCED1DBDCFED509DBD7D2D1C4BBB9BFC7CEFEDB0BD9D2D2DBDBD7D2D1D7D9D7D5FDDC06D5D2CDC7CDD5DCFDDB0AD1D2D9DCDCD7D1D5D7D9DBFDDCFFDB02D7DBDBFEDC09D9D7D2CECDD1D7DCDCD5FED7FED9FBDBFFD90CDBD4D2D4D4CECBCED2D7DCD5DBFCD716D9DBD9D4D2D2D5D7D2D1D2D7DBD2CBCDD1D4D7D9DCDCD5FED4FFD900D5FED2FFD1FFCD09D2DCDBD7D2CECED1D4D7FEDC00D7FED2FFD500D4FED203D1CBCDD1FED902D4D1D1FDD504D7DBDCD9D4FED231D4D2D5D9D1CECBD1D2D7D9D5D4D1D4D2D4D4D2D5DBDBD9D1D1CED2D4D9D9D4D2CECED1D4D4D5D4D2D4D4D1D4CED1D5DCDBD7FECE03D2D5D5D2FED116CED1D2D4D5D7D7D5D2D2D1D1D4DCDCDBD4CECDD2D7D4D4FDD2FFD10DD4D5DBDCDBD9D4CED1D2D9DCDCDBFED2FDD515D4D5D9D5D2D2D4D9DBDCDCC9CECDCED4D9DCDCD2D2D4FED9FED7FFDB07D4D2D2D4D9DBDCC9FECB09CDD1D5DBD7D2D2D9D9D7FED508D7DBD2D1D2D2D4D9DB37A7A4A9B6BABAA8A4A6B6B9B9ABA7A4A5A1A1A2A3A5A6A9ABA8ABA7A1A4ABBABAACA7A4A8B9B9ABA6A7A6A5A4A2A2A3A4A6ABAAA8ABA6A5AAFEBA39AAA5A7B6B9ABA8A9A8A7A4A1A2A3A5A7A8AAA9ABAAA7AAB2BABAB9A7A6B2B9B4ABB2B4B2ABA6A3A4A5A7A9ABA8A7ABA9A6ABB2BABAA8A7AAB9B9FEB6FFB900ACFDA710A9ABABA9A7AAA7A6AAB2BAB6A8A9B2B9B9FEB606B9ACA6A7A6ABA8FEA918A8A9A9A7A6ABBAB9ACA6A8B6B9B6ABAAA7A7A4A2A6A7A7A6A6FDA912AAA6ABACB6ABA7A6AAB6B6ACA6A7A3A1A0A2A5FEA635B9B6A9A8A9A9A8A8A9A8A3A4A4A9B4B4A8A6A4A2A2A3A6A7A7A8B9B9ACABACACABAAA9A4A1A0A4A6ABB6B6ABABA6A6A9A9A8ABA8B6B9FEAC09B6B2A9A8A7A4A2A5A7ABFEB60BB4A9A9B6B6B2A9A8B2B4B2ACFDB906ACA9AAA7AAACB9FDB60AA8A9B4B9B9B2A8ACB2B4B6FDB9FFB602B2B6B6FEB909B4B2A9ABAAA8B2B9B9ACFEB2FEB4FBB6FFB402B6ABA9FEAB06A8ABA9B2B9ACB6FCB216B4B6B4ABA9A9ACB2A9A8A9B2B6A9A8AAA8ABB2B4B9B9ACFEABFFB400ACFEA9FFA8FFAA09A9B9B6B2A9ABABA8ABB2FEB900B2FEA9FFAC00ABFEA9FFA801AAA8FEB402ABA8A8FDAC04B2B6B9B4ABFEA931ABA9ACB4A8ABA8A8A9B2B4ACABA8ABA9ABABA9ACB6B6B4A8A8ABA9ABB4B4ABA9ABABA8ABABACABA9ABABA8ABABA8ACB9B6B2FEAB03A9ACACA9FEA816ABA8A9ABACB2B2ACA9A9A8A8ABB9B9B6ABABAAA9B2ABABFDA9FFA80DABACB6B9B6B4ABABA8A9B4B9B9B6FEA9FDAC15ABACB4ACA9A9ABB4B6B9B9A9ABAAABABB4B9B9A9A9ABFEB4FEB2FFB607ABA9A9ABB4B6B9A9FEA809AAA8ACB6B2A9A9B4B4B2FEAC08B2B6A9A8A9A9ABB4B6010706FC07FF06FC07F906FC07FF06FD07FF06FD07F706FD07FF06FC07FF06FA07FB06FC070006FC07FF06F907FC06FE070306070706F107FF06FA07FF06F307FE06F907FF06FD070006FA07FD06FF07FF06FC070006FD07FF06FD07F706F707FE06FD07FA06F607FC06FC07FF06F307FD0681078107A207$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }
