@@ -86,8 +86,8 @@ wkmg {
      }
     winf {
      type 1348817523
-     locH 13
-     locV 25
+     locH 774
+     locV 77
      sizH 844
      sizV 702
      flot 0
@@ -197,7 +197,7 @@ reff {
   }
  }
 sc {
- nm "batim5"
+ nm "batim5.hq"
  nxtL 1
  nxtC 2
  nxtG 3
@@ -2085,10 +2085,11 @@ sc {
      ob "Assistant 3D"
      }
     inpr {
+     nm "Assistant 3D"
      AnTr 1
      Cloa 1
      tran {
-      po 5.20813,0.57079,-8.07082
+      po 5.20813,0,-8.07082
       }
      XYZs 1.07082,1,6.92917
      defo {
@@ -2163,6 +2164,8 @@ sc {
        }
       }
      ob "Assistant 3D"
+     ur ""
+     uK 0
      }
     inpr {
      AnTr 1
