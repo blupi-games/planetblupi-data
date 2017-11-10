@@ -1,0 +1,2551 @@
+3DC {
+ asci 1
+ vs "4.1"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 240
+  heig 240
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra Jeu"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    OVER 2
+    MAXR 16
+    MAXT 16
+    MAXA 16
+    FLAT 2
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    LITE 1
+    DRLC 0
+    RAST 0
+    TxtM 1
+    DLit 1
+    SLit 1
+    ZKSH 1
+    FLit 0
+    SglC 0
+    LCnC 1
+    TexR 0
+    }
+   }
+  oopt 1
+  Ofil ":::RayDream41:Blupi3d.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra Jeu"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 14
+     locV 759
+     sizH 975
+     sizV 317
+     flot 0
+     shwn 1
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 13
+     locV 25
+     sizH 1149
+     sizV 702
+     flot 0
+     shwn 1
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra Jeu"
+ ShLv 3
+ Zoom 7
+ Plns 242
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 531,300,1216,1432
+ }
+      }
+     }
+    }
+   afrb 1106
+   afrl 373
+   afrr 2293
+   afrt 77
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Rendu"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,462,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 1
+   }
+  }
+ }
+sc {
+ nm "cabane-c"
+ nxtL 1
+ nxtC 2
+ nxtG 2
+ nxtO 0
+ ob {
+  cube {
+   prim {
+    cube {
+     }
+    }
+   nm "Cube"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,4,3
+      mbox 0,0,4,3
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  COfl {
+   prim {
+    COfl {
+     }
+    }
+   nm "Flat Surface"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,20,20
+      mbox 0,0,20,20
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   XYZs 1,1,1
+   MPSt 0
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 0,30.99718,-0.4986
+      mat -0.99969,0.01233,-0.01233,-0.01233,0.00015,0.99985,0.01233,0.99985,0.00015
+      }
+     XYZs 1,1,1
+     MPSt 0
+     proj {
+      iso {
+       zoom 3.87131
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 45
+       fall 0
+       brit 1
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 29.52576,0,14.76288
+      mat 0.00079,-0.7077,0.70645,0.99994,0.00079,-0.00034,-0.00034,0.70645,0.70776
+      }
+     XYZs 1,1,1
+     MPSt 0
+     only 0
+     }
+    inpr {
+     nm "Flat Surface"
+     AnTr 1
+     Cloa 0
+     tran {
+      po -4.99985,-5,-15.00005
+      }
+     XYZs 0.89998,1,1
+     defo {
+      affi {
+       ScaX 0.89998
+       ScaY 1
+       ScaZ 1
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.99997,0.99997
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Flat Surface"
+     }
+    ca {
+     nm "Caméra Jeu"
+     AnTr 1
+     Cloa 0
+     tran {
+      po 19.68384,19.68384,12.79448
+      mat -0.70609,-0.35538,0.61227,0.70792,-0.35245,0.61185,-0.00162,0.86563,0.50067
+      }
+     XYZs 1,1,1
+     MPSt 0
+     proj {
+      iso {
+       zoom 2.50931
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    gr {
+     nm "Groupe2"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -8.00008,-8.01003,-7.99715
+      Scal 0.79999
+      hp -5.00008,-5.01003,-5.99715
+      }
+     XYZs 1,1,1
+     MPSt 0
+     so {
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 2.49991,-11.50002,-7.50005
+        }
+       XYZs 0.19997,0.2,2.99991
+       defo {
+        affi {
+         ScaX 0.19997
+         ScaY 0.2
+         ScaZ 2.99991
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -12.50008,-5.00005,-9.50002
+        }
+       XYZs 0.19994,2.39995,0.19997
+       defo {
+        affi {
+         ScaX 0.19994
+         ScaY 2.39995
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -12.50008,-5.00002,2.99979
+        mat 1,0,0,0,0.94131,-0.33762,0,0.33762,0.94131
+        hp 0,4.24944,0.51935
+        }
+       XYZs 0.19994,1.69971,0.2076
+       defo {
+        affi {
+         ScaX 0.19994
+         ScaY 1.69971
+         ScaZ 0.2076
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 2.49991,-5.00002,2.99979
+        mat 1,0,0,0,0.94135,-0.33752,0,0.33752,0.94135
+        hp 0,4.24944,0.51935
+        }
+       XYZs 0.19994,1.69971,0.2076
+       defo {
+        affi {
+         ScaX 0.19994
+         ScaY 1.69971
+         ScaZ 0.2076
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -12.50008,-4.99997,2.99979
+        mat 1,0,0,0,0.94092,0.33862,0,-0.33862,0.94092
+        hp 0,-4.23125,0.51926
+        }
+       XYZs 0.19994,1.69971,0.2076
+       defo {
+        affi {
+         ScaX 0.19994
+         ScaY 1.69971
+         ScaZ 0.2076
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 2.49991,-4.99997,2.99979
+        mat 1,0,0,0,0.94092,0.33862,0,-0.33862,0.94092
+        hp 0,-4.23125,0.51926
+        }
+       XYZs 0.19994,1.69971,0.2076
+       defo {
+        affi {
+         ScaX 0.19994
+         ScaY 1.69971
+         ScaZ 0.2076
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -12.50008,-5.00005,-14.50002
+        }
+       XYZs 0.19994,2.39995,0.19997
+       defo {
+        affi {
+         ScaX 0.19994
+         ScaY 2.39995
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 2.49991,-5.00005,-9.50002
+        }
+       XYZs 0.19994,2.39995,0.19997
+       defo {
+        affi {
+         ScaX 0.19994
+         ScaY 2.39995
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 2.49991,-5.00008,-14.50002
+        }
+       XYZs 0.19994,2.39995,0.19997
+       defo {
+        affi {
+         ScaX 0.19994
+         ScaY 2.39995
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.00011,-11.49994,-0.50002
+        }
+       XYZs 2.79993,0.19997,0.19997
+       defo {
+        affi {
+         ScaX 2.79993
+         ScaY 0.19997
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.00011,-11.49994,-9.50002
+        }
+       XYZs 2.79993,0.19997,0.19997
+       defo {
+        affi {
+         ScaX 2.79993
+         ScaY 0.19997
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -8.50023,1.50002,-9.50002
+        }
+       XYZs 1.39995,0.19997,0.19997
+       defo {
+        affi {
+         ScaX 1.39995
+         ScaY 0.19997
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.00011,-5.01743,2.30594
+        }
+       XYZs 2.79993,0.19997,0.19997
+       defo {
+        affi {
+         ScaX 2.79993
+         ScaY 0.19997
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.00014,-11.49994,-14.50002
+        }
+       XYZs 2.79993,0.19997,0.19997
+       defo {
+        affi {
+         ScaX 2.79993
+         ScaY 0.19997
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -5.00011,1.50005,-0.50002
+        }
+       XYZs 2.79993,0.19997,0.19997
+       defo {
+        affi {
+         ScaX 2.79993
+         ScaY 0.19997
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -8.00017,1.50002,-14.50002
+        }
+       XYZs 1.5999,0.19997,0.19997
+       defo {
+        affi {
+         ScaX 1.5999
+         ScaY 0.19997
+         ScaZ 0.19997
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -12.50008,1.49997,-7.50008
+        }
+       XYZs 0.19997,0.2,2.99991
+       defo {
+        affi {
+         ScaX 0.19997
+         ScaY 0.2
+         ScaZ 2.99991
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 2.49991,1.49997,-7.50008
+        }
+       XYZs 0.19997,0.2,2.99991
+       defo {
+        affi {
+         ScaX 0.19997
+         ScaY 0.2
+         ScaZ 2.99991
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.50008,1.49997,-7.50008
+        }
+       XYZs 0.19997,0.2,2.99991
+       defo {
+        affi {
+         ScaX 0.19997
+         ScaY 0.2
+         ScaZ 2.99991
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -12.50008,-11.50002,-7.50008
+        }
+       XYZs 0.19997,0.2,2.99991
+       defo {
+        affi {
+         ScaX 0.19997
+         ScaY 0.2
+         ScaZ 2.99991
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             smix {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.98134,0.72205,0
+                }
+               sclr {
+                prkd 1
+                colr 0.96277,0.62946,0
+                }
+               swod {
+                SEED -21287
+                PERT 1
+                SPAC 6
+                BLND 0.37485
+                DIR 1
+                CNTR 2
+                SCAL 0.32732
+                STEP 0.33318
+                GLOB 0
+                prkd 1
+                }
+               }
+              }
+             sval {
+              prkd 1
+              Val 0.15294
+              }
+             sval {
+              prkd 1
+              Val 0.1019
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cube"
+       }
+      }
+     boxM 2.99977,2.97925,3.00555
+     boxm -12.99998,-12.99989,-14.99994
+     open 0
+     }
+    }
+   boxM 31.64722,32.02176,16.88519
+   boxm -14.39992,-15,-15.19928
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }
