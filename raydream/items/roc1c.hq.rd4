@@ -1,0 +1,2072 @@
+3DC {
+ asci 1
+ vs "4.1"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 240
+  heig 240
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra Jeu"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    OVER 2
+    MAXR 16
+    MAXT 16
+    MAXA 16
+    FLAT 2
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    LITE 1
+    DRLC 0
+    RAST 0
+    TxtM 1
+    DLit 1
+    SLit 1
+    ZKSH 1
+    FLit 0
+    SglC 0
+    LCnC 1
+    TexR 0
+    }
+   }
+  oopt 1
+  Ofil "C:\\RAYDRE~1\\Blupi3d.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra Jeu"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 4
+     locV 722
+     sizH 993
+     sizV 359
+     flot 0
+     shwn 1
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 23
+     sizH 1065
+     sizV 670
+     flot 0
+     shwn 1
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra Jeu"
+ ShLv 3
+ Zoom 7
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 605,351,1254,1395
+ }
+      }
+     }
+    }
+   afrb 368
+   afrl 1
+   afrr 639
+   afrt 1
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Rendu"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,462,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 1
+   }
+  }
+ }
+sc {
+ nm "roc1c"
+ nxtL 1
+ nxtC 2
+ nxtG 1
+ nxtO 0
+ ob {
+  ex {
+   nm "Assistant 3D 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,1.2325,1.99065
+      mbox 0,0,1.2325,1.99065
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 1
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1.00983,0
+     cnc 0,-1.00983,0
+     tpc 1,0
+     tv 1,0
+     tnc 5.54079,-0.00002
+     bpc 1,0
+     bv 1,0
+     bnc 4.44492,-0.00002
+     lpc 1,0
+     lv 1,0
+     lnc 6.75826,-0.00002
+     rpc 1,0
+     rv 1,0
+     rnc 4.75107,-0.00002
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -0.2072,0.05481
+         ss {
+          s3 -0.2072,-0.05089,-0.13431,-0.13663,-0.04453,-0.13663
+          s3 0.04538,-0.13663,0.11823,-0.05089,0.11823,0.05481
+          s3 0.11823,0.16063,0.04538,0.24637,-0.04453,0.24637
+          s3 -0.13431,0.24637,-0.2072,0.16063,-0.2072,0.05481
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,-0.00005,0
+     cv 0,-0.00005,0
+     cnc 0,-0.00005,0
+     tpc 4.64995,0.57677
+     tv 5.09108,0
+     tnc 5.59676,0.66077
+     bpc 6.08783,0.48552
+     bv 5.44513,0
+     bnc 5.31807,0.12137
+     lpc 6.13428,0.48552
+     lv 4.71758,0
+     lnc 4.44254,0.12137
+     rpc 6.91451,0.48552
+     rv 6.13248,0
+     rnc 6.00655,0.12137
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    sap {
+     cpc 0,0.98079,0
+     cv 0,0.98079,0
+     cnc 0,0,0
+     tpc 3.35822,0.00002
+     tv 1.00194,0
+     tnc 1,0
+     bpc 2.47301,0.00002
+     bv 0.09537,0
+     bnc 1,0
+     lpc 2.15741,0.00002
+     lv 1.00133,0
+     lnc 1,0
+     rpc 2.51372,0.00002
+     rv -0.52617,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  COfl {
+   prim {
+    COfl {
+     }
+    }
+   nm "Flat Surface"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   XYZs 1,1,1
+   MPSt 0
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 53.12877,16.52797,-0.32973
+      mat -0.36597,-0.05472,0.92889,0.93051,-0.02087,0.36545,-0.00055,0.9982,0.05865
+      }
+     XYZs 1,1,1
+     MPSt 0
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 45
+       fall 0
+       brit 1
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 29.52576,0,14.76288
+      mat 0.00055,-0.70755,0.70667,0.99997,0.00055,-0.00024,-0.00024,0.70667,0.70758
+      }
+     XYZs 1,1,1
+     MPSt 0
+     only 0
+     }
+    inpr {
+     nm "Flat Surface"
+     AnTr 1
+     Cloa 0
+     tran {
+      po -5,-5,-15.00005
+      }
+     XYZs 1,1,1
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.99997,0.99997
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Flat Surface"
+     }
+    ca {
+     nm "Caméra Jeu"
+     AnTr 1
+     Cloa 0
+     tran {
+      po 19.68384,19.68384,12.79448
+      mat -0.70636,-0.35492,0.6123,0.7077,-0.35272,0.612,-0.00122,0.86572,0.50049
+      }
+     XYZs 1,1,1
+     MPSt 0
+     proj {
+      iso {
+       zoom 2.50931
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst -0.14171,-0.14171
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -11.88271,-11.12067,-11.50838
+      mat 1,0,0,0,0.00018,-0.99997,0,0.99997,0.00018
+      }
+     XYZs 2.79651,3.47612,3.32146
+     defo {
+      affi {
+       ScaX 2.79651
+       ScaY 3.47612
+       ScaZ 3.32146
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 3.81902,-11.22516,-12.64867
+      mat 0.00021,-0.00037,0.99994,0.99994,0.00021,-0.00018,-0.00018,0.99994,0.00043
+      }
+     XYZs 3.51291,2.29398,2.03505
+     defo {
+      affi {
+       ScaX 3.51291
+       ScaY 2.29398
+       ScaZ 2.03505
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.89647,-1.25928,-10.12514
+      mat 0.00024,0.0004,-0.99991,-0.99997,0.00024,-0.00018,0.00015,0.99994,0.00049
+      }
+     XYZs 2.79616,4.78548,2.4637
+     defo {
+      affi {
+       ScaX 2.79616
+       ScaY 4.78548
+       ScaZ 2.4637
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 2.0188,-2.95908,-11.90816
+      mat 0.00046,0.00055,-0.99991,-0.99994,0.00021,-0.0004,0.00009,0.99991,0.00067
+      }
+     XYZs 2.79616,2.99968,2.00182
+     defo {
+      affi {
+       ScaX 2.79616
+       ScaY 2.99968
+       ScaZ 2.00182
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.40926,1.79921,-13.03072
+      mat 0.00027,-0.00073,0.99991,0.99994,0.00024,-0.00021,-0.00021,0.99991,0.00076
+      }
+     XYZs 1.3629,1.77138,1.89481
+     defo {
+      affi {
+       ScaX 1.3629
+       ScaY 1.77138
+       ScaZ 1.89481
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -2.73978,3.57158,-13.2354
+      mat 0.00027,0.00067,-0.99991,-0.99994,0.00021,-0.00021,0.00009,0.99991,0.00079
+      }
+     XYZs 3.62,1.70415,2.00246
+     defo {
+      affi {
+       ScaX 3.62
+       ScaY 1.70415
+       ScaZ 2.00246
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -3.56012,-4.61539,-10.23256
+      mat 1,0,0,0,0.00021,-1,0,1,0.00021
+      }
+     XYZs 2.79654,4.60756,4.99704
+     defo {
+      affi {
+       ScaX 2.79654
+       ScaY 4.60756
+       ScaZ 4.99704
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -7.68654,3.98491,-12.06131
+      mat 0.00046,-0.00049,0.99994,0.99994,0.00046,-0.00043,-0.00043,0.99994,0.00055
+      }
+     XYZs 2.14943,2.83533,3.14005
+     defo {
+      affi {
+       ScaX 2.14943
+       ScaY 2.83533
+       ScaZ 3.14005
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -5.4731,-11.98897,-13.89258
+      mat 0.00046,-0.00049,0.99994,0.99994,0.00046,-0.00043,-0.00043,0.99994,0.00055
+      }
+     XYZs 1.17841,1.1012,1.17537
+     defo {
+      affi {
+       ScaX 1.17841
+       ScaY 1.1012
+       ScaZ 1.17537
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -2.03554,-11.98897,-13.85384
+      mat 1,0,0,0,0.00052,-1,0,1,0.00052
+      }
+     XYZs 1.17841,1.1012,1.17537
+     defo {
+      affi {
+       ScaX 1.17841
+       ScaY 1.1012
+       ScaZ 1.17537
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 3.24094,1.10036,-13.79323
+      mat 0.00046,0.00046,-0.99991,-0.99991,-0.00021,-0.0004,-0.00034,0.99991,0.00055
+      }
+     XYZs 1.17841,1.1012,1.17537
+     defo {
+      affi {
+       ScaX 1.17841
+       ScaY 1.1012
+       ScaZ 1.17537
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po 3.67812,-6.32219,-14.23041
+      mat 0.00052,0.00055,-0.99994,-0.99994,-0.00015,-0.00049,-0.00024,0.99994,0.00061
+      }
+     XYZs 1.17809,0.69278,0.78165
+     defo {
+      affi {
+       ScaX 1.17809
+       ScaY 0.69278
+       ScaZ 0.78165
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -9.24701,-1.86568,-10.82549
+      mat 1,0,0,0,0.00018,-0.99997,0,0.99997,0.00018
+      }
+     XYZs 4.01601,4.1319,3.03496
+     defo {
+      affi {
+       ScaX 4.01601
+       ScaY 4.1319
+       ScaZ 3.03496
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            prkd 1
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "17:47:2043850250"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.2959
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D 1"
+     }
+    }
+   boxM 54.87198,22.24063,16.8849
+   boxm -15,-15.02219,-15.01945
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "17:47:2043850250"
+      }
+     DATA {
+      stor 0
+      w 256
+      h 256
+      dpth 8
+      npln 1
+      ctab $00000400 ÿÿÿ ÿÿ÷ ÿÿï ÷ÿÿ ÷ÿ÷ ÷ÿï ÷÷÷ ÷÷ï ÷÷ç ÷÷Þ ïÿ÷ ïÿï ï÷÷ ï÷ï ï÷ç ï÷Þ ïïï ïïç ïïÞ ïïÖ ç÷ï ç÷ç çïï çïç çïÞ çïÖ ççï ççç ççÞ ççÖ Þïç ÞïÞ Þçç ÞçÞ ÞçÖ ÞÞç ÞÞÞ ÞÞÖ ÞÞÎ Öçç ÖçÞ ÖçÖ ÖÞç ÖÞÞ ÖÞÖ ÖÞÎ ÖÞÆ ÖÖÖ ÖÖÎ ÖÖÆ ÎÞÞ ÎÞÖ ÎÞÎ ÎÖÖ ÎÖÎ ÎÖÆ ÎÖ½ ÎÎÎ ÎÎÆ ÎÎ½ ÆÖÖ ÆÖÎ ÆÖÆ ÆÎÖ ÆÎÎ ÆÎÆ ÆÎ½ ÆÎµ ÆÆÎ ÆÆÆ ÆÆ½ ÆÆµ ÆÆ­ ½ÎÆ ½Î½ ½ÆÆ ½Æ½ ½Æµ ½Æ­ ½½Æ ½½½ ½½µ ½½­ µÆ½ µÆµ µ½½ µ½µ µ½­ µµµ µµ­ ­µµ ­µ­ ­µ¥ ­­­ ­­¥ ¥­¥                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                $
+      tils 64,64
+      tdta {
+       tile $00000E5Fÿ=65=55@A==5=@6@üALAKIA==AKIJKýAIEALALþALAþL MLLMPPVLLULKA=E6@@9A9A6@=96AA@LLFþAEAALALLAFEALALAL:AA:ýA PüLKFLVþL PþLA6A35A566@@=A@A>þAMBBLJLLAABALELALþABAIEüAÿLAJLLFLVMýLÿA Eý@56KAE@KEKA@AELABLMúLKAAEKALAAKE@EýALFALKüLÿKLKAFýA @þA@AEA@ELAEELFLQþLFLLBQFKAAFAKEAALL7üABLýALALLBAKELFABþA=A9EûA$KAFLABMQLLFLBMLLFALEAFEAEEA:A7A9A::F:þAFAEFAFAF7::AAEþAKAKAAKLAAEALFLVVQPVPLPPIEAEAAKûA6@A@6ýA @ýA:@A>6LþA!ELE@EAEAAELALLKKVLLQYVLULUKLELEAAFþAÿ@979:9@9AA9@A99:F@:öAKAKLLKLAûLPLQPULþPþLÿAKAAKAA6@þ696:9þ6@A699AA6AA6AEPLIALLAELLPþLPKKVLVLVVLVLVPEùA>AA@9þ6@66A66A7ü6 Aþ6A9LAFPþEAEüL QýLPFVPPLVýL BüA#EAAB966:6A669766:66A@69@65A6EPKLPFPEþLÿPVLPþLFLPPLVXULKELEýA :þAþ6 9þ6-676:77ý6
+9AA6@5KLEEKüLPVLPVUPýLÿPVUPVLPLPAEAKAEEA:69û6:6:7A66:þ6 :þ65FKþL(EPLAPLPVQPLVPLQQUVPLXKFLLKFLFEAEAA96006/0ý6:7660:79ý6,6PüLULELVVKLPýLPLPQVPPLVLLFLKLEþA67A6--ü6þ07:716:-66,65ûL	PLPLLPQLLVþL PþL PþL2PFBFLFEA:6A6,664,0/60,0-601-%--,-/5,5LLPLLUXZLMVLLVþLELVLLVUFPPLLFALFABA66Aþ6
+5656,6,0,06þ-606-56,,VüLULQLLSLVþLSLLSþL	VLSLPLAPLBýAþ63636þ,þ5ø63,36EFLLJALLEAôL
+QLLEUPLKLL6þA @þ6+6ü, 6þ,5336656/,,33LKùLPLUKýLOKULQKLVVUPLLKAEAEA969@635,565,63,5,,(,3/6,33,,LPALPLVAVEKAPELLPPLUPLPLVVLULLE:A9þA9A66/65,,6,5û,/66,6,006KEKKýL APLKFAPPLELPPKLLPLVLLEEA9:AA@6956þ5/0û,$56,+,6-66/5,EKALALAALKEALKLELKLULLSLQþLKAIKA6LA6A66,3,3656þ,ÿ6,3ü,
+3,,33AALFAIþAKAKALLELKSLLPVLVLLUýLK6K@6A6=6,,6þ,5,(,$ý, !ý,5,6:AKKLKLKKLKLLPAKKLKLLVLLUPPþLEIAAEA6Aþ6,6ý, 6ý,+,),!6ü,6=ýAIKIAKLLAPLIALSLýVUVLKLILAK>A@@6F4@663,553ý,!++ü,þ35A@@AIAILAAKAIKAKAKLKU[[ULVþLAEFLAA@A665664,30,!û,+(!+,3,-3,KA6A@AK@A@AAKALþKSUX[[VULKLLKLE@LLA66@@655,6/,/5ü,5,!ú,þAKAIALK@AKKIKAKLþUZ[VSüLVEQýA :ý65353/,6,6+,,(,!(þ,5,5AAEþA
+IAKKAIIAKLIþL
+UZV_VVSVLILýA7:66=ü6/,6,3û,"!,/þ,	6AA@@A@IL@þAþKALUVUUV[[XVUPLLALüAÿ6/655650,5,,/$ü,!+ü,A@I@LAA@LKKIýKÿLÿUPXYY]VVLLKLKLLEAA9:@969655,6,,6û,!$ý,3KAEKALAýK	LIKKLPLLVLüVüLFLFAE6A::966/66/5ú,+,,)%ý, AûKAKPLSPþKLPLPXýVMLUPþL	EPLA6F:66:þ6ÿ,/4ò,@AUKAûKVLUKLAKULVUXWLULVLMLMIKAA9AA9Aû6þ, 5ú, !ü,,ALILKKLLALSPLVKLELLPPVVMQVWVVLVPLLA7AB:A6A6>5þ6ü, -ü, )ý,AILKKLKUPöLÿQÿVLMMQQüL FþA:6::6603ô,!,,(,KLKLKPULVVþL VýL
+PLLMQQVQRMMþLÿFCAB9:FFA9669,-6-,,/,,$",,!%,!,,OKKOUUPLLUPPLULFLLPPFQLLQWWMQVQLFEAALLýAÿ6396,0,0,,þ!ü,&+,,KKPKKUULULXFLLFLFKLAAMVLLWMLVQMAL:ALþA:A::ý6 4þ,)%!%-!,!,,6,,PLZLLQLLPVúLKLLQLBAMYþVÿLJALEûA =ü6,-,,64-0,3,,4,,6,KKAýLVUVQQLLQLLQMLLVLMLQVPLLALLAEFEüAý6/6,-06,3,,+,0,++,,ýLÿV[YWVQQVþLÿVALLPVQFPLVALLALLFBþA9Aü6@,-,,-,-þ,6(þ,3,þLQLVQQLPWYVQPþLAIFþL EþKAKLELELEAA996@ü6þ, 0ø,$,,3LLúVQYVQLLKLLFLAAELKAKAAEFAFLKþAÿ6 Aü6÷,-!ý,(6LQVQQLPVLQVVPMLLEýAK9AAKKLKALFLAA6A7@9ü6,00û,!,",%ý,%UPLL]VXYþVüLEA:KEL@üAEAALKAKþA6@ý6,6û, +ý, !û,UVVLüVMLQýLÿA EûA=KýALKIAAþ6 @þ6,66,,+/û,!,!)þ,4VVPLVYXXPQPLELLAAEEýA:@AAELLAEAKF@A69699065ø,!,,%û,VPLPýV
+LPLLFAALEAEýA@A@üAIAKAA966@63/6ø,),!+,!ü,]QQLPVUVVELLAALAA@66:@@AA@AA@þAEAAü63,565ý,($(,%!,!(!%%,,0YQVVQVXþL AýLþE6A@AA@E9@A@KAE9:@6@65þ65//,$,+$þ!$!!$þ!$,!,W[[QLVVQLLELLFLA6AA@A@AA@A=üA :ü6	-5/,6,5,,$ý! ü!$!%%-6Y\WPPQVLAKLFFL:þAE>AA=@A@AALAA@ú6ÿ, 0þ,+!,,!,!!!"þ!",!0YYVQLFVLLQQLLAEýAE6A@@ûAÿ676966,6,,/65/,!5ý, %þ!þ,!"%,,YVXLQXVQXQQVLFþA9@þ9E9þ@A::69@Aþ6	/,,+,/,,//ý,!$%$$,,þ! $%!FQQVQPLPPQFELAAEAA69AA@669@@9@ý6A65,!!5ú, /û,'%,!%!%,!!LLQVLLQLPALABEA=A@A6@9E66=A@E@Aü65,+$,þ5ÿ6566,+þ,
+)!,,!!,"%,BúL
+MFFAKAA:6A@ý6A6A96:696:656,,6,,6,,0þ6 /ü, %þ,ÿ!$!"!VLA:ALFLFLFA9A=ü6A69û6:966,0/ú6566/A6ý,%!,!"þ!%,!AFýLMLAKýA@96=û6966=66:66,56605,6/þ6A966,,0,,$!,,!"ý!ÿFÿL
+BLBFAEAA63=ý6 5ü@A:66763/56/355699566:þ6 /ý,%,!"ý! !LAA:BB:AAK@@þ65696566599=966569ý6 /û69/6/66/0/!/$ú!!AA:7ALLA@A665û6ÿ/þ6 9ô69554ú6ü,ú!!!$
+       tile $00000D86ÿKALVAK@6@6þ5!65535565=5@=66@A@@AA@AAEAA6AA::A6:þ6 5þ6/,,!$+!,,KAAFPýA=A@556553ý565þ6E6A6@ûA:AA6AA@A6AA:6/9/6ü,%,$,EAAELAK@@=6Aþ5	=35663=56@þ=6A@A7IûA 7ýABAAþ6,64,6,(!+("!(LAFALKüA@5==65665ü6@A@AIAKAKALKEAAFBûAþ6 ,þ6ÿ,6,,!!,+LA9EALAA6@A@5@@65þ6 =ý6@9ýA KþA	EAF:FFMFLLþA 9ý6 /þ6/,,!,!!AFAAELEþAÿ95A9@96@6Aþ6066EAL:ýAF:7AABFFBFA76::A766-þ6,6!,$,AAEBAEALAAEEA@@=@=65ý6ÿ@ýA :ýAFELFEþF BþALA6906/66!5+þ,!$LAEALþAEKKA@@9A96=@6@A9øA	EAA:LMFFQLýF
+9A:7696,96/þ,+!,A@þAKA7EPþA@AA@A@ûA@:6AEAELþABALLFGLLELEBþ9A6::/,,+,$$!$:6Aþ@A6ALAKAABýA =ùA'LABALIKALALAAFLLELLKA6A766566/,,(,!,6A66þA@AELBýA 9üAFAA7ýALEAAEALBBL9FLLABAFA69ý65,/$+$ !,6@@696A6ûAE@FEþALAEEAA6LLKLLKELAKLAKELLEA7A9þ65655,,þ+þ!ÿ6A5þ@ÿALAEEAELPLLFLþA:6ELFAKKEAKEAEELLALLþA@L=66/9636,+,!(!6699E969A9EAFEAýLFAEBAAELE:ALKLLAFPELKKLLPþE	LA@69665,/þ,ÿ! !ý6A6@þALALAýLEA6ALFLELLA@AýEÿLALLALLIEKLAA@6=656þ,+(þ!,55þ696AAE7AL6BFLLýAFAKLEL9AFLEEJLAKþALALLEþA @þ6ü,!!þ,ÿ606@þ6AFALAFùAEALKE6þAEKFAALAABLLILþA/:A66-6,, !!,!6365=6@6@AAIBAALAAIAAKAKAAEKA6ALUýLþAPAAELKAF:A96,0,%!(,%!%!,5,535þ6 @ùA:AABAAEüA9KLEþLELLKLþA9LþA96,"!,3,%,!(þ!ÿ5
+,5,5=@A@AA6÷A:E:AAPALVEKLPLALLFLLEAEA6AA9,,/0,/!6%!,,6056696AA:KEAEA7þA:AAEAEAþLPFULLPEþLFLA::LBFAþ,ÿ!/",!,!!+$6/,6366996ùA:AA:6EýAÿPQLFLPLLEAEA::66LA:AAþ6960!+,!$! !6363ü6 :úA=AA>AA6@BAALPLAALLFAEFA6ABAA6þAú6þ, "ý!ÿ,/6566966@BIAA69766A=6:6A@þAEF:FAA:AFLFA9A9A@9þ6065,5/þ!+!,,þ6-66-6A7þAÿ6þ:û6:AEBBE:LýFA:A6A:A66956/3,-6,5,,ü!ÿ,63û6üA6:ý6769A=EAFLK7:ALBLAFýAÿ6 355,,6,+,5,!,!!(!,6,5656,66:ALAþ6 7û6@96A7JBALFFABBAA77þ6/6,(,$,,þ+ ,þ!  !,,/,5-3,669A:KA69ü6@669:EALFF66::A77ü6,!/%+þ,ÿ+$,þ! !  ,,4,,-64-AA:9@A=õ6ÿA)E:6:9:76-6/664,,+,,!,, !+!!!!%!!3/,,3,64ý6:69A66,6,6,,6/-6:û6-,-036þ,+,(ô! þ!/,,66,,û6 9ý6,66ü,/0-ý6,6/60,0,5,+!,õ!  ü!6,,56/ý6 Aþ6@96ý,/5,/ý,ÿ6,0,%6/þ,6,!,,ý! ! þ! ,+þ!+,,3-,65ù64,,!/,5þ,$,!%6ý,þ!ÿ,%!,!,þ! þ !! þ! !+!!,,6/6//6566A@þ65,/ü,+!"!,0,,%,)(!!,û!! !! !!$!$ $ þ!û,÷6566ý,	!+!!(!!,%,ö!ÿü! ý! !,þ!ÿ-þ,ý6ÿA7>ý6-0þ,)!!,!,,!,ø!ÿ!!ú! û!,!ý,6,ü6960606-þ,!%,!$þ!!!þ! þ!
+ !!!$+!%þ!! þ! !!(ý,ÿ/96966-,600,,%!,!!%,ý!!!! ùô! !!ý,ÿ/6@66966û,û!
+%!!   !ü !þÿ!  þ!$!! !! +!!û,ý6066ü,%!ý!!!!! ü ý ,ø! þ!ÿ! ,+ü,ÿ6ý,þ!%)!! þ! ! !þ!!  !þ! !! û! !,6û,60/,,!þ,þ! ! !!  !! !þ      ! ! !! !  !þ!,3,-þ,6//,6)!ý,",ü! ! !!!!!!!!!!þú! !!ýû,)!0,/þ,ÿ!,)! !!û!!   ý !û!% !!û !û,ÿ!,-,,"",%!"!!! ! þ !!ü  þ%þûÿ,!,%%+!6ý, %ü! !!þ! ú !ý þÿ!þ úþ,(,,$!60þ,%,!(ý! !ý ú  ú	  ! !ùô, +û! þ ÿ ü  þ !!! ûþ,0,0þ,ÿ0-,,þ!,!û   û  úþÿü),)ú, 6þ, )þ!  þÿ!  !ú! ! þ! !ù 0ý,",-þ,-,,!!!þ ö	   !!ø  ÷þ, %þ,0/,$6,/$$+! þ  ý !þ  ü ý !þ!!ø!þ, "û,%0,,!,þ!!!!ò!!û !!!,,!%"ü,","%ý!!!þ ü  ù!÷!!!,%,%%,%,%,!%,%!!ö  ü ûÿ÷!!!%,",!$%!%,%þ,þ!!ëö!")$%%!þ% "þ%þÿ! úÿ þ !ë!!!,,%!!%!!"%%","þ! $þ!!õ þü !!þ!! !!"!!"!!!""ú!!ø !óý!!þ!ù!!þ! ü!!  ö õ !þ!!ý !þ!þ!"!!"û!!!ö  ùþ!þ!!!!!!!!!!!% ý!ù ø þþÿþ!!þ! !!!!!ü!ý ýýÿþ!þÿ! ü!ÿÿ!!$ý! ó þ þ ý þÿ!!!$
+       tile $00000D10!,ý!	+! !!ýÿ þ ÷ þþþ!! þ !$,!$!!ü	þ úþÿ	%þ!ÿ !û"!"! ý!!!!ü òü!ÿ ûù!,!! ÷ùþÿþÿ !!!ýþ! $ý! þ!ÿ !úý ø  !!þû û!
+ !!!!ü òüÿ"!"ýþ üý!!%!!!!þ ýüû!!õ ,ý!	!,!!!þ!þþþý!!÷ÿý!$! þ! üÿ þ þý þ!!þ!øù! !÷ü þÿ ùû!!þ  þ(!! !!$ùþ üù%!! $! " !þõý!!!ùþ!!!!üòý!!!ýÿ !ü! !! !!þöõ !þ ü !ý !! ! !ýü÷!! !!!!!þ!ý! !þÿÿ ÷ùþ!ÿ!û!!$!,!!!!ýýÿ þÿ!!!!û
+"!!!!!ý þÿö
+þ	! !!+!!"þ! !!þ!%!!%!!þýý+ !!!!%%!"! !ý!!!ü	þ ú ü!,ý!ÿ  ú	! !!!!!ýõý!%!þ!ÿÿ!$ü! !!! øýü ÷!ý!! ûþ!ÿ !þ þ!þü!!ý!,!"!!!! ý!!ôÿþþý!!! !þÿ!þ  !!ú!%!üþÿ!þÿ!!!!!þ!ý!!!!!þ ý
+þ ý!"û!ý !ú ý ûý!üÿ!! ! !!  !ý !þý !! !üÿ!
+ !!!!þüô!!!þ!ÿý! !ü!þþÿý üÿ!!þ!ÿ !þÿ! þüûú  þ!!!ü  !!!!!!þ!!!ù û!ýú û!!!! !!ýÿ !þÿþÿüÿ!ý û þÿÿ !ýþ!ÿ!!ý!ÿ!ý ûþ þ! ÷!ü!! !! !!ü!
+!!ýþ!!!ü ü
+! (  !ý!!þ!!!!ü ö!!!! !!!þ!! !!!!!!!õ!!!!! !þ!!!ý!ÿ!ôý !þ!!ûÿ ÿ!!  þ!þ!%!!þ
+ õ !þ   ÷ÿ!!!!!!!!ü õ!ú ûü! ý! þ!þ!"!!ý!!!! üÿ ý! üÿ ÿ! ! !!!!!!!þ!ÿþÿþ!þ úÿ ! !!þ! ý!!!ü! þ!ûÿþ! þ  ù!ÿ!((!!þ !þ!÷!ÿ!ö !ýÿ 	! ,!   û!þ!ý!!ý!!!ý þ ý  þÿ ü!,$!!+ý!ÿÿ!ÿÿþ!!!!ô !û!$,!!+%%+$!(! ý!! !!!!þ!þ û	!!!! ý!
+(,!+,$,!,!+ý!!!!!!!! þ!ÿþ! ! !  !(!$! !þ,(,+,,(,+!!!!!!!þÿþû !! !!!,,!,,,",!0,%þ,ÿý! ý!þÿ!$û þ !þ ÿ!3!+!ý,!%,,)ý,6,ùþ!!!þü !!  þ!$+,),,!,,46,6/þ, !! !! !ü  ü!þ-!!!  ! !!,,!,956056/553!!!!! õ!ý!  û! !66764:5þ6:6!!!!û ýû!,ü!,"),0þ76A66-Aþ6ÿ!! !!û ý ÷$!!!!  $",6-017:7A7AA66A!!!úÿýÿý !ü!,ý! !6AB7;B:AA:A:76A!øþÿ! þù!
+!,6,6F::L:üA:BEAþý!!ýü!ü!þ,07B:GLBFLALLFBFAA!!!ýýû!!ü!!,0-7ABBFMMFLLQLFBFLA!ü !ûþü  û!ý!$!,,/6þ:ÿBMBMLLQLBFAGAý üÿû! "!!+6,0466A7FGRþMVQLLMFAFøö  ý!,%)ý,066:6FMQMVMQQMVQQFBþ þ üò!ý! +ý,9::6BFMQRMVQWFQMFLþ÷  ! !!+!!þ,5,66ýAMLVWQQYWMQVLL$
+       tile $00000E3Aþ þý ýÿ  !þ þ!  !ü 
+!(+3,,+5+(!ý,535+6@A6ûýþ þÿ  !$!! þ!$! ,,(6ü,(,,5665@6@@6@5øø  !ý ÿ!(+(!++(6ú,6=Aý6ÿ=I6@þý  þ ý ! !($!! ,+,(+$,+,6,5þ,+5@@5A56@6@@9Aþó!þ !$! +$! +$,,(6,6,,þ6,059ý6=6=5=A@Aþþÿý!  !+!! !!,$,!$,0û,0/6-6,969@96A6A:A:KAýú ý    !!$!+!!û,6,55þ6=66A966A@@66@AAô ûþ!	, !+!+!!,/þ, 6þ,ÿ6	A66A=@995Aþ@ EþALñÿ!$ý ú!	(,,/,6305,ü69@@AA6A9þALBAþþ þþÿ!   ! +ý! (ý,6,,0663,66A=7>AAELþA 6þAL ü ý ýþ !,ý!",0667,,66767>6>öABEAKý þ ú !ý	!  ! $$!û,760ü6ÿA:@>@AAKAA@KLAAFLLü ô ü !!$!(,/,,0A6:60A6þA 6þAEA6LALEELEALLû !ý! !! ! ,,!",/,09669AA0A6A6@E@ALþAEAEAEAFLP÷ ý  þ  ! þ!
+("!,/-,:0>:ý6FAEAABAIEIAKA@LAKAELþÿûü!
+!!%%,",170þ6þA
+FB:AALAEAAKþAKALALýÿû!!!! !!,!"0!%-07ý6:@AAFþAþL
+FLPEEAAEELLþ ù!û  þ!)!þ,",--7þ6A>AKAALFLALLPLAABEAKALUþÿ÷ !!!ü!)!!,,þ-069669EAFABLPýLPALþAEKLE÷ !û!ü!!,!$,!6,0669:66AABLBLLYVLEKALAEKKPPû ü!%ý!ý!!%!%",,0,06067::AAFFYYVMLLAAFELEEPLýù!!þ!ÿ,!!,,/9=6966966AQAQY^YPLELEA@APEAý!!!ý ü!!!)")ý,6,-@66þALBMYYMFLLAK=EALAAú ù þ!!!!!"",!!,(,"63,647::7FBLQûLÿA6E@KAþ þ!ü!!!!û!(0,3,60,66-7:AFþLFEüA 9ýA ü þÿ!!þ!,!"!!"ý!),!!/þ, 6þ7ÿAÿLVLûA@A@IAþú þ!!þ!!!! !!+ ,!!ý,60A7þA	EAFA@@A@AAþ@þ!ù!ý !þ,!! ü!,!3ý,696FýA@E=A@Aþ@Iý"ù þ!þ! û!+,+(þ,6Aþ6þ9þAÿ@6A6@þAú!ú !ý	!!!!!!þ !!,!+,+,,5566@A9696@AA@ýA @õ !ù!!! ! ! $!! !(!ü, /þ6A66A@@Aü@!!þ!!!!! !!!! !!þ ÿ!($,!!(3+53,5@655=9@A@K@@AAü ý þ ýû!ü  ! ! þ!+!!+(3,/5/@6656AA=@A@AAó!! ! ! ! û!,$!!(,(,6,,+55@65@A@@=AEAý!!! ! û!!!!þ!! !!(! +!(þ,3,3þ56@Aû@6!!!!!!!þ!	!  ý! ,ý! (!,+þ,ÿ65656LAA=A@AIþ!!þþ !þ! ý!ÿ ý! ü! +ý!%,(665,6566AAEA@K@AA!!!!þ!! ! ý!!! +,þ!+,+,,566,59A@Aü@E !þ
+  ! ! þÿ!!!þ  þÿ  ü + $!ý+/+56@@95@A@IAþÿ!ÿ ÿ!û! !! þ!ý! !!  +(( !+,,+,55=5K@@þA@K! ý! !!þ!  ù! ,    !þ !(þ!+!(!(++,35355@þAIAKKþ!ÿ ! ý! !! !! þ!,!!  !þ +!ú , ++!+ü5=6K@AAKAKû!ÿ !%þ!(!,ø! ,! ,!$!! !  þ!+(! ,((+,,(653K=6AALAAL!  !ý !ü!,!,þ! ,þ!ÿþ!  !  !!  !þ+!+,5,5569AEEAALL !!"û! %þ!,!,!! ü!(!!!! !!(!ü 	! ,++,566@þA
+KLEL!!!!$þ!	+!"!%,!%,/þ! %ú!  þ!
+ ! !!!  þ!+,/5/566@ALKþL!,  ü!,!(!$+(++,!-!((,(!$!( !( ! !(þ 6! !!(!(+,3@5566AALKLPP!,+(!!+!!,$,,!,!6((,,(,!,!(,!(!!ý þ! (ý (++3,+53þ6A@AþLÿV(+,/!+!!,!+,(ù, +ý,+!!,þ!  ü!
+ !! / !+,!+þ,
+6,A9AAPLLVVþ,+,,5þ,3/,-þ,0,,65,,5+(++!(+!û ÿ! !!(!!(þ,5366þA
+LAFPVV,,6,+þ,+,,+,63ü, 5ü,(,,5$,(!(!  þ! !(!!,(+!3553=A@KAFFEUV5/,53,/+þ,/,/6þ,3,/+6,9,þ+ÿ,! +þ ! !,! (+ +,(5++565@@EPALLYYþ6þ,3,606,/,ý6
+0466556,6+3þ, (ú!	,+ +!,!+!5þ,656þABFQYY6,,36,6ü,%0663966,6,6,,66,+,,+6( (++(!+( !(,, ++þ,þ6ÿABFLQRQû6ÿ06/09,66:9þ6,0,6,,5,/6,$+(++,!þ+, +$!+ý,56966AALBMQWY:þ6
+,60-/,/,66/þ6	A66=/,,6//þ,ü+,!++,/+!++,!þ,/65A6LFEBLQGQAA6þ96:50/,,þ6 :þA@60,%//6/,,+,5+,,++6!++!+ü,ÿ/96A@9FLQFQMPLþA9AA6A6A-ý6ÿ:9=Aþ6,965//,+6,,5/,,+!,!+,(,56-ý6 9þABLQFLBAF6þAÿ6 Aþ6 Aþ696L6:66,,6!",,/þ,
+6,+,++,(!,!ý,ÿ6	:A67B:LABBþFALA69Aû6069þ6:6A@66,,55,+,,3,+,,(+6+,,(þ,5,ý67::Aþ:FEALLüA@Aý60AA66A,@6963655,50+,6,,/ý, 3û,ý6ÿ7:7::þAÿLFMBAFüA :þ6:6Aù6 /þ6/65/36,0/66,5,,6ý,6-:7:6þ7:AFAFLüF EþA:A66@69A66E9þ69665þ6ÿ5+/,6,00,03,/,6,,667::A:7:BþALALLMLFþA7669@A66:3966A,66@û6þ3ÿ656,/6û,6,66A:ABþ:ÿA EýA$
+       tile $00000E48FB:6AEA:A669@þ069þ,ü6 9þ6 7þ69660669660667:,0%,%,!þA@AF@A@A=@@A5ý6ÿ5,66569/66/9669ü656/þ6 9ý6
+,0,$!!%  ýÿ6üAþ6@9@66/,66,6@/,0þ6-966A69966/9ü6A:700,%"!!",!AþEAKA69ü6,5,66,6966,00A96699þ6ÿ9û6
+:00:,--0!!)þ!ýÿI6A6A=ý6=645,353ý6-,6,þ6A66=Aý6>6=þ6-607--,"+û!  þÿAIAA6@966,65656/60,55,566@696üAE6A66/69:6960:-,0!,ü!ÿ !ALþA=94ý6ý, 6ü,56A669=6üAE::676676060,-%þ, "ý!!!þA6@@A6655þ635ü,ú6ÿ9A6A@þA:@ù6/%6,,%ý!!!þ@A9þA969,66,6//,!,,ü6
+966@69A:AE:þ6 9þ6	A69,60,,!$þ!!ýA6=ü6þ, -þ,3/665û6A:AB:6A:/69:66:Aþ6-,,÷!@@9E6996/5//,,//5,60/ý65:66:üAF::96þ9:6606þ, %þ!þA9@9û6þ,56,5//0,ý6þ9@ALûA9:9K:6,0,/,,%þ!!þþA	9:6@:66-6%ü,6,,ú6ÿAMABA7þA:9ýA6,6,%!,,%!,!þÿüA6:=A,5þ,/-0,/,û6A6þAýF6A9A6,::69,-þ,%!!!!!EE@þA:966/,/-ý,6,05þ69:AFAALFFA:9A:þ6A6:,,0,%!,!!! þ!!AA@AA0þ6A6,,!,56,6,,5,ý697AFFABA9AA60A:766þ,")%(û!þEALþA6E:þ6ý,4,0,/ú60A:A:69AA6A6A67:60ý,ù!2!!!!FAAE:E:6A:060,,0,,00/6,0,/,-067:6:A:6:6:A7066ü,!,ý!ÿ!!EAFBAF60þ6A366:þ,ÿ60,/,--"-0-:6A966:660:þ6,-,3,,%û!þ!!þLþA09Aþ6060503,/6ü,ÿ6/,69þ6
+96@60,6066,þ6 (ý! %þ!!!QLLAA96AAþ6-66þ,4-þ,5,6,ø6766,:ü,60þ,!,,! ý!!"!EFAA6:6Aü6 0û,
+0,,-0//669-ú6-6,%,%,0/,0,,$,!+ü! þ!	FLLFA70A::þ60-þ,03,,4+þ,/650:6696,-!,,6,,6,6-û,ÿ! "þ!"!!:F:6A:,A:þ6þ-,),-ü,-,-4,63ý6:0,"66,,"-6-6,-60,""%"!!"!!"!:þAÿ:
+6-760-,6,63þ,0,6þ,ÿ6,0660:66-!!9ý6:906/-0þ,ÿ%
+,)!,!%!!AA7ý6,6-,/,0-,,4)-ù,-,-:ý6%!6A776-77606A6-6,,!!,!,"!%"Aú6,6,-,,0ø,5,,0,5,ü6:,F9ý6
+B66::6:6,,-ý,"$%,,066ý, %ù,%!þ, %ü,ÿ6,660ý6-9::þ6
+:6::A:6A00-ý, %þ,"660ý, -þ,-!ð,6/û6A0660EA7A:A7:6:6600/,,"ü,0,,%ü,),,),),"(û, "þ,6-ú6,6A,:767A6677-0&066--,%!,,!þ,),,",,(!,,),(!þ,6,,)6þ,"3,ý6A6:,L,9þ6ÿ70-%""--76064,-0,,"ý,6!ý,ÿ!$,),,+%þ, (ü, -þ60A6906A,þ6:,77:7þ:ÿ6A066,0Aü,+,!þ,þ%ÿ,!,$%ú,%,,%660066:69AF96066LAþ:ÿB:Aý:70F:)þ,)"),,",$!)),!û,ÿ(ü,)660-6::77A:Aþ7ABAFMABA:A7A::7AB:$++!,!,ý!,!,%,!!ö,6--6,6677:6A7A:A:BFAB:Bþ:67::Bþ:B((!,!þ,þ!()!þ, !ü,6,,-þ,-,þ6A:A76AA77:AAB:ý7A::77AþBÿAþ!%(%,!,!,,""!,!,%þ, /û,ý0-75A:66A76::7þ:0::6:66:6;:AþB!,!,,!,þ!
+%,(!,!,+,,+ý,-,6,,-966::A7Aþ: 6þA
+7::669A7::7þ:;FB:!!,!!$,!,!"!!,%,,"ý, -þ,/,þ67690F677:A77B::A:77::þ7	:7;::;;:;þ! !!,$(!,!,$$û,-,,0,-7767A:77::A:766BAþ:9:7:767:7:771:F:!!$!$ý!ÿ,ÿ%,%þ,-00ý,6--7:77::7::AA::A7:7:66:7:;8:770þ717 þ!  þ!+,,!,!ý,6,,+!ü,ÿ0ÿ76:7A6:7A79:60669677:77;:6þ06707"!"þ!!"!,,%ù,-,!,,60066767676:6Aþ606A7-077þ;ÿ760-0þ-. þ! "ü! )÷,6--,4067676676,6:6696A,760,66þ7:766ý-%-&%ü!,!"!"!,,6,066%-,,--60þ60Aþ6ÿ:960-66A60,60-00770-0--"&,%ý!ÿ"!,!%!%þ,67%,-0,,0660ü6 :þ67A70,ú60-,7006-,-%-,%"!!,ý!ÿ" !þ%-%ý-ý0606906:ú6ÿ,ÿ6 7þ0ÿ6ÿ-0,-%-þ%ÿ"!"!!"ø!ÿ,",--%-0--,,6,664:ú65,/ý6-,þ-06",,-!!""!!%!!!"ù!%!$-6--0--,,0,676:6066:6Aø6-,0þ-,",þ%ÿ!ÿ"ÿù!$,""%,þ%!,%$,,660,66,6/ú6
+/,660,/,,-%þ,%"%!!$ý! þ!S"!,!,"!!"")%,",,%-,%-,,-,6067:-660,576-6-,,"%,-%,)"!!"!!!!!!%"&!%!"!$%%"!!%"%þ,!,þ0ý6/6,6ý0ÿ,ÿ%"0-%þ"	!!%ý!!!!þ!"!"!!"!!"%",,0,!,û6/-0,06þ,ÿ!	","!!üý!ÿú!!%û!,"!!ý,4,:6600þ6ÿ06-,$"!,,û!üÿ!!,"ù! þ! ù!ý,þ0ý6566,-ý,!"!%!,!!"! û! "û!ÿú!$ !%þ!$-,,þ6 Aý6	06,,-)!%",þ!ÿþÿþþ! ü!	!!!þ!$þ!$5,/,6009þ60,/0,,!$$,%%!!üÿ!""!"!ýý!!%þ!ÿ%!,,0-,0::600,þ0	-,%%"%%!!þý!!"!!!!ü!%!!ý, 3ü6 0ý,-,%""!%"!!"ü!!!!!þ!ü! %þ,
+6,,6-A606,%þ,þ"ÿ!"!ù!!"!!!!þÿ!! !"!þ, 0ü6-,%%,"!!!",!û!""!!!!!!ü!ÿ,-6966--",!","!"!"!"ûü!"!!!!þ!  ! û!),664667,,",!"!!"!"!ýûû!!!ü þ þü! $ý,þ6ÿ, "ú!
+"!þ$
+       tile $00000CEC!ü! ýþ! þú üþ þþü"ý!$þ!! !þ!ü!þ ôÿÿÿ ü!!þ!!!!!!üÿ þ ûþþù%ý!$!"!!!ìþý þýþÿ ü! þ!!!û û!!þ
+ý÷þ!üû !þ üþó
+!!þÿ!!!!ú!úþþýþ ýÿÿ!û!!ï ýþÿ û!!!!$$! ý ø  ü ù ñ!þ!!!ý !û!!üÿ þýü!!!!!!!ú!úý úÿÿÿö!þ! ý þ!þ !þ ù!úþÿû	,! !þ"ù
+ý ÷ý!!ý!ùÿü	÷þ þ !ý! ý!þ! !÷þÿþýþ û!!!ü"û!þÿúýüûþ! þ!!ý!!!ý!ÿþ ü!ûþþ ù!!!!!ýÿ þ!!!ùþ þüÿ!	!!!þ!!$!þ!!þþù !! !!!  !,!!"!%!!!þ!ùýþú! ! !!!!"(")þ!"!!!ú üÿûþ þ %þ!!!þ!ÿ!ý,!%%"%!"!!!!ø	ûÿ ýü! û!
+!!"!!,!þ%ü!ý!!ýþúûý!%!ü!!!!"%-!!"þ!ûÿý ûÿÿÿ "ü!,!,!þ! þ! ý!ÿ"þ!!û ûýþþý!
+%"!,!!!!!þü!""!"þ!ýÿþü ü!,!!,þ!,!!!!ý! "þ!þ!!!ö úþ!,""!!%"!!!þ! "ü!!!üù ýþ ù,%"!!"",!!"!""%ý"ÿ!	"!!%"!!!þ!ý ùþþþ"ÿ)"),"ù!"!!"!"ý!
+"!!ý!þ ý ý-6,,-)")ý! "þ!,!þ!!"!"!!!þ!þþ ü þ ý606þ, %þ"!"þ!!"ý!ÿ"!"þ!ý
+!þþ ý!:67-00,-%,%,%%""ü!	"!!"%%!þ!þþ øù:66-0ý-%,,""!!"!"þ!"!ü"ý!ý77066,0--600%%!!þ!!!þ!""!ýûÿû üA:66-6-0-6:-,%þ!"!!!""ûýþÿþüA:67þ0607:7-,þ%!!þ"!"þþý Aþ6-0-060760%""%þ!%ý!ýø	B:70-0-ý01&"%"!!!ý"""%,"úþ!!:706-%0,-%"-%%""!"!!"!"""ý!þþ:0-0%-,%%&-%"%""!þ !û "ü""ýþ1--,-,,%,%"%%"ü!!!"!!"!""þ ý þ þ0-0-,%,-""!!""!"ý þ !ý"""þú	ýþ!þ-þ"
+%"!"!""!!!þ"ý!þ!üþ "û!þ!!!%,%%"!!""""!!!þÿ!þÿ!!!ùüþ"ü!ÿ,!%"!!!!!!ý !ïü ü"!þ!ÿ"%!!!!"ý ú !þ!ü þóý!ÿÿ!!þ ú !ýýùÿÿý!!þþ!!!!!þ!ýþúÿõÿ!!!!ûþÿ ý ý þþýù!"!!!ýþýýýÿÿý!øÿ!"!þþýÿþ ýþþ÷""ûþÿûúÿ"ý ýÿ"ú ùý ûýûþþ"þþþ ö þý ýý!þ ýüýþþþÿ!þû ú ü þÿÿþ þþùþÿ ýûÿ þþü þþÿÿüþüþÿüøùþüýþþþü þ ýþÿ	þ üý÷ÿÿ ûü ü üÿþöþ þþý üÿÿ þÿýø ýýÿýÿþþ ôø$
+       tile $00000DF9ýþý ý ø!!!%þ,ý6 :þAÿLMRQYRQQYWQMF!ö ü !þ! ! þ!,+,,559@6AFAþLPQFQMþQþLÿüüû  þ! ý!ÿ, /û6A:LAMAMQýVYQþLùÿýø  !!+ý,!796:EAELFAPLQQPYVQLMMQ!þÿÿ !ý ùþ!3(,,þ67A@ALIAALLQLVWTVVMLVLýþþÿü  ú !(ý,ý6üALAFýLVQVLVQLMMöþý !ûÿ! ( !,,þ6A:þAEA7LBLFLMLMLWüLùÿ ýÿ þ !þ!ý!þ,5669ABAALALAFLBýLPLLPLMLý ûÿý ü þ!
+!!(!,+,56þALEAALEFFAAPFLQPLQLQLLùýõ !þ!ÿ,5,66AALALûALBIþLÿUýLPþ þ ýþ ÷ !!þ,/,/A=AELA9AALþAELFLKûLFüþÿþ!üþ!/,,ý6:EþA LþAKELAFLPALLPLLEFûþ !  !!þ,0-66ýA
+LAAIKAA@LLAøLü ø!ýÿ ý! %þ,þ6 9þA EúA@AAFEFAýLVLýûþ!!!!"+,65066::A@LAELKLLAALEAKþLQLUVLþý ý û! !  $!+,+30,66A6ýAÿK
+AKAAKAALKABþLPVL÷! !! ! !+-,66,þ6ÿ9EA6KLLIIEAA@AALLAüLEþ ! !!+,,660ý6ýA6AAKKEýAKAþEALLPLFAýþ þ û! ! "$!,-,66/þ6A:ýALAAKùALBLELAEü!!þ!þ,þ- 0þ6A6A@A@þAK@úA	EKLKEKUAýý  ü!ý!"0",-,þ67A6üA=@AIýA
+ILAALLKLLAAú ü  ú   !$+(ü, 5þ6 :ý6A6þAÿ@A@EþA@EAKEEAEýý !ý! !!",!6",06,66A:A@6þAF9A@@ýAELA@KFLAUKAý!+!!),!),-,ú6óA
+BAEAFAA@AA7ù!þü!ÿ(,6,,6,706A6766þALALEAEEþA EýA KûAÿþ!ú! ",!"- ,466-6:ý6ÿAEFþA @ûA LýAE6ýA÷þ!!!"!!,!6-,664ý6
+:66AAFAAFAKþAEAAEKEELE@EA@A9ú	!!! ý!,!!,-,-ý676A669þALAEýALAQALLAAFAA6þ9 6þ!"!!"ù!ÿ,ÿ-60677þ6A::BþF LüALEEüA:@Aþ6
+9!!!ù!")!)!!,,6-76A66:=6ýAÿBABFAALLFLAA@BA6=667þ6þ! õ!ÿ,-,66ý7A@76>BAABBALAüLALLýAþ63663ü!þ!"!%þ!,!!,00,þ676:6:6ýA
+BAAFFLMLFLLýA69ý6/66þ þ!!ù! +þ,40A6,þA 6þA9:EAAFBAFLFLQQBLEþA:6@:5656!!! þ! "ú,þ6:A:þA:ABýA
+F6AFFBMLBLBýAÿ6A665-6þúÿ,!!,","ü,ý6:AAEAFAALAFAFþAFLFûAÿ:A66565,6üø!ÿ,(,,!,,3ü6A6EBFLLBAABBALAüLBLEALAA7þ659335þ! û!ù,ü6þ:AFLAAFAFBABLFABAFFLFFLAEþA6,566/A!üþ!$"%%,,%+0,/,0ý6ÿ:ÿB":BFFLFLF:FALAAEABLLFFAALA99566,6,/ý!"!"%!%ý, 0þ65,67þ6 :þBLFLMLBBFFAFABAEFFALKFAA9699þ6/,,!!!%ý!$!û,6,5660þ6:AALFFLFAFA:AFEþAFELLEF:KE@:@:6,/$,,þ!ý!
+%",%,,0/66/û6:ABFFLFFLöALAALEALAA>A696/6+,þ ü!,!)þ,/,,:ý6@6=::ýAFLLEKþA@6ýABAKEEþAL6AA6563,+!!!,",%%,",%,04,5ü6:6AALLMALAABûA 9þAFEFPûA96:06,,ý!"!!)!),/+3,/,0ü69A:AAýLKLELûA@AAEþA EþAFLEEAý6,3"!",!,"%",%,600,ý6ÿ: 6þAFLFPLLþFþAEA6A9üAQL6AEEFLA:69,6,!!%!!%!ú,ÿ6ÿ/ý6A67AAFLAVLLPúA5AA6þA@:ýAQEþA :ý6ý! "þ!ü,-,6,6,5466A@LAAþLUPLEALAA:A@6@69þAEAAFLAAF9A9:76A!"!,!,!,,("ý,6-5669:69@AEKLQLMLAKþAÿ@6E66A66ýALFAþLýAþ6"%!%%!,!ù,û6 :þAFLLQVQLALAAE6A6=@66A@þAþLALALýA	646$%!!%%ú,6,,ü6 9þAÿLPQPVVLL@@A66A@@=6@6@A@FEELLýAÿ6/00û",%,,(ü,û6@AELKLþVWVLLA6A6A6==@=6AA6þAþLþAþ6+,6,"%%!,%,,%/,,0,,060699:FELLXVVLPLAA@A969þ6 9þ69A:AAF9::þ6 /þ,þ!ÿ")"ý,5,0,,00ý6:EþALPVPVþLA@96=û695Aþ6þA	@696,-,6,"ý!ÿ%ÿ,-,,6,00-60:@6A:A:EFLLþVPKþA 9@6=@,6:@6@699696696A5/,,+!!!,%þ,-0,-þ6,669@üALUPUVLULAAKA:ù635@669566//,,-,,!!!"--þ,0-þ6=:ýA0EAEKPLPLVPLLKEAA6@@669665669,6-,66/0-%0,!"!,%þ,0,6/606:þAÿEÿLELFPVLLKELA@A@@96655,,þ5/5$þ6,/þ,!$þ""-%--,-0600:6:AFAAFLLþPQLPKLAA@þA=A6566/,64/66,9ü,!,%!"!!&"%--0-,þ6A=ýAÿFýL
+EKEAALAAK6@ü63,3,,56ú,4,!!ýþ"!"%%-,0þ679:þABFüLKA65þ@56Aþ6@5þ,+5+,+þ,+!!,!%!$þ"!""-,,0þ6A7AAFLQLAKLLEK@66A@A66@@55,5/ý,+,,+!,$$ü!ý!""-%-,006:AAFAýL"ELLALA@AK@65A@6566+,3,+,,$,!,!!%!%!ý þ!%",%,,--66:AAE:FAEAAPEKVLþA@A@KA@56636,6,+,,!+,$!!,!!ûþ!"),%-,-A6üA=ALAAKLKLKAA@A@9A65@5635+þ,!,ü! ! $
+       tile $00000E3BQBFBBAA9A6969Aý69::þ6 Aý6,6A:A56:þ6ÿ-),006066:ABBAB00AAB:AFAMLFEFAA6A956655A@6@@þ96@/9566þ5=65ý6þ0,-ý6	:BAB:A:6A7þAEAQLLþA9A9A665,6,5=669@66@=6Aù65,:66,00þ6:7BARGGþBüA>9GFA7A:ý6969þ6,/,:A5@9þAÿ69A6@66@þ6900,66::7:BHGGQþFBF::þABJ>76=Aþ6ÿ=3=,(,55=ú6A566A@=ý676446=þ6ABGBGMMýBþA47AAFBBFAA6@5@5@56,536,,556==@A@66=6AA::A66966@67667ABþGMNFBBFýA9FLýA65þ6ÿ3633+36,6566,þ6:6AA49Aþ7	A677676676þ:	BCBBFFMMBBþAKEüA6@6656355365,65565ý6ÿ9ÿ@ÿAE66A-ù6ÿAB::ABAFBýAK@LþAÿ@AE9@þ56,55696ü5þ6@6A@6þA :þ6 9ý6 /ý676A:97úA@KLKE6@=9A66A,@6,36(,56565@9þ6A@AA6AA:ú6ÿ,63969:@FA7A6AAEþAEKL@A@A9656@þ65,+65565665@69@6üAû695/6/6@þ69AA@AEA9L@ALKþA
+@KA:66/556/ý5655955356@96@=EAA:@û656646þ9 6þ@ 9þAÿ@ABUKPALAAþ6
+=63A,6/5565þ6@3=66A@@LAEA:9þ6 9ý695þ6A6AA:@ýAÿ@ÿALALLAA=@6A66@66,3,66966939@A@þA EþA6,:õ69@6@þAÿ@6AELALAALLAA66A9656,66@@56696@95A@AFALALA:66@:=6@9956@A6þ@ÿA=AEAKALLALLALþA	6A@536655@ü65@A6AA@ûA69A:7Aû6 @þ6ÿA6A6ýAELEþA EüA6A@66þ5ÿ6
+56@@6@@PAA9ûAÿ6A6@ü6 @þ6<@AAEKA6AELELAKAKAA6:A6E6A@@66366A6@A6@@6:99AA9AA966A69966:699ý6ÿ@K6A6LEELALK9A@A=66A@96+5AA64366þ@	A6@66A9A6Aþ:ÿ61L96A66=6@AA6K6AEEAFLLFLL@6@6@6E@@A@@965@3565@6AALAü6@9A:6A6@A9@6969@6Aþ@ýAKALKPAPVK@6@A=6@65A6636þ56966ALþA=6@6A66:66AA@Aý696@6þA 9ýA&LFLQLFLA@5@66A699A,/65,,55A66@AA:A66990ý6A9::Aü69:6@úAÿLÿFLAL@@696656,66,0656þ5ÿ6@6AA6A,Aý6:A:þA
+6AA:@66AEKLþAÿEÿFLFELB:LþA65þ6,66!%,66,63,36@6Aú69-76,A::6AFA:9AFABFAALA:BALFFB6B:A69A@A59,,63++5,,+,+56,,6Aþ6 0ü6üA:9øAF:þAEAAE:A7AA=@A6366,0+/,06þ,03,5þ6 9ý6066AA:AFA:A7A6A:ALFFüAÿ:A:76:0AAý6!5,6/5,/56+,+,,6,5+56,0600,/66AAEAPþA:67ABLBBLA:AA66:6@A9ý6A66/006ý,/!6ù, /ý6,6,66ûAþ6	96::AB:FA:þAþ6þAü6/66,,6,,+0,,(þ, 6þ, 0þ,-66,þ6A6@AFþA 9ü6ÿAPQA669ý6 Aü636603,66þ,(,,"þ, )ü,	0,63,67=66ýA:AA676:77þA:65þ6	A-664,5664þ645+,!,!(,,)!,(()û,0,A56A6=AL>6AA66066,667667664/46þ,63/66,05þ, +þ!,(,þ!ø,5/þ6:9þA6A606ý, -þ636ú,	5"966/,06/ý,!%,!!$$!,!,0$/,,//ý6A6þA9:9/6þ,ÿ/6,66,0//0+$$+!/0ý6ÿ,4%,(!$!!(+(,("!ù,3,,6A@ýAý6ÿ,!,6û, -ý,ÿ!,!,5,/0,+6+!$! !+ ý! %,,!$,,/,,+5þ69A9þ6þ,%,-þ,6$þ,!,$,,+!!6þ,+,,+(,)! ! !+!!,!!þ, +þ,6,,646A6B,@6,4-,$,),),,(,,(ú!ù, (ü! ,þ!$!!,ý!ü,6,6/ú6û, +þ,!%,ü!,!"!!ü,$,!$! !!!!$!!$!,,+,%,/6þ,65069/660þ, 6ü,!,!!%! û!+,,!,!þ,ý! !!%,ý!,%$þ,6/,,6,660ý6,/ý,"!!,þ!"%ù!þ,!,!!+!,ø!+!!+,/6þ,6566,0ý6ÿ,",,$!!+þ!  ý!  ý!!!$þ!$%!! þ! û!,$"$,,þ/060ü6/6ü,ÿ!"%"÷!!, ,,ý!þ  !ý ÿ! ! !!,!!+,,466,0,,665/69,6þ,+,!!(!! þ! !! !!,ú!ÿ þ!ÿý!,!,,%,6/6,6066,6633/,-þ,-!"ý!ÿ
+!!!!!!þ,!,,ó!ý,6,,þ6A5,,64636û,ú! þ! !!-,þ! û!ÿ%ü!%0%!,,060A:0:6,6-,60-ü,"$!! ü!
+ !!!6!,,ô!%"!ü,6@A769660,6/,--+,,þ!% (þ! !!!7,%,!!!,!ý!!!%,þ%,-þ:ÿ69/0ý,0,,%,,"!!!"!!!!3,,ó! ý"--,%%--:66,0-,-,-,6,,"%!!  !!!!!!,",%ú!,!þ!!!%,-,%-þ6 0ý6 /ü,0!%û! ! û!þ,ý! þ!!!!,!!%%,%!%%,,066,60ü,3,,%ü!!,!ý!þ!-""ú!!!þ"!þ","),46766þ, -þ,",,""!"ý!!ú!,,%,!!!üÿýÿ% "þ% 7þ0,-%%0,%""%-!!!!"ý!%!%þ! !÷ÿþ!,!!,,6ý,0$,-,,!"ü!"!!þ!!,þ!	""!ü!"!"-%,-,!,,%%,%!,-,þ"þ!!!!! þ! þ!	+,!!!!þû þ!"%!""!,%%,",,"!"%ú!!!!!!!!þ! þ! þþ!!""%ü!	,"!%%,%,!"ü! û!ÿû!!,þ!ÿ ÷ þ!!!!!$!!!%!%þ!ÿ! ý!$! !ý!$!!"!þ þ ûÿ "þ
+!""!%!",þ"ÿ!ÿ"ÿ!	%,!!!!!þ!%ú!ýÿüý
+!!!!%!þ"!!""!ü!!! þ!ÿÿ!û ýýþ!!"!!!%ý!ÿþ! þþ!!!!þúý	!!þ !üû!,! !þ!!!ùþ üþû!!"ý!ü!üú þþýÿ"!þ!"!!ú!þÿ	þü ýÿ û ûÿ	 !!þþ!$
+       tile $00000D2F ü!"!% !!þ!ý!!!%!,,-ü6ÿ,ÿ%ÿ"ÿ! þ!ÿÿ ýùý!!þý!%)þ,/,-,-,%!"%!!!ú
+!!!ü!!û !!%!!%ú,),ú!ÿ þ úþû ýÿ! þ!+%þ,0$0-!%,þ!!ü"!!!%!!!!!!!,!ý,-6,%06,"û!!þ þþÿûÿÿ!!þ!
+,%,%%"%%"%þ!ÿ!þþ!!üÿ!!þ þÿ þ!,!ü,!$"ý!!þ þý!ý  ù ! ! !,%$þ,",!,$ü!!ûþ!!þü ý!ü!	,-,,!,%!"þ!ÿýúü!þ!!!!%,%06",-þ! þ!ýþ!ñ!þ%!!%!ý,þ%"%!ûý ý!!ü!û!þ! +þ,6:0%%û!þ ý!ò%ü!þ,0,!!þ!ýü øýû !ü ü!!%þ!,%,6%!"!!!ýû
+üÿ!!!!!%þ,&"%!!"!þû!ý
+!!!ýù ý!"!%%,!%%ý!ÿý
+þþ!!þ úÿ!   þ!þ%ù!ý !ûþ!!ûÿ!û !ý!!þ!ý!!ú ýüÿ þ!û !!!!!!!þ!
+!!þÿü ý!!þ!!þý!ý!!þ þýûþþ!"ü!!"üÿýüÿÿ ü!þ!! ü!ÿ!!!ýþ!þ"ûþ!	!!!!ý!!!ùý!þ!þþ þÿ!,!!þ
+!!!!ýûþý!  û! ýý!üþþþý!!þ !!þ!	 !!ü þûÿþü ý÷!!!  !!ýþ þ ùþýþý! "û!ÿÿ!!úý þþþÿ!þÿ þ!",!$!,,!!þ þ! ý þþÿ ø þ!ý!ÿ,!,!,$!   !!þü!þ ö!!!!(,,$!$!  þ!!ý þýý ýú%+%!0,,%!!$!$!þ !ü þúþ	!!!!ý! "ú,!!)ý!!ù ý ýþýþ!!! !!þ,0/6,,!!!%!!%òý û! !ü! !!,00,6þ,!!,!!$!! ü  üþû ! !!!ü!ÿ,ÿ6,:66,%$,!!(!û !ì ùý!)!!$,,6006A6,,3+þ!!!ýúü!ú!ÿ,6006þ:6!,,%þ!!ý ýþ ýú !þ !,!!+þ,679A:-!"00!,!üÿÿþýþõ ! û! $þ,06::6,0$0,!!!þ ý þû ü ú! þ! ,ý!þ,60:7-,-/,,"!!ùû!ýõ
+!! !%$!+,/þ,ÿ:/$ý%ÿ!ôúþú  !ú! ,+,65,9,/",,0!!öÿþÿ ü ü!ýý!,$!!%,,0,þ6 -þ,-,!þþþö! !!+,$(û,þ6ÿ, -þ,þ!þ  þ þñ ! !!,!ü,",,600,%,!!"!!õøþþ!! !!%!,+,+ü,6,,%"!!!û	þøÿü!(!!"!!++þ,",%00,,$!!! ý ûÿýø !ü þ!$,++,$5+!++!!$$!$þ!úÿÿ ó  þ  ú ! ý!$+,,$$!/!þ$!!!úü þ 
+! $$!!+($!$þ,ÿ!ÿ,%!$÷	!ü ü  üÿ ÿ! ! !! +,+þ,+,!!,þ! !þ ÿ !øý þ þ þ ! !!  +,!+( ,$!,! !,!  ú!þûþ  þ! ! ! , ,(!++$þ+	!(,!,!$!!ö ý þ ý û!  !þ!ÿ$ÿ!$+$,þ+ÿ!%!!,,!!!!  ! þ! ý    þ! ($ $++6++((!,!!+,+!!   ÷ ðþ  !$! +(!,(,+$$þ+,$$,+)!!!!ý! ù ý!  ! !,!!(ý,+,+,!+!,!-!($þ! !!! ! ûÿÿ    !! !!þ $,+!5,++%,,!$,$,!+,! !! ! ! ý  ü
+! þÿ! !!++!,/þ,ý+!,+!,,!,þ! !      þÿ !õû !+!,+(,36,3,+û,+$!,ý! !þÿ!  ý !ú   !! !!,,!,!!$+,+þ, 6ý,$%,!+!!$!  !   ! !ý ý)   !!(!!+,!,,5//,/,:,6,, ,,,%!+ ! !!ý þ!ý      ,þ þ!(//!,/%,,56506+ü,+! ,+,! !! +$! !! ! ÷ ! þ! !,$$
+       tile $00000C03ýþþûÿüÿüÿÿÿÿýüÿÿöþ úüüþ þþÿþ ý ýûýýþýýþÿÿùþüüþ þý ÷ÿþÿÿþýýþÿÿ öö ýûøý þ ø ýÿî þûþýÿõ ÷ ý ü ýþ ùýþþ ý îÿö ýÿüú üÿý ý þûýûø èÿ øþþ þþæýÿýûð ýÿþý úþù÷þ ùûùý ûýÿ úùø ýÿûÿôþû ýýö!þù ýý ûúÿ þñÿôþîêÿùæôùýþÿøÿ ø ûþþý
+ùÿÿú ùùþÿùÿ ùù ùþþ þ ù úû ùþ÷ùÿÿùþùýþúþ þøÿýþ ú þþúùý ûúþ üûÿÿ÷þýú÷ þÿ û þ þüþ  ýþþù ýú üüÿý÷þÿþÿóþ úýûþ÷þý
+ûïý þÿöüýÿÿÿ ÷üüþÿýüþ÷ !þ úûù þüÿ þ !÷÷ ø þÿÿýýþ!ý ý
+ý þÿþýøÿ !öþù ý üÿý ûú!þ !þ !þÿÿû ûüý þ!!!!!þþü!ýþ ú ø!!!üþýþùþú     þÿ ÿÿ! !ü ú ýþ ø ýþ!ü !þÿ! þý!ý ùþ!!!!û!!! !  !  þ  þ!ÿ ! þþ!ÿþ! ý! !þ !ú
+! !!! !ýû!  !!!ü!"!!!!!! ü!þ!!!!! !þ!+!!! ýþ! "þþ!!þ!!þ!þ þ! ! !û!
+!!+, ,! ü!  ü!!!%û!!!!ý!þ! ! !! ! ! !þ $+(!  þ!ÿ ! þ!!ø!	,!,!!!!û      !  !  þ!+ +!! þ!  þ! "þ! $ü! ý!!  !   !  þ! ! ý!(! (+!!+!!+!++!+!!,ý! !"!!,!!$!!)ý!!! !þø  !þ 
+( !!+!(!+þ!	+$(!!$+(,+ý!,+ý! +ü!  þ! !! !  ( !ý  ý! ü!, ,ü!(!,(ý!!!,þ!,!,!!)+!,þ!þ !þ!  ý!  þ!(+!  !þ ÿ!(! +!+þ!,+ö!+!((!!  ý!ÿ  ! þ!(,ü!$,þ!+ $+!+,+!!$,++$,,!,,("!,!%,%$!,$,!,,!%+%,$(!þ !+(!þ+ $(, (!( ,($+,þ!,!(,$,$(+þ,(!%!+(þ!(,,!,++!)!(++!!+! !+!,!ú+ÿ!$(þ,(,$+,! !+,++þ,"!$%!(+,+$!$($,+,(+,!!,$,( (!(!,(,!ý,3+(!(!6,,(5(þ,!,!,+ü,3,!!,!(,! ,6(ý,+,)(,(,ý  +þ(5!,þ+ÿ,+,,!+,56,,+(+,+!,,++,,!,+,þ!%+!(+(,(ü,ÿ+ÿ,!(!!û+,++/53+5ý,+53+ý5ÿ,ÿ+/5,,+ü,
+$!,, !!,+,/û,+,,%+!5,++5535þ3ü5,6/ý6	36,,3,5,,3þ,+6,,+(+,+("+4þ,5,,/3,5ý,ý+	,63,35,/6,þ6 ,ü6
+,66,6,5,,35þ, 5û,ÿ+5+,,5þ, 5ù,%+,(365@ý565=ú6A5@56645535,336553û,+3(,þ53,366,,5ý,$+$,69@5965@û696A6A5þ656+5365,þ5ÿ,/+,,+/þ,/65/þ,3/5ü,$
+       tile $00000D14ÿ!þ!"%",%þ,0766:AA:üAþL EþLAK6A@A@þ695,3þ, +ú!!!ú"!,%,7ü6@6ýALFýLÿEA@@AAþ65,,66,!,þ!!  !!!"!!""!,,%--606676:7þAPALPþLKA=A@==@6@53ý,	!,!(  ! ùÿý!,%"%6,00û6ÿA6AAEAþLþAÿ@A669955+/+$+!/! !$!!!þ!!!þ" -þ,-00,ý6þ9üAÿLEKAE@A6A6@665ý,),û!!þ ýüÿ"ÿ%-,%þ,6,þ6	A@9A96EALEûA:9A56,6,,$,,ú!ÿü!%",,0-,60,07þ6ûAþEþA9AA965,5,5,!,!+(!!$ý!þþÿ!",,%ý,0,-60ý6A66AFþAEA@EA@A66,3+,(!+,!! !!" üýÿ!",%ú,/6/þ69AAELAEAAþ6A669þ,$,!!"!%!%!!!ýþ!%""û,6,/669ýA
+LBAA@996006þ,+,,!%!!0þ!"!"þÿþÿ!$!,$,,!%!%,,060669A6EýA 9ü6/,,$%û!ÿ,þ!%!ýþ!þ"	$"!",6/66@þ6A6LA@@A66@55,6$,!,!+(!!, !!"!!þÿþ þÿý!"!"%,)!þ,6,A6@üA:@69Aþ6,(,,+ü! %þ! %þ!þþ!%!$!,!%ý,ÿ6@6ýA
+966969665/,þ+û!	!!!!!þÿ!!!$!þ,6/06A:69A69AA9A665þ,"!,ü!!!þþý!û!þ,36:6A@A@A6/66A@663,,þ!+ !þüþÿø!ý!+$,/69A966@9ú6,/,ü! !!úùÿ ÷þ! %þ,A69:þ6
+/6609664,,$ý!ÿ ÿ  ûü þ!!!%%0þ6A66þ,ÿ6/66/5,!,ü!ÿ !þü ýÿø !!,,:6:,/%6556,06,6,!,, ! þ þú þ ûý !!,!!,5,ý6ÿ,þ6 -ý,!,!!!!ý üúû ý!þ!ý,/5/63,!6ú,þ!,!! !!úÿ ý ýü!! !ü, -ø, þ!!þ!þ ýú ûÿ ú !,$ô, "þ! ù!ýýþ üüü!û,!,,(,!"!!!"ü!ÿ
+!þþ ýûÿ  !,ý+/$ý,û! þü!þ ýÿý þ ýüþ $ !,+ü,56þ,þ!!! !ü!þ ýÿÿÿ ûû!!,!!$+0,60þ,	%,!!!þ!ÿ !ýûø ! !ü,65þ,+!!!ü!!!ý þü! $!(þ,!,/ý,ÿ+!!  ú!!!!þþþ!!ý!þ, +ý,ü! !!þ! þ!ÿ!ý!þù !,!!,,!(+$!!"ý! ý!"!!!üþúÿ! þ! !!+(+!(ù! "õ! !!üüõ!!!%ú!)!ý!ÿ!þÿýö!!ý!!ýþ!!!!!!"!! !!%"!!ýøÿ!ÿÿ!"!!ý  ý!$!!û! ý!!ü üú!!!!!!!û ý! þ!%!"!%þ! ý!ùö!þÿ!"û!!!!!,!%ú!"!ü þüÿÿ!	!!!ýý!ÿ ü! þ! þ!"þú ý÷!	!!ýü!%%!!,û!%!,þû!!ü!ÿ "þ!	!ýû!ÿ",!!"!!%þ!)"ú ü ! !!!!üý  þ!!%$!!"ü!"%%,!û  ýÿ!!!  !þ!úÿ þÿ!û!%!,!!"!%!),",!ý!!ý! ù!üÿ ýý!!!!þ"!"!!"")"")!!!!  !!! ! ý!$(!!ýý ýû!ý!,))!, !"!,","þ	! !! !ý!!!(!$þ!ýþýþ!!""!"!"!!"!","þ!ø!!,ü!!þþ ûü!!!"!""!ý"ÿ%þ!ÿý! $ú!  þ!! !üû þÿ!ýÿ! þ!"!þ","% !!! !! !!% þ!!!+ý!üù ýüý!"û!"!þ%! ý!!+!!! !  ! ú üÿ !ü!!"ý!%!ý! ! !!!!" !þþ!!!!"!!ý! "þ! !!þ!  þ! ! ! !  ! þþý þü!!þ!!!!ü!  ý! ! ! ! !þÿüú þÿû!!ø!  ý! þ !ý
+üý! !ý! )ý!ÿ! !    øüþüý!!ýÿ!%+ü! ! !   ù÷ û þýÿ!!! ý! $ü!ÿ ! ! ù	þ þý!þú !þ ,þ!+!+! !û ûÿþô!!!+!!(ú!ÿ  !þ ú!ûþ
+ý$!(,ü! !þ üýýþ ýþþý ù
+ ,,(!++(û!ÿ þñþÿ ûû ý "þ,þ!+!! !!!û ýýý,!!,ý!+!  !  ûýÿþý ÷,!,,+$+þ !  ù þ!úÿ
+û !$
+       tile $00000CB7 ÷ÿ	!þÿöû!ÿý!!!úÿþþþû!!!!!þÿÿÿýûú!ü!ý!ÿøÿÿü÷!!û! !"!üÿÿýÿþþÿ!"þÿ!"!!ü!ÿÿ!üÿüÿþýÿþýý"þ!!!ýù þü!!!"û!!þ!üýý þÿýþþ!!,ý!!!! þ!ÿýú	üþ!""!0!"!!!!!þúü"!-!þ"
+!!!!!!úþÿ þ þÿýý!"%"!%""!!þþþ ü üþþ!"%"-%ú!!!ýüÿý ùþ"þþ"!ú! þþ ùþ þý"þ"%ü!!ýýÿþ þ üþ!!!!!ö úý""þ!þ!!þ þÿþÿþþÿþø !üÿ þþ !!þÿÿÿüÿþþþ ý þû !ûþüÿ ø ùÿùÿÿ þ!!þý ýÿþýþ-þü ý!!þ öýÿÿú!!ýüûþþýþÿþ!ýýýÿÿû!üüþÿÿý!!þþ	þÿüýý þþýÿÿþþú û úù!þþÿ	ýû ðþÿÿÿ!þÿýþ õ ü û ùþô üýú ý !úÿ !þþù þ ü ýÿýþúÿþóþ üûüþÿ þþ úúþÿ ûý!û"!!û ï õþ ý!!þ !ü	õûý!!!!!"üþ ë	û%þ! "þ!!!"ýü ü ú
+ú!!"!"!!"!!"%"þõý ü þÿÿþ!!%!!%!!""""ýþÿ üþ þ þ ü"!!ü" !þ"!þ
+ò þø",%""!%""!"!!ú òü,%þ,ÿ-"!"!!"þ þ ü ü û	ü"%,%-,%"%!!ýþ ùù ýúÿ,-,0,-%+þ!!üÿ ü úþýþÿ ü!,-0-60þ,"!!!û÷üþ þÿý,-4066-,,"ý!!!þþ ûüø! -,--6-,,%,,þ! þþü þ ÷ ûù ý"-,/6-%,,ü!!ýù þ û üþ ø,!0600,%þ, "þ!ý þïþÿþÿýÿ, !þ,0,%,,$$þ!ÿ ûÿþüþý ø,%,$%/,0,,%!!! øÿÿú ýô!",+,!/4ý,ü!!!þüÿÿþýÿýý û ,!(!,$ü,ÿ! !!!÷ÿûýúþ ÿ ! ý!
+,!!,,!  þþ þþÿýþ û!  ý!,%(!!ý,+  !÷ þþÿû ü ý!!"%$,!%ý,"!!ú !þüï ý!û!(!%,++,,+ ! þ  úü ü þÿ ý  !$!,,!%!ü,$! öûþ !þ  !þ ÿ! (þ!	,(,(("6,,)þ! ý !ûÿ þ  !þ!  ! !ý!+!!$!$,+þ,!$  ö  þ	 þ þ!    !!!ý!ÿ, +þ,3,!,+þ! þ  úÿ û	  þ! ý!ÿ!!)!þ,6%ü,!,(!! þ!    ! ú!þ !  !ûÿ!
++,+,,+5/,,+þ! ! û  ý !ü  ý !!  þ! ! +  !(,!þ, 6þ,6,,!(!!  üý !!ú  !!! !!!!(!ý !!%ü,/,6,,+,!! !! ù !üý	! !!ý!$,$
+       tile $00000EE4-+$+3!5305636,+,$+,$!!,,$+(+ !! ! ! (!  !   üÿ ÿû !6,+,++,,55/5,6,,/þ,$ !,!,,!+!,  !$ ü!  !  þ  ý (!!35+,,/,,+,06,5þ,/+5$ý,$,$!,!++$,+! $  !+  ý  ø (+,+(3ü,(%,6,646,3/,(,,(,63!,!(+!,!,!+(!! !+! !  ý þ!"+!!(( ,,3,!,,+5,,0,69:,/6,,$,/,/,/+þ$ÿ,ÿ+, !!+,þ! (!þ  ý 2+$!$!+!+/5,,/,,066-0A,06:960,6,6//,0+,/,+,+/,$+,$+!þ ( ! !  !!+!  !!+,,+û,ÿ636,ý6:665þ,	-,,65,,$,!ù,)+ ,!(!!,  !! ! ! !(+(,,55(,,/5565@006@6/6,þ6ÿ/56ú,+/ý,!$,!++!!(,+$++! ,$!!( ý,0,6,,-ü6,7:A-,@þ6ÿ5,+65,/þ,!,,%,,5(,+,,ý+(+ þ!( !,+(,,þ3ÿ,$/6/ü6ÿAÿ656A669þ6/6,6,ý6ÿ,%"00,/,,!,!,,$,+!/!!û,066+,!6,6966,6AA6969ý6ü5ÿ6	/56566,3,5þ,+,,(++(+((!++(+(+,,þ65,,!505@660,A6@9967A566,,60ú6
+096006636,3ü,ÿ+ ,þ+ !ü,ÿ53,, 566366:A@ýA=565659,55664þ6	56966,3665û, 353,,++,++3,5566+5!566,56696AA@E9þ6 Aþ6ÿ5ÿ6A6@665þ6,A@,6,6þ,36,,5+,+(,5535366,,!,66@696A66AAü65@þ6,5û6,66366966,4,/,5/36þ, 3þ, +þ56/,!(5,556-/0ALA@6@ý65669669þ6,A9ý6 Aþ6506,,05þ,$6+653,65,66@/,!655-5,,6A6AK96=965@6@5þ6=6=@93ö65,6,,6,,5,,6,,6,353þ,
+/66556,6LAIþ6@5þ6A65@6@5A6E66=9@@þ6A65þ6@6=5þ,/,5,û5, þ65/645AE@A@A956,6@@6569ü6 /û6A69659/5@û6,+66,5635=/!@þ6,66@6ALAEü6K@6@6696A6@6,66A66@A66965,A6Aþ6 5ý6@,þ5@9,$6,,55@996@6K669966@A@Aþ63966@@56,66@A9A9þ6 @ü65066@þ6	,6,=6!655@þ6@A@@A96AA66E96956EA5969ý696þA969:960ü6 /ü6ÿ5 ,þ6+66565=5@A@6A6E@6=ý@	6@696K96=9þ6	9AA@69@69Aþ6@6995ý6566=6=!,/665ü6ÿ@ÿ6@6@6A6@KA6@=595=þ6=@=ý6 Aý6:66Aú6,655665,/A665ý6
+@A=A@@6E9@9ü@A@6E6=6A6690A69A9Aþ6 9ý6 :ý6366þ59,,99A@66A69@@6AA6ü@þA@A@6A=@5A66=þ6@AA:@6@@þ6@6@6þ5=5þ65,566@696@9669L9@K9A9@AKA@@EAK@þ9+69þ6AK66A65ü6 9ý6/565@55ù6ÿ@6A@6KALA@KAKAIüAÿ@6Aý@ÿ6	@6A66A6@A5þ6,6565þ6@366@59A@@656þ@65KEK@EAKLLUýA9@=EA@9A696@@96@A569696656@þ6,56þ56,/ù6A669KAAþEýLÿKEA@9E696@969AA66996@@þ6 /þ6
+56+6+665969þ6@6Aü6þA
+KEAUKPLVPPAþE@A@6@þ6@595þ6ÿ5ÿ65A,66,,55655E5@ý6!96@696@66A@@AKEKLLUXPEKK@KA@9A655@þ6@6@5A5966=5535++6,6366@56@94û696ýAþKULULVLKIAKA@@6656655693ý6535,35,6536536,39=ö6=EAALAPUQVLPQVALLKA@6,@66A66þ5ý6 5þ6þ5	6,55,5,5,3þ695ü69@@AA@EþLUPPVULLKALLE66@5@6/þ6
+@/6966@56,,ü5ÿ,/53/5,5þ6,/996@@KAELKPXVZXVLVLALLA@KAþ@96596@@665@969+5,5+6/656556,,635ü6@A@AAKLSXVLVLVLVPLALKKLAK=þ@=63þ56=65665365536636,3,6/66966þ96@@AþKLPþLUVPVL@APLAEEþA9565935@@6,5665655,665693655/û6@66@@LEEþL	VLVLXUVLUFüLAE@9@ý6 5ý65=59Aü6/66,,563,ý6þA=@AEþLVUVAILV[KLVKþLÿUKA=@=ý6@5=þ6,56,ý6,5,3=þ6,55ý6ÿA=AAELLVLPL@AALULFVLKýLýA @þ6A6@66569ù65/þ65=9669@69AA@AAJL[LULLKKELLKþL PýLKA@6AE6@63=9@53,û6/65=@66@6@66þ9,@EA@@APA[EUKPP@KKUPAUPLPLKKEA@@9@@65@99K@96@9þ5ÿ6 @þ656Aú6þA @ýALKLLAIULEþLVKþLAE@KA@=AKA=A@=6=6=A=67ü6@66=@@66@6==AEþ@AKL@KKAKK@ALKKEILþAK@6K@A@6ü@ÿ6ÿ5ÿ6966þ9@6@65A@@9ý6A6AL@EEýAÿKÿEKAKE9AALLKAK@E@@E@6@6AA@A5A:ü6A966A66A6A96A9þ66@6A6AKK@5@6A@LKK@KA@LEAALE@@AA@A@K@6@5AA@@A6699A9AA6@A=ý@#65569@@6KAK@@95@@AKK@AA@EFALKEKKEAE9þ@AD@A@A9A@AA9A@6@A9@E9@AA5ý6A6@@6A=AK6A=AAþ6KAEþA EùA6LAA@A@6@@AAFþA :ûA @þA,6@û6@9566=þ6.@9@66A@6AAE9AA@A@@A@A@KA@9@6@AEAA@6L6A@A9:6AAE@þ6ÿ5þ@6I@@=@@6@@5@A=@AKýA@AAIIE6K@IAKI=KAEAAUEAEùAÿ@EA=6E66:6@9@6@A6AAý6@66ûAFAAILKKLLAAEAIAA@ELF:AL÷AK6@A@AA6A66AAý6ÿ@6@þ6=@6A@ýAKAKAKLLFIAAK@AKABAAFJùAÿK.A@:@A=@9@/696A6:A669@@99A@AKAEA6EKLILULLEEAKALEýALELLûALKLE96A@AA669þ6A@=99þ@69@@A6A:þAÿLFUýLÿKBELLEKAALLEELELLýAÿLK/A69Aþ6/3@6@6=56@I6AA@=A6A@@9þALAEúLALAAJLAALELAFAKKLLKLLþ6	96A6,66A6@þ6A6A@@6@9AKA6@EAKAALFþLÿVLALLþFELLPLLKþLULPþL656,þ6A@6@5Aþ6
+=@@6A@6=@=@þA KþA
+LALQLMLLKE:þAþL EþL KûL	KL69/@96AEý6 @þ6ÿ@ =ü9 @ýAÿELAEAFAFLLQFALBQLLQLPFLLPLQLVüLþ6	@66@6=@@6@þ6=6@6JAA@=AA@üALBLFLBVôLVQUVVLVVLLA695ý6566996=966A66A9@AEA@þE'LAEKLPQFLLALKFALPLPLPLLVLPVQVVPUELA659@@û6+9A6@69AK@AAEAEA@EAEEAKALLEPLLFFLEELLQPPLPVFXýV[LL96@65@@6@A@@996A@ýAÿEþA LþEFLAAELFPLLELFFAEELQþL QýV%QXXLMVEE@@65@566@@A66A@AA9EAELALAKEEAEüAEILFLLELLAEFLBLLQQVPLüVPLL$
+       tile $00000ED83+,ý6@66@6@ý6A6KýA%69663,56365,3553!3556,3,5,556,6,3/,6!3ý,)!,A6@@=99@6=96AA:6:@AA9A66565563,656,5(,63þ5(56,563þ,/6þ,5,3/5/@9@A@@A5KA9EAE@þA	6@EA@@6@66þ565635(þ6þ5ÿ,5,66=/6/+,6,5þ,ÿ6ÿAÿ@þAKLLAELKLIþLEKLA@@A=@565@ü63=Aþ6 5þ6?564636,6,/36,6/6@@EAAKEKKLLEPPLLVLLFLKEKAA@9@@6=5966956@96695655þ6/66/6/,6,/655þALEAKKPKþLUKKPLLVVþLýAÿ@96@@9@6596@6A65þ6595ý6/,,6//ý6ÿA@AAöL	KLVLKLAIIAþ@ =þA@:95A66@@6@@ý6ÿ,ÿ6@6,,06,,56AAþEFEþL VýLPULLVLPPLKKAA@@üA9A6@A66@566@ú6A66966,þ6ALKKFýLþPLKUULKVVPULKKAA=ý@ÿAÿ6@AK=66Aþ@ú6E66,6+6,,67AKLAAFQLLFQLLXVLýVLPLKKEA9A@AKþA$6AA@@AA6@@9@66@/6E966,//,/,6AKAAKLALUþLUKPVLVLLSLKKLPþ@"AI@@KE@A@=AKAI@K=6==A66A=966+5,5566ýAûLÿPÿLUPPULSQLELPIKKAKAAILþAÿLÿKÿA @þA9AA6:A:A663,,66,6=A@ALKUûL VþLÿU AûLÿKIKLAIEAAIKIKýALAA9AA6AAþ6ÿ,5/5,56þAKLLKþLALQLLUVPþAÿLULKLKLK@ýALKKAEEA@AA6A:=6Aþ6563,(,!!þ6LAKEþKALKLUSPPKALPLûKLKAE@ALKAEAA@A@KþALA/EA66/,,5/6,$66A@ýA KþLÿKþLALEUULUþL	ELKAEAAELEþLüA@LþA9LAþ6,565þ,/36@þ=ÿAÿK	LEIULKKPLAþLþK(@KLIAA6AKAA6A@=A66EAA9AA696A5/96,+,,3%5@@þA6KLLKPþUSKLKKULSþKLKKAEEALKLAA@AEIýA LüA6A6,,353þ,)66A@EA@EAUEýLKSLALKKLAEAKIþA+AEAA96@@þA7AK:@AEA@695þ6	,/6+,,656@þAPLPPULPUILAALAEýAEAA9A6@AAK@AL@AAEAAKA:FþAü6 -64,,%"@@=@6@AFPLUVLUULLKKIKKAAKKýA@6A@@66@AI9AALKFþA	E6AA0,6606þ,ÿ%ÿ6ÿ@ÿAEFKUVUPUPAEKEUAKAAEA6A@966ý@E@=@ýAEAAE6AA9ý6!36,,/,!+6@6@@AA@UZVXZVU9VLLELKAK@Aû@A6@@Aþ@üAE9ýA96966565/,,!"=5=@þA	IPU[V[[LKLúA@A6þ@6=6=A6=@@A9@69A6þA>A67,6--ý,)",66@6@KALLPþ[VLVVALKAKþA69659@6@=ü@ÿ6ÿ@ÿA6A::A:669þ6 /þ,ÿ!5@@A@þALPV[VLLPAþLûAÿ6	@=6@@=@<=6û@ 6þA=@A695,6,,/%,! !566ý@
+AELLXUPPELLüA6@5@56556@9665þ@5A99KA@69A6Aþ6,6/6-!,,"5@A6AAEþAÿL VüLKEAA6A6@6@65@6=5665@=5@=A6@þA6A6@A6,90þ,ÿ!,!@@E@AA@@EKLLEEKLLEþA6A9Aþ@59935@@9?A69A@66@E@>/A99þ6	0,6%,,$!,9þ6@A9@9@EKEAAEALA@:99K9AA66559556556@5969@A@6A5/@69665//,,+!!,(5@5@Aþ@AKEýA LAA96@L6@@A669656955665@@A@@66:,9þ69,6,936ý,%,566=@5þ@
+AKAAKAKA9@6þA@A9þ6ý5ý6@6@69966@ü696-66,,(þ,	!,=6A96@6KøAÿ6ALKA9@ü65@656565=69665=þ6A3@A63/,-þ,!",)6=9@6@66øA	6AEA@A@@66ý5ÿ6,6659566Aý6A6=ý636,6,-ü,
+5@69A@A:9AEýA :þ6@AA9@ý6û56//6@9þ656A@696/56/,6,,6!,,$!9Aý@ûA:A:6:EFA@@9A69þ6566/û6:66@93Aþ6566565/,0-,,0!,6=6@@=@A=þA@=A6=ýA =ü656@30/,635696=9A=,A>û6ù,%,!66@A6A9AEAEPAAEAE:EAAü6,65665/,5656@þ6066A6A:,þ6ü,	$,%,!$6@@6ýA EüA	FAA6A6A66-ú,65,ø6799A69þ6/66,,6þ,	+,,6=A@A6EýA PüA:>67û63533659þ6 9ý6A66:Aý6,5/3/,/-%",$!þ6ÿA6LAEúAþ67696654566363,ù6@66/A@ü6,/0ý,%,%!,ýA KþAKLIEüA=7û6 5ü6
+,656066-66Bþ6 0þ6!A66,6,6!,,",,!!@A9AK@IKELLAAE@AA:Aþ63695655/þ5ÿ696969,66566A66566,5,0þ,+!,!!@þAKLLKLULýA76A=664ü6,56,6655û696676A65=606þ, "ü,$!@EAEELAKLLþA:A7Aû65653,5þ, 5ý6@6,6@66,û6@6,,3þ,!)(!!EþAFLLAFLBFA:AEA:þ65//þ653,55/5665665@Aþ6,6,06/þ6	05"%,,",!!þALIEFABþF :ýA6A5655ý,536,56=569369:A6@þ6ÿ976,6,3,,+!(,!,$EAKLKEKLLALEþA Eþ6 9þ5/,,//ý5ÿ6ÿ5'/56@6@96/6656/06,,//,,$!!$+!AELLQLFLLFABþA:6Aý6
+5,,5,,53,/3þ6@6,56=þ6 9þ64365,3,,+,!++!(AALLýA BþAÿ:ü65,5û,ÿ56,566956,656/656,,/6/6ú, ! !%ALKXKAEA7A:@A=@56535+5=+3þ53556565566A,9þ6@66,6,60663,,+,!,$!%LPKLFLBFLýAý6þ5	3655633,55þ65665,66@66=65,66,@6,66ý,+),$!þLþAÿBþA7=þ6536,53,56556535ý6 9û6@6A64þ606606þ,",þ!,LKLKþA
+EAA9AA65@56ý5þ,û565=þ6 5þ649ý6060ü6ý,	!+%!!KXLBKüA @û69,356,ü565606696@56=969:ü6,6,6-6þ,$%$!!"KKþA*6A6@=66566553+53,+5565565@665,5=6@5A6@6536,ý6466þ,(,ý!ÿKAKþAÿ=6AA56+53@ý3 5þ365==@6@656A@@6A@6@þ65Aþ6=66,%,,),!!"LAKAA@@=þ@û5ÿ3+,5,5,þ5ÿ=9=663A6A@6K66A@þ6969,5þ63,,(,,!!AEEAEAA9@ý636/5,55,ý5,@65569966K6AE9A66A0Aý6 0þ6,66ü,6!IKAA@6þ=A=6533,36=33,3656366==9þ6ûA
+6=669,66,6Aý6ý,0(,,)AKEE=@@6@@56,,5566+553535656966@66A:LAA=@9A:Aþ6ÿ06,A0-,/-,,)$!(AKþAÿ@ 9þ6ÿ5656þ5,5595656@A66A696úAÿ6@9:9:ý6060ý,þ!%LLEE@AE@6=96ü5 6ý5/65F6@96A9AAEABAK6þA6Aþ:9665669=6,,(+,+,þALKKEAA6656653563356656ý@ÿA@A@:÷A9>ü6A,,þ6ÿ,!($,$
+       tile $00000C9C5,!,!!(þ!ÿ !!ûû ýÿýþû,+,,!,!,ü!þüüôý ,,/,+$ú! þûû ýüù /ý,!((!þ!þþþ	ý ü! 6,,!,+þ!þÿþýÿ ûüö,5$,!,ý!!ýþ	þÿ þÿÿû !þ0"!,!!$!!ýýþüüþ ý ùÿ, %ú!  þ!
+þþýú ûÿ,ü!+!  !ûþÿýýÿþÿõ /þ, %ü!$!!üþýþÿ ý þ ,,/,)!$ !   !ùÿý þÿÿ þù 6,-þ,þ!ü!!ýÿ ø ûúú	/,!,,!+!  ü!! ý óõü !(þ!(!! !! û ýû	ý,!)$!"ý!ÿ ! üý ûþý û ûü/,,!,þ!  ùý÷þûÿÿÿ,)!ûò ó ö,ú! !þÿý÷úý,$!,$  !ïýùûü!!þ!ý!þþý û þ ú$,þ!!þ þ ý ýþ þ þüû!! ! þ!  !!öÿ ýýüþþÿþýÿ!,(þ!  ý   þ þýÿõ!$!! !!!ö þÿ ýÿüýÿû	!,!!!! û þ!þüþþþÿõ!+ü!ÿ,!û!üþûü þ$,!+þ!!! ýÿ ü úþÿ÷þ! !!!! !þ ø ýýýÿÿ ü ÷!%,+!û!þýõ ü !þ ,ý! !!    øùý ö!$!$ý! ! ñÿ þÿ ý üý û !+þ! ( !!!÷!ý ù!÷ ! !(ú! !÷ÿÿÿþþý !ü þ þ!ü! !,þ! ! ý!!þ þýþô ý!ü !ü!%"! þ!þ!ó ÷ú ý  þ  þ!ý!!+ü!þ!!!÷!ù!)!! ý!ý!ýý þ ý  þ  ! !û!!!ú þ!ýþ ù úþ!($,!!!!!õý!üþû !%ú!ÿ!þ!!ù!þ
+!!!!!,ý! ü ü!þ!ý! ! !!,ü!!!þþ þ!þ!þ!!þ	!!!! !ü!  !ú üþô  !þ!ÿ !!!,!(! !ü!û ü!! !! !!! ( !  ! !!þÿ!ÿ ü þ þ íÿ!	 ! !!,þ!$!!ú !þþû þ !þÿ!!!ü( ü! !þ!üþú!!þÿ!!!!þ !þ!+$!!ýÿþÿ!û õ !þ!üþ!
+!!!!!ýþ þÿ !þ !+!!+!!!!úÿþ üÿûýÿ
+þÿ! )ú!!õ üÿ!	! !  ýÿ!!! !ü!!! ýþþ ý ø!!!!þ!!"!%ø!!!ûþýýþþ!ÿ!!,!!û!!!ø÷þ!þÿþ!!!!!þ! þ!!!þþ þ þÿþÿ û ûþ!ÿ!!!,ù!þ !ýý!þû! !%!,ý!
+þ þþýþ !ý),þ!$,(þ! þÿþþþ !!! +,þ!%!!!!û ý þ ý	!ý!%!ý	!!!$,þ!(,!!!!!ýþýü þ!ýÿü!
+,!"!!!þýüúÿþ!ü ý,"!$+þ! $þ!þùüÿ%!ü!+ù!! þ ýþÿþû"!!!!!þ!,!!() !!!!!ö ýÿ	!þ !!ü $
+       tile $00000E24ÿ !!!($ý,
++,,553++ ( þ!ý !    ü !!þ ÿ!  þ!+ (!!! !%!!,+,,5+/þ, +þ! ! ü  !  þ  ý! þ! ! !!þ /$/  !!,++ý,/+5/+,(,! !#   þ ! !!!!þ +!!,!  ,+! ü! (ù,5,!!((!, ( (!   þ!ÿ  !þ !ý! +ý!+ (+,  $+!!,, ,$/++$,!,+, %+ý! þ  ! ! ! $ !þ + $!!$/%! !þ!!,!,+,!+,%,%!+,,+,! +!(!!!   !!  þ!$ý! û!%$þ,þþ!,!!%),,!ü,+!+!+, +þ  !þ ! !  !! ú! ý!  û!',$ ! ! !+$+!,!!(%!,,(+,+!+,!+!!++ !!  û!+(,!$þ ! !,!($!+,!! ! ý!,/!+!,,(,!",!+,++3!+(ý!,((+!+(!(!!"!,!)ü!(+!,!%!!5 !þ!þ$ÿ,
++%!)$,+$!,!ý,)!$!++,!! +!+!,+!!,!(,+(!+ !+!!+,!%,(, !ü!;,(!!(( !++,++!/!$,!(!++(!$+!,+,!+(!!) ,  (!$(!,,+,!+5, !! !þ!$!4þ,!+,$(),,!,!+5,,(!!)!þ,!,$!+!+$ú!	+$,,),(+!/þ !! !!,þ!,+((!(+!,((,$+(++(!+((+!3(,,+!(!+,!( (!+ $+(,+þ,(,,   !!((! (+!+!(+þ! ,þ+ÿ!ÿ+,+,++!$3,0,!,(þ! +! !!++6!,!/$(+/,ý2  !!)!!+!!+ !!+,+$,$!!,,/,,$,,3,,!,3!(+(,!++(!+!(ý,+,"!,!! ,ü!$!,$(!!+,,!$!, !,!+ý,6,+(,!!+$ü!,+ ,3,,++!,$+(ýÿ 1! +! !$!++!(!((++( (!+!,+(3,/,,+(,,!+!+  (!!(+3(+!þ,+/+5,þ! ü!$ +(!,,+,,!++,(3,,$þ,5/-,$5(+,$,!+!!,$+!,(,!,+,++6/ýÿ  !!ü!ÿ,ÿ!ÿ(ÿ+,(,+/++ý,5,,5,+!+,+!++,þ+ÿ!
+3,+,!,5!,,úÿ! þ!(!+($,!($!+/5$þ,5!%/,,/+0þ,+,!+(!($,+,,5!+!,+!/5 ý !!+!$!!,+!,,++þ,+3,,6,/66,5++,+*++,/ +,++,+þ, !þ+/,þÿ! ,þü! ,þ!+,! $(,4ý,+60,6ü,(+(++  ((,,(,++,þ+!,,  û!+6,+(,!+!!+ ü!,+$,,/,6þ,5,55,!+!$+! ,!,++,,++)!þ6! ú!+,!!,!!,(!!+ !!þ,+3,,6,,!ý,+3!þ,!(3(++,,+3,,!56,ýú!	+!%! /,!!)þ!	,!!,!",,6/ý,04ý,3+,6,++ý,
+/,,5,%,6/ý!  û!(!3(!(!!,,,+û,)63÷,533+ü,þ3/5, 566! !!,!+,!$þ!!,!,++$,,$,!60,%!-,6,%+,,(,3/+!+/3þ,6,6,56,ýþ!!! þ! ! þ!"!,!(÷,+,,3!,,+,+,35,553346þ54,66/ ! þ! ! ÷!+þ,0,/!,0%+,,+,$,!,,9+,55,ý5656,6/þ65ý! ú!
+!!$,!$$,"û,&+!$!!+,$+,!+,,6,9/6505,06/66!!!þ! ý! !+!!/,(ú,!,!!+þ!$!,,6//9/66,/,66/6096 !þ!!!!! $ $!,(+þ,$!,!,(!+!+! $+$,!,/,9þ5ÿ656559þ6ÿ !ü û!) ! !  !!,,(+,,!+!("!,!! ! !+,+ +!6/6,56=ü656!ø!!! ! !!!,+(,,!,þ! !! !+ !!(++,!,,+/,,60ü6960øÿ !ýþ! $þ!$!$$ $$! ,(+( +$ þ!,+5+66,/6066þ:6 ôÿ!þ!!$ü,ÿ!%$+!+! !!  '+!++65+,+5,/66@6=6,A:6!  ø !  ý!ÿ,!)!(,ú! (!! + ((+,++,5$,5þ,ÿ6,65!!ø ý !$þ!,!%,"!!$û!  þ! $! (!!$þ+,/,/+665/,6,!!ö
+!!!%!!,%,ü!ÿ,! !  +  + !++(+!++,þ+ý,6/6,5!ù !ü " )!!",""!)ý!(!,ý +  !!++! +!(+ù, 6ý !û !!!,!!"!!%!!"ý!ý !! (þ!ÿ+ÿ(ÿ!,6((ý,ÿ!	/5! !!ü
+!,!!!ù!" !+!   !  , +!!++,(þ,ÿ+(66 ûÿ ÿ    !$! !,ú!ÿ  !ü  !  + ( þ+ (ý+ý5ïÿ  ý!,"%"ü!  ý  !þ ! (! (,((!3,,3656@ú þ øù!,  !ú   ( !ý  !þ+ (þ,5353ù õþ! +ù!ÿ  ÷
+! ! ! !!++$þ/ý6ÿ ö+ýþ! ! þ!ÿ ÿ! !þ !  ü +!  ++!+(+353þ6ý þ !þÿ  !þ !  ! þ !   û !  ( !$ ++/,/@9@üýü!  þ!!!  !  !! !þ !  ! !þ ,+,+,55@656û ù  ý  ù  ú! !( þ+,+þ6/9, ýûþ 
+! !    ü  þ  ý ' ! +(2,39==þ5	!!þÿ ü	! !! !!!þ !  ú  +þ (  !,3,56,566ýý ! !þ  þ! þ þ!ý!ÿ +(+ (!35,5,35,@þÿüþ  !þ ! üþ  +þ + + +! !++!/,,5696ù!ü ! ý ! + !!  +!ý !+!+,+,5,/,656 úÿÿ ûÿ !ý þÿ þÿ !  (  '    !þ+	,3,565!þ ü ý!ú   ! ( !  ( !+ (  þ+(!þ,56/6A5ù  ÷  $!ý þ  +ý + þ+ ++!+ +53,/,5596û !ô  þ!)  ! ( !!+  !+,(+!!++(,!/!+,5566066øý ý! !þ ÿ!  (!  !!(+!( þ(+ ((,(,36655,6ù þÿþ û! !ü !!  !  !$!++ü!+,(,55,365/@6þ !þÿøþ + $!  þÿ +$!+!+ ++ +!!$ +/,55/56@6Aýþ þ þ   !$!  ! !!$!,+!þ+$+!+!/,ü5ý6 5ûþÿÿþþ !ý!  !  ! ,!(!++,,(+(++þ6 !þ,56699$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       brit 1
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }
