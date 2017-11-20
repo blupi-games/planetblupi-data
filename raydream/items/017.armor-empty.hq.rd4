@@ -8,8 +8,8 @@
   pltf 1464422002
   name "Défaut"
   comt ""
-  widt 120
-  heig 120
+  widt 240
+  heig 240
   dpi 72
   kpro 0
   dept 8
@@ -76,8 +76,8 @@ wkmg {
    wind {
     winf {
      type 1214866759
-     locH 14
-     locV 759
+     locH 803
+     locV 477
      sizH 975
      sizV 317
      flot 0
@@ -86,8 +86,8 @@ wkmg {
      }
     winf {
      type 1348817523
-     locH 13
-     locV 25
+     locH 313
+     locV 58
      sizH 1149
      sizV 702
      flot 0
@@ -108,10 +108,10 @@ MInf {
       }
      }
     }
-   afrb 918
-   afrl 189
-   afrr 1239
-   afrt 93
+   afrb 368
+   afrl 1
+   afrr 639
+   afrt 1
    apst 2
    sszh 32000
    sszv 32000
@@ -197,7 +197,7 @@ reff {
   }
  }
 sc {
- nm "armure-vide"
+ nm "armure-vide.hq"
  nxtL 1
  nxtC 4
  nxtG 7
@@ -1361,7 +1361,8 @@ sc {
      AnTr 1
      Cloa 1
      tran {
-      po -0.00002,0,-5.03766
+      po -0.00002,0,-9.05457
+      Scal 0.67999
       hp -1.51703,-0.10744,-6.09784
       }
      XYZs 1,1,1
@@ -3616,13 +3617,13 @@ sc {
          ob "Assistant 3D 5"
          }
         }
-       boxM 8.3916,7.3645,1.67325
-       boxm -7.83058,-9.95566,-14.21916
+       boxM 8.30983,7.36426,1.67314
+       boxm -7.85954,-9.95557,-14.2587
        open 1
        }
       }
-     boxM 6.79538,7.26494,0.63213
-     boxm -9.37988,-10.08359,-15.34818
+     boxM 6.79521,7.26471,0.63203
+     boxm -9.37978,-10.08351,-15.34807
      open 0
      }
     ca {
@@ -3674,14 +3675,14 @@ sc {
      AnTr 1
      Cloa 1
      tran {
-      po 19.68384,19.68384,9.84192
+      po 19.68384,19.68384,12.79449
       mat -0.70645,-0.35474,0.6123,0.70764,-0.35281,0.61206,-0.00104,0.86578,0.50043
       }
      XYZs 1,1,1
      MPSt 0
      proj {
       iso {
-       zoom 3.43654
+       zoom 2.50705
        }
       }
      cc 1
