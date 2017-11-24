@@ -1,0 +1,3828 @@
+3DC {
+ asci 1
+ vs "4.1"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 240
+  heig 240
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra Jeu"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    OVER 2
+    MAXR 16
+    MAXT 16
+    MAXA 16
+    FLAT 2
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    LITE 1
+    DRLC 0
+    RAST 0
+    TxtM 1
+    DLit 1
+    SLit 1
+    ZKSH 1
+    FLit 0
+    SglC 0
+    LCnC 1
+    TexR 0
+    }
+   }
+  oopt 1
+  Ofil "C:\\RAYDRE~1\\Blupi3d.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra Jeu"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 744
+     locV 290
+     sizH 975
+     sizV 317
+     flot 0
+     shwn 1
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 25
+     locV 39
+     sizH 1149
+     sizV 702
+     flot 0
+     shwn 1
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra Jeu"
+ ShLv 3
+ Zoom 8
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 1716,1110,2397,2238
+ }
+      }
+     }
+    }
+   afrb 368
+   afrl 1
+   afrr 639
+   afrt 1
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Rendu"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,462,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 1
+   }
+  }
+ }
+sc {
+ nm "beast-glue2.hq"
+ nxtL 1
+ nxtC 2
+ nxtG 3
+ nxtO 0
+ ob {
+  ex {
+   nm "Assistant 3D"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 1
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-0.29999,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -1.18454,-0.02859
+         ss {
+          s3 -1.04149,-0.41954,-0.69823,0.03813,-0.67915,-0.31468
+          s3 -0.66008,-0.6675,-1.43248,-0.48633,-1.16548,-0.80101
+          s3 -0.89848,-1.11569,-0.51704,-0.37189,-0.29771,-0.65796
+          s3 -0.07838,-0.94403,-0.8508,-1.1729,-0.22144,-1.40176
+          s3 0.40793,-1.63063,-0.28818,-0.91544,0.29349,-0.72472
+          s3 0.87515,-0.534,0.36024,-1.52573,0.961,-1.07755
+          s3 1.56175,-0.62936,0.55096,-0.96312,0.73215,-0.49586
+          s3 0.91333,-0.02861,1.50371,-0.48293,1.37105,0.20978
+          s3 1.28522,0.65796,0.7226,-0.30513,0.44606,0.07628
+          s3 0.16953,0.45769,1.02437,0.80083,0.35071,0.88683
+          s3 -0.09746,0.94405,0.15999,0.65796,-0.04979,0.44818
+          s3 -0.25957,0.2384,-0.48843,1.21104,-0.78404,0.92497
+          s3 -1.07965,0.6389,-0.44075,0.61983,-0.55518,0.33374
+          s3 -0.6696,0.04765,-1.32759,0.36235,-1.18454,-0.02859
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  cyli {
+   prim {
+    cyli {
+     }
+    }
+   nm "Avant-bras"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  ex {
+   nm "Corps"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 0.99976,0.99976,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         void {
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 1
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv -0.00887,-0.9341,0
+     cnc -0.00887,-0.9341,0
+     tpc 1,0
+     tv 1,0
+     tnc 5.02121,0.00249
+     bpc 1,0
+     bv 1,0
+     bnc 5.02164,0.00249
+     lpc 1,0
+     lv 1,0
+     lnc 5.02129,0.00249
+     rpc 1,0
+     rv 1,0
+     rnc 5.02155,0.00249
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -0.20029,0
+         ss {
+          s3 -0.20029,-0.11066,-0.11055,-0.20041,0.00011,-0.20041
+          s3 0.11057,-0.20041,0.20052,-0.11066,0.20052,0
+          s3 0.20052,0.11043,0.11057,0.20041,0.00011,0.20041
+          s3 -0.11055,0.20041,-0.20029,0.11043,-0.20029,0
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0.00597,1.42696,0
+     cv 0.00597,1.42696,0
+     cnc 0,0,0
+     tpc 6.7903,-0.04361
+     tv 0.7762,0
+     tnc 1,0
+     bpc 6.79085,-0.04361
+     bv 0.77663,0
+     bnc 1,0
+     lpc 6.79131,-0.04361
+     lv 0.7771,0
+     lnc 1,0
+     rpc 6.78983,-0.04361
+     rv 0.77576,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.19878
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  COfl {
+   prim {
+    COfl {
+     }
+    }
+   nm "Flat Surface"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  sp {
+   prim {
+    sp {
+     }
+    }
+   nm "Sphère"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  sp {
+   prim {
+    sp {
+     }
+    }
+   nm "Sphère 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   XYZs 1,1,1
+   MPSt 0
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 38.17352,37.85831,34.08675
+      mat -0.70711,-0.40826,0.57735,0.70711,-0.40825,0.57735,0,0.8165,0.57736
+      }
+     XYZs 1,1,1
+     MPSt 0
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 45
+       fall 0
+       brit 1
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 29.52576,0,14.76288
+      mat 0.00034,-0.70734,0.70682,0.99994,0.00034,-0.00015,-0.00015,0.70682,0.7074
+      }
+     XYZs 1,1,1
+     MPSt 0
+     only 0
+     }
+    inpr {
+     nm "Flat Surface"
+     AnTr 1
+     Cloa 0
+     tran {
+      po -5,-5,-15.00005
+      }
+     XYZs 1,1,1
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.99997,0.99997
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Flat Surface"
+     }
+    ca {
+     nm "Caméra Jeu"
+     AnTr 1
+     Cloa 0
+     tran {
+      po 19.68384,19.68384,12.79449
+      mat -0.70673,-0.35437,0.61234,0.70747,-0.35316,0.61217,-0.00069,0.86584,0.50031
+      }
+     XYZs 1,1,1
+     MPSt 0
+     proj {
+      iso {
+       zoom 2.5083
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    inpr {
+     nm "Assistant 3D"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.20605,-1.21233,-14.78612
+      mat 1,0,0,0,0.00082,-1,0,1,0.00082
+      }
+     XYZs 3.29546,0.24484,3.52853
+     defo {
+      affi {
+       ScaX 3.29546
+       ScaY 0.24484
+       ScaZ 3.52853
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     def2 {
+      prim {
+       'min -1.60365,-1.00005,-1.791
+       'max 1.39059,1.00002,1.05069
+       time 0.09792
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.5,0.99609,0
+            }
+           sval {
+            prkd 1
+            Val 1
+            }
+           sval {
+            prkd 1
+            Val 0.49898
+            }
+           swod {
+            SEED 556349380
+            PERT 2.76311
+            SPAC 3.02626
+            BLND 0.99998
+            DIR 2
+            CNTR 1
+            SCAL 2.80139
+            STEP 0.42003
+            GLOB 1
+            prkd 1
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D"
+     ur ""
+     uK 0
+     }
+    gr {
+     nm "bebete"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 0.06938,-0.55742,-15.06819
+      Scal 0.45998
+      hp -7.3801,-4.74921,-15.53232
+      }
+     XYZs 1,1,1
+     MPSt 0
+     so {
+      inpr {
+       nm "Corps"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -7.40987,-4.84399,-10.49771
+        APos {
+         XCOO {
+          time 0
+          qfix -7.40986633
+          void 0
+          time 1800
+          qfix -7.41012573
+          void 0
+          }
+         YCOO {
+          time 0
+          qfix -4.84399414
+          void 0
+          time 1800
+          qfix -4.84194946
+          void 0
+          }
+         ZCOO {
+          time 0
+          qfix -10.49771118
+          void 0
+          time 1800
+          qfix -6.21104431
+          void 0
+          }
+         }
+        mat 0.00009,0,0.99997,0,1,0,-0.99997,0,0.00009
+        Scal 0.99988
+        hp 0.19185,1.01775,-0.00043
+        ATra {
+         SCAL {
+          time 0
+          qfix 0.99987792
+          void 0
+          time 1800
+          qfix 0.99998474
+          void 0
+          }
+         }
+        }
+       XYZs 3.487,5.24982,4.81766
+       defo {
+        affi {
+         ScaX 3.487
+         ScaY 5.24982
+         ScaZ 4.81766
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       so {
+        inpr {
+         nm "oeil"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -0.63588,7.72141,1.63135
+          mat 0.00015,0.99994,0,-0.99994,0.00015,0,0,0,1
+          hp 0.00522,2.98244,-0.00017
+          }
+         XYZs 0.83759,2.26578,1.77477
+         defo {
+          affi {
+           ScaX 0.83759
+           ScaY 2.26578
+           ScaZ 1.77477
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         so {
+          inpr {
+           nm "pupille"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -0.57477,1.38373,0.14449
+            mat 0.99994,-0.00775,0.00787,-0.00787,-0.99973,0.01907,0.00769,-0.01913,-0.99973
+            }
+           XYZs 0.16399,0.32567,0.28058
+           defo {
+            affi {
+             ScaX 0.16399
+             ScaY 0.32567
+             ScaZ 0.28058
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Sphère"
+           ur ""
+           uK 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Corps"
+         ur ""
+         uK 0
+         }
+        inpr {
+         nm "oeil"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -0.70609,7.72141,-1.92554
+          mat 0.00015,0.99994,0,-0.99994,0.00015,0,0,0,1
+          hp 0.00522,2.98244,-0.00017
+          }
+         XYZs 0.83759,2.26578,1.77477
+         defo {
+          affi {
+           ScaX 0.83759
+           ScaY 2.26578
+           ScaZ 1.77477
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         so {
+          inpr {
+           nm "pupille"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -0.57477,1.38373,0.14449
+            mat 0.99994,-0.00775,0.00787,-0.00787,-0.99973,0.01907,0.00769,-0.01913,-0.99973
+            }
+           XYZs 0.16399,0.32567,0.28058
+           defo {
+            affi {
+             ScaX 0.16399
+             ScaY 0.32567
+             ScaZ 0.28058
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Sphère"
+           ur ""
+           uK 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Corps"
+         ur ""
+         uK 0
+         }
+        inpr {
+         nm "patte a"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.1346,0.702,-4.08629
+          APos {
+           XCOO {
+            time 0
+            qfix 0.13459777
+            void 0
+            time 1800
+            qfix 0.13453674
+            void 0
+            }
+           YCOO {
+            time 0
+            qfix 0.70199584
+            void 0
+            time 1800
+            qfix 0.70193481
+            void 0
+            }
+           ZCOO {
+            time 0
+            qfix -4.08628845
+            void 0
+            time 1800
+            qfix -4.08622741
+            void 0
+            }
+           }
+          mat 0.01111,-0.93137,0.36398,-0.99991,-0.01178,0,-0.00424,0.36395,0.93134
+          Scal 0.16402
+          hp 0.39026,0,19.80025
+          ATra {
+           SCAL {
+            time 0
+            qfix 0.16401672
+            void 0
+            time 1800
+            qfix 0.16400146
+            void 0
+            }
+           ORIE {
+            time 0
+            ROTA 0.13018798,0.69897460,-0.69073486,0.13171386,1
+            void 0
+            time 1800
+            ROTA 0.14012145,-0.69699096,0.68876647,0.14190673,1
+            void 0
+            }
+           }
+          }
+         XYZs 0.96065,1,7.92316
+         defo {
+          affi {
+           ScaX 0.96065
+           ScaY 1
+           ScaZ 7.92316
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         so {
+          inpr {
+           nm "patte b"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.39037,-0.01328,13.26967
+            Scal 0.16402
+            hp 0.39026,0,19.80025
+            }
+           link {
+            ball {
+             matR 0.99533,0.00571,-0.09698,0.09714,-0.04718,0.99408,0.0011,-0.99884,-0.04752
+             }
+            }
+           XYZs 0.96065,1,7.92316
+           defo {
+            affi {
+             ScaX 0.96065
+             ScaY 1
+             ScaZ 7.92316
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           so {
+            inpr {
+             nm "pied"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.21848,0.09917,13.286
+              mat 0.99994,-0.00183,-0.01093,0.01093,0.32208,0.94662,-0.00177,0.94669,-0.32208
+              Scal 0.46114
+              hp 1.53647,0.71436,0.0004
+              }
+             link {
+              ball {
+               matR 1,0,0,0,1,0,0,0,1
+               }
+              }
+             XYZs 1.08832,0.62604,0.99991
+             defo {
+              affi {
+               ScaX 1.08832
+               ScaY 0.62604
+               ScaZ 0.99991
+               R1,1 1
+               R1,2 0
+               R1,3 0
+               R2,1 0
+               R2,2 1
+               R2,3 0
+               R3,1 0
+               R3,2 0
+               R3,3 1
+               Tra1 0
+               Tra2 0
+               Tra3 0
+               }
+              }
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.15305
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.05098
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Sphère 1"
+             ur ""
+             uK 0
+             }
+            }
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.15305
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.05098
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Avant-bras"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "rotule"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.33498,-0.03035,13.31769
+            mat 0.99997,-0.00781,0,0.00781,0.99997,0,0,0,-1
+            Scal 0.29871
+            }
+           XYZs 1,1,1
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.15305
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.05098
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Sphère 1"
+           ur ""
+           uK 0
+           }
+          }
+         Atre {
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.15305
+                }
+               sval {
+                prkd 1
+                Val 0.05098
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Avant-bras"
+         ur ""
+         uK 0
+         }
+        inpr {
+         nm "patte a"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.1346,0.70247,3.81557
+          APos {
+           XCOO {
+            time 0
+            qfix 0.13459777
+            void 0
+            time 1800
+            qfix 0.13453674
+            void 0
+            }
+           YCOO {
+            time 0
+            qfix 0.70246887
+            void 0
+            time 1800
+            qfix 0.70233154
+            void 0
+            }
+           ZCOO {
+            time 0
+            qfix 3.81556701
+            void 0
+            time 1800
+            qfix 3.81544494
+            void 0
+            }
+           }
+          mat 0.01114,-0.93134,0.36389,0.99988,0.0119,-0.00015,0.00421,-0.36386,-0.93149
+          Scal 0.16402
+          hp 0.39026,0,19.80025
+          ATra {
+           SCAL {
+            time 0
+            qfix 0.16401672
+            void 0
+            time 1800
+            qfix 0.16395568
+            void 0
+            }
+           ORIE {
+            time 0
+            ROTA 0.69895935,-0.13018798,-0.13165283,-0.69073486,1
+            void 0
+            time 1800
+            ROTA 0.69503784,0.14939880,0.15122985,-0.68679809,1
+            void 0
+            }
+           }
+          }
+         XYZs 0.96065,1,7.92316
+         defo {
+          affi {
+           ScaX 0.96065
+           ScaY 1
+           ScaZ 7.92316
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         so {
+          inpr {
+           nm "patte b"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.39037,-0.01328,13.26967
+            Scal 0.16402
+            hp 0.39026,0,19.80025
+            }
+           link {
+            ball {
+             matR 0.99875,0.04977,-0.0043,0.00674,-0.04901,0.99875,0.04953,-0.99753,-0.04929
+             }
+            }
+           XYZs 0.96065,1,7.92316
+           defo {
+            affi {
+             ScaX 0.96065
+             ScaY 1
+             ScaZ 7.92316
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           so {
+            inpr {
+             nm "pied"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.21848,0.09917,13.286
+              mat 0.99994,-0.00183,-0.01093,0.01093,0.32208,0.94662,-0.00177,0.94669,-0.32208
+              Scal 0.46114
+              hp 1.53647,0.71436,0.0004
+              }
+             link {
+              ball {
+               matR -0.99924,-0.08698,-0.00037,-0.08698,0.99622,0.00778,-0.00037,0.00778,-1.00296
+               }
+              }
+             XYZs 1.08832,0.62604,0.99991
+             defo {
+              affi {
+               ScaX 1.08832
+               ScaY 0.62604
+               ScaZ 0.99991
+               R1,1 1
+               R1,2 0
+               R1,3 0
+               R2,1 0
+               R2,2 1
+               R2,3 0
+               R3,1 0
+               R3,2 0
+               R3,3 1
+               Tra1 0
+               Tra2 0
+               Tra3 0
+               }
+              }
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.15305
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.05098
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Sphère 1"
+             ur ""
+             uK 0
+             }
+            }
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.15305
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.05098
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Avant-bras"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "rotule"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.33498,-0.03035,13.31769
+            mat 0.99997,-0.00781,0,0.00781,0.99997,0,0,0,-1
+            Scal 0.29871
+            }
+           XYZs 1,1,1
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.15305
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.05098
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Sphère 1"
+           ur ""
+           uK 0
+           }
+          }
+         Atre {
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.15305
+                }
+               sval {
+                prkd 1
+                Val 0.05098
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Avant-bras"
+         ur ""
+         uK 0
+         }
+        inpr {
+         nm "patte a"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.1346,-1.62639,3.17624
+          APos {
+           XCOO {
+            time 0
+            qfix 0.13459777
+            void 0
+            time 1800
+            qfix 0.13461303
+            void 0
+            }
+           YCOO {
+            time 0
+            qfix -1.62638854
+            void 0
+            time 1800
+            qfix -1.62644958
+            void 0
+            }
+           ZCOO {
+            time 0
+            qfix 3.17623901
+            void 0
+            time 1800
+            qfix 3.17608642
+            void 0
+            }
+           }
+          mat 0.01111,-0.93127,0.36411,0.87933,0.18246,0.43973,0.47598,-0.31534,-0.82101
+          Scal 0.16402
+          hp 0.39026,0,19.80025
+          ATra {
+           SCAL {
+            time 0
+            qfix 0.16401672
+            void 0
+            time 1800
+            qfix 0.16397094
+            void 0
+            }
+           ORIE {
+            time 0
+            ROTA 0.70962524,0.04383850,-0.29595947,-0.63786315,1
+            void 0
+            time 1800
+            ROTA 0.76850891,0.30435180,0.02470397,-0.56225585,1
+            void 0
+            }
+           }
+          }
+         XYZs 0.96065,1,7.92316
+         defo {
+          affi {
+           ScaX 0.96065
+           ScaY 1
+           ScaZ 7.92316
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         so {
+          inpr {
+           nm "patte b"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.39037,-0.01328,13.26967
+            Scal 0.16402
+            hp 0.39026,0,19.80025
+            }
+           link {
+            ball {
+             matR 0.99875,0.04977,-0.0043,0.00674,-0.04901,0.99875,0.04953,-0.99753,-0.04929
+             }
+            }
+           XYZs 0.96065,1,7.92316
+           defo {
+            affi {
+             ScaX 0.96065
+             ScaY 1
+             ScaZ 7.92316
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           so {
+            inpr {
+             nm "pied"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.21848,0.09917,13.286
+              mat 0.99994,-0.00183,-0.01093,0.01093,0.32208,0.94662,-0.00177,0.94669,-0.32208
+              Scal 0.46114
+              hp 1.53647,0.71436,0.0004
+              }
+             link {
+              ball {
+               matR -0.99924,-0.08698,-0.00037,-0.08698,0.99622,0.00778,-0.00037,0.00778,-1.00296
+               }
+              }
+             XYZs 1.08832,0.62604,0.99991
+             defo {
+              affi {
+               ScaX 1.08832
+               ScaY 0.62604
+               ScaZ 0.99991
+               R1,1 1
+               R1,2 0
+               R1,3 0
+               R2,1 0
+               R2,2 1
+               R2,3 0
+               R3,1 0
+               R3,2 0
+               R3,3 1
+               Tra1 0
+               Tra2 0
+               Tra3 0
+               }
+              }
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.3978
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Sphère 1"
+             ur ""
+             uK 0
+             }
+            }
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.3978
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Avant-bras"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "rotule"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.33498,-0.03035,13.31769
+            mat 0.99997,-0.00781,0,0.00781,0.99997,0,0,0,-1
+            Scal 0.29871
+            }
+           XYZs 1,1,1
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.3978
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Sphère 1"
+           ur ""
+           uK 0
+           }
+          }
+         Atre {
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.3978
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Avant-bras"
+         ur ""
+         uK 0
+         }
+        inpr {
+         nm "patte a"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.1346,3.07697,3.49593
+          APos {
+           XCOO {
+            time 0
+            qfix 0.13459777
+            void 0
+            time 1800
+            qfix 0.13462829
+            void 0
+            }
+           YCOO {
+            time 0
+            qfix 3.07696533
+            void 0
+            time 1800
+            qfix 3.07690429
+            void 0
+            }
+           ZCOO {
+            time 0
+            qfix 3.49592590
+            void 0
+            time 1800
+            qfix 3.49578857
+            void 0
+            }
+           }
+          mat 0.01114,-0.93124,0.36414,0.92538,-0.12833,-0.35648,-0.37866,-0.34091,-0.86047
+          Scal 0.16402
+          hp 0.39026,0,19.80025
+          ATra {
+           SCAL {
+            time 0
+            qfix 0.16401672
+            void 0
+            time 1800
+            qfix 0.16400146
+            void 0
+            }
+           ORIE {
+            time 0
+            ROTA 0.66009521,-0.26411437,0.00552368,-0.70315551,1
+            void 0
+            time 1800
+            ROTA 0.59257507,0.06663513,0.29100036,-0.74812316,1
+            void 0
+            }
+           }
+          }
+         XYZs 0.96065,1,7.92316
+         defo {
+          affi {
+           ScaX 0.96065
+           ScaY 1
+           ScaZ 7.92316
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         so {
+          inpr {
+           nm "patte b"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.39037,-0.01328,13.26967
+            Scal 0.16402
+            hp 0.39026,0,19.80025
+            }
+           link {
+            ball {
+             matR 0.99875,0.04977,-0.0043,0.00674,-0.04901,0.99875,0.04953,-0.99753,-0.04929
+             }
+            }
+           XYZs 0.96065,1,7.92316
+           defo {
+            affi {
+             ScaX 0.96065
+             ScaY 1
+             ScaZ 7.92316
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           so {
+            inpr {
+             nm "pied"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.21848,0.09917,13.286
+              mat 0.99994,-0.00183,-0.01093,0.01093,0.32208,0.94662,-0.00177,0.94669,-0.32208
+              Scal 0.46114
+              hp 1.53647,0.71436,0.0004
+              }
+             link {
+              ball {
+               matR -0.99924,-0.08698,-0.00037,-0.08698,0.99622,0.00778,-0.00037,0.00778,-1.00296
+               }
+              }
+             XYZs 1.08832,0.62604,0.99991
+             defo {
+              affi {
+               ScaX 1.08832
+               ScaY 0.62604
+               ScaZ 0.99991
+               R1,1 1
+               R1,2 0
+               R1,3 0
+               R2,1 0
+               R2,2 1
+               R2,3 0
+               R3,1 0
+               R3,2 0
+               R3,3 1
+               Tra1 0
+               Tra2 0
+               Tra3 0
+               }
+              }
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.15305
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.05098
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Sphère 1"
+             ur ""
+             uK 0
+             }
+            }
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.15305
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.05098
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Avant-bras"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "rotule"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.33498,-0.03035,13.31769
+            mat 0.99997,-0.00781,0,0.00781,0.99997,0,0,0,-1
+            Scal 0.29871
+            }
+           XYZs 1,1,1
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.15305
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.05098
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Sphère 1"
+           ur ""
+           uK 0
+           }
+          }
+         Atre {
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.15305
+                }
+               sval {
+                prkd 1
+                Val 0.05098
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Avant-bras"
+         ur ""
+         uK 0
+         }
+        inpr {
+         nm "patte a"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.1346,2.90076,-3.32848
+          APos {
+           XCOO {
+            time 0
+            qfix 0.13459777
+            void 0
+            time 1800
+            qfix 0.13453674
+            void 0
+            }
+           YCOO {
+            time 0
+            qfix 2.90075683
+            void 0
+            time 1800
+            qfix 2.90069580
+            void 0
+            }
+           ZCOO {
+            time 0
+            qfix -3.32847595
+            void 0
+            time 1800
+            qfix -3.32841491
+            void 0
+            }
+           }
+          mat 0.01111,-0.93137,0.36383,-0.90347,-0.16513,-0.39548,-0.42841,0.32437,0.84323
+          Scal 0.16402
+          hp 0.39026,0,19.80025
+          ATra {
+           SCAL {
+            time 0
+            qfix 0.16401672
+            void 0
+            time 1800
+            qfix 0.16400146
+            void 0
+            }
+           ORIE {
+            time 0
+            ROTA 0.02500915,-0.71054077,0.64556884,-0.27876281,1
+            void 0
+            time 1800
+            ROTA 0.28364562,-0.76261901,0.58042907,0.03196716,1
+            void 0
+            }
+           }
+          }
+         XYZs 0.96065,1,7.92316
+         defo {
+          affi {
+           ScaX 0.96065
+           ScaY 1
+           ScaZ 7.92316
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         so {
+          inpr {
+           nm "patte b"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.39037,-0.01328,13.26967
+            Scal 0.16402
+            hp 0.39026,0,19.80025
+            }
+           link {
+            ball {
+             matR 0.99533,0.00571,-0.09698,0.09714,-0.04718,0.99408,0.0011,-0.99884,-0.04752
+             }
+            }
+           XYZs 0.96065,1,7.92316
+           defo {
+            affi {
+             ScaX 0.96065
+             ScaY 1
+             ScaZ 7.92316
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           so {
+            inpr {
+             nm "pied"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.21848,0.09917,13.286
+              mat 0.99994,-0.00183,-0.01093,0.01093,0.32208,0.94662,-0.00177,0.94669,-0.32208
+              Scal 0.46114
+              hp 1.53647,0.71436,0.0004
+              }
+             link {
+              ball {
+               matR 1,0,0,0,1,0,0,0,1
+               }
+              }
+             XYZs 1.08832,0.62604,0.99991
+             defo {
+              affi {
+               ScaX 1.08832
+               ScaY 0.62604
+               ScaZ 0.99991
+               R1,1 1
+               R1,2 0
+               R1,3 0
+               R2,1 0
+               R2,2 1
+               R2,3 0
+               R3,1 0
+               R3,2 0
+               R3,3 1
+               Tra1 0
+               Tra2 0
+               Tra3 0
+               }
+              }
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.15305
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.05098
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Sphère 1"
+             ur ""
+             uK 0
+             }
+            }
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.15305
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.05098
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Avant-bras"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "rotule"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.33498,-0.03035,13.31769
+            mat 0.99997,-0.00781,0,0.00781,0.99997,0,0,0,-1
+            Scal 0.29871
+            }
+           XYZs 1,1,1
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.15305
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.05098
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Sphère 1"
+           ur ""
+           uK 0
+           }
+          }
+         Atre {
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.15305
+                }
+               sval {
+                prkd 1
+                Val 0.05098
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Avant-bras"
+         ur ""
+         uK 0
+         }
+        inpr {
+         nm "nez"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.00252,8.22495,-0.07291
+          mat 0.00015,-0.99988,0.01236,-0.99988,0.00015,0.01233,-0.01236,-0.01233,-0.99969
+          Scal 0.46114
+          }
+         XYZs 1,1,1
+         MPSt 0
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.15305
+                }
+               sval {
+                prkd 1
+                Val 0.05098
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Sphère 1"
+         ur ""
+         uK 0
+         }
+        inpr {
+         nm "patte a"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.1346,-1.70891,-3.3389
+          APos {
+           XCOO {
+            time 0
+            qfix 0.13459777
+            void 0
+            time 1800
+            qfix 0.13453674
+            void 0
+            }
+           YCOO {
+            time 0
+            qfix -1.70890808
+            void 0
+            time 1800
+            qfix -1.70892333
+            void 0
+            }
+           ZCOO {
+            time 0
+            qfix -3.33889770
+            void 0
+            time 1800
+            qfix -3.33885192
+            void 0
+            }
+           }
+          mat 0.01114,-0.93121,0.36432,-0.90729,0.14389,0.39502,0.42029,0.3349,0.8432
+          Scal 0.16402
+          hp 0.39026,0,19.80025
+          ATra {
+           SCAL {
+            time 0
+            qfix 0.16401672
+            void 0
+            time 1800
+            qfix 0.16400146
+            void 0
+            }
+           ORIE {
+            time 0
+            ROTA 0.27906799,0.65393066,-0.70285034,-0.02139282,1
+            void 0
+            time 1800
+            ROTA 0.02947998,-0.58923339,0.75563049,0.28448486,1
+            void 0
+            }
+           }
+          }
+         XYZs 0.96065,1,7.92316
+         defo {
+          affi {
+           ScaX 0.96065
+           ScaY 1
+           ScaZ 7.92316
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         so {
+          inpr {
+           nm "patte b"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.39037,-0.01328,13.26967
+            Scal 0.16402
+            hp 0.39026,0,19.80025
+            }
+           link {
+            ball {
+             matR 0.99533,0.00571,-0.09698,0.09714,-0.04718,0.99408,0.0011,-0.99884,-0.04752
+             }
+            }
+           XYZs 0.96065,1,7.92316
+           defo {
+            affi {
+             ScaX 0.96065
+             ScaY 1
+             ScaZ 7.92316
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           so {
+            inpr {
+             nm "pied"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.21848,0.09917,13.286
+              mat 0.99994,-0.00183,-0.01093,0.01093,0.32208,0.94662,-0.00177,0.94669,-0.32208
+              Scal 0.46114
+              hp 1.53647,0.71436,0.0004
+              }
+             link {
+              ball {
+               matR 1,0,0,0,1,0,0,0,1
+               }
+              }
+             XYZs 1.08832,0.62604,0.99991
+             defo {
+              affi {
+               ScaX 1.08832
+               ScaY 0.62604
+               ScaZ 0.99991
+               R1,1 1
+               R1,2 0
+               R1,3 0
+               R2,1 0
+               R2,2 1
+               R2,3 0
+               R3,1 0
+               R3,2 0
+               R3,3 1
+               Tra1 0
+               Tra2 0
+               Tra3 0
+               }
+              }
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.15305
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.05098
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Sphère 1"
+             ur ""
+             uK 0
+             }
+            }
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.15305
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.05098
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Avant-bras"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "rotule"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.33498,-0.03035,13.31769
+            mat 0.99997,-0.00781,0,0.00781,0.99997,0,0,0,-1
+            Scal 0.29871
+            }
+           XYZs 1,1,1
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.15305
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.05098
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Sphère 1"
+           ur ""
+           uK 0
+           }
+          }
+         Atre {
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.15305
+                }
+               sval {
+                prkd 1
+                Val 0.05098
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Avant-bras"
+         ur ""
+         uK 0
+         }
+        }
+       Atre {
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0.99609,0
+              }
+             sval {
+              prkd 1
+              Val 0.3978
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Corps"
+       ur ""
+       uK 0
+       }
+      }
+     boxM 6.08035,3.7634,-4.50081
+     boxm -21.18446,-12.93796,-15.58455
+     open 0
+     }
+    }
+   boxM 31.64713,22.24069,16.88464
+   boxm -15,-15,-43.2417
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

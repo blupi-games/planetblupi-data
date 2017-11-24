@@ -97,7 +97,7 @@ wkmg {
 MInf {
  CaPo 7
  CaNm "Caméra Jeu"
- ShLv 3
+ ShLv 5
  Zoom 8
  Plns 240
  WBxm -15,-15,-15
@@ -108,10 +108,10 @@ MInf {
       }
      }
     }
-   afrb 918
-   afrl 189
-   afrr 1239
-   afrt 93
+   afrb 368
+   afrl 1
+   afrr 639
+   afrt 1
    apst 2
    sszh 32000
    sszv 32000
@@ -197,7 +197,7 @@ reff {
   }
  }
 sc {
- nm "piege"
+ nm "piege.hq"
  nxtL 1
  nxtC 2
  nxtG 3
@@ -543,6 +543,7 @@ sc {
      ofst 0,0
      }
     inpr {
+     nm "Assistant 3D"
      AnTr 1
      Cloa 1
      tran {
@@ -569,15 +570,22 @@ sc {
        Tra3 0
        }
       }
+     def2 {
+      prim {
+       'min -1.60365,-1.00005,-1.791
+       'max 1.39059,1.00002,1.05069
+       time 0.09792
+       }
+      }
      MPSt 0
      sh {
       mapk 0
       elms {
        sprm {
-        uvsp 8
+        uvsp 0
         aexp 1
-        bbox 0,0,2.84167,2.99423
-        mbox 0,0,2.84167,2.99423
+        bbox 0,0,25.13832,2
+        mbox 0,0,25.13832,2
         shdr {
          scmp {
           prkd 1
@@ -588,15 +596,23 @@ sc {
             }
            sval {
             prkd 1
-            Val 0.5
+            Val 1
             }
            sval {
             prkd 1
-            Val 0.5
+            Val 0.49898
             }
-           sval {
+           swod {
+            SEED 556349380
+            PERT 2.76311
+            SPAC 3.02626
+            BLND 0.99998
+            DIR 2
+            CNTR 1
+            SCAL 2.80139
+            STEP 0.42003
+            GLOB 1
             prkd 1
-            Val 0
             }
            sval {
             prkd 1
@@ -622,10 +638,12 @@ sc {
        }
       }
      ob "Assistant 3D"
+     ur ""
+     uK 0
      }
     }
    boxM 40.90218,40.23828,20.52637
-   boxm -15,-15,-15.03572
+   boxm -15,-15,-15.04483
    open 1
    }
   }
