@@ -1,0 +1,5299 @@
+3DC {
+ asci 1
+ vs "4.1"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 240
+  heig 240
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra Jeu"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    OVER 2
+    MAXR 16
+    MAXT 16
+    MAXA 16
+    FLAT 2
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    LITE 1
+    DRLC 0
+    RAST 0
+    TxtM 1
+    DLit 1
+    SLit 1
+    ZKSH 1
+    FLit 0
+    SglC 0
+    LCnC 1
+    TexR 0
+    }
+   }
+  oopt 1
+  Ofil ":::RAYDRE~1:Blupi3d.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra Jeu"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 173
+     locV 655
+     sizH 1705
+     sizV 286
+     flot 0
+     shwn 1
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 30
+     sizH 1478
+     sizV 587
+     flot 0
+     shwn 1
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra Jeu"
+ ShLv 5
+ Zoom 8
+ Plns 242
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 1675,996,2245,2457
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Rendu"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,462,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 1
+   }
+  }
+ }
+sc {
+ nm "master-robot-trap.hq"
+ nxtL 1
+ nxtC 2
+ nxtG 3
+ nxtO 0
+ ob {
+  ex {
+   nm "Assistant 3D"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 1
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-0.29999,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -1.18454,-0.02859
+         ss {
+          s3 -1.04149,-0.41954,-0.69823,0.03813,-0.67915,-0.31468
+          s3 -0.66008,-0.6675,-1.43248,-0.48633,-1.16548,-0.80101
+          s3 -0.89848,-1.11569,-0.51704,-0.37189,-0.29771,-0.65796
+          s3 -0.07838,-0.94403,-0.8508,-1.1729,-0.22144,-1.40176
+          s3 0.40793,-1.63063,-0.28818,-0.91544,0.29349,-0.72472
+          s3 0.87515,-0.534,0.36024,-1.52573,0.961,-1.07755
+          s3 1.56175,-0.62936,0.55096,-0.96312,0.73215,-0.49586
+          s3 0.91333,-0.02861,1.50371,-0.48293,1.37105,0.20978
+          s3 1.28522,0.65796,0.7226,-0.30513,0.44606,0.07628
+          s3 0.16953,0.45769,1.02437,0.80083,0.35071,0.88683
+          s3 -0.09746,0.94405,0.15999,0.65796,-0.04979,0.44818
+          s3 -0.25957,0.2384,-0.48843,1.21104,-0.78404,0.92497
+          s3 -1.07965,0.6389,-0.44075,0.61983,-0.55518,0.33374
+          s3 -0.6696,0.04765,-1.32759,0.36235,-1.18454,-0.02859
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  ex {
+   nm "Assistant 3D 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 8
+      aexp 1
+      bbox 0,0,1.00015,2.99963
+      mbox 0,0,1.00015,2.99963
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 0
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        pc {
+         mode 0
+         type 1
+         styl {
+          fill 0,1,1,1,0
+          strk 0,0,0,0,0
+          wdth 0
+          isfi 0
+          cap 1
+          join 1
+          }
+         p2 {
+          st -1,0.5
+          ss {
+           s3 -1.49982,0.49994,-1.49982,-0.49994,-1,-0.5
+           s3 0,-0.50008,0.00002,-0.50008,1,-0.5
+           s3 1.49982,-0.49994,1.49982,0.49994,1,0.5
+           s3 0.00002,0.50008,0,0.50008,-1,0.5
+           }
+          }
+         p2 {
+          st -0.99988,-0.37494
+          ss {
+           s3 -1.37482,-0.37494,-1.37482,0.37494,-0.99988,0.37494
+           s3 -0.62491,0.37494,0.62491,0.37494,0.99988,0.37494
+           s3 1.37482,0.37494,1.37482,-0.37494,0.99988,-0.37494
+           s3 0.62491,-0.37494,-0.62491,-0.37494,-0.99988,-0.37494
+           }
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.12497
+    incr 1
+    show 1
+    snap 1
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  ex {
+   nm "Assistant 3D 2"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 1
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        pc {
+         mode 0
+         type 1
+         styl {
+          fill 0,1,1,1,0
+          strk 0,0,0,0,0
+          wdth 0
+          isfi 0
+          cap 1
+          join 1
+          }
+         p2 {
+          st -1,0
+          ss {
+           s3 -1,-0.55228,-0.55228,-1,0,-1
+           s3 0.55228,-1,1,-0.55228,1,0
+           s3 1,0.55228,0.55228,1,0,1
+           s3 -0.55228,1,-1,0.55228,-1,0
+           }
+          }
+         pg {
+          mode 0
+          type 0
+          styl {
+           fill 0,1,1,1,0
+           strk 0,0,0,0,0
+           wdth 0
+           isfi 0
+           cap 1
+           join 1
+           }
+          p2 {
+           st -0.74991,0
+           ss {
+            s3 -0.74991,0.41414,-0.41414,0.74991,0,0.74991
+            s3 0.41414,0.74991,0.74991,0.41414,0.74991,0
+            s3 0.74991,-0.41414,0.41414,-0.74991,0,-0.74991
+            s3 -0.41414,-0.74991,-0.74991,-0.41414,-0.74991,0
+            }
+           }
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,0,0
+     cv 0,0,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.24997
+    incr 1
+    show 1
+    snap 1
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  ex {
+   nm "Assistant 3D 3"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 0
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -1,1
+         ss {
+          s1 -1,-1
+          s1 1,-1
+          s1 1,1
+          s1 -1,1
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   }
+  ex {
+   nm "Assistant 3D 4"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 0
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -1,1
+         ss {
+          s1 -1,-1
+          s1 1,-1
+          s1 1,1
+          s1 -1,1
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   }
+  ex {
+   nm "Assistant 3D 5"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 1
+   evs 1
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -1,1
+         ss {
+          s1 -1,-1
+          s1 1,-1
+          s1 1,1
+          s1 -1,1
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,0.98917,0
+     cv 0,0.98917,0
+     cnc 0,0,0
+     tpc 1.50464,0
+     tv 1.50464,0
+     tnc 1,0
+     bpc 1.50464,0
+     bv 1.50464,0
+     bnc 1,0
+     lpc 1.50464,0
+     lv 1.50464,0
+     lnc 1,0
+     rpc 1.50464,0
+     rv 1.50464,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  ex {
+   nm "Assistant 3D 6"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 0
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st 0,1.5
+         ss {
+          s1 -1,0
+          s1 0,-1.5
+          s1 0.34116,-1.27779
+          s1 -0.5,0
+          s1 0.34116,1.27779
+          s1 0,1.5
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 0
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  cyli {
+   prim {
+    cyli {
+     }
+    }
+   nm "Cylindre"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  cyli {
+   prim {
+    cyli {
+     }
+    }
+   nm "Cylindre 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  cyli {
+   prim {
+    cyli {
+     }
+    }
+   nm "Cylindre 2"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  COfl {
+   prim {
+    COfl {
+     }
+    }
+   nm "Flat Surface"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  sp {
+   prim {
+    sp {
+     }
+    }
+   nm "Sphère"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   XYZs 1,1,1
+   MPSt 0
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 38.17352,37.85831,34.08675
+      mat -0.70711,-0.40826,0.57735,0.70711,-0.40825,0.57735,0,0.8165,0.57736
+      }
+     XYZs 1,1,1
+     MPSt 0
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 45
+       fall 0
+       brit 1
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 29.52576,0,14.76288
+      mat 0.00034,-0.70734,0.70682,0.99994,0.00034,-0.00015,-0.00015,0.70682,0.7074
+      }
+     XYZs 1,1,1
+     MPSt 0
+     only 0
+     }
+    inpr {
+     nm "Flat Surface"
+     AnTr 1
+     Cloa 0
+     tran {
+      po -5,-5,-15.00005
+      }
+     XYZs 1,1,1
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.99997,0.99997
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Flat Surface"
+     }
+    ca {
+     nm "Caméra Jeu"
+     AnTr 1
+     Cloa 0
+     tran {
+      po 19.68384,19.68384,12.79449
+      mat -0.70673,-0.35437,0.61234,0.70747,-0.35316,0.61217,-0.00069,0.86584,0.50031
+      }
+     XYZs 1,1,1
+     MPSt 0
+     proj {
+      iso {
+       zoom 2.5083
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    inpr {
+     nm "Assistant 3D"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -0.20605,-1.21233,-14.78612
+      mat 1,0,0,0,0.00082,-1,0,1,0.00082
+      }
+     XYZs 3.29546,0.24484,3.52853
+     defo {
+      affi {
+       ScaX 3.29546
+       ScaY 0.24484
+       ScaZ 3.52853
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     def2 {
+      prim {
+       'min -1.60365,-1.00005,-1.791
+       'max 1.39059,1.00002,1.05069
+       time 0.09792
+       }
+      }
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,25.13832,2
+        mbox 0,0,25.13832,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.5,0.99609,0
+            }
+           sval {
+            prkd 1
+            Val 1
+            }
+           sval {
+            prkd 1
+            Val 0.49898
+            }
+           swod {
+            SEED 556349380
+            PERT 2.76311
+            SPAC 3.02626
+            BLND 0.99998
+            DIR 2
+            CNTR 1
+            SCAL 2.80139
+            STEP 0.42003
+            GLOB 1
+            prkd 1
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D"
+     ur ""
+     uK 0
+     }
+    gr {
+     nm "tracks"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -1.79434,-2.3696,-12.84337
+      Scal 0.78999
+      hp -6.91428,-7.9993,-12.90163
+      }
+     XYZs 1,1,1
+     MPSt 0
+     so {
+      gr {
+       nm "chenille"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -11,-7.99927,-13.49503
+        hp -11,-7.99927,-13.49503
+        }
+       XYZs 1,1,1
+       MPSt 0
+       so {
+        inpr {
+         nm "chenille"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -11,-7.9993,-13.49503
+          mat -0.00067,-0.99994,0.00958,-0.99994,0.00082,0.00955,-0.00958,-0.00955,-0.99985
+          }
+         XYZs 3.99991,2.00229,2.99936
+         defo {
+          affi {
+           ScaX 3.99991
+           ScaY 2.00229
+           ScaZ 2.99936
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D 1"
+         ur ""
+         uK 0
+         }
+        gr {
+         nm "roue"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -11.00316,-12.0649,-13.495
+          hp -11.00316,-12.0649,-13.495
+          }
+         XYZs 1,1,1
+         MPSt 0
+         so {
+          inpr {
+           nm "axe"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.00316,-12.09424,-13.495
+            mat 0.00043,-0.00018,0.99994,0.99994,0.00018,-0.00037,-0.00012,0.99994,0.00024
+            Scal 0.12674
+            }
+           XYZs 1.00104,1.04117,5.70995
+           defo {
+            affi {
+             ScaX 1.00104
+             ScaY 1.04117
+             ScaZ 5.70995
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 smix {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.5,0.5
+                    }
+                   smap {
+                    MInf {
+                     tile 1
+                     seam 1
+                     cnth 8
+                     cntv 8
+                     flph 0
+                     flpv 1
+                     rotc 0
+                     intp 1
+                     invC 0
+                     brit 1
+                     }
+                    prkd 1
+                    CMAp {
+                     IMAP 0
+                     MDTA {
+                      REFN 0
+                      TIME "14:08:166335278"
+                      }
+                     }
+                    whit 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.2959
+                    }
+                   }
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.103
+                  }
+                 smix {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.5,0.5
+                    }
+                   smap {
+                    MInf {
+                     tile 1
+                     seam 1
+                     cnth 8
+                     cntv 8
+                     flph 0
+                     flpv 1
+                     rotc 0
+                     intp 1
+                     invC 0
+                     brit 1
+                     }
+                    prkd 1
+                    CMAp {
+                     IMAP 0
+                     MDTA {
+                      REFN 1
+                      TIME "14:08:166335278"
+                      }
+                     }
+                    whit 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.2959
+                    }
+                   }
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.103
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Cylindre"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "moyeu"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.06,-12.11223,-13.495
+            mat 0.00043,-0.00018,0.99994,0.99994,0.00018,-0.00037,-0.00012,0.99994,0.00024
+            Scal 0.27837
+            }
+           XYZs 1.0002,1.00005,1.84888
+           defo {
+            affi {
+             ScaX 1.0002
+             ScaY 1.00005
+             ScaZ 1.84888
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 smix {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0,0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0.51848,0,0
+                    }
+                   sspt {
+                    SEED 3912
+                    TRSH 0.70308
+                    STEP 0.42168
+                    prkd 1
+                    }
+                   }
+                  }
+                 smix {
+                  prkd 1
+                  ssub {
+                   sval {
+                    prkd 1
+                    Val 0.70403
+                    }
+                   sval {
+                    prkd 1
+                    Val 1
+                    }
+                   sspt {
+                    SEED 20787
+                    TRSH 0.70308
+                    STEP 0.42168
+                    prkd 1
+                    }
+                   }
+                  }
+                 smix {
+                  prkd 1
+                  ssub {
+                   sval {
+                    prkd 1
+                    Val 0.70403
+                    }
+                   sval {
+                    prkd 1
+                    Val 1
+                    }
+                   sspt {
+                    SEED -4510
+                    TRSH 0.70308
+                    STEP 0.42168
+                    prkd 1
+                    }
+                   }
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 smix {
+                  prkd 1
+                  ssub {
+                   sval {
+                    prkd 1
+                    Val 0.2959
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.39792
+                    }
+                   sspt {
+                    SEED -27583
+                    TRSH 0.70308
+                    STEP 0.42174
+                    prkd 1
+                    }
+                   }
+                  }
+                 smix {
+                  prkd 1
+                  ssub {
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.103
+                    }
+                   sspt {
+                    SEED 19699
+                    TRSH 0.70308
+                    STEP 0.42174
+                    prkd 1
+                    }
+                   }
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Cylindre"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "jante"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.01392,-12.0649,-13.495
+            mat -0.00055,0.99985,-0.00003,-0.00009,0.00012,0.99988,0.99985,0.00067,0.00018
+            Scal 0.98415
+            }
+           XYZs 1.159,1.70366,1.05585
+           defo {
+            affi {
+             ScaX 1.159
+             ScaY 1.70366
+             ScaZ 1.05585
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0,0.75,0.99608
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Assistant 3D 2"
+           ur ""
+           uK 0
+           }
+          }
+         boxM -9.19394,-11.02553,-12.35342
+         boxm -12.81239,-13.10431,-14.63661
+         open 0
+         }
+        gr {
+         nm "roue"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -11.00316,-3.95203,-13.495
+          hp -11.00316,-12.0649,-13.495
+          }
+         XYZs 1,1,1
+         MPSt 0
+         so {
+          inpr {
+           nm "axe"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.00316,-12.09424,-13.495
+            mat 0.00043,-0.00018,0.99994,0.99994,0.00018,-0.00037,-0.00012,0.99994,0.00024
+            Scal 0.12674
+            }
+           XYZs 1.00104,1.04117,5.70995
+           defo {
+            affi {
+             ScaX 1.00104
+             ScaY 1.04117
+             ScaZ 5.70995
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Cylindre"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "moyeu"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.06,-12.11223,-13.495
+            mat 0.00043,-0.00018,0.99994,0.99994,0.00018,-0.00037,-0.00012,0.99994,0.00024
+            Scal 0.27837
+            }
+           XYZs 1.0002,1.00005,1.84888
+           defo {
+            affi {
+             ScaX 1.0002
+             ScaY 1.00005
+             ScaZ 1.84888
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Cylindre"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "jante"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.01392,-12.0649,-13.495
+            mat -0.00055,0.99985,-0.00003,-0.00009,0.00012,0.99988,0.99985,0.00067,0.00018
+            Scal 0.98415
+            }
+           XYZs 1.159,1.70366,1.05585
+           defo {
+            affi {
+             ScaX 1.159
+             ScaY 1.70366
+             ScaZ 1.05585
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Assistant 3D 2"
+           ur ""
+           uK 0
+           }
+          }
+         boxM -9.19394,-11.02553,-12.35342
+         boxm -12.81239,-13.10431,-14.63661
+         open 0
+         }
+        }
+       boxM -8.97946,-1.98459,-11.91867
+       boxm -13.02058,-14.01399,-15.07124
+       open 0
+       }
+      gr {
+       nm "chenille"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -2.82851,-7.9993,-13.49503
+        hp -11,-7.99927,-13.49503
+        }
+       XYZs 1,1,1
+       MPSt 0
+       so {
+        inpr {
+         nm "chenille"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -11,-7.9993,-13.49503
+          mat -0.00067,-0.99994,0.00958,-0.99994,0.00082,0.00955,-0.00958,-0.00955,-0.99985
+          }
+         XYZs 3.99991,2.00229,2.99936
+         defo {
+          affi {
+           ScaX 3.99991
+           ScaY 2.00229
+           ScaZ 2.99936
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Assistant 3D 1"
+         ur ""
+         uK 0
+         }
+        gr {
+         nm "roue"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -11.00316,-12.0649,-13.495
+          hp -11.00316,-12.0649,-13.495
+          }
+         XYZs 1,1,1
+         MPSt 0
+         so {
+          inpr {
+           nm "axe"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.00316,-12.09424,-13.495
+            mat 0.00043,-0.00018,0.99994,0.99994,0.00018,-0.00037,-0.00012,0.99994,0.00024
+            Scal 0.12674
+            }
+           XYZs 1.00104,1.04117,5.70995
+           defo {
+            affi {
+             ScaX 1.00104
+             ScaY 1.04117
+             ScaZ 5.70995
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Cylindre"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "moyeu"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.06,-12.11223,-13.495
+            mat 0.00043,-0.00018,0.99994,0.99994,0.00018,-0.00037,-0.00012,0.99994,0.00024
+            Scal 0.27837
+            }
+           XYZs 1.0002,1.00005,1.84888
+           defo {
+            affi {
+             ScaX 1.0002
+             ScaY 1.00005
+             ScaZ 1.84888
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Cylindre"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "jante"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.01392,-12.0649,-13.495
+            mat -0.00055,0.99985,-0.00003,-0.00009,0.00012,0.99988,0.99985,0.00067,0.00018
+            Scal 0.98415
+            }
+           XYZs 1.159,1.70366,1.05585
+           defo {
+            affi {
+             ScaX 1.159
+             ScaY 1.70366
+             ScaZ 1.05585
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Assistant 3D 2"
+           ur ""
+           uK 0
+           }
+          }
+         boxM -9.19376,-11.02573,-12.35323
+         boxm -12.81258,-13.1041,-14.6368
+         open 1
+         }
+        gr {
+         nm "roue"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -11.00316,-3.95203,-13.495
+          hp -11.00316,-12.0649,-13.495
+          }
+         XYZs 1,1,1
+         MPSt 0
+         so {
+          inpr {
+           nm "axe"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.00316,-12.09424,-13.495
+            mat 0.00043,-0.00018,0.99994,0.99994,0.00018,-0.00037,-0.00012,0.99994,0.00024
+            Scal 0.12674
+            }
+           XYZs 1.00104,1.04117,5.70995
+           defo {
+            affi {
+             ScaX 1.00104
+             ScaY 1.04117
+             ScaZ 5.70995
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Cylindre"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "moyeu"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.06,-12.11223,-13.495
+            mat 0.00043,-0.00018,0.99994,0.99994,0.00018,-0.00037,-0.00012,0.99994,0.00024
+            Scal 0.27837
+            }
+           XYZs 1.0002,1.00005,1.84888
+           defo {
+            affi {
+             ScaX 1.0002
+             ScaY 1.00005
+             ScaZ 1.84888
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Cylindre"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "jante"
+           AnTr 1
+           Cloa 1
+           tran {
+            po -11.01392,-12.0649,-13.495
+            mat -0.00055,0.99985,-0.00003,-0.00009,0.00012,0.99988,0.99985,0.00067,0.00018
+            Scal 0.98415
+            }
+           XYZs 1.159,1.70366,1.05585
+           defo {
+            affi {
+             ScaX 1.159
+             ScaY 1.70366
+             ScaZ 1.05585
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Assistant 3D 2"
+           ur ""
+           uK 0
+           }
+          }
+         boxM -9.19376,-11.02573,-12.35323
+         boxm -12.81258,-13.1041,-14.6368
+         open 1
+         }
+        }
+       boxM -8.97946,-1.9846,-11.91867
+       boxm -13.02058,-14.01401,-15.07124
+       open 0
+       }
+      inpr {
+       nm "carter"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -6.93665,-7.9222,-12.62526
+        mat -0.99969,0.01233,-0.01233,-0.01233,0.00015,0.99985,0.01233,0.99985,0.00015
+        }
+       XYZs 2.05675,1.04343,4.49512
+       defo {
+        affi {
+         ScaX 2.05675
+         ScaY 1.04343
+         ScaZ 4.49512
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0.99609,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D 3"
+       ur ""
+       uK 0
+       }
+      inpr {
+       nm "socle"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -6.80713,-7.85312,-11.13956
+        mat -1,0,0,0,-1,0,0,0,1
+        }
+       XYZs 1.64032,1.64032,0.15746
+       defo {
+        affi {
+         ScaX 1.64032
+         ScaY 1.64032
+         ScaZ 0.15746
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0.99609,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cylindre 1"
+       ur ""
+       uK 0
+       }
+      inpr {
+       nm "corps"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -6.88103,-7.64786,-9.39507
+        mat -0.99982,0.00955,-0.00955,-0.00955,0.00009,0.99991,0.00955,0.99991,0.00009
+        Scal 2.02022
+        }
+       XYZs 1.26595,0.66002,1.26569
+       defo {
+        affi {
+         ScaX 1.26595
+         ScaY 0.66002
+         ScaZ 1.26569
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0.99609,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D 4"
+       ur ""
+       uK 0
+       }
+      inpr {
+       nm "tête"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -6.88103,-7.6167,-4.94513
+        mat -0.99997,0,0,0,-0.00006,1,0,1,0.00009
+        Scal 2.02022
+        }
+       XYZs 1,1.15407,0.99988
+       defo {
+        affi {
+         ScaX 1
+         ScaY 1.15407
+         ScaZ 0.99988
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0.99609,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D 5"
+       ur ""
+       uK 0
+       }
+      inpr {
+       nm "coup"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -6.9397,-7.57097,-7.69524
+        Scal 0.8662
+        }
+       XYZs 0.65613,0.65613,0.19684
+       defo {
+        affi {
+         ScaX 0.65613
+         ScaY 0.65613
+         ScaZ 0.19684
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0.99609,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cylindre 2"
+       ur ""
+       uK 0
+       }
+      inpr {
+       nm "chapeau"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -6.9397,-7.46306,-2.32854
+        Scal 0.8662
+        }
+       XYZs 0.4921,0.4921,0.19684
+       defo {
+        affi {
+         ScaX 0.4921
+         ScaY 0.4921
+         ScaZ 0.19684
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0.99609,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cylindre 2"
+       ur ""
+       uK 0
+       }
+      inpr {
+       nm "oreille"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.48456,-7.91681,-4.64426
+        mat 0.00089,0,0.99997,0,1,0,-0.99997,0,0.00089
+        Scal 0.86603
+        }
+       XYZs 0.40845,0.31717,0.41858
+       defo {
+        affi {
+         ScaX 0.40845
+         ScaY 0.31717
+         ScaZ 0.41858
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0.99609,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cylindre 2"
+       ur ""
+       uK 0
+       }
+      inpr {
+       nm "oreille"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -9.40105,-7.91643,-4.64406
+        mat 0.00089,0,0.99997,0,1,0,-0.99997,0,0.00089
+        Scal 0.86594
+        }
+       XYZs 0.40845,0.31717,0.41858
+       defo {
+        affi {
+         ScaX 0.40845
+         ScaY 0.31717
+         ScaZ 0.41858
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0,0.75,0.99608
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0.2473
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cylindre 2"
+       ur ""
+       uK 0
+       }
+      inpr {
+       nm "bras1"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -3.20058,-7.46225,-9.24016
+        mat 0.00089,0,0.99997,0,1,0,-0.99997,0,0.00089
+        Scal 0.42615
+        }
+       XYZs 0.56911,0.57732,1.04802
+       defo {
+        affi {
+         ScaX 0.56911
+         ScaY 0.57732
+         ScaZ 1.04802
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       so {
+        inpr {
+         nm "bras2"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.05663,-0.01212,1.16556
+          Scal 0.42595
+          hp 0.07906,0,-4.38383
+          }
+         link {
+          ball {
+           matR 0.95111,0.11742,0.26857,-0.30235,0.43527,0.84286,-0.02119,-0.89417,0.44968
+           }
+          }
+         XYZs 0.45569,0.45868,1.75992
+         defo {
+          affi {
+           ScaX 0.45569
+           ScaY 0.45868
+           ScaZ 1.75992
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         so {
+          inpr {
+           nm "bras3"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.10692,0.00029,-0.64206
+            Scal 0.42595
+            hp 0.0636,0,-4.3837
+            }
+           link {
+            ball {
+             matR 0.99123,0.04308,-0.0616,-0.01624,0.79535,0.5899,0.06769,-0.60197,0.79753
+             }
+            }
+           XYZs 0.36655,0.3998,1.75983
+           defo {
+            affi {
+             ScaX 0.36655
+             ScaY 0.3998
+             ScaZ 1.75983
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           so {
+            inpr {
+             nm "rotule"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.0645,-0.00969,-0.61942
+              mat 0.00089,0,-0.99994,0,1,0,0.99994,0,0.00089
+              Scal 0.33072
+              }
+             XYZs 1,1,1
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Sphère"
+             ur ""
+             uK 0
+             }
+            inpr {
+             nm "pince"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.08173,-0.23528,-0.0869
+              mat -0.00076,0.99994,0,-0.99994,-0.00076,0,0,0,1
+              Scal 0.8662
+              hp -0.34972,-0.04935,-1.33417
+              }
+             link {
+              axis {
+               axis 1497454665
+               AALI 3
+               AASL -1
+               AAVa 0
+               AAMa 1
+               }
+              }
+             XYZs 1,0.59212,0.95209
+             defo {
+              affi {
+               ScaX 1
+               ScaY 0.59212
+               ScaZ 0.95209
+               R1,1 1
+               R1,2 0
+               R1,3 0
+               R2,1 0
+               R2,2 1
+               R2,3 0
+               R3,1 0
+               R3,2 0
+               R3,3 1
+               Tra1 0
+               Tra2 0
+               Tra3 0
+               }
+              }
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Assistant 3D 6"
+             ur ""
+             uK 0
+             }
+            inpr {
+             nm "pince"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.08133,0.25551,-0.08687
+              mat 0.00089,-0.99997,0,0.99997,0.00089,0,0,0,1
+              Scal 0.8662
+              hp -0.34972,-0.04935,-1.33417
+              }
+             link {
+              axis {
+               axis 1497454665
+               AALI 3
+               AASL -1
+               AAVa 0
+               AAMa 1
+               }
+              }
+             XYZs 1,0.59212,0.95209
+             defo {
+              affi {
+               ScaX 1
+               ScaY 0.59212
+               ScaZ 0.95209
+               R1,1 1
+               R1,2 0
+               R1,3 0
+               R2,1 0
+               R2,2 1
+               R2,3 0
+               R3,1 0
+               R3,2 0
+               R3,3 1
+               Tra1 0
+               Tra2 0
+               Tra3 0
+               }
+              }
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Assistant 3D 6"
+             ur ""
+             uK 0
+             }
+            }
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Cylindre 2"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "rotule"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.06406,-0.00931,-0.62476
+            mat 0.00089,0,-0.99994,0,1,0,0.99994,0,0.00089
+            Scal 0.3308
+            }
+           XYZs 1,1,1
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Sphère"
+           ur ""
+           uK 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Cylindre 2"
+         ur ""
+         uK 0
+         }
+        inpr {
+         nm "rotule"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -0.01903,-0.00867,1.16898
+          mat 0.00089,0,-0.99994,0,1,0,0.99994,0,0.00089
+          Scal 0.33086
+          }
+         XYZs 1,1,1
+         MPSt 0
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Sphère"
+         ur ""
+         uK 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0.99609,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cylindre 2"
+       ur ""
+       uK 0
+       }
+      inpr {
+       nm "bras1"
+       AnTr 1
+       Cloa 1
+       tran {
+        po -10.50563,-7.46191,-9.24121
+        mat -0.00089,0,-1,0,1,0,1,0,-0.00089
+        Scal 0.42609
+        }
+       XYZs 0.56911,0.57732,1.04802
+       defo {
+        affi {
+         ScaX 0.56911
+         ScaY 0.57732
+         ScaZ 1.04802
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       MPSt 0
+       so {
+        inpr {
+         nm "bras2"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 0.05663,-0.01212,1.16556
+          Scal 0.42595
+          hp 0.07906,0,-4.38383
+          }
+         link {
+          ball {
+           matR 0.82526,-0.23917,-0.50726,0.53297,0.57635,0.6114,0.14168,-0.7832,0.60625
+           }
+          }
+         XYZs 0.45569,0.45868,1.75992
+         defo {
+          affi {
+           ScaX 0.45569
+           ScaY 0.45868
+           ScaZ 1.75992
+           R1,1 1
+           R1,2 0
+           R1,3 0
+           R2,1 0
+           R2,2 1
+           R2,3 0
+           R3,1 0
+           R3,2 0
+           R3,3 1
+           Tra1 0
+           Tra2 0
+           Tra3 0
+           }
+          }
+         MPSt 0
+         so {
+          inpr {
+           nm "bras3"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.10692,0.00029,-0.64206
+            Scal 0.42595
+            hp 0.0636,0,-4.3837
+            }
+           link {
+            ball {
+             matR 0.95284,0.27118,-0.07764,-0.00729,0.24303,0.96266,0.28111,-0.93538,0.23299
+             }
+            }
+           XYZs 0.36655,0.3998,1.75983
+           defo {
+            affi {
+             ScaX 0.36655
+             ScaY 0.3998
+             ScaZ 1.75983
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           so {
+            inpr {
+             nm "rotule"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.0645,-0.00969,-0.61942
+              mat 0.00089,0,-0.99994,0,1,0,0.99994,0,0.00089
+              Scal 0.33072
+              }
+             XYZs 1,1,1
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Sphère"
+             ur ""
+             uK 0
+             }
+            inpr {
+             nm "pince"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.08173,-0.23528,-0.0869
+              mat -0.00076,0.99994,0,-0.99994,-0.00076,0,0,0,1
+              Scal 0.8662
+              hp -0.34972,-0.04935,-1.33417
+              }
+             link {
+              axis {
+               axis 1497454665
+               AALI 3
+               AASL -1
+               AAVa 0
+               AAMa 1
+               }
+              }
+             XYZs 1,0.59212,0.95209
+             defo {
+              affi {
+               ScaX 1
+               ScaY 0.59212
+               ScaZ 0.95209
+               R1,1 1
+               R1,2 0
+               R1,3 0
+               R2,1 0
+               R2,2 1
+               R2,3 0
+               R3,1 0
+               R3,2 0
+               R3,3 1
+               Tra1 0
+               Tra2 0
+               Tra3 0
+               }
+              }
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Assistant 3D 6"
+             ur ""
+             uK 0
+             }
+            inpr {
+             nm "pince"
+             AnTr 1
+             Cloa 1
+             tran {
+              po 0.08133,0.25551,-0.08687
+              mat 0.00089,-0.99997,0,0.99997,0.00089,0,0,0,1
+              Scal 0.8662
+              hp -0.34972,-0.04935,-1.33417
+              }
+             link {
+              axis {
+               axis 1497454665
+               AALI 3
+               AASL -1
+               AAVa 0
+               AAMa 1
+               }
+              }
+             XYZs 1,0.59212,0.95209
+             defo {
+              affi {
+               ScaX 1
+               ScaY 0.59212
+               ScaZ 0.95209
+               R1,1 1
+               R1,2 0
+               R1,3 0
+               R2,1 0
+               R2,2 1
+               R2,3 0
+               R3,1 0
+               R3,2 0
+               R3,3 1
+               Tra1 0
+               Tra2 0
+               Tra3 0
+               }
+              }
+             MPSt 0
+             sh {
+              mapk 0
+              elms {
+               sprm {
+                uvsp 0
+                aexp 1
+                bbox 0,0,2,2
+                mbox 0,0,2,2
+                shdr {
+                 scmp {
+                  prkd 1
+                  ssub {
+                   sclr {
+                    prkd 1
+                    colr 0.5,0.99609,0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0.5
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sval {
+                    prkd 1
+                    Val 0
+                    }
+                   sclr {
+                    prkd 1
+                    colr 0,0,0
+                    }
+                   }
+                  }
+                 }
+                opac 1
+                }
+               }
+              }
+             ob "Assistant 3D 6"
+             ur ""
+             uK 0
+             }
+            }
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Cylindre 2"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "rotule"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 0.06406,-0.00931,-0.62476
+            mat 0.00089,0,-0.99994,0,1,0,0.99994,0,0.00089
+            Scal 0.3308
+            }
+           XYZs 1,1,1
+           MPSt 0
+           sh {
+            mapk 0
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 sclr {
+                  prkd 1
+                  colr 0.5,0.99609,0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Sphère"
+           ur ""
+           uK 0
+           }
+          }
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Cylindre 2"
+         ur ""
+         uK 0
+         }
+        inpr {
+         nm "rotule"
+         AnTr 1
+         Cloa 1
+         tran {
+          po -0.01903,-0.00867,1.16898
+          mat 0.00089,0,-0.99994,0,1,0,0.99994,0,0.00089
+          Scal 0.33086
+          }
+         XYZs 1,1,1
+         MPSt 0
+         sh {
+          mapk 0
+          elms {
+           sprm {
+            uvsp 0
+            aexp 1
+            bbox 0,0,2,2
+            mbox 0,0,2,2
+            shdr {
+             scmp {
+              prkd 1
+              ssub {
+               sclr {
+                prkd 1
+                colr 0.5,0.99609,0
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0.5
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sval {
+                prkd 1
+                Val 0
+                }
+               sclr {
+                prkd 1
+                colr 0,0,0
+                }
+               }
+              }
+             }
+            opac 1
+            }
+           }
+          }
+         ob "Sphère"
+         ur ""
+         uK 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0.99609,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Cylindre 2"
+       ur ""
+       uK 0
+       }
+      }
+     boxM 1.01666,2.38219,-1.90242
+     boxm -15.47571,-14.01395,-15.07124
+     open 0
+     }
+    }
+   boxM 40.77745,40.46227,35.88885
+   boxm -15,-15,-15.09222
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "14:08:166335278"
+      }
+     DATA {
+      stor 0
+      w 200
+      h 200
+      dpth 8
+      npln 1
+      ctab $00000400 ÿÿÿ þþþ ýýý üüü ûûû úúú ùùù øøø ÷÷÷ ööö õõõ ôôô óóó òòò ñññ ððð ïïï îîî ííí ììì ëëë êêê ééé èèè ççç æææ ååå äää ããã âââ ááá ààà ßßß ÞÞÞ ÝÝÝ ÜÜÜ ÛÛÛ ÚÚÚ ÙÙÙ ØØØ ××× ÖÖÖ ÕÕÕ ÔÔÔ ÓÓÓ ÒÒÒ ÑÑÑ ÐÐÐ ÏÏÏ ÎÎÎ ÍÍÍ ÌÌÌ ËËË ÊÊÊ ÉÉÉ ÈÈÈ ÇÇÇ ÆÆÆ ÅÅÅ ÄÄÄ ÃÃÃ ÂÂÂ ÁÁÁ ÀÀÀ ¿¿¿ ¾¾¾ ½½½ ¼¼¼ »»» ººº ¹¹¹ ¸¸¸ ··· ¶¶¶ µµµ ´´´ ³³³ ²²² ±±± °°° ¯¯¯ ®®® ­­­ ¬¬¬ ««« ªªª ©©© ¨¨¨ §§§ ¦¦¦ ¥¥¥ ¤¤¤ £££ ¢¢¢ ¡¡¡     ŸŸŸ žžž  œœœ ››› ššš ™™™ ˜˜˜ ——— ––– ••• ””” “““ ’’’ ‘‘‘   ŽŽŽ  ŒŒŒ ‹‹‹ ŠŠŠ ‰‰‰ ˆˆˆ ‡‡‡ ††† ……… „„„ ƒƒƒ ‚‚‚  €€€  ~~~ }}} ||| {{{ zzz yyy xxx www vvv uuu ttt sss rrr qqq ppp ooo nnn mmm lll kkk jjj iii hhh ggg fff eee ddd ccc bbb aaa ``` ___ ^^^ ]]] \\\ [[[ ZZZ YYY XXX WWW VVV UUU TTT SSS RRR QQQ PPP OOO NNN MMM LLL KKK JJJ III HHH GGG FFF EEE DDD CCC BBB AAA @@@ ??? >>> === <<< ;;; ::: 999 888 777 666 555 444 333 222 111 000 /// ... --- ,,, +++ *** ))) ((( ''' &&& %%% $$$ ### """ !!!                          
+
+
+ 			            $
+      tils 64,64
+      tdta {
+       tile $00001020~¼šSc§ÈÎ½‘™¶»£‡ceÁÍÊ¢rx†Œ…’¨¤žÂÅ¶ ‘‡ƒ™™…‰–³§yr¡œª“‚¹ØË¯¬—\TYsŒ˜•w¸ƒOn¤ÅÉ°µ·£„\f¿ÌÈœpuŒ´­—¤š¢ÁÆ¼£„w™ˆ‡šËÇzgž§’{§ÕÆ¥ªžgxks—~vÓŠY–¼ÅÂ©y‰µ¶£€Vp¾ËÆ“`q–¹·£¡›ÁÈ¾¡‡kˆ˜‰ƒ›ÇÍ“až x¥ÔÏ¢¨žyŠ†v’–†kÙ¢yÌÓÇÂ›sƒ²µ¤tSr¸ÊÅ•Yq”·²¡†‹ÀÈ¿ž‡gz”ŠƒšÂËX–ž¡wœÛØ¶¤Ÿ{ˆ†{”•~ujÖ¥tÓÞÓº—nwª³§pW‡¹ÈÃŠSgµ²ž”x¾È¸ž“‡cv’Š€’½Èži—žŸ‰yÞáÂ¤œ„‡„”‘ngÓ¤…Öà×¶it¨° r{„µÆ¾Než´´œˆqŠ½Â®–ˆhs‰‰Š’µÃ¢™­¡ž‹u—ÞâÍ›™…ƒ†ˆ’~‰eaÍ§×ÜàÕ¬ˆan¤® v„±Ä»zPm£µ³—…e|¼Á¥œ™Œsj‚›¬œ¬À¦¬¥ž”vŠÝàÍœ•…y…Œ‚i{ÇºâßàÔ©‚]hŸª |ƒ®Á·mLl¤»¼›nbˆ¶¼™žzk{¡®¦¥¼ª–¨©ž‘tƒØßÊ“ˆy…Œ~wŠÁ¬ÝàßÒ°|Yc™¨—yƒ®¾±xMm©¾¾¢h]€·³š¥­šhm’¯©£µ¦“§ª”r|ÎßÓŠ…s…Œ‰r{‰¿¡ÓÞÜÍ¬vTa™­¦†±º¯hi¥º¾®n\‚³¬’¤³žƒne‚®©°¢†¢¬“vjÐÝ×Šƒƒu‡~‹„k‚†¸™ÐÈÅÅ·tP]›ÅÃ‰~…¯·±ži¢·¼°€i¬¥‰ž¶¥†p\r©©¢­¥ƒœ¬ž‘n`ÁÛÖŠ~w‡‹l€‚¯•¾£ ½®sR^œÇÂŒ|„®´±™†rª³¹·²Šƒªž¶©“sXjž¨£© m–ªŸ“sb¿×Órz|~‰Šxl€{©˜²Ÿ¢¿±xtr™Æ¾“{„®°­•†ˆ·²³··œˆ£š{µ³¨~ac’¥¦¡g’¥˜‰ˆ¸ÖÔžlw‹Šwu|¦¡¬ §È¯Š‡”È·”y„«®§’‰¶´¦´¹ª›Ÿ”tr°¶¯™¹”…¤¤£n‰¤˜‹½ÁÓÐŠct~ŒŠvr|w¡®¨ ¬Î²˜•©Ã³–yˆ«ª¥|‹¶³˜¬¹°šš“{cª¶°§Þ»‚ £¢›iu˜‰¼ÓÏÏ•ar‰Š{vzmŸª¤Ÿ°Ì³ž—¬ÍÆ¯™x…¥¨™‹~{µ²‘¡¶² —––†«¸²¤××’ž£ž™mk—œ—Œ¸ÎÎÉ›a~j‚‹‰zwf §¢›°Ê³¨–¼ÐË¬—v„¡¤–‰v‚¯°Œ’±³®•™—‹¬¹´¡ÄÚ›™¡Ÿ”ik–š•†±ÉÌÈ›]lz‰‡yu_Ÿ¥Ÿ˜§Ä½¨Œ¬ÎÍ¬™rz¢–†u€¬®‘ˆ«³¬—™”Š§¹´¤·Ù»—ž¡fb‘›–‡§ÇÏÅ ~_jr„†„zx¡Ÿ™Œ ¿¿ª±ÊÍ­œpu™ž„m€¡¨“u¢²¬š˜’†¡¸´¥›ÔÍœŸj^™°žƒ–ÅÓÁžaikz…†{‹’¡™”ˆŒ²Á¬žÇÇ«—ny–›€t„˜œ”g«®¡•’…Ÿ´´¦ŒÊÏ¡›ž‰f[¤¸«„‰ÀÏÅ~›bcfq„…~’ —~¨Ä½© ÂÉ­—st’˜‰€r„–—‘kƒ¤¯¤›Š€”²²¨‚¶Ê°¡¯`_©¸©€‡¾ÏË¥e`]l‚†‘’ž–‰uižÀÁµ™¾Ç­–z“‰ƒ•–“cq ®¥‘†˜®²§–Ã¾»Ãže]¥¸©~q·Ï~Í§c_\b‚„’”š‚k]‹¹Ç´»Å³•…sˆŸœ„’•‘ne•«¡“‡xŠª¯§‡ˆ½À½Ä¡tjŸ´§zq¯ÎÌ¦cs„sƒ…‘””Š~c[ƒ·Ç³ºÃ²”ˆy„”Ÿ¥€”jX§ —x‡¦®¦q®¿ÅÁ—‹‰™²§xj¥ÿË~«¨È—‚ˆ’ƒv]Su­Æ´´Á±†~~•ŸŸ~…“wPƒ¥¤–pzŸ¬¢ŠaŸ½ÉÀ•‰œ±£vcÈÊ»ÐÀÄ¨‚ˆŒ~fUPx¨ÃÂË»Á´‘„‡|––r€‘tPx£¤•l{¥ a‘¸ÊÂ–Š„›¯¬žmÆ~ÊÂÓÉÂ¥€ƒˆ…‡ˆt\RNs¢ÁÏÇÊÊ´ƒ€…x‹–œ‰g{z_kŸ£™f†¤§ŸŠ_v²ÍÁŠƒ˜¯¼Ä„‹ÂÇÄÐÉ»¨ƒ‡‚~mVOWl—¾ÎÅÞÞ¾|ƒ{‰”š]kŠ„…i™¢™ƒf‡­«›Šca¥Í¾‘‰›«¾Ã~„~ÀÆ¿ÍÁµ©…ƒ…uzveRMVj‰»Î¾ÚßÀ‚v|‰”™YhˆŒ†‚m–¢œ„^Š¬¬š†e[›ËÁ‡€š­ÁÂ~y¼Ã¼Ê²¬«„„krscbT`h…¶ËºÓÞÏ~tˆ›•––jUf‚‹†q­§Ÿ‰b‚©ª›jS†É¿‡€š³ÈÅ~~n´ÁÁÉÀ®µš„rznx™Šmz³Å±ÏÞ× r¸ã¼š‘_PW€‰ˆ‚¼§†nu§ª¦¬‚PsÄ¿†™ºËÅc°¿¾ÉÍ¿Äº‡€›¦e€ž®à“t»Á°ÉÞÖ¨k¼âÖ£ƒWNUy‰‡y¼¦™…vn£¨©ª‹Ok¿·‘Œš¼ÎÆ0a©»¿ÍÈ¼Å¿Œ„¬±e‡žÈçÀ€³½¤ÆÝØ©n¼ßÖœPKVuˆ…~™¾¥•†xlœþ§~yRm³®’Œ™¿ÏÄ€\¡·¿ÍÄ²ÇÇ‹v¦°jŒ›ÃãÃ‘´¶–¸Û×¯¦¶ÞÙ¡tOKWs‡…{±¾Ÿ‘‡xm™¤©¬ˆUo¬©‘“¢ÀÎ¾qVœ±¿ÌÁ­ÉÊ‰n›®j‰˜¼ÞÀ•¸´Ÿ±×ÖÉÞÊÝ×žk^jUq†„|´¹•‡{q£«~Å¿u|ž‘’¥¿ÅÍ¼nT‘­ÁÄµœÆÊhš«s”¸ÛÉ£µ´§·ÕÓÌÛÌÙÙ¨l©»pr…„µ±‹‹†œ‘¢¯ÉÏ§–˜“¦ÅÇÍºjO‰ªÁ°›ÃÈœc®v‘ÑÈ©³³«¹ÐÕÁÔÎØ×¥r¯¿t„Œµ«‡†“´˜Ÿ~­ÇÏÑ¡‹““ªÈÉË«fP€¦À˜‚Š¿È ^‚®ŠŒŒ“ËÏ®²²­³ÎÒºÊÌ×Õ®l¢¼¡w‚—²Ÿz„‡“´ˆž¨ÁÒÙ©…‡‹’«ÉÉÇ£cNw¢¿ƒ‡¾Å ^w°Œƒ‚ÆÎÉ¿¯­µÊÏ®¹Ð×Ò¨b’¸¨|{ž®“s€…’¯‡~š¥ºÕ×º…€ˆ’¨ÌÌÅUKv¤¿’„‰¯Á›_s«”ŠyyÁËÌÂ°ªºÅÌ«¨ÎÔÒ®b¯®‚|¨¨„h|†—®ƒš£·ÐÔÀ‡ˆ«ÌÍÂRLn¤¾“…Œ¬¿¬]k ~½ËÉÄ¨§·ÁÇ¥”ËÖÑ§i†›¨ƒz„¦¢uez…–¦~|š‘¸ÉÎÄ’|†‹¦ËÏ½…OKkª½’†Œ¦º§\bšž¥³“¶ËÊÅ££¹ÃÄ …ÄÓÒ¯yˆ¡ˆy”¦ši_vƒ”›y—ºÁÇÅ¤‹°ÌÌ¹MKi©º–ˆŸµ¦]a“¢·ÏÁ·ÌÏËÍ©¸ÂÀŸz¼ÔÑ®‡žŒ~ §œf_uˆ˜~šu–£¾ÅÄÅ²¡®ÌÍ¶wLLv®·”‰˜±¨_[Š£ÀÌÀµÊÎÍÐ¡°Á¾›z±ÏÐ´ˆ…Š›“¤¦›gcwˆ–—t‰ªÁÁºÁº£“¦ÊÌ«nJKu«²”Š”¬¥fU€¤ÄÉ´²ÇÊÎÑ§»¸š€¦ÏÏ³ˆ‚…˜‘™§ ‹t…ˆŠ~–‰s‡©¾¼°¿¾¹Ÿ–§ÊÌ£jHK§¯•‹”§¢cV‚ ÀÄ¯°ÂÈÌÆ– ¶³•x—ÉÍ·ˆ‚„–˜ ¨”|™š“•uu²±½¾š¼ÅÒÁœœÆÈœ`MT…¢ ’Œ‘”£ eR‚ ÁÁ£«ÀÂÀ¦Œ³°”uŠÄÊ¶ˆ”¨§Œ~‹~™—r„·²¼¸›¸ÉÒÑÂ¨…²œl‹‰œ•‘Œ‹ž›iU Á½•¨¾¾­£’®­r~·È¸Œ|v’¡ª¢†€€„›œ™f‘¸¯´µ”µÅÐÐÃ¬pw“–ÝË•™‘‹‹ˆ›™eT€™½¹™¦¹¶§¡š—«ª‘wu®Ä¶Šxn£­Ÿ€€‚~~˜¡mŸ´¨°°Ž«ÆÏÍÃ¯soœÞÚ”Š‹ˆˆ˜”m[~‘¬Â•Ÿ´³®«µ¦¨¦š¶ˆ¦À´tk¥©˜{€„z‘¢¤—´®£´²‚£¿ÐÈ¾³ŒsŸ±ÝÑ•ƒ‰ž‹…hX{’²¿…v¬¸ÏË¸«ž¨Á¥ º°Œme¥«v…~”¢¤¯¼§¤­­u›¿ÎÉ»°—€¬ÁØÏ€t“«¤šž‘‹jcy‹¹¸wm¬¿×Ò¹©™y–À±’¶°h^Š¤¨ˆt|†ˆŒ¡¥¾½šŸª—n’¼ÍÇ¿¶ –ÒâÕÁxp¤ŒlrŽ‡nbw”µ­`q¨¾ÔÒ½¦“v~©µ¯¬h]Š¥§…v{~Œ”’›ªÀ½™—§’f‰¸ËÅÄÃ£ ÑåÜ¨ˆ©¦ƒnv‰‰|pt‘¶¡[n¤ÁÓÐ¸Ÿl}› ©©’c_†¡¤‹„€‘›–´Ä»‘š£`€ºÊÅÂÅ¸›Ëåá¡Ÿ« vjz‡‚‚tZž²”Vp£½ÑÎ·š†o}›œœ®¥j{’žŸ‰~…’™ ¥½Ç¾Ž— ‡[z·Ç½ÁÆ¾›Àââ²¦˜ol}†~€zV£­„Pu ÀÎÊ¯‘‚s„œš›»¤Ÿ›¡¢œžo]p“££¶Æ½‘—j\†½Ãº¼ÇÀž­ßàÀ¦¡Šmm†Ž„z}yY£­wRv ¶ÍÊ­‰uˆš˜š¼­°ŸŸ—~nam—££·ÆÂ›—–hp¾Â³¶ÆÂ¢®ÉÝÈ¨Œgs„…z_ ¨q^yš¾ÏÉ¡‚wu——–¿­Á››œ™’q`m˜¢£ªÃÅ­–‰tv›½¾¶µÄÂ¨¥¹ÔÉ­˜it€‰Š”‚~œœ—¸ƒÃÒË›|ty™”“Ã¹Á—”—™“~‹t^l˜ ££¿Ç¿™€|}™¼»µ¬ÁÀ°¥©Å¼¶—€i{†{‹”…«˜ÍÛžžÊÓÌ‘wx¢·˜¯™¤–”•ˆu^s–ŸŸš¹ÇÃ›~~†—··¬©½À³¤ž©‘¡—vj{|€yŒ”³–ÑÓž¤ËÑÇ’wx«¶›‹ˆ­œ”„‘“~‰…x]x—”¯ÆÅ }|…š³³©´¿¹¡‹ž˜ynwy|”Šš“ ÏÄ›¿ÑÏÄ§‡v³µš„Š¶³­“~Ž…ƒrc|–ž˜‡£ÄÄ¡v|‰™®±¦™¬»·£Ž—¬yrusv“†—£Í©šÈÑÎÅÆ¢}¸¯•|„½¶³™}‹h‹{€y¨ž–”ŸÁÂ¥v~Š˜©¬¦—¸º¢sŸ®‚prmr|’„‘Œ¶ÈŸ£ÉÐÌÄÅ²ˆ³¨w†À·²’zˆ‰{|’µ´™Ÿ›‚Ÿ¸±§y‚ˆ›Ÿ¨¢•“¶º rzŽ°‰soil{‹‘‰Œ$
+       tile $00001021~ž¡Š·®„ƒ­Î°s‰˜“ƒccr~ ¬–r˜—ª’™•ux¤Ã®šÂ¹£¾·œ®Éœy’•|“¤­¡˜Á¿—©®›£¨§¶¥ƒ„´ÏÌ~ˆ•‘|]eq~£«‡e–™¡¡—ˆgsÀ©™—Á´¦µ¬›©Ê£†{ž½ž”©¥¢¿»…xœ¨~«—»ÐÂ±š{…¯ÏÍ‚ƒ‘~\iq‡°²‹W’œŸ£”yel›¼¥˜£¿¶¤¬ªœ’ŸÁ¨†|¦Å²‰ž©°½¶pr¨¨”½ÏÅ­–x„©ÍÌ˜{‹Œy]kq´¶‚P„žŸ¨kWg—½£—”¼²Ÿ¥¦•œ¿´‡~¢Ã´ƒe‹¨·»®jm ~²ª»ÏÄªˆs„¬ÊÉ­yˆˆxe|~“µ³qO‰žŸ¦VVc˜´£•“¹²œ¢Ÿ™™ÉÅŠ|¿ªzU|«¼¸¤ajÏÛ¾ŠÀÍÁ¥Œ~‡¬ÄÅ«|ƒ‡xqˆŠ•¶²lLy¡ ¨US_›´£š…´±˜–žŸœ§ÞÕ’{˜¾¨jLp¬¾¶–[€~ÛÞÄŠ¾Ïº¢¡¨”®ÂÁ³‚„~¡‹œ´­eL²¤¨~OO]š°¦£‘¯°š–š¡¦¨ÜÛšz’¼®^Jg¬¾²ƒ^˜ÞÜ¼šÛâÁ›¨ªœ¯½¸²‡‚»Ì Ÿ²¦[L²¾¯§vKM_š­¦¤’¨ª”– ©¯ÜÚœv“¾ÈgOc«¹©yc~³ÞÙµœåæÇ‘£ªž°·±®š~ÃÒ¨£°£XU¹½¶©uMK`™©¦¤›¥©•’ ©«ÚÙ’u˜¼É–wi¨¶¡ub¸ÞÖ°šßåÁŠª¢²²§›{~z°Ð´¥¯–RUµ¹·«pMKi—§¦¢–Ÿ¤Œ©µØÔŒt—µÈÉ«x¢°›v~g½ÜÔ«ÞäÍ{ˆª­¶©Š£žƒ{y¤ÏÇ¨«Vh°¼·­vMLi“¢¥¢—£Š‹ˆ˜¥´ÖÍr—±ÅÆ°€–ª•yrÅÚÑ¨‡×âÊqƒª¯¶¤š¡„xx˜ÌÅ²¨‚s“¨¼·©uPNj ¤¢”›‰˜•–£½ÓË‡q”¬ÆÇ±Š£»~~‹ÁØÏ´ŠÂ×Æk€¨³µ™n“ž†wuŒ¿ËÁ²|„–¤º¸«xSSg‹¡£›“š™ÊÉžŸ½Ï¸~u“©ÅÆ§„¤¾¢ˆ˜¿ÓÉ²™²ÁÊnt¨µ¯”k‹štv€½ÉÇ½w‚”£¾¸©uSUg‹£–˜™¥×Ù²¡¾Ì²yr”¨ÂÂœy ¹~¥¯¼ÌÅ¶§³»Æs´·«ƒcz–“ut~²ÈÈ·t’¡½¹ªxTVgŠœ¡‹˜’ŸÑÚÆ¥½È£yq“©¿º—~„³¥˜³¹ÆÄÅ¢³¾ÄsÊÅ¼¨x`r‘•xuy§ÈÇ¹œ‹Ÿ¿¹¨{|jŒž{•Œ»×Ì°»Âum©¸¨£|®¨Ÿ±µ³ÃÉ¡´¾À…ÇÄ·~`b‰þv~ªÈÆÁºœ ¿¸ª‘Á´t‰›šu‡“Š²ÓÍ³º¾lk‹©³¦£™x¨©¬¶ª¥ÂÊ£²»·z®È¸¤{\aƒŒwuu¢ÈÆ¿»š›¾¸ª ÃºxŒœ—q†‘’¯ÏÏ¿»ºŒgp‰«®¤¡‘j‘©¸´¦ÃÌ§±¸µt›É¹ ~YV|Š€v~s£ÇÅ»¹›Š›»·¨¨º—€‰™“~Œ¡ÁÎÉ¼±ƒ`l‡­°¡„f©¿³›—ÀË§°´­|‘Å¾žxVPx˜{y¨ÄÃ½´™‡“º¶¨¯¦ˆŠŠ˜‰£¦†œ·ÌÍ¼­€]k®¬Ÿ˜€a†¨¾±Œš½Ë§­°¨ƒ‰Ç»¡qUNpŸ£~~«Ã¿¹³˜ƒµ¶¦¬­ŠŒ’•„“ÄÈ•€˜¯ÇÍ¼£vYk“°®›”~r«ÀÅÂ´¿É¤«¬¥|Ã¼ŸuPMf ¢ƒ­¾º¸µ˜y‹³³¨±ª‹‹“…—¾ÈŸw‘¦ÄÌÂ tYp‘¬©•‘|t®ÀÑÞ»ÃÈ¤¨¨Ÿ„Á¿žsOKc~¡‡•«¶·¹³—s‡¯°§±«ˆ‹–Œ{Ÿ¯Ç¥n‰š»ÉÁ™sXr•¬¥“‹pk°¿ÊÜÎÁÅ¢¦Ÿš€{²¼žtRH[›Ÿ‡“©¨¿Å¸•p†«­«³ª†Œ—Š‡žŸÄ¬r‚–³Æ¹¢]u™¥¡‘ˆmb˜¯¹ÆÙÔ½ÃŸ£›–y°¾štPGV~”Ÿ›±§¥ÓÍ¼•gƒ¨ª©°¥‘’˜‰’š‰Áºz‹•¬À¯ª•]x›¡“†kf¢¯¯Â×ÑÃÃŸ¡š’Œz§¶¡u]NUž¹Ö¶žÑÍ½_†®«¦­ž’••Š—”x»¸›Ð¥ ¹®ª‘`~™Ÿ›“‚bp¨®¦ºÓÑÂÂŸª´œˆv›³¡… t~XŒ›·ÕÀªÑË·ƒY³°«¬–ˆ”•’“‹m²¸¬Ý·Ÿµ®©‘b{•›˜“‚_u©«Ÿ¯ÏÖÉÁŸ°¼Äw”¯ŸšµŸ[‰˜®ÓÌµÐÈ®ƒV’±°®ª‰””›‘b¯µ¯Û½›°¬©e€—–’ƒ[s¦§—ÍÓÊ¾™°¾Ø»xŠ¤œ¡²~™]†˜¨ÐÏÌÐÁ§|V‡°³¼¯zu’–›‹j]°°Ø¿—£©©“j‚Š’”’ˆew£¡¨ÆÕÉ½–®½ØÍž§¯‰W„—›ÆÕÑÏÁ¥pU‰®¶Æ¿za™ †]Tª±ÕÁ’£«¨•n‡–‘‰s~ œˆ—ÃÐÍ¹—¬¼ÕÙ–v”œ«~¬lX‚—“°×ÚÌ·¡hS~«·Å¼m^ŒŸ¡TO‰¦²ÍÆ™±´§’u€€–‘‡{{œ˜‰‡ºÒÉ´š¥¶ÎÚ²už°¦nW€•ŒžÖÝÊ­™eSx©·Â¹ac’¡ŸuKL|§¹°¼›¹µ¨—~{z‰”ˆ~x™“‡Œ»ÒË±¢²ËÙ¿~‰ª~´£\U„“…ŠÖÝÁ¦”]Nw¨·Â³Yc”¤žnHLh¦·¬±¡¶²¦•{wt„’…~x’…¹ÏÈ± ›­ÀÕÉ†±¹«YW†‘~xÔÛÂ¡‹[Ml¥·À¯Xb•£œfGJf¸ª­§µ«¢™rmŠ„€‹~±ÏÆ¯¡š§·ÏË”—~¹»°W^‰‹w†ÎÖ¿ ˆVOi¡¸Á³z^’ •hOH]–¶¬§²²¦Ÿ—~le|‰…‹Š~{²ÍÉ¯²¯¦­ÉÉ ¡º»©ea‡ˆqŒÁÑ¼ “eRa¡·ÀÁ—b‘s€JR´°§µ²Ÿ“j[w‹ˆ{–•Š{w±ÉÊ«ÍÆ«¡ÀÆ«~¥¹º²s„‚g—²É´Ÿ“rR` ¶¿¾¡g‹˜ÎUU„°®¨³®—›’€gVw‰…xƒ—–{v­ÆÆ¦ËÉ´ŸªÁ¹±º½À×·†|q›¬¿µŸrS`ž¶¾¶˜gƒ’ˆ˜Ê†j«²¬°¥”—cPu†„q‡–•uv¯ÁÁ¢ËÈ³š›º~¹¶¸»¾×Á…zyœª³ž‰iR`œµ¼³ˆhyŒ‡œÈ‰“©·³µ Œ”‹{gSxƒq©š•‹ur¬À¾œÅÉ·–~°¶µ·¶¸ÔÉŠtŠ™˜°œƒhM`µ»¬ˆfpˆ Á‡›¯§¶µ´ª†weUv~xª›”Œsw¤»¼’ÂÇ¶q~¤ž£°³²ÏÅ†s†’•­œ„hOcœ²¹©ƒ]kzˆ¢ºƒ˜¾ª³µ±¶›‰s`Ttxˆ«›“pr§¶¹‘¹Ç»‘mœ˜›®«ŸÊÇ›zŠŒr„¨›‚nPi—°¸¥Xew‰£¶€¸´¯´²¸›ˆyn]Xs|v¨˜“mtŸµ²µÆº—~¡™³ž–ÅÅœˆ~]y¡˜lSk—®µ¡~TXt‹ ­q™´²®²¶£„qg]Wrzx—±£•Œqt•³­‡²Å¼šŸ£š¢·™~»Äƒ„qY€§˜ƒmUk’¬°™rTXw‰•¤^†²·¥‘´³§~kb[Yqx~¡º­–‹sp“®«ˆ«Â·~ž•Ÿœ¤·Šn·Áª†b`ªÒ ‡mUj—¬­“‡\Xz‰šW„°¹©o¡³¬€f_X[pw†²¾®•Škj©¤©¢Á¸˜‹™§º‡`¨¾­…u[yÒÚÁ­rXi•§¨‘pX‰Š_‚¯¿ÅŒj°³z`kW[nv±¿­“‡ph¥«È¡¿~·š‡˜«»|` ¹µ‡ePˆØÔÆ¼|_f£¤’‘z\†ˆyqx­ÅÊ¥[Ž±€[v{|ku’³Â®‡le…Ÿ·È˜¹´“{—²Å†‚Œ±´ƒbT—ÜÌÅ¿™kc£Ÿ”–•f‡‰jtz©ÆÊµih±‡Wut·˜z”´È±†mn|žÀÉ—~¸²˜|•·Ó˜ˆ³Ë›\V¥ØÁÃ¾ž~f ™’–¥‹‰‹b€r§ÁÆ´„c¥‘Xqc´Â ³ÈªŒ……ž‹©ÂÍ´±Šy“žºÏ˜‰´ÚÄaY¿×¹À¸žueŠ¡”‘™¨—‰†\Œq¢½Ä´k¡Ÿnp`«ÃÂ‘´Ã¦‡žº– ÁÏ~¯­|‘Ÿ·Æ”‡ŠºÚÒncÄÏ§¼¹Ÿxc‡““«Ã¤ˆYšs¥·¶²§x¦§‚`dªÄÃ¢«½Ÿ“†¤²€žÂÉˆ¬ªŠ€¡¹¿‡Š²×ÑtƒÉË›»·žwbš”‰ÂÚ¬‹vT¢zŸ²µ¸¶ ­‘XnÂËÆ¢œº¡“‰©Ÿ{˜¿~Æ~¥©¥¸¹Œ†…¯×ÑƒšÆº–¸±˜v`‰œ‹s´ØÂ™šT¥€®¨»º ¢¨–UtÊÍÇ®ˆºª‘Š£º€Œ½¾dŽ¢“‚•ª´­Š‰‘¦ÏÏ¹Æ¾”µ®šu‰¦Ÿ{k¯×Ö¢¡›Y§Š—«§´¸¯ £RsÉÍÇ©|³¯’Ë‰‡~¾ÁS„¡¥ˆš°²§•Ÿ²ÉÎ´ÀÆÁ¥±²£œ›¤Ÿm`™×Ù¸¥¥Wªˆ•¦œ®·²£žPkÅËÆ©p¬®”šÃ‡¾¿V‚¢¢’œµ®œ•›¢¶ÄË¿»Ä½¤¢­£¢¦¥™][ŒÒØÌš¥R ‰”¡š˜µ´¤—uMjÀÊÃ©s®–‘˜¶—~‡º½\‰£¢—§·§’˜ª²¼ÈÏ¶­‰”•¨¡¦ª¤”\T~ÐÙÎŸP¥Œ”Œ³µ§“uNe¾ÈÂ¥uš¯‘š¹Æ´¼¹‹¡£˜¬½¯“™žª³ºÇÁ˜Š€‹£¡¨®¢Œ^RÖØÒ‘pP©šŒ™“‚­´°œqMdºÆÃ¤s–±ŸŽÄ~ÙÆº´¿ž ¡¤²ÈÒª™Ÿ­­³´¬”~ˆ…ž¡©° ‡`SÓØÒc[¦Š—šƒ§´¸¼’Ob±Å¿ s¥º¡ŽÅÖÀ´¬¼¥žž±µÍÔ°žŸª¦­±­‘o‡‹ƒ¡°²†^S‡ÐÖÑ¦dc££“™¼¦œ³¹¹†N\²Á½š|«¹¨Œ¢~ÆÔ³°­º§›–¯º¹´¡‰o‹¢«´ªŒi‚„ƒž¡¯µŸ`WŽÎÕÎ°c`Ÿ¢“ž¼©“°¹¶„Qc±¿¶•}¬³£ˆªÉÒ²¯®¸¦™–«¹§ŠŠ}`~ž©·§…j|z…›¢°µœd\¦ÍÑË³jtœ¡’š·§Š­¸²yRd°¼±«ª”~¯ÆÐ¤«­³¦•‰¤¶©ˆ}`|›©¶¥nxv‰Ÿ¢¯±žb^¢ÊËÈ¶n}¤©™•´¥v¨«”zTd®¸¨‰‹¥”…³ÆÍŸ´±­¨˜Œ™²¬Œ…}apš©´œwkuu“¤¦«­Ÿ€df©ÈÃÂ³w†¹»«š±žrœš{`n­´Ÿ‹ž£Š…¸ÅÉ›¾²$
+       tile $00001020~™\y“˜“‘li£ÈÃ²°ÕÏÄ¥q^e¨ÎÈ™®ÈŸÓ¹¢™Ÿ°XlŸ½«¿¢ƒzjŒ¹¥•§Ìéß¸­¢·Ç®œ”Yz’–—¿©˜¿Ã°ªÏÏÆ¥w\_™ËÊ§ÅÌ„³Öº¢—Œ¦®Xjœµ§®®š„xk—´’¤Éçâ®¬ª»Å©~ŸUn™­ÝÓ›œ°Â´™¾ÏÊ¨t]`‹ÃÈ­ÁÁ†œÔº¡•ˆ“©ª„Tjœ­¥·¨™…xnœ°Š¢Êéà¨¬­¼Ã£›‚RnŒ—«ß×œšªÃ·’¥ÍÌ¬m[X¼Ã«Â½mžÐº©”€–©¥hSi™§¤µ¦˜xt˜ª{ˆ¥Òçß£ª±½À~—˜‚RcŠ—²ÝÓ“—¥¿²€ËÎ°k[V€¸À³À³k®Ë¼Â¹ƒ™§ž^Si–¡®²¤•yww ¦l…£ÏæÒ›¦´¾¸’‹yNc‰–¹Ùº”¢¼±ŠÍÍ°mXYt­½¿¿ªc™ÈÀËÎž¥”WXf’°¯Ÿuv~ž™_‚¦ÚãÏ”¤µ¼~µzˆtO^†—¿Ôºx¹¬txÅÏ·jVWp ·Á½œa•Ä¾ÉÑ ¡OWeŒ™±©›‡sv{œ”^~¦Øà¿‹£·º©vvq^vƒ™ºÐ¸ˆš³­fiÀÎ½jV]l¡¼Á¾‹f“¾ºÊÕ¯ ›wNVbˆ ´©˜€mu›–k|«ÛÞ½¡±~¯¤rsma{–ÅÎÊ·”›®§jlÀÌ¶lj€yÓÓÈ½ˆ_’º¼ÌÜÄ¡–jMWe‰ª¸ª›xpy‚žÁ¯³ÙÛª{¥¯­œlhpby ÂÄÀ¹žš© cc·É¼sœµ–ÖÔÈµw_ ¶¶ÉÞÒ¤ˆ_NUf‰¬³§›wƒƒˆ¬Ä¶‡±ÛÛ¼„§~­¬—_`if|‡¢Â¼¦´¡™¢–hY¨Æ½’§°ŒÒÒÇ´k]‘´µÉÞÖ¨`LTeŠ¬­£•tŠ‹‰§Â°…¶ÙÛÇ¨­¬“\[lqƒŒ®Ã´ˆ¤›lUŸÁ¼°«ª€ÂÐÂ±gY’±µÉÝ×®{[ORe‘©¤Ÿq‰Š‰±¿–€¿ØÚÞÅ~±®ª‹XTt‡‰Œ·À¦‡ŒŸœ—ˆgVžÀ¼´¯§»ÏÁ«caŸ²µÈÛÔ²œ~[ai”¢£œ‰uˆŠ‰·¸‰€Æ×âëäÂ­¨‰ONƒ‘¾¼—€Šž£—„cT–¼¼¶¯¢|·Ï¾©fn±¹¶Ã×Ð¶¶ª’¸‚™¢›q‡ˆŒ³´u†ÅÓÜç~ãÃ­§SMº§–º·tŠœ¦|^T¸º¶¯–w·Í»šj{±¼ºÂÕÍ¸´¯¾á®˜™˜˜sg†‰²§x‘ÇÑÔââÂ­¤vMLÉ¯’ž¾²lm“ª«—y^S’´³µ®q¾Èµ–l|±º¾ÁÐÌº³¤°ÞÆ–—žŸwk…‰“®žnÅÍÅ~ÝßÌ®¡uLKÊ¯– ¼ªfs®Á´›t^P‡«¯´ª‰r¼Å°Šj{¯¼¿ÅÐË»²¢ªØÆ‘–«¾›n„‰ ´¡r ÂÉÁ×ÚÊ®kJLÈ­š®ºž[v·Á·£wXP…²³±§ƒzÅÏµ„nz­º¾ÆÄÅº´¡¦ÖÎ›¬Á¶{†‰£´¦€¨ÀÈ~ºÆÖÓ°›cJLÅ²œ­¸Tyº¿±¦yWR ÛÁ¯…„ÔÙ¶‚wvª¹ÃÄ¿¾¶³Ÿ‚ÑÌš«Å´y„Š£³©†¬ÂÇ¶¸ÒÖ´”YKKÂ©›±´‰R…¹¼ª£{\T¼âÉª–‡ÑÙ»xx¥¸ÃÃ¹´²°œ~ÌÑ”‡¤Ã¸‚„‹®ª’¯Á~Ç»¶Ê×ºWJKÀ¦¡±³tUŒ¸·¡ Œ‚`—ÝÉª‘ˆ¢Ó×µ€xu£µÁÂ¬«°¯š€ÁÌ›‡šÂ¼‹„›©¨¤­¹Á·¢ÅÔ¶‡WJHÃ¤¥¯­qX™¶²™š””s‘ÖÊ¡‰¨ÑÖ®xˆ‚¢µÂ¾¯©®¯“s·Ç¥…ÅÆ•…“™§«­~¶¼´”¿Ñº†SJJÀž¥­§ai®»¯‘šŸ—q|ËÅ ƒŒªÏÑ«Š³Ä²º¿»«®­®•’ÃÅ ‚ŠÃÅš‡Œˆ¥³®¹¸³˜¶Ï½ƒPJUºžª¤š¼¾¬‹²ÝÆvqÁÅœ~‘°ÏÏ«ŒÓØÁ¹¿´¨¬ª¬Ÿ×àÉ¦‚‹¿¾™ŠŒs¤³~ºË¼¯ µÌ¸yLH[¹— ¨¥ÀÒÈ¾¨…³çß‡q½½œ{°ÎÏ¬ŠÌÙÄ¸¼­¢¨ª©«ÝÞÆ¡‹º¿œˆpq¢µÅÖÃ­¬ÁÉ»{MH]°‘›£žÆ×ÔÁž|®ããŸz©»ž{‹®ÍÖÈ’ÆÕÌ¹º¤›¢©§ª×ÞÄªz¶¸Ÿ‘„chž~µÇÔÂ±ÊÑÈºxLG[¬„‘™­ÖÖÂy¡ÛâÀ€¦±¡u‹±ÏÕÉŸ¸ÔÊ·¶—Ÿ©¦¯ÏÖ»ªy˜·Å­–‚\bšµÆÑ¸¹ÉÏÃ¸xKHe©˜ƒ›ÔÖÆ¦„”ÅßÈŠ™¬Ÿ‡±ÎÒÆ¨µÏÏ¹²‡š¤©®ºÏ¶£vš¾Ä³˜yO`~™¹ÄÌ¬»ÆÊ¾±tLHb¨©›”ƒ’ÑÖË¬’µÚÒ—¤ z…¬ËÐÅ­¶ËÊ¹²—‡—¥©­¸Ë´¦€›ÁÅ²˜pK`•ºÃ¾›¹ÃÅ¹º‹SJ`°ÏÁ”~‰ÎÕÐµ•‰¥ÑÏ¯…¢¢w­ÊÏÂ¨¯ÈÍ¿½ºŒ“ ¨®¸Ã«Ÿ‡›ÁÄ­šnO~a“¹Áµ˜¸¿·ÁÖÊkJ`¯ËÆ’~ÃÒÐ¸™‰–¹Ê¿†™¡‘¯ÅÍ½¦¥ÃÌºÀ¼•œ«±¶Á¦œ‹ÀÄ°³Rc’ºÁ°Ÿ·½´ÄÞØŠNX¡ÅÁ”€’¸ÏÍ¾š†|¨ÇÁƒ™¦ÅßÂÂË½©ÁÎ¹À·’›²µ½»›œŸÊ¾²¼¶~]a’ÀÄº˜´·¨ÁÜØ€Pbž¿Á¢›²ÇÌÁŸ„u—Â½›–¨×ÞÉÀÄ¼¡¾Ë·¾®ƒ–°·º»—˜›«É·«¿»cg¡ÁÆ¾ ¯ª¢½ÛÒ’Lc²Á«„Ÿ­½ÄÂ¢ˆc€·» ”°ÖÛ»¹Ã¶œ½Ç½¸ªn‹’¦·¸¼˜——°Á³¯¾~»gp§ÀÄ¼®ªœ¿×ÑMe{Ÿ½«Ÿ¨¬¼Ä©†^p ´£–³Ù×³´Á´—‘¹Ä¹³œpˆŒŸ··º¨Ÿ™½¾ ¬Á°n«ºÂÀ­¡„–¶ÓÎ€Nex•Ã´— ¢˜´Ä¯‰Xh‘±§žÁÛÐ°®¼°—¼Ã¹°g„ˆ™¶´º³Ÿºµ‡¨~À³‹º¿¶¿¿³™~¸ÏÌƒMny³ËÄ¤ ›w«Â¹ˆ[_¢¦£½ÙÇ©¹®–°ÇÁ»¬‹a‚…’³´º¸§¢µ©|¤¿»ªÊÅ²¸¿´†n†±ÌÅ„Ot{ÀÁÂª”i ¿º†_Xiš¥¥ÂÖ´˜¥¶«—»ËÂ¹¥p[|•²´¹»§²±‘m~¨½¹­ÊÅ¤®¾±„s…©ÆÅsTƒÀÂÀ¬œ‡aš½º™YTkœ¤´Ì×ÏŸ¡±©ž·ÉÂµžlTy™±³¸»«·«ph£»²®ÈÄ—©½·ux‚¢Ã¾s^€~ÁÁ¿±™xV·±˜^_±¿£¹ÓØÚ³œ«¥ºÍÌ¼”_Pt~”­©°·¸³Ÿi~` ¹°¶Ç½†¢º²pv€¥Á¹rl€~Á½½²“hOz¬‘‡i|ÆÁ¥¼ÐÁ¿œ•©£ŸºÐÕ½VSqx©›”²½°‹U\•µ®´Åº£¹±jv ¾µlzƒ¹©¬¯]Nx †twÂ¹šÀËž’” ¢œ¼ÐÔÇŒNRp~š§šŒ¨Ã©m~R_œ³¯µÂµ|¶­nw|¤»¯j|‹®œ¡«ˆUSkŸŠ‡y“¿š‘ÂÏ–Šˆ‹žŸ ¶ÑÔÆuKT€’¨™Š¡Â¦`NX˜¯¬»À¢{‘±¨vvy§·¦m„ŠŠ œ ¥ƒPSf’‹ˆ~§ºÂÍž‹‡…›™œ´ÐÔÀqHS”Ÿ§—ˆ›¿ ~TKV–­«·¼Š—¥£y~„§³¨u…›£ ¢yNS_‰€©¹µÃÅÍ¡ƒ•˜ž°ÏÒ¿fJO~”œ¨•ˆš¼™PKV”«²¹¶“«ŸŸ‚‹–¨®œwŒ™˜©¡ ‚MR^‚Šˆˆ¬³ÞçÌÉ©ƒ’”›§ÍÑÆ^GNz‘Ÿ§—…”¶~™SK]‘«®¶¯ˆž²£•Š¥«Œ~‹Œ£‚§ ž†PR\v‹‰‰§¦ÔçÐËª€”™£ÉÏ¼aHLvž¥•„¬–UJ]–««°¦ˆ¦´­”‹•¡¦†„‘œ©w¤¤›„TOTu‰‰‘§‰ÑçËÄµ‹‚ˆ’–¦ÈÎ¼^T]v¤“ƒŒ~£•VH^–­²® ƒŸµ°‘“›Ÿ‚†’¡¨wž¦œˆXMO{ˆ‰”£…ÏåÑÂ³‹{~†•“ŸÁÌºixŸƒž¡Œ€‹—\K^“³»±Š¬¶®Œ’‘‡™š~‡Ÿ®u•¤›Š]M_†ˆ–¡»ÛãÑÁºŠzz‚•˜»È¶s˜£‹™  ‡|~‡”˜gMh–³»°›Ÿ²³´–˜•„““|†‡—§‡¢œŒ_LcŽˆ—¡ËÙâÓÏÖ˜{yƒ’Œ“»Ã®„œ ’¢¦ z…–mMh³¶¨›§³¬µšš£Œ‰€…„‹ ”†žž‰cKv|‰†“šÐØâÙÏÝ«y…‡·¼¤ˆœ™£§ž|Tž¥‘”sR…ÂÂ·¥š®´¥´˜Ž¤Š†‡~„zˆŸ›Œ˜£‘i_˜s‡…Ž˜ÒÔåâËÙ¶„yŒ…®µ¡”›‘£§œ{±»˜’[ªäÜÁ¤•²²ž¶¨w­Œƒþ~v‹¡š‹“¢šqƒ¢y‚}™ÏÓäãÄÒÀ‘|‡|ƒ¬®£’›ˆz¢¨›m§ºž„^«áàÄ ’¯¯“¶¯r£˜|qŠ™•š¤„¼µ~‚qÉØèäÆÄ½¡|~¨§ŸŸšz¢¨g—·ª‹‚fÛàÉž—®§·²m–¢z~yeŠŸš–Š•¤µ¾·~{}kÈÞêåÉ©¾«Šs„ ¬ÅÁ qz¢¨›^|­š‰ƒj‹ÓÞÎ›™«¡’µ®oxº„‰ˆf¡ž Ž”œ¸¿¼y|kŒÁÙèäÑ¸­“yi€´×Ö«xˆ¢¦‘Wl›~‡l|ÇÜÒ˜™¦—µ±qu³‚~™žuŒ¡£¡’‘°À¿˜wxm…¿×æãÏ¡®­¢ƒtgv–¤Ï×¾•–¡¥ŒVa–¢µ£us½áÚ¨£®“›²²vq™†›œv}¥¢¡”Š‰ž¼Ä¬{vn„¾ÈÛàÉ¥£­¦…qe{™ÃÕÂš– £†Op ¢¹¯„o½ëë»¥±—±¬trŠ’~ª®™y‘¦¡¢—‚†—ºÃ³|to{¬»®ÏÇ¨—¡¡“|¤–ˆ‡¤ËÈ ‘ž Xš¹·×ÆŒh­éìÍŸ«£›¯«xoƒ¢°‘­Ù¦¡˜…›²Á»™wo~®º®Œ¹©––”˜”Â¹„|€»Í³Žˆ|„­¸ÀÙÎ“lŠš«t¡¥š«¦…m}~˜‚ÄÔ¤•¡›Š ¥§ÀÆ¾‘t‘¶¹±‡}£““•¢Ÿ¿¬…~~¨®¢’wlt›¬³¾ØÏ—p‡Žse˜¤œª¦ŽjxŒ™—‡ÇÏ§ šŒ ¥£¼ÌÄ¦{œ´¹¹’op’“—©©£‹†‰š›œ––}ƒ ­œ·ÖÍ“o†ŽqVŒ¡ «±¢oFrˆš– ÈÀª†ž›“¢µÉÆ¨… ±·¸˜od¢’´—y„Œ‡{†—œ˜š¨¬š°ÔË“q€ŽlQ}ž ¨²¬omŠ˜¡ÂÈ¿$
+       tile $00000205~”µ©ˆ~ˆ­—«©Œz€ƒ¬œ§¨‹w|†½šŸ§‘rzŠ¾™ž¤m~‘»˜ž£’l‰•¼• Œm—·‘›ž‰u‘–¯™œŠ|””©‰˜š†‡”¦†•—‡„‘Œ¤€“–ƒ‹… zŒ‘ˆ‹‰€žuŠ’†ˆƒ€s„ŒŠ‡Œ•šgƒ‰‹®·~Ÿ`”’»Ãœ\»¿ŸÀ¹™YÏÛ¾Ä®•X–ËÜÍ´¨™PˆÅÚÖ´¯T~½ÖÛ»¥Ÿ¥´ÕÞÂ¢ ·¸°ÔÞÊšŸ·³¥ÏÜÎ›°¯¦ÌÙÏ œ««£Æ×Ï¤š©«¥ºÓÒ²”žª¥µÎÒ¾“¬ª®ÂÏÁ’¢·®©¹Ì¼©¸±¢¤Ä~¹Œ©¶³š¸µ“«´²‹‡±²“¥®«…|¦®—  Å¯uŸ©š”ºçÏˆ—£œ‡¸ãÚ”‘„žÝÝ¢ˆ–…–ÔÜ½w“ƒ–ÈØÇ€‡œƒŒ¹ÓÆ†‚—…ŠŸÇÇ{–‰‰”ÃÆ™wŠ†’¹Â­u“…„Šª¾²s“”ƒ¹«z‹¢˜°~¯„‰¡žŒ}³®—ƒŸš½µŸ‚›“™›²‚›š™¥¥‹¥¦œ ÁÊ¢ˆ€«œž¾Ê·…~¬ŸµÆÂŽ}ªžš«Á¾–§ ™¡¼¾Ÿ‡¤¤™Ÿ¼½¨ˆ§£—›¹½°•°¤—š«¸²š³¢–˜£³´ª  –—œ¬²¯“””¢°ª˜‘Ž‹—­¬$
+       tile $00001021~Œ½¿ŸÎÐÊ¿Á¸­¤Šm„À·±|…ˆ|xŽ¶¬š¨©“œ§£¡ƒ†„š—¨£±Á¸¸¡mrˆž¯•ribjyŠ’¨žºµu¥ÍÐÈ¶»´–­¢‰mŽÃ¸®‰~…„wxœ²¦œ§©¡š¡ ¥ƒ…†–”¡Ÿ·ÄÅ¸œmt‚œ¯žre_hyŠ”ž~©¨º©g›ÏÎÄ­¸»Ÿ­Ÿ€eÃ¼¯~‚y{¡°Ÿ•Ÿ¦£˜›¡§…„…““Ÿ—«ÂÅ¶ tu~¡¯§u`^gx‰“ž¡··‹f¤ËÌÃž±º«¨œ{`©Æ½¬‹ƒ{u¤¯Ÿ¦£¢¤–” ¦†‚…”“¥¿Æµžˆ…ˆœ­«ya[f{‹—~œ™¹¯wb¬ËÉ»•¦·³¦—la±ÉÁ­…{uv¢ª¨¼»¤¥•›¢ƒ‡˜”•ˆ’¼Åµ®Ëµ­¬ˆ_\dzŒ”™’¹¬bb«ÉÆ¶”¡¶¸£‘fg½ÌÇ¬ƒ}†{v…¢§§¼¿ ¤•ˆž—ƒ‡–˜zv²»°³Î½¬«’b[cyÿ–~Š·›\k¬ÉÄ²Š–´¹¢…dmÁËÆ£x|‰„Œ žš»¾²¡“†„˜–„‡—±¥zsž¡°œŒ¶ËÁªª˜g`dz–“y³†Yu©ÅÀ¦|Œ³µ¢^m¿ÉÄžwzŽ²§œ•žº¿·£‘ƒy–†…›ÇÃzhœ¢­š…§É¼¡§Ÿrtz’–~‹xÌb™¾Æ¹Ÿu‡²´¡€_w¾ÈÂ–iw—·±š™Œ—ºÁ¹¡Ž†nˆ•‡‚œÄÈcœ¡¦•‚¨ÊÄŸ¥ ‚‘Œ|–˜…mÑ¢~ÊÓÈº“o°³¢x_z¸ÇÀ—cw•µ«˜•ƒ‰½ÃºŒ…j{‘ˆ‚›¿Æ^š¢¦•¡ÓÌ±¢ ƒŒ—~—vlÎ¥zÑÞÓµkv¨±¥ub¹Æ¾]n’³¬–ŽwŽ¼Ã´Ž…fxˆ“ºÃštž£¤¢ÙÔ»¡Ÿ‰‹Œ‰—”piË¤‰ÔàØ´‰ft§®žxƒŠµÄ¹„XmŸ²­”„pˆ»¾¬’†juˆˆ‹”³¿ ž²§£‘}ÜÖÄšŒŠŠŒ~•ŒhbÆ§ÓØàÖ«ƒ_n£¬|†Š±Â¶}Xs¤³­e{¹½¥ ˜Štl‚™«œ«½ª¢±ª£˜~“Ý×Äš™Œ€‰“†lyÁ¸ÝÙßÕª}[i¡¨‚†ˆ¬½´qTp¥¸¶”lb†´¹š¡ŸŒzo}Ÿ®¥¤»®œ­®£•}ÙØÁ’•Ž€‰~Žƒ{ˆ»«×ÙÝÓ²zZeœ¦•†ˆ¬»­zUr©»·šf]~µ±›§¨•ps•¯¨¢´ª™¬¯¡—|†ÏÙÈ‘‹yˆŽŒxŒº¡ÎÖÙÎ®{`e˜ª¡……‰®·«mn¦··¥l\€±«”¥¬™†ul…®¨œ°¦¨±¡–€uÐØÌŒ‡‡z~ŠŒ†qˆ‹µšËÂÄÇ¹{]fš¿¼Ž„‡¬´­œn£µµ§|gŠ«¥ŒŸ®žˆwdvª§ ­¨‰¢±¢•xlÂ×ÌŽƒƒz‰Œr†ˆ®—º ¡¿°{_h›À¼†¬±¬˜ˆvª±³­©…‚©Ÿ…ž­¡”y`o §¡©£qœ¯£—}m¿ÓÌ’x~~‹‹yq‚‚§™¯¢Á³~}z˜Â¹–€…¬­©“‡Š¶±®­­•Š£›€…¬«¨ƒhh•¤œ¦¤l˜ª¡œŽ·ÑÍŸr{‹‹{zƒ¥¢ªŸ¦È±Ž•”À³—}ƒª¬£‘‹´³¢ª¯¢›Ÿ–yw¦­¯›·•‰¢¢¤ rŽ¨¡’½¾ÎÌj~x‹Švx~¡¬¦ž«Í³™”š¨¼°˜|†ª¨¡~Œ´²•£¯§šš•€i¡®¯§Ø·‡¡¡£žn{¢¡¹ÌÊÌ—iuˆŠz|}uŸ©¢­Ë³™®ÊÄ®šzƒ¥¦—Š~³±™¬ªŸ˜˜—ˆ¢¯±¥ÒÐ•Ÿ¡ ˜rrœ œ’µÆÉÇ~hn€‹‰{oŸ¦ š­È³§™¼ÍÄ«˜v¡¢“ˆw„­¯‹Œ§«ª–š˜ˆ¢°±¢ÁÒ˜™Ÿž–oqšŸšŒ®ÀÇÆcnyˆ†€yyiž£ž˜§Â¼¨Œ­ËÇ«™rxž ˜…v‚«­ƒ¢«¨˜š•†ž±²¤µÑ³— ’kg• ›Œ£½ÊÃ~ elq†…‚~…ŸŸ˜¡¾¾ªŽ±ÈÈ«›otšœŽƒm¡§‘ršª¨›˜•‚˜°±¥›ËÂ™žncœ³¢ˆ“»Í½ gjjz„„€–Ÿ˜“Š²À¬ŒŸÅÃ©–mw“™s„˜œ”e‰¤©¡••€—­²¦ÁÃ›Œk_¦º­‡‡¶È~Ãgdeqƒ„ƒ’–ž–Ž¦Â»£ ÀÆª•pr–‡qƒ–—’i~«¤šŽ{¬°§ƒ®¾©¡¬’dbªº«‚„´ÈÅ¦ja]l„…”•œ”ˆxnœ¾¿­š¼Ä­”}wŠ‘‡Š}‚•–•bn™ª¥’„|¨²¦·µ¸ÁŸh_¦¹«p­ÿÇ~§h`[cƒ„”•˜Œ€ob‹·Ä«‘¹Â°’€q…‹š•‚’•“lc¨¡“„s„©®¦†‚²·ºÂ¡tk¡µ¨zp¦ÆÆ¦hrrƒ‡“”—‰|g`„µÃªŽ¸À®‚vŒ‘š~”’iWŠ¤ —}s¦­¦Šn¤µÁ¿™‰†›³§wjžÃ~Æª¡¼’ƒ‰‘Žs`Xw©Ã«²¾­‹€z{Š’š—{…”‘tP££–}lvŸ«¡†_—³Å¾—‰‡±¢uc—ÀÅ¸É¶¹¡~ƒŠ‹Œ|dXUy¤¼¸Â¸½¯Œ~‚y’—p€“rPv¡¢’|hw¤‰_Š®Æ½˜†ƒ¯©˜l‹~¾Å½Ì¾·ž…Š‰„†rZSSuŸºÃ¾ÅÅ°{€uˆ’–ƒf{w]j¡•|c‚¤¥›„]rªÈ½’†ƒ™®·º€‡ºÀ¾È¾° ‚ƒ‰~}kUQ[n”·Â»Ú×¹{w~x†”|]l‹€€i™¡”}cƒ«©–„`_Èº’†›©·¹{~·¾¹Å·«¡……†twucQNYl‡´Â´ÖØ»}q|x†“|Yi‡Š‚}m—¡–~\†ª¨”€bY•Æ½‘„€šªº¸zw³»¶Â©¢£Œ…„jpra_Taj„¯À°Ï×Èzp‚”‘gTgˆ‚}q«¢—ƒ`¤¥–“gR‚Ä»…€™°¿º~zm¬¸¹À¶¤­˜…pvušŽ…mw«º§ÄÔÐŸr²Û¸œ“_X_ƒ†‚z~¸¦Žxy¥§¡¥€Rp¼»’‹˜·ÈÀ|a®¾½ÉÍ»¿µ‡€—¡m†ž°Ü•r²¶¦¿×Ï¦kµÝÐ£†WW]|†t‰¸¦š€u¢¦¤£ˆQh»´’“»Ê~Á}_¦¸¼ÌÈº¾¹‹ƒ¦ªl‹žÇâ¾}«²œ¼ØÑ©m´ÚÐ‚QT^z…€y”º¥–Žtœ¥¢¡wRj±¬“’‘œ½Ë¿|Z ¶¾ÌÄ¯ÁÀŠv¡ªp›ÂßÀŽ®­°ÖÐ¯Ÿ®ÙÒ¡wPT_y‰€vªºŸ“Ž€sš¢¤¥…Ukª§‘˜¤¾~Ê¹oU˜´ÀËÂ¯ÄÃˆp˜©oŒ˜¼Ú½š´®˜ªÏÏÁÑÀÓÑžp_p]zŽƒw­µ–Ž‚w‘¢¦¼¶qm‘’¨»ÂÉ»lSŽ²ÄÄ· ÃÃp›ªv‘“·ØÅž§® °ÍÌÃÎÁÏÒ§q¥¸u|­®Œ‘ž’¢ª¿Äšy———©Ã~ÄÉ¸hO‰¯Ä²ž”ÁÂ›m—­}‘‘žÎÄ—›¤³ÉÍ¹ÇÃÎÐ¥wª¼‘}Œ†­©ƒ‰Œ•²™ ¨½Ã´…Ž•Ž˜¬ÅÆÇ©eP«Ãœ†¿Âžg‹¬’Ž•ÉÊ†”’­ËÊ²¾ÁÎÎ¬qž¹ €‰}«Ÿ~†’±ŠŸ¤·Á¹šŠŒ—­ÿÅ~Ã¢bNx§Â”‡Œ¾Àc€²–’ˆ‡ÄÊ•Œ‚z­ÃÆ§¯ÈÓÍ§g³¨„†z–¦“x…Š«‰š¢±¿º¥‡†Ž—©ÇÈÁšUKw©Â–‡±¾˜d|®™ÀÇµ¯ˆ|Œ¾Ã¤¡ÈÒÏ­h®®Šƒ~Ÿ¢…nŠ”«…™¡«»·®‰…Ž’«Æ~É¿RLrªÁ—‰‘®¼¨at¥¢’„ƒ¼¼»½˜ƒz¢¾žŽÆÓÏ§u†©Š€œxk‰™¤™Ÿ ´´³‹~Œ¤ÅË»…OKr¯À–Œ’©¹£_jž£¨´§²¤ª¸ ˆ{‰»™€¾ÐÏ®‡“¤~Ž•mf{‡—›|– ›¯³‘•«~ÆÈ·NKp®½™“£µ£_h”¦¸È´¬£’µ¤‹~s¨˜uµÑÏ­…¡’‚™ž—kfzŒš˜x–˜©²—£¡“©ÅÉ´xMN}³º—Œ•±¥``Œ¦ÁÈ¹¬Ÿšµ¯’€k–v©ËÎ±Ÿ˜œ—li{‹˜•w“—„¢°¡Ÿ •~ Ã»¢yLP°¶–‹•™­£fY…§ÁÆ¿«ž¥´³˜…¾Ÿ}ŸËÍ±y˜œ—™Ÿ™‰Š˜Œ—‡v‘ž’š¯£¢ —¡Â¬ŸƒMRŠ¬³–Ž•´¹™gZˆ©·Ã½©š—³´£|…¼·{‘ÅÈ³’q“¢ž£›¬·—•utŒ›uŽ¬¤¡ ~™–¾…^^¨¥”’­Â¼™ppŸ·­Â¿ªšˆ¬´ª€y²¾††¾·³j‡¶¡¦¢‚…ŸÅØµ•qs‹˜g„¥£¡Ÿ™”«—š€fž‘¢›Ÿ²·ÀÀ qj©À­ÀÁ¬•€¢µ­‡r¤º¢z—°³‡eƒÁ­§’u…žÇÖÇfv‡™ˆkrŸ ~•Šˆ”—f·ÊÃ¾¯´µ¿Àªrb“¼§¼À³–sš²²ƒh†³­v~¬±Šcƒ¿º’sq‰™½ÓË|mt‡‘ˆŒžž›”sp“|u¾ÖÖÅÈ¾´¼¿­v^Š¶¢¸¿¶“l„¯³‘isª¯‡¨¯]ƒ¹·…rr‰”ºÐÅ‘™ƒ‰”»§Šš~ š‰ZlŠŠ|€ºÔÕØäÑ´¹¼®wYz±Ÿ±½¸“lu«²¡mfŸ°“x¤«’^x®²†qv‡Œ¶ÎÆ»º–†Š”¹¦‚˜ž™k\w„‡y½Õ×ÝãÛ¸¶º°{Ym­”¨º·“hcŸ¯¤pf¢¶žx™¢Œ\~¤¨„rt„‡ªÊÅ×È…†‘¼µ~–’ml‚…ƒz—¿ÑÔ×âÞº¯¸®„Wc¨—¥¸·˜‚ƒ­¦zg–´«„Š’_{›„vv…”«ÆÌ×È£‡~š½¿–‘Ÿ‹`kƒ„‚{ ½ÍÏÏÞÞ¾¬´¯ˆW\£––µ¶šž ‰§¨„h‘°§ˆŠa~‘’‚xz¥·±ÂÍØÆ¦“{ »¿~©¥ †\h‚ƒ~‚¦ºÅÌÃÚÜÂ©²­WXž’ˆ²´žŸ®™¥¦Šk©¢ŒŠbxŠŒ‚‘¶µ¯½ÎÖÁ¦™†ª´½³À¤‚Xf€‚w~¦·¾Ã¹ÓÚË¨¬«”]X˜‰{©²¡¡ÐÐ§¤—x…£žŠ‹gu{{„§ÕÉ· ´ÐÔº¥ ­°«~®¸¿¡zWe€u„¤°»½³Ë×Ï®ª¨gX•‡u¢®¤¬Õ×±¢š€€”˜“‰Œ…gptu†ÁÞÒ¸ž¶ÏÐ²¦®ÖÒ¨ µ½©ySa~€t•¢­µ¸¬¾ÓÏ©¥«¶W˜ƒrœª¦©ÔÕ©šˆ{ˆ“‘ˆŠ†hlqvÏàÑµ—¯ÐÃ¤¥»ÛÌ§š²ºªzR_|~~˜¡¤º²§´ÎÏª›©·§_$
+       tile $00001021~­§–‰Ÿ¹¨…z_n—¨²—yhoy™¤¥”’™‚bn³Ç¿¿³}Ž·½°˜­h›¦†spª°—‹«¤‹†–¼ÂÃ”¼³¬©“‰¯·‡ˆ‡|^g—¦¬‘yim{›¥£ŠŠ–†e{±¿²ºµ’¸¼²˜ª›b‘¯††r¨ªŽ¬Ÿˆ†œ¾À·Žµ~±«¨‘‡´±ˆ„…y^hš¤¥Šugiž¦ †Š‘‡lˆ¬¹¡ÀÈŸ•¸¼®›§•Z’µŽ‡‚u¥§‡™¯œ„ˆ¥¿¿¸Ÿ ¢¦¥Š‡·²ˆ„„x]g—¢ Šqeh›¨ ‚ŠŽ‹n‘¨¬›ÄÇ«•¹¼µ£“[†µ¢Š†v ¡¡¸¬†‰®¾¸—‡~§¯¤¤‰³¯‰…‰ybl–Ÿ›„mfp€›© €•›uœ¥¢¼Ã°’²¿²œ¨›\€°¯„y››}¡µ¬‘Žµ½²‘‘§®¢£ˆƒ·¬‰†Ž™{o‘œ–ƒjer‚ž©›’–¥Ž™ ‘‡®¾©’³Å³¢½¶„„­·•„z––}ž®ª™”¹¼©Ž~Ÿ¨®ŸŠ²ª†‡­É¯z‹—’ƒhkv€Ÿ©•t––¦™š}¤»¤’£Åµ »´›Ž©Ášy”˜‚—¡­¢–»»›…§­š¡¥£±¢…ˆ²ÊÉ…Œ”}dmu¡§‡h”˜žž˜pyž¸Ÿ‘Ä°¢²ªšŽ¥Ã …zŸ¼¡‘“©¦Ÿ¸¸‹~~œ§«–·É»¬˜~ˆ®ËÊ‰ˆŒdpv‡¬¯‹[‘ž¡¡•€nrœ´œ¦Áµ ª¨›’¡¿¥…{¦Ã³‚Ÿ©«·µxx§©”¹È¾¨“{ˆ©ÉÉœŠ‹{ert°³ƒU†¢¤¨‘san™¶š˜¾±œ£¤œ–ž¿°„|¢Â´†jŽ§±µ®~rs ±­·É¿¥†vˆ¬ÆÆ¯€‰‡{l€‘°°tTŠ¢¤¦_`jš°›”»±›š¡Ÿ›œÆ¾†z¾«~\€©µ´¥ioÊØÀŠ¼È½¡‰€Š«ÁÂ­‚…†|w‹‰’±¯oQz¤¥©…^]gœ³¡“…¶²–”Ÿž¨ØÌŒy˜½ªoTu©¶²~™cƒÖÛÆŠºÊ¶›¦•­¿¾´ˆ…„ ‰™¯«iP³¨©‚XXeœ°¦œŽ°°™”™¡§ªÕÏ“w’¼±gSm§¶¯‡e™ØÙ½šÔÛ¼–¡©œ®»·´ƒ‚‚¸Çœ›®¥aV¬¾±©yRTgš«¦§«–‘”¡©¬ÓÎ”t”¾ÊrYj¦²~§~i±ÙÖ±žâàÂŒ©ž®µ²°žƒ‚‚ÁË¢ž¬£a^²»·¬{TRe˜ª¥ž—¦ª”‘¡©¨ÑÌ‹t˜¼Ë}o£°¢zhµÙÓ¯ŸÞÞ¼…Š©¡±° ©ž€~®Ê±¦«—X^®¸¸®xTRn–¨¦›”¡¥‘ž©´ÎÇ†t—¶ÉÊ¬}ž~«›{l¹ØÐ©“ÝßÆw„©¬¶§¥‡}£ÈÃ¨¨‘`o©¸¸°}TSn•£¥›™Ÿ¤ŽŒ‹š¥±ÌÀ‡s—²ÇÈ°ƒ“¦—}vÁÖÍ¨ÖÜÃn©®µ¥†œ †}|˜ÇÁ±¥†z–¢¸¸¬|WRo“¡£›–žŒ—™˜£¹È¾r”©ÇÈ±ˆ~Ÿµœ½ÔÌ±ÂÑÁh}§²´›u”‡}yŒ»Æº­‰˜¶¹®XVmŽ¢£••œšžÅÉ  ¹Ä­zv“§ÆÇ¨‚ ¸¡Š˜ºÐÆ­³½Âks§µ®—rŒš’xz€ºÆ¿·|‡–œ¹¹¬|YWlŽž¢‘˜›¤Ñ×²¢ºÂ¨ut”¨ÃÃ~xœ³£‘­·ÉÁ²ª´·½p‰³·ªˆj{’”{x°ÅÀ²y†”š¹¹¬~ZWlž †‘™•¡ÌØÄ¥¹¿›vs“¨À¼˜|ƒ®£˜°³ÄÀ¿¥³¹»qÁÃ¸¨~gr–}y{¥Ä¾´ž—º¸«€|~oŽžžx—“¹ÕÉ¯¸º–sp©¹«~¢‰{©¥¡­®³¾Ç¤´¹·¾½´Ÿƒgb…{zy¨À½¼¹Œ˜º¸¬“º«tŒœšrˆ•“²ÑÉ±·¶Šlm‹§µ©¢”x¤¦­±¤¦½Æ¦²¶®w¨À´¤€a`|yy¡À½»¹šˆ”¹·¬¡»°xŽ–nˆ”’”®ÍÊ¼·³‡gr‰©°~§ k¦·­Ÿž¾Ç©¯³¬r–Áµ¢ƒ]UyŠ‚|w¥¾¼··›…”¶¶§§²‹š“yƒ’‘£¿ÉÄ¸«€bn‡ª±£œgŽ¦½«•˜»É¨®³¥y½ºŸ}ZPu–€}¤ºº¹²˜‚Žµµ¦­ ‚‡‹™ƒ¢¦’ŠžµÇÈ¶¨}_lŒª~­¡˜}c†¥½¨ˆ—¸Å¨«® †¿¸¢vWNnœ¢„‚¦¹·µ±–~‹°¶§ª¦„‰“–„¿Å–…—®ÃÇ·žu\l‘¬®œ•{r§¹º¸®ºÄ£©©žy}»¹ yQMfœ¡…‘§´³µ²•u‡®²¨®¢…ˆ”‘…¸Å {”¦¿Ç¼œt\q~¨©—’ytª¸ÄÐ´½Ã¢§¥™€|¹¾ vOKd™ ‰•¤­°µ°’oƒª¯§®£‚ˆ—{—ªÃ¦s”¸Ä¼•s[s’¨¥•olŽ«·¾ÏÅ¼ÁŸ¤•|x¬ºžtQI]—›ˆ’¢ ¸À´m‚¦¬ª¯¢€ˆ˜‹…–›Á¬x±Áµ_u~•¡ “†ld•ª±»ÌË¸Àš¢™’Šv°»šsPIXœ™¬¡ÊÇ·e£©¨¬ŠŽ™“†¾¸}‰Ž¥»¬¥‘_x–œ–ƒjgž©¨·ÊÈ½Áš š‡w£³Ÿs[OW›³Ì®˜ÉÇ·Š^¨©¥¨—‹•“v¹¶šÆœ›´«¥Žb~}”›œ’bp£¨Ÿ°ÇÈ¼¾™¥±™ƒt™°ž˜rY‰—±Ê¶£ÉÄ°~XŠ¬­©§‚““…l¯µ©Ñ¬˜°ª¥Žcy–›’€_u¤¤™¦ÄÌÃ½™©¶½—u’«›“«™\‡”§ÇÀ­ÍÁ¨~VŒ©­«¥ƒz’˜|a«²«Ï²”«¨¥Œ~f~‹’™€\r  ‘–ÂÉÄº’§·Ï³w‰¡—™¨“]„”¡ÄÃÂÈº wU‚¨°¸©vq“˜‡g]š­«Ì´¥¥j…Ž—„ev›Š ¼ËÃ¹¥¶ÎÄ~š™ž¦„X‚“”ºÈÇÇºžlTƒ¦³Á·u_Œ–œ[T§¬Éµ‹œ¦¤~‘m}‚‹“Ž„q{š•ƒ‘¹ÇÆ´”ª¸ÌÓ˜{”›£¥rd„˜•­ÊÎÉµŸhT©³À±i\†šœZN†¤²ÊÄ›®¯£‘w}‘š’†y}Ÿ™‹ˆ²ÆÄ³œ¢²ÄÔ²zŽœ©§ye„—œÉÑÇ¬˜fT|§³¾¯^`‹œ›xULz¥µ¬»¶¯~¤•~xx—‡|zœ•Š±ÈÇ°ŸŸ®ÁÓ½ƒŠ¦±©icŠ•ˆˆÈÐ¿¥”^Ow¦·¾ªW`ŽžšsRLh¤·¨±¢³­¢“{ssˆ•Žˆ|y”’‡¯ÆÄ°¡™¨¶ËÆŠ‘«¸°fd”wÇÔÄ¤\Nm¥¶½¦V_ž™lPJfœ·¥­§²~§ž–}nm…“Ž†‚ƒ‚¨ÉÂ®¢˜¢­ÄÇ–˜²»´cj‘Œz†ÉÑÃ¥‹XPk¡·½ªu\ž˜nWI^•³§¢±¯¢œ”{ie€Œ„ŽŽ‚|©ÇÄ­±«¡¤¾Ç¡¡³·­nku“ÅÏÀ¦•fTh¡¶½¶`•x‚LU°ª¡³~¯œš}g[zŽ‰€’—€w©ÄÅªÊÃ¥™¶Ä«¥³ºµ“zŒˆm·È¸¥–rVg¡´¼´˜eˆ™“’ÆWX…®§¡°«•˜|gYzŒŠ~”˜v§ÁÁ¥ÈÁ­—¢¿¶®·½ÁÒ´Žƒv¢±¾¸¥sVgŸ³»¬e€”ŽšÂ…k€©ª¤~­¥“•‹~m\}Œ‰w„“—‘xv©¼¼£ÅÀ«’”¶·´´½ÀÑ¼Œ‚~¢£§¶¤ŽnTg²·ª‚fw¿Šyy¥®ª± Œ’‰|raƒˆw¢—˜wr§¼»žÁÁ¯{¬´³¶º¼ÐÂ}Ÿ“•³¢ŠnPfž²µ£‚do„Œ °‰v£­~«¯©„zpb‚Œ†}£™–tw¡·¸—¿¿®Šo ž ¯·¶É¾‹|Œ™…’°¢‹oRh¯´¡}\k~‹¡†„zŸª«¬´™ˆ€zl`€ŠŠ£™•rs£±¶–µÀ²‹l˜˜›¿Æ¥Ã¿’“x«¡‰tRm˜­²|Xg{‹¡z…„}Ÿ~­ª­µš‡zvhb~‡‘¢–•ou›°¯“²À±‘‹œ”™ÁØž½¾œ††cx¢°Æ®f‰ž¤¡™yU[xŸƒ›´«­´¡ƒsph`}…˜ª –‹ru’­«³Á´“™€‹ÃÒ“´½œ‰Œ{^€¦®Í¶b‹ –xTSY[zŠ•Ÿƒ~¥Ï¹¯³¦otf|ƒ‡¢³©–‹tq¨©Ž®À°kcžÃ¾‘®º§‹ˆmd§Í°Î·l‹ž—vPO`e|‰t¬‚„¯ÖÌ±²«‚ÃÂ Ã²—´·ª•‰mk¢¤‡°¾’_\]xŸÄ·“ž·©‹g|ËÍ³Íµj†˜vOObm‡‰n­ƒ~†ºÙÎ«±±ˆ«Â·¼ããÙ½¹©’‡qjŠŸŸŒÊÁŠ_[Ym¦Â®‘’²°p\ŠÐ£¶Ì»sxš–vOO`m‘s­‚ŒÇÝÁ ®¤¡¼¾°ÓäßÒÓ½£Ž†mgƒšÆÁžbXVk¯¿®‡«®‰m_—Áš½Ï¿Œ{˜“uOT^jŒ“lª~˜ÍÝ³•£¢ª¿¹ ÑãÝÉÐÉŸ‡„no{—™“¾Â©eVRnµÀ¦Œ§Äžg`¤¬–¼ËÀ©{•’nRUYm‹“e¨˜ŸÈÖb—³¾±†ÏãÚ½ÈÊ „€‚šˆ”•—µÂµrVNu³¼¡Šy˜ÒÃka»š“¼É¾«w’nea[f‰“b~¥§¼¾n`‰»¾§wÎà×½ÄÍ®‰|w® ‘“ž§Âº{TLq·»¡‡z’ÒÏuiº“»Ê¾±Œx´µ`j‰‘’^¢š«µ¾sY†¡º¹ŒiÌÞÒ±½Æ»ŠzkŒš˜˜›À½’VMw¹º¡‹r…ÑÍy…¶•¹Å½¹Œ†ÆÁz‘‘~_œ«·ºt[w©À·{rÐÝÏª¶Á½“{j«¨ž—•»À¨[P†º·ŸkÑÌ…š°–‡°ÁÁÈ¬‹ˆÁÁ„¿ “‘W™ž«·ºkVx±¾¬m‚ÞÝÉ¢¢µÁ™xgz•³›”Š¹À¯iV“¸´žnvÊÊš¶­•‚´¼ÁÇ´‰†Á¶À¦•~Y•›«··rPu´¼ªb®äÞÃœ¨¾ |cv”«¦wµÀ³kXš´¬œe€ÄÈ¯¼ª•€«»ÂÆ²ˆƒ¼¦Œ½¦–‹U—«·¶rOuµ¹£b¼æÞ½– · ‚_r™¡§p¨¾±vf›¯¥™^…¿Å¸·¡’„§·ÁÆ½Œ„‰«™x²¨~š‡R‹–ª·µlNv²¶bÊæÛ¯’€¬§„_|ž §£h¥½´{rž¨Ÿ—lƒ¸ÂÇ±–€¤´ÃÇ¼„†¢—r¯©š€N†”´¹¯lTŠ°¯Šv×äÕª‘r|ª§…^{žž£¤hžº¹‡z ¡™–Œ‘µÅÊ¦Š‡ ·ÅÆº’„‡™•l¨©œzN€“³¸³‚SŠª§‰ÂÞãÏ¤xnœ¦‰c‹Ÿœ¡¡$
+       tile $0000101F§œ›’ž –¯ÂÆ±€¤­¶º oj·™Åžv†‰|u€” þ›~’žª«Œ§ÒÉ’p{ŒkQp›¡ª±¬pgŒ˜«ÇÉ·§u—›”‹¢ÂÆ²…¤©µ¹Ÿnc«°Ì¨ƒsmv”  –” ­¢y¢ÏÈŒp|‹lSpš¡¦¯¤jk‹“«ÉÈ®¢}“™”™–ˆ•©·­š–´¹¡n\›ÂÎ§ƒ€{lhr”ž›~“•ª´¡o¢ËÄ‹…•‹qh§®£©¯¡ll‰“£ÊÊž¡m˜”˜™‡’¶Æ¹¥¸¼º¥w`‰ÉÍ°‡~tidr•›š›’—®µgÇ¿°º’‹mp»µ ©­œlw‘«ËÊ‚že†——••~ˆ®Ç»§±ÖÅ½©~izÅÌ»Š{kim—››˜~š”š²²‚h¦Ã³¾¶‰kŠ¸¯§«ªy¦™©ÉÃ{šb‚•””“|y¡Ä½¦²ÒÇÀ¨}it¾ÌÂ‘‹…lÆ¬›š–• ³¬qh¢¾­•Ä­†pˆ´¤š§±Ö·ª­¤µÉ¿u™]x“˜“‘sp¡Á½¯ªÉÈÂ¥zko¨ÉÅž±ÅšÉ²ž~˜’‘ ³¡Zkžº©œ¾¦Œ…u²¢•¥ÇàÙ¶®¦¹Ç¯œ“Zy’––º©„˜ºÀ³ªÄÈÃ¤~ikšÇÆªÆÊƒ¬Ì´ž•Ž‘¨±”Ziš²¥­¯Ÿƒuš®’£ÄÞÛ­¬­½Æ­ŸWn™ªÔÍœ¬¿¶·ÈÆ¦zikÂÇ¯ÂÁ…—Ëµ~ž“Š•ª­‰Ui™ª£µ©žŽƒxŸªˆ¢ÅßÙ¨¬¯¾Â¥œ‰Vn—¨ÕÏ›§¿¹˜¡ÆÇ©rfd†¼Ã¬Ã¾p˜Çµ¦‘‚˜«¨oSg–¤¢³¥™‡‚}›¤z‰¤ÍÝØ£ª³¾¾—˜ŠZf‹—¯×Ë•˜¢»´ˆÃÈ¬nfb‡ºÁ³Àµp§Ã~¶¼´„š©¡dSg“Ÿ«°¡”€¢ l†£ÊÝÌ›¥µ¿·’Œ‚Xh›¹Õ¹•¡·³‡ÅÆ¬oae}°¾¼½¬i•ÀºÅÈŸ©˜]Wd›­®Œ{€‡ –`„¥ÔÛÉ”£¶½´|ˆ}ZežÁÑ¹{‘´­}~¾È²k]cy¥¹½¹Ÿh’~¼¸ÃÊ¢¥…SVdŠ™°©›‡xƒŸ“_€¥ÒØº‹¢·»ªxxzez‹ ¼Íµ‰“›°¬pq»É·k_hv¦½½¸m‘··ÆÑ®¤ }PUa… ³¨—q~†Ÿ˜l~¬ÕÖ¸ ±±¥xyug~ŠÅÉÈ´•œ¬¥st¿È°nqˆƒÔÒÃµŠf~‘³¶È×Á¤œqOVc‡©·ª›zs€ˆ¡Àª±ÓÓ¦{£¯¯Ÿrovg€Š¦Á¾½·›¨ll¶Åµtž·ž×ÒÂ®zf¢¯°ÄØÎ§fOTd‡«²¨›yƒˆŽ®Ã±‹¯ÔÓ¶‚¥­®›fgnk„§¿´§±¡š¢–mc¨Â¶§²”ÓÐÀ¬m^c”±¯ÁØÒª†gMScˆ«­¤•v‰©Á¯‡³ÒÓ¿‰¥­®™bcnt‹”²¿¬ˆœ¤œ ‘s_Ÿ¾´ª«­‰ÅÎ»©h_’¬¯Á×Ò°ƒaOQcŽ¨¥ ŽtˆŽ²¾˜‚»ÑÑÓ»þ­~“_]uˆ‘”¹»ž…Ÿ›šŒm_ž½´­¯ªŠ¾Í¹£cež®¯ÃÕÐ³ €Z_g‘¢¤žv‡ŒŠ¶¸ƒÁÐÝÞ×¼¬«‘WTƒ‘•˜¾·~Œž£šˆh]–º´¯­¥…ºËµ¡ep­µ°¾ÑÍ¶·§­}–¢Ÿ„r…‰²´{ˆÃÌÒÙÕ¼¬~ªŠ[Rµ§—¹±‡sŒœ¦‘c[²±¯­š€ºÉ²“hy­»´½ÏÊ¸´ª´Ò¥•š›šwh„Š‘°¨~’ÅÍËÔÔ»ª§€VQÂ¯™¤¼¬im”©«š~b[’´«®­”zÀÄ¬jy­¸¸¼ÊÈº³¡§Ðº™˜ ¡zkƒ‰•¬ŸuŸÂÈ½ÏÑÄ~­¥XOÄ¯œ¥º¤ds®½³žxfXˆ¬¨®«Ž{½À¨…hw¯¹¹ÀÌÇº±ž¢Ê»˜ª¼™l‚‰¡°¢x¡¿Â¸ÊÌÂ¬¢vVPÃ¯ ±¸™[v¶½¶¥z[Y‡®««©‰ÅÊ­kv¨µ¹ÂÁÁ¹´žÈÂ™’¬¿¯xƒ‰¢¯¦…©¼Á±ºÉ~É® oROÁ³ ¬µUyµ»°§|ZZ Ó¸«‹ŠÒÒ®}sr¤´¾À¼º¶³›~ÄÁ™ªÂ¬u‰¡­¨Š­½¿­­ÅË²šeRM¿ªŸ¯±‡T…´·ª¤~_\ºÙÀ«–Œ‘ÏÓ³|stŸ³¿¿¶±²°˜zÀÆ—ˆ¤À®}Š›©ª”¯½¿±«~¾Ì·•cPM¾§¢¯°uX‹²´¢¡Œ€gšÕÀ©’Œ£ÏÑ­{sqœ°½¿©©°¯–|¶ÃŠš»²…‹™¤¨¤¬µ¹­™¹É´ŽbPIÁ¤¦­ªs[–°«šœ—tÏÂ¡¨ÍÐ§t‚}š°¾»ª§®®p­¿¤ˆ¼ºŽ‹‘–§ª­³´ªh´Æ·^MK¾ž¦ª¥ek©³¨“›œ’q}Ä¿ …ŒªËÌ¤„©¸©µ»¸¦¬­¬‘¸½Ÿ…Šº¹’ƒ‹Š‡¥±®µ°©«Ä»ŠZLT¸žš¥¢‚—µµ¦±Ô¼us»Á€¯ËÆ¤†ÅÊ·´»°£þª~šËÒÆ¥„Šµ³‘…‰~s£°¹Å³¥—ªÁ·€UIZ¶˜š£¢»Ê¿´¢‡°ÜÒ„r¸¹œ}Ž®ÉÆ¥…¿Ëº³¸¨§ª§¤ÑÑÃ €‰°´”‰…qqžµÂÏº¤¢µ¿ºTI[®’•›ÀÏÊ¶™~­ØÖ™z¥¸ž{‰¬ÈÌ¾ŒºÇÂ´¶Ÿ–¢©~¢£ËÒÀ¨{‰¬­–‹eiš´ÃÌ¹§½Ä¿¹~QHYª‚‹—–ªÎË·Œ{¢ÐÕ·£¯ t‰®ÊË¾˜­ÇÁ²±’‹›©¡§ÄÊ¸§z’¬¹£^c–¯ÂÉ°®¼Â»¶}PHb¨~‡’‚™ÌËº¡„–¼Ó½ˆ˜¬|„­ÈÇ» «ÂÆ³¬Šƒ–~ £¦±Å³ v”²¸¨‘wRa”²ÀÄ¦°º¾·°yPH_§¡“Ž‚‘ÉÊ¿¦Œ­ÎÆ“¥žv‚¨ÆÆº¤«¿Â³«‘ƒ” £¤¯Á±¢”µ¹¨oNa²¼·–¯·¹³·ŒUJ^ªÃ¶Ž|ˆÆÉÃ®’†žÆÃ¨†¡žzu¨¼Ä·Ÿ¥½Ä¸´°‡~›¡¥¯º©›„“µ¸£’mRbŽ°¹¯”®³­»ÐÃjJ^¯ÇÂ’~‹½ÑÎ¶™Œ˜¹Á¶ŠœŸªŒÅº§£½ÉºÀ¸ˆ–¨­±½¥Ÿ›¹¼¬³‘XjŽ±º­™®¹±½×Ó‹Tc¢Á½“€³ÎÌ»š‰©À¸†š£¾Ö¼tÂ½¯¡»Ë¹À´~‡‹–­±¸·›ž“œÂ¶¬»³ciŽ¶½·“­±¦»ÕÓƒTjŸ¿½Ÿ€—­ÆË¾ž‡vš¾³›—¦ÎÖÂv«¾¨–¼È´¾«€ˆ¬³·¹—šœ¨Á¯¥½¸jiš¶¾·›©¥Ÿ·ÔÎ“Oi•µ½¦ƒ›¨¼ÃÀ¡Šc„¶³Ÿ•°ÏÔ¶ž¹£ ¶Äº¹~«o‡Ž¡®¶¸˜™™¬¹«¨¼¸nq µ¼µ¨¤š™¹ÑÏ†Rjƒ¤¹¥ž¥«»¿§ˆ^t¡¯ —±ÒÐ¯†›¼ž“³¿¶´Ÿu‹Ž“²´·¦¡š»·š¥¾­u~¢¯¹¹¨œƒ”±ÎÐŠVj›¾­•Ÿ¡™³Â¯‹Xk“®¤ž½ÔÊ¬Š£½“µ¾¶~²”mˆŠ‹§¨·³ ž¹²‡£½°³´¬¶ ~Ž³ËÎWp‚¶Ç»¡Ÿ›zªÀ¸‹\a„¡¡¢ºÔÁ™‹¦»›¯¾¾¸¯‘g†‡—”¸·¨¢³¨~¢²©ªÁ¹¨¤r³v‚‹®ÈÇYtƒÁ¾¹¥œ”lž½¹ŠcYmš¡¥¿Ò¯‹¨·›´Â¾~·©xb€„Œz{ªº¨°­’q¥¢™¬À¹›kq~y“¥Ò€]}ŠÀ¼·§›ˆc–»¹›`Vnœ¡°ÈÑÄ…§³ °À¿¶¡s]}‡‰yu¹«´¨tlœ›¢¿¸t[pz~•£Ü§f~†Á¹µ¬™{YŠµ±šeb«»¡µÎÑž— ©Ÿ²Ä~È½˜fYy”wi‹´·±me•”£¥¸§MWpy€ ¥‚š×Öw~†¿´³­“lQx«”‹nÃ½£·Ì©s™ ¨Ÿ±ÇÑ¾–^\œuf®»®ŠZm—’¤¦²`HUs|‘«©~ŸÎ×œ€Š·¡¤ªbOuŸŠx|Â¶™²²“nzš¡¨–²~ÇÏÈ“W[”ž’r_r¤À¨oW‡š˜£¦‰LGUr–°µ¥w’ÐÕÂ‘«•š§‰ZSižŠ}•»‹ˆ™žhwž¡¥‡­ÈÏÇ~T`£œrXgœ¼¥d`“•£§‡JHUp³µ•t‘ÌÒ¸—‘–•™¢„UTf’Ž‹§³‡œœ‡ew ¢£‡~ªÈÐÂ{Rv¨¢‘pV]“³ Yv“™¤§|HJYp³´r™ÃÏµ’Œˆ”™Ÿ{SWc‹ƒ©«r‚Ÿž‘it¤¢Ÿ”ªÉÍÁqU¦¤mRS…ªše€Œ› ¦¬PT]p³°ux—ÇÉ°‹Œˆ˜šƒRXd„ŒŠ‹¬ |„œ››vy¥¢œ~†¢ÇÍÇj{’¡¥pR] š†~€˜£¨¶±jxrq ³ª~’‘¾¹«ˆˆ–š›†UYbx‹Œ§ƒ—œž~…¥¡˜ƒžÄË¾v¤†Ÿ«—qf©­™{u–£ª¸´r|t¨² †“•® £~Œ…‘›™„XV[wŠŠ“¦Š€ƒ–œ£‘–£ ~“{™ÃÊ¾²£~ ¯¢mj¹¹¡—yk‘£¬¹³p|~w§°˜~’•°¢ ƒ‹…Œš‹‚qt[t‰Š˜¢ˆƒ–©´¿§Ÿn‹¹ÈÄÏ›uœ­ªt^®¸¤”Œwc¢­¹©hz~‚§¬y•°¤Ÿ‚Šƒ…}zzw‡Š¦ž„‚–ª¿Æ®~œŠk„¯¾ÊÍ§”ª©q]ª·Ÿ’Œv„¦¥¬º¨ewª¥‡p•®©ž†ˆƒ}kvv•¤¡zˆ˜§”‚‚“™¬ÁÉ®˜‡w­¨ÈÎÍ›’©©y^—®œŒx«Æ°®¸¨cz‹¥±­ŠlŠ”«¬œˆ„wyt“£ „”¡‡‚ƒƒ‘–®ÂÈ~²•…ƒ‘ ¥ÁÊÌ¯‹¥§tVƒŒžŒ€²Å´®¶¤ewŒ£µ´¤b…–¦®™ˆ}v‚„y‹¡Ÿ…žž„€ƒŠ™²ÁÆ°|›¤½ÄÈ¶¢¦zW~ƒ–Œ‰y Ä¶¯³¡`t ³³¤q„•¦­—“…suƒ…{Œžžƒ‚ž•{~ƒŒš³Á~Å³‰{uŠ™¤·ºÁº‘ ¤~Uzƒ‘Œ‡yœÄº­¯bw“¢¯±§t€”¢¥Œ‘…ns„|‡™›†šu{ˆ–™™°ÁÃª†ys…›¥³±¶¸‘›¡yUz„“ˆ…x—¿¹­®˜„‰–¡°­¨s” ¢…‹hp{‚†’™‹—†rzŒžœ™³~¿Âª„€ƒ‚–¢®§®¹ž—zUn†‘…€t…º»¯«¬ÒÆ£¤­©¦ƒ–ž›yŠ‹km{‚€„‰“‘Œ’zpt˜°½Á¬‡ƒ¡©œŸµ¦–™|ev‡Œˆzs„·¹­«²××´¦«§£œ¢¡n†“µ|‰“‹{npŠ—,ª·¾«‘‹€€Œ¦’¯¨™—‚¼«‹ƒvp{´·³¨¥Ï×¾¦ª¡ ¨§š‹i~$
+       tile $00000205~‹•†„ˆ¬­‡“Š„ƒ„£¬…œ‘ƒ…ž«º ƒ„–¤–º£ƒ‚’ Šµ¥ƒ~‹¥”°¥ƒy‡©–§¥‡u~‚¨›¤£†sy„·™œ¢Œnw‡¸˜›Ÿˆjzµ—œžŒi„µ”›œ‡j‡’±“šš„qŠ‘©šš†w¤Œ›šƒŒ~¡‰˜˜ƒ~ŠˆŸ„–˜…Š‚›“……„}™{Œ”ƒ‚}˜y†ˆ‚‡•n…“‡…¦®šgƒ—”Š²¹˜`¹¼˜¶°•]œËÔ´¹¦’[•ÆÕÂ« –T‰ÂÒÊ«¦™W¹ÏÏ±œ~£±ÎÒ·›¯³­ÍÑ¾” ®®£ÉÐÁ•š¨«¤ÇÍÂ~š™£¦¡ÄÌÂž—¡¦¢¹ÈÅ«‘—¤¢´ÃÆ¶•¥«®¸Ã¸Ž§·®¤¶Ê¾­¹®žŸÃ»Ž¬¸±š–¸¸”­µ²Š‹¶·—§°«†€ª´œ¢¤Á­y¢¯ —»âËŒ—©¢Š¹ßÕ—’¤£‡¡ÚØ¤‹£ˆšÒØ½|š£…šÇÔÆ„Ž¢†ºÐÄÿ‰~ž‡Ž¢ÅÅ“‚œŽ˜ÀÃ›~”‚«—·¾­{™|¯—©»±y™y«•´«€‘s§“ƒ«¯‰œ~¤˜{­®š·€ §¦À³©¿~š«²®®¯º¤¯¥£­¹‚‹˜©¢™©´ˆ‡¢¤ ¥®Š‡¥¥ ¢¨‰„ ¢žœž¢†ƒ˜™žžƒ†™’”• Ÿ$
+       tile $0000101F~–q–¦§±ÖÒ¦™›‹zw‡‰„u‚¶¢’ÌÞÑ°‹·ÏÂ˜£¸×Ê¨•±º§rM`{~—¡´®¦±ßÖ´™§µ®i”yq‹¢¦ÁßØ—‘š{eƒ‹ˆˆ‚v—Å»šÒÝÍ©‡½Ì®£ÁÕÅŸ‡ª¸­rK_z{Š–¥¨¯ª¤©ÞßÃ–˜±­~€”ƒz…ž¨Ïåá›Š›œˆ_z‰Š‡v¯Ä­ŸÖÝÆ£ŠÀÉ§¢ÈÑÁ”’¬©hL_x{…“§¦©¦££ÖßÎ—«¬Œ—®¶™£Àäâ§~œ§¥ms†‰„{~¸Â ˜ÓÛÅšƒÁÄŠžÂÏÁ“{€Ÿ«hLaw|†’šœ¤¥¡”ÍÞÎš…¢~ª—›µ¹’Ÿ¼âà«|œ¨¥wl…ˆ„{”ÈÅ† ÓÖ»“‹¿ÀƒwœÉÍÁ‹y•¦cK`v€ŒŸ ›¤£žÃÜÖ£„“¨œ™¶¶‰ž³ÚÞ®‡™¦¤l\‚ˆ†w¤ÇÄŒ¤§¼¦‹“¸±unÓÏÅ—mŠ§iL_t„”±¨™œ´®£´Ú×¤|~‡£œš³±‰›¶×ÚÆ‹™¦ v\……x®Å½zš’¡œ†‰««mnšÐÐÌ¡l‚Š¡bM[t‹˜­¤˜¥Å½¦ªÖ×±wƒž›˜¯©xwœ±ÈÔÊ’¤ŸmX{ƒƒ{¶Ä±u ”¢ˆƒ†£˜nl¡ÎÏÍ¾k‚ˆœcL_xŒ”¨Ÿ“¬Ã¾¦ŸÏÖ¸ÿv~“›™¬¢ln˜¯¿ÏÎŸ¢ŸrRw{½Á•uŸ–ž{…‡ŸŒjyÀÌÎÍÁxƒ‡–cL`w‰¡œŒªÁ¾¡˜ÈÔÆ‚s˜œ©™lg—±¯ÃÏ¸“Ÿ›kSq|“¾¾”~ —Ÿtˆ‰ž„i•ËÎÍÌÃƒƒ‰˜jXiz„…›™‰°ÂÀ“‘»ÒÌ—~w‡”Ÿ¤•ae’¬«¾Úâ£›™lRmy›¾º™Ÿ˜˜n…‡™€n†ÊÎÌÉÁ‰’¢‡›“€‡˜˜…¯ÂÀ•Œ»ÐÍ¡|w¦£ˆWe›¢£µâã¹œ“uSj‚ž®»°Œ˜œ—‘l‰‡—uƒÆÍÊÉ¿¦›ž«²ÕÅŒ~—•‚­ÁÀ‘ÀÔÎ~ª€q‹¨ŸzVtšž¨ÝâÈœkWgš´¶¹¥…˜œ—…p‰ˆ™Ä’„ÆÌÈ¿ºª©¡ª·ÏÎ¤xy”“tªÁ¿“˜ÄÔÎ°‚n…§›uPsššŸÙàÁ•‹iWe™µ¹µ’„Ÿœ”xt‡„ŸÇ±ÆËÆ³±«£¥©°ÆÎ®€w“‘t¡À½¿Ó~Ì±Šs~¤•gLr˜œ”ÕÞÂ–‡`Uiž·¸®|žš‘pv„„¡Æ¶ˆÀÊÅª¨¬¥§«¥¼Ì¿†‘r¥À½€µÎÍµ|~¥‘YKy—š’ŒÆÛÁœƒ]WfŸºµŸz„ ˜‹hu‚ŸÄ¥ˆÀÉÃž¡ª±©¨­žÇÂ‡r¨¾»‰l«ÿÉ~µ~z¥‘XLw•˜†·ÙÂ{YXj¤¹²™t‡¡—„bqy|¼£œ¿ÈÀž¨½¸¬©¥’ÁÃœ|Œ‚n¢½¹„ažÁÌµ|{¨‡WLz“˜›Ö×Ã wWUh¢¹» w…—ƒhkq{›¸¦´¾Æ¾žÁÍÃ±ª¬t¹Á¦ƒŠ¯¹¶€X˜»~Ë¸’~{¦OLt–¡Ÿ£ÖÚÂ¥vTSs¨ºÈÆ†Šš˜~agmx™°¦µ»Å¹¢ÃÌÁ¶¬ªt­½¶†Ÿ²·¹WµÇ²‘{|¤yNPp˜ÄÏªÍ×Ã¦sNRv©¼ÉÉƒœ™|a`bv—­¦¶¸Â¸ŸÂÅ¿»¯¬k’·µš…ƒ©±»Ä£[r~¨Â±”{{¢pLOw˜ÎÎ¦ÅÙÁ¬hLR‡¨·ÇÎƒŠš—„^\`u”ª¥°´¿´°À¾¶¿±ªiw­¶ ƒ†¨¯¼Ã³^e£¾²{{ cKPv™ÇÎ¥ÀÓÁ§jLUˆ©¹ÇÃy‰˜”z[WYvˆ¢¦­¬º¯«¼²­¾³®gi¤³¤‚ˆ§«¶Â³_~b˜´¯‡z{˜_KT~˜ÇÔÆµÏÄªiLX¨¸ÇÈœŒ–wVP_y|’¤¥¬¶¯®¸¥¨Áµ®e_™±¨†•¥©³À­^[Œ›§†xz“_jk|•ÆÔÒ»ÍÄ°rMb«ÀÌËÃ˜“vSNbyy… ¢¨°¬³³—›Ã·¯pXŒ®²Œ™¡¡°½¬~^W‡‹‹‚|b·³…’ÀÓÑÁÆÅ¯qNh”§ÀÎÌÃœ’ŒyOK^yy„Ÿ˜¦©©²®“Áº®iVx§®‘š˜¬º¯kb†‹š‘‚†[¬µ‘”ÀÊÏÅÅ¿¯pRp•¡¼ÏÌÃž‡vMH]yzš’ž¦ª²©nˆÀº°sT”»®¡œš•¥·~®j_…‹–‡|V³˜’ºÃÍÆ·¬¬yWm“™·ÏÌÂ‘Œ„nNJ[xz€—™¡®­™`¾½¯pc´Î³§©´•¢²ªjfƒŠ–ŒmNŒ®£•·ºÃÂ®¤¨…^r™ºÎËÄ‘…ne_Wy|‡˜…‘™±ª‰Tz¶¼°ppÄÌ­«»Æ˜Ÿ~®¥sq‚Š’hLk©£¢»¶´¿­¢§€c{’”µÌËÅtŠ†]z„¡¹‡‡˜¯¤xRw­»±v“ÈÉ®²µ½Œš¬¢~z†ŒŒ_L]¢¨¬½¸»°¢¦„tŸ ˜³ÈÊÄ‹{‰†c‹ Âƒ‚®ŸiVz˜·­w£Ç¾§´­«†~•¤žˆ•ˆ€‹ŠYGO™¥µ¼·“³°¢¥{| ¡•±ÅÉÄ˜zzˆ€^€‘¢½‰Ÿ«œg[|™³±ƒ¨Å«¥³®Ÿ€Š ›¥Ÿ—z†Œˆ‰UGR…£´»µ¬°£¥|užž™®¿ÆÁ™uz†x[ƒ•«¼€‚¢¨‘[f{”´­†¹Á¢Ÿ²­•~~†›—  ˜{„‹†ˆPGM†£²º²v›ª¥¥~q›š–ªºÁ½sw‚…p\ƒ–¦·~ƒ¢£‡Wjy²«»º˜£²¬‘vƒ—™  •k‚‹ƒ†NJOvœ´¹°kƒ­¤¢wp—š™¦²»ºœrvƒ‚_Y‡˜¦´x Ÿl[yz•°©§¼²ˆ¡²«~ˆq’“ ¡–fƒŠŒ“S]ap™±·®ju§¥¤tj’—¡¬²´±œ{x{X]…˜Ÿ¦zƒ›•i ·‘¬«±¹©…ª¹¿Œmw‹–¡¡cƒŒ ©]z~t“¯¶¬kn¤¥¥€h™¯Á¶®² {€yT^‰˜”Ÿ‚ƒ–zÃÓ™Œ¥©¾¸–‡°Ò~Ýžisˆ©£aŒ¦±e~~pˆ°¶ªbf™¤¦‚e‰˜µÂ½®²¤„€~tU_‰—“ž‡“‡wÊÎ¡‡¢±¿¶Œˆ±ÙÝ®lk’ÃÔ³r`~Œ­½l|zk‚¬¸³p_•¦¬“j†•°ÁÂ³Á¶‚|lO`ˆ˜•ž„†|ˆÎÏœ›¶¾²†“³~ÚÛ¢ni›Ûßµfa~‹²¿izyix¨¼¼€X•®½µh~¢¾Á¸¿µ—‚zeM`™—œƒ†s«ÙÛ¤|™º¼¥…˜­××“lf—ÜÝ¹^cz‘»Ápyubl©¼º‡]‹±¹¼j€šº¿¼½®œƒv\LfŒ˜–˜‚€n¶ÙÛª›¸¸˜ƒŸ~°ÑÓ‘ik¡ÙØ¡\fx”»½rxq\l§»º‡V…°½¶l{Œ“µ½¿»£¡‹vVNk‹™——†~n¶ÖÙ¼…›·µ”†¥ÑÑ‘rv¯ÚÔ•Yevš¹ºsvkWe°¾¸{T°¹¯s|‹”²¾¾º¤¯©ƒMNmˆ——”˜‚|¹ÑÖÁ‡¢µ­‘n–¦ÎÉ¼’¸×ÓŠVcw¸µwtfTg·À¸~U€±¾°y|‹—²¼¾·£¶®ƒPPk–•™œˆ|ºÊÐÅ“¢±¦‘šÊÌÜÈˆ·×ÎlVhz¢µ®vr^Pe·¿ºWˆ®¾¯„š›­¹½¶¡´­€MSi”þ•~œ˜yˆ¼ÄÈÆ¦¡®‹‘ÅÌÝÈƒ¿ÕÃkUg¥°›wnWNj³¾¹{fŠ¯¼ª‰•ž §·»µ¢³®|MTg“•–’s¤ÂÊÆÆµ¢©œ’‡œÁÂÚÂ…ÆÓ·peh©«ŠvlVLfµ½¸ƒš³²ºž‹šœž¤±·­¦¯®yKUj“•G”œ‰r«ÅÇ¼Â½«¶¬Œ‚m˜½ÉÐ±…ÊÑ­~ym§£yfPKc±»³„¹½¶¶ž›—¢³³«©®­€LTqŒ’’˜šƒªÂÃ³þÁ~ÍÂ˜x[¢»¿±Ÿ–ÉÎ§xyq”¥hwaMLaªº³¿»¶¬‡¡¡¢¢°®®»¹«xNRn‹’’šŸ«¶³ÂÆœ¾É×ÕÉ¢p[ ¸ÁŸ™šÇÈvyx›¢|]xgn_i¨¹°š¿¼±§–¥±»¬­¦®À½°|RRlˆ‘•²§¸¼µÁÁžºÍÿ×~Êªm`¢µ¿ —¨ÇÆ…x~‚›œlT{„Í˜iª¶¬š½¹­ y–«´¹¬©›¯¿»±žcPkˆ‘¡ÀÀ¸½±¹½˜·ÉÖÖÈ¯ge£³ºŸ˜©Ã»vs†™—[OœÊ©c¨µ§Ÿ¼¶§‘n–°¶·¤¥±½º¯žgOq‡“ž¾Ã¼¹ª´´¯ËÔ~ÓÈ³lf ­» •µÀ®qs€†™”aOƒªÅši¨²®¬¹³¢€f•¯³°¥¡Œµº¶­gPr‡š¦µÄÀ²¦·°~¦ÃÕÍÂ·‰k¡¸·œ›¸»hq‚†›œyP‹±Á†f¨¶ÓÐ»­xm”£¤¨¡œ®³²ªrPqŠ¢§²ÅÀ«§¯«pžÄ~ÓÎ¿´–z°É¸›–¼·‘gm„ˆ™‘xSˆººvh©¿Ü×½¬˜sr“ž¢ž™ ª­­©™sVp‹¥¦³ÄÂ¢¬“f”ÁÒÌÄ»¡”ÚçÎ’ ¹²ˆcj†‡’‹wR“¶¯^n§½Ù×Á©’qx•›ª¹›œª«©©™sVqŠ£¨±ÄÂœš¨\ˆ~½ÐÊÊÉ¤ž×éÞ–£¶ª~en‰ˆŠˆ|R·£Xk£ÁØÕ»¡Œfw—™ŸÁ×ªŸªª¤£•sVpŒ¦§¶ÈÁ“ž£ˆV|¿ÏÉÇÌ»—Íçâ ¥³¤q`r‹‡ƒ„uVž´•Sn¢¾ÖÓ»œ…iw—™Å×²¡©¨Ÿ ’qVn“¦§ÀËÄ‘šŸ‚P~t¼ÌÁÇÌÁ—Áäãµ¤®›jbtŠ†‚{S¤¯„NuŸÂÔÐ²’n™—šÂÕ³¡¨¦œžlYl’¤¥¹ÊÃ”™›bRÁÈ½ÁÌÃœ«àáÄ®©Œic~‹…{zS¤¬qNvŸ·ÓÐ°‰~pƒ—•™ÀÕ¶£¥£ž—j]j–¤¥ºËÇ ™”a&išÁÇ¶ºËÅ¡¬ÈÞÍ±¥ci|‰‚ˆzY ¥eXy™ÀÕÏ¤‚up‰þ”~ÃÞÇ ¡ š’n\j˜£¥¬ÈÊ´™…nr™¿Ã¹¹ÊÅ¨¢·ÕÎ¶Ÿ‚fkx…€˜ƒzœ˜·„œÇÚÒ{su—’ŒÈËÇœ™œš“Šq[j˜ ¥¦ÄÌÈœ{w|—¾¿¹¯ÇÃ°¡¥ÅÁÀž‚esv‚|˜†¬˜›ÎÞ¡žÏÛÔ’uw£¸—~Š²š¨š’™–‡r\r– ¡œ½ÍËžyy†–¸º¯¬ÂÂ³Ÿ–¥‘¨žwess{y˜µ•×× ¤ÑÙÏ“tv¬¸š‰…°ž —ˆ–”ˆ„v[w—žž”±ËÌ¤xw†š´µ¬Ÿ¹À¹›™œ¤zinpt|”ˆ™‘ ÕÆ—Á×ØÍ©„qµ·š0‚‡º¸²–“’ƒpc|–Ÿ˜†¤ÈË£qxŠ™®²©œ°¼·žw‰š´zlkily’ƒ–$
+       tile $00001020~c‘·¶”‚›š‘“’š“ªÉÈ•‹…†™¸ÆÄ±„ˆœwk§­£yMy³º½•bŒ¥ž—ÓàßÍ¢Šu`‘£l‘¡œžŸ^‡²´”‹—•‹“’—§È·ƒ€›ºÅÁ§Œƒ‰šsl¨µ¹{Mw‹³¼¼§n‡ž’œ×ÞÜÒ©‡s[‡s— ››~š_€®±–“’…ˆ’™Š¸¡Švz—½Ä½žŒ„‰’cg¦·Á{Nqµ»¹–r„–…¦ÕÞØÏ¦…nPx–’ƒ—˜›–`y©¬–•€‡’—ƒ•¦ ‚kuœºÃ·”‹†ŠYb£¸É–Tk²½·š{{‰¤ÖÙÊÇ¦…ePg‡’Š–—•~—”mt¡¨šœ£†…“‘’¬§ ~Wlzš½Áª‰‡‰ŠŒXf¢¼ÒÆpeŠ²¼¶šww‚Š²ÕØÀÂ¢„jK]’’•’“”kpš¤œ¤³ž†Œ’’ž¬§ tSg{¤¼¼“w…ŠŠTf¡½×á ^ˆ¬º³–rr“«°ÒÏ²¶¥‚hMRw•–~‘|n“žš¦°š…Œ“‰ ª§ iMayª³­„r„‰~VhžÀÚÞ–Y…¬º²–pkŒ«²ÏÀ¯²©„gKN¦ž“‘‡†ƒn’š›©©”†‹‡Ÿ§§¡kL\y®ª›p€‘‰yUj¤ÄØÛ–UŠ«¶­šwi‹«´É²­²©‚bKT´Ê®©~˜rŒ–˜©£Œ„‹‹ ¥¦ž^JVz¯©œ“n…ˆsVpµÏÜØS†©³ªšf…«³Ä¡§±ª€`JW¨Á´ÉÆ‡€Š‰u†’˜¨ž…Š‰‹ž¤¥ aK[¯°“~†lXp¸ÐÝ×ƒT†§³¨›eƒ¬´»“¢°©‚^LO£¾´~ÌÖ‡‰y{Š“£š~ˆ…Š¤¤¢h]\±±’„‹…gVm¸ÕÝÔ…V¥¯¥–Š[­´´‹¥°©‚uxiŸ»³ËÜ“‚Š‰zw…“ •r~†„›¢¥ „ŸŠ‘¯°œŠ†Š€iVl±ØÝÏt_ ª¢“[x¯³¥‹±²­„Š·š¸~°¾Ú›‚‰†|v‹›ˆm…¦¡ ¥ ™ÖÅ¬­–‹ŠŠ‡|hVi¯ØÞÎvi£¤ xU®²ž„¬²­‡•¶¦‘³±¯Ú¨…‡„€py““†u„”¨¥Ÿ£¡ªÙÈ¨©¥‚Šˆ…€z`b¯ÙÝÉer|¡  ’pPˆ¯¯—wª±¬…’±¥‘ÿ¯~ Ñ²Šˆ‚ry‘Œ‰ƒž¨¤™¡ ¿ÕÁ§¥ ‹y‰‹„‹¡{c¤ØÝÆb‚z¡ Ÿ”cT‡¬«‰w¦±«‚‚®ªŒ¬¯šË²Œ‡~r{Š‡~~†£§’Ÿ¡ÆÒ±£ –‡n…‹ƒ‹{q¦ÚÜ¾[|œž”_]ˆ­¯†mž¯ª€ª©«~¬½·’ˆ~rŠˆ†{z…¤§œªÁÐÌ±£™…h…Š‚œˆª¾ÙÚ¹]’—™›—eg‡ÀÏ•jž®©ƒr§®™ª©~ª³—Š|~sˆ‡„yzˆ¥¥‰´ÙØË­ ”†‚^ƒˆ¡¦¶Å×ØµR’’‘”˜•lgÑß´hš¬­¤Œ°¾³~ª¦ƒ§¶™||u†‡‡…|Œ¦¤„†·×ØÄ¦‰Y{†‚‹¶Ê¿È×Ö°T‘”“~p‹ÏÝ·a«­®£³Â½®¥x–¶›‹{zx€ƒ†˜‚˜¥žw€¾Ø×Ä£˜yXt‚‡¾É½Ç×ÔªSŠŒ‹ŠŒ„•ÌÚ²`Œ©¯®“±Á~Á¯¡nƒ°{w|€„›‡—¥šiz»×Õ¸“~{x[j~˜ÁÆµÊÔÏœT…‘ŒˆŒ›£˜Ç×®a‚¨®¬“©¿Â®žfr¬“zv~~Œš’Ÿ£…iz»×Ó¯™Š{{s^by~•Ã¿®ÌÓÍ Oƒ‹ƒ{Œ§± ÁÔ­c’§­ªyš~¾Ã´šks§ zu‚|~{‹›˜žŸ|ev¾ÖÔ­”†uyq\Xnz£ÁºŸÉÐÅPzŠ‹qŠ¨®¥½Ï¯j™¦«¦|˜ºÃ¼—eg  ‹zx|ƒ|‰›  œbavÁÕÔ¯’‚~|nXThy©À¶¨ÄÏÀŒNr‡‹~i€¥¨£ÁÌc‘¥©¥g~†¯ÂÄšh]›£‹|€‰³ ›£Ÿ“YavÃÔÐ°Š©pUN]|¯¿±®ÃÏºRk…‰yarž•˜»Ç§_¤§šf†¬¿Ç—f^˜Ÿ‚|»µœ¦ž‡S`‰ÈÓÎ«„–²ŸuRL[y¶»²®»Í±‡Mh„†y\kš”—´Á£^£¦˜~\‚£¾ÃšcXŸ’Œ‰|‘¶¸‘Ÿ¦œvO`˜ËÓÊ«”¯¥tOHS‚¶¶™°·Ê¯‰Na…uWk•”˜º¾Ÿ]…¡¢†Yzœ»Å¡vq‡ •—’{®·žŸ¨™fPg¸×ÖÉ¡tˆ¬¤sNGO•¶°ƒ²´À£{Mi–ƒ[n“•œ¸º¢g‹ ž~‚[x”·Â¬¿«‰œ—–•€v¤µ§¡¦ŒUOs½ÙØÄ–m„ª¢|PGX™¶¦…·´·œ~Or§¶•cq• ¸ÁÐ¾ŸŸœrWp‹²ÀµÁ³‡™”–”‚q˜±­¦¦’ePxÀØØÁˆg¤¦~PG[¦µ “º³±˜uNz¦¸¯hrŒ–¨¼Ëãà¿¡~™pV~Œ«¼»Á˜v”–•”„p€­®¨¦¬“^~¾××Á{`Š©¥~WJc¥±š–À³®“wMq¤º¸muŒ–§¼ÍââÊŸ–j]°±¨¸Á·”k‘–”“„mu£­¨§¬jƒÅ×Õºmh­³§žYv ©‘Ÿ¾¯¬jOi¡¼¶xx‰•¨»ÏáàË~¡ha³¿±´¶¡‰w‘›’“‡mm™«­¥§šn…ºÖÓ¶ef­³§ªªn~¢‘¢»¬ª’jLj»¬y‡”¨ºÏÞÞÊ¤ŒeY¨½¬³¬œr˜’’†mi†ª®£¬ u…ÁÔÒ¥ak¬¯¢¦¬„“”Ÿ³§§’gOa¯“ƒ¦µÉÛÜ~Ì¢ƒaP‹º··¶ƒ¥Ÿ”’ˆme†¨®¶Ì¯ƒ¾ÒÏ¨is©® Ÿ©¤Š‡‘›¬£¤•iK\Ÿ„†zˆ¦¶Ë×ÛÏ©\M{µ¸¹´š“ ¾®—ƒn`u£«ÂÓÂ¦´ÐË£Ÿ…¦¬‘¦¬•„{“ µ¯¥’hLY‡•…†t…ž±ÀÕ~ÛÍ¯z]Lj§·¿¶œœª½¬Ÿ†m^n®ÄÑ¾ªœ¹ÎÊ¢²¦¤«›‚š­¡{x—§¼»¨’rLVw™‡‰€jŸ³ÁÐÚÎ¡z[J[š·Áµ¦§¯º¬¡‡n[h–§ÁÏ½§ ¹ÌÁ”¯¨¥¦”~‡¬žr—¨»¼«pMVj”ˆŠ|e|¯Á~×ÛÑªu\KV¶Á¬¢§®¶©¢…jYf‰©ÄÌµ¡ž¾É»ƒ¦­¤¢{©¤k‡˜¦º¼¬wLU€¥‘ŠxWu›«ÆÛÞÖ¬v[KP{·¾¤œ§©¶¥¡†kWb¢ÁË¹¢¤¼Æ¶u­ª Œy{¤¡x›ª·ºª‰zNc£Ï§ŒvTk—¦~ÂÖÞ×¨x^LN{´»›¥ª´¡„g\[s£ÁÍÏÁª¼Â©bŒª©‰ŠŸ¨›‡œ©³·«‰yRa¹Ï°ŒlPk“§ÁÔÝ×°p[JN|¯¸‹¤©» “‡{k[kŸÀÎÜ×»¿½Ÿ[~ª¬™…–À·›—œª°³ª†wU_©Ê³‘mNb~¥¿ÎÛÜÇv[KO{¥­œ‡¤ªÁ©›”‹†{jj£ÀÉ×ÙÄ¼·—Ue¥¬›‚›¾·ž ”¨ª©±ª†sVT¢Å³‘fL]Œ¶ÅÇØÝÕƒ[LW„•£œ¦­Á»š”„‡ÇŒ©¾¿Ï×ËÁ±‹P\¡ªœŸÄÀ¤¢¥±ª¤¬§„q]S’¿¶–`K_~”ËÊÄÔÝÙˆYL_ˆ–£¥­ÅÃ–”„×Í¨¼º¸ÒÏÀª„OR—¨›¦Ä¿¢§·¶¨“¨¥„n^N›º´–bK[“ÆÈÀÅÛÚ›[Lm‰œ¨¤­ÄÉ’“„ŠÒÎ±¹°¦ÏÕÈ¥tNW•¦ž†·Ä½¥¥·¶¦‹£¢‡kaO‡·¸ŸeK~`’ÅÆ¸ÃÚÚ«XOs…‹‹Ÿ«§®ÃÐŒ“’„‹ÑÓ®¶«˜ÆÓÍ xKX™­¢»Ã»ª¡¶¶¡€¡ž~f`S…µ¹¢cK]•ÃÄ­¦×ØµaVrˆ† ¯¤¨ÁÏ†”“ÌÔ³¬Ÿ»ÐÎ¢gLf®¸ª“ºÁ¸§™··¤wšœf_aƒ³¿Áƒ~OX‘ÂÂ¢“ÓÑÁmlr„ˆ¢¯£¥ÁÏy–š¤ÁÓ¶žš…­ÏË cMy³µ§›·¼µ©™µ¶©v–˜{`\ux±ÅÇ¡SVÀÀ“…ÉÍË˜µ¾t€†¤°Ÿ›¾ÏpŒš›«»Ï¼ž™ÌË£gO…²³£¤²´´©š³´¤„’—€^Ywy«ÅÈ~´bW—¾¼‰xÂÍË£ÅÎ{‡ ­™¤ÄÏiŠšŸ¥³Íº›–‚‘ÈÉ¤]R±®§­«±«¢­°±µ™”{YV„n¨ÀÄ´[™º¸xe¾ÌË¨¾Îuˆž§’­ÇÓ_‰œ ¥žÇÁ™”„ÃÇ¦\V–¯§ž¬©®© ¨¬Ðã¼‘€XS’n¢»~Â³‹cž¸²tb´ÌÊ ºËy‰™£‡¢ÆÕ[‡œ¢¢«º¾—‘˜¿Ä«^f «›¥µ©˜ªªŸž™ËâÀ€UR¢p¦´³²¤r¥´©bg²ÌË¥ Æ§ƒŒ•œ|ŸÇÏWƒ¡£Ÿ¤š–ƒ¬ÅÄ²fq¢§’­Â®œ£«£•‰Æß¾‹{VN«yž~¯²¹¶‰Ÿ°¡YqÉÎË¥šÁª’–t–ÃËW€ ¤¢€ƒ‹‡¨ÁÂ²rz¡£Œ³ÁªŸ©Ÿ‹q¶ÝÌŒ~XM¯œ«¥¾¿ ¢ª›VwÏÏÊ²„¼­—»zˆÁÃS~Ÿ¤¡¤„ƒ’‡~ ¾Á±~Ÿ–‹¯¾¨Ÿª¡yh°ÜÛª|XL±‹~”§¥¸½² ¥SvÍÏÊ«w¶³›Î…‚ÁÇO ¤£¦‰……y›·¾­Œ“œ‹§¸¦  ¨¡j\˜Üß¾ƒ[J´Š’¢™±¼¶¤Ÿ€PnÉÎÉ«j±´”™Ç‚ÀÅN¡¢œ¤‡…q˜²¿«–”—‚“š®¥££§›YVŠ×ÞÐ€XG´~‹—™º¸¦˜tMlÅÌÆ«n¢´——¹—‚»ÃS†¢¢¡¤…Œ~wŸ¯º«¤”{‘’¨£¦§¥–XO{ÕßÒ‡[K³”‡™’Œ·¹©•tMfÁËÅ§q ´ž™½Îµ½¿ˆ £¤¦Š…‹~pšª¹¬©’…zŒ‡££¨¬¢[M‹ÛÞ×XS~²ž‡•‘±¸´ŸpKe½ÉÆ¦rœ¶ œÉãÉ»¹ÂŸ ¡²¹‹…‰yj•¦°­¨‘{ƒ‰ž¤«¯ ˆ]M|ØÞ×š]\¯¢†“šª¸½Ã•Lb´ÈÂ¡r®Á£ÌáÃµ¯¿§žž³ºš„ˆ|f£¬®©l‚†~ž¥³±‡[M…ÖÜÕ¥`.e¬¨–À§·¾ÁˆKYµÃ¿›~µÀ«‹¢ÍÞ´¯®¾ª›•±»£ƒ‡y`ˆ¡«±§‹gþjŸ¥µ¶ž]OŒÔÛÒ¯_b¨§‘œÀª“´¾¿†J]³Á¸–·»¥‡«ÑÚ±­®½ª™•¬º¤ƒ†yYz¨µ¤…jzv¦·¶œ_R¤Ò×Ï²hx¥¥‘™º¨‰°½»yJ]°¾²–¶±•Œ±ÍÖ¡©®$
+       tile $00001021~£×¹‚‹qƒ”‡qhˆœ˜£²¼ª–~‰œ£Œmª¥–”–ÎÇ’‹zpk²¶µ©¹ÔÌ¯ª–™Ÿ¦¨œ‚er°ÝÁ€„‰zc‘–¬³‚c†š—Ÿ¬¸­–‘||„šžŠg¦¦—’­Ì·‹ˆiiyª´´¦…§ÐÏµ¦–¥¦™{_~j¯ÞÄ†…ˆw^x•ª´‘cƒ™™š¤³ª—sz‚“š‡c™¤™’©È©†‡ybe{‘¥³«‡•ÊÐ¾¤Š‘ž¦¦šw]j¬ÞÉ‰‚‡qTi‘£´”`€˜› –ž¯©—‹pw€—†j‘¢›’¸Á™ƒ„y]ay‡£²©“ÆÎÄ¨ƒ‰™¤¥˜t~Yb°ÚÃ‰„†pSi‹¢µ†a~”Ÿ«¨š´°šˆgt‰”–®›¡œ’»¾ƒtV^uƒ±ª‰®ÓÏÈ©u–£¤–nT`¯ÕÇ…„vlhˆŒ¥¸ˆct•¬ÉÏ±Ã¼ž…bp~†•¬Á°¢››Ã·t|uT]wƒ°©ºÒÏË«yv‘£¢“~mPS²ÒÄ•„ƒ†v…ˆ¡¼œfx”±ËÎ«ÂÁ¦ƒWg{„¤ÃÅ¥š©Â±jx~uP^u‚œ¯¨–»ËÎÐ²|n¢ •jLP·É¸’†‚„y€†¢Â™cv‘°ËÈ©ÁÀ§|Rbw‚‰ÊÞ¸·À©`w{qPfz‚ž¬¦¼ÄÔÙ¿wh ¢~žvMMµÄ³‘„€ƒ|…¦À…en¯ÉÂ•¾À«|P]t…›Ä­°£¶»™esxnmŸ‰ƒš¨¤¢¸¹ÑØÇx_ŠŸ¦ª“ON³Á¬‘„yƒ§½‚cr´Ç»»¿±zOVq|ƒ±¡£¥¹¶frvs˜º˜†œ¨¥¦´¬È×Í[…œ~¤©–RL¸Ê¨‡{~|‚x©¸~aq‡°Ãº†¹À´ƒYPq|€˜·££«¸­‡kktu¬­›’šª¯±¶žÀÕÍ…X|˜¤¨–RM¿ÜÃ—…xz~€y­¶uajŠ³Á±ˆ¼À¸šha„…€Ÿ¾¦¤±¶™ujqq£¤ˆ—«°°´²ÓÍ‹Uz~—¡¦”NK¾ÜÐŸ‡uyw||µÎ—bnŒ¸¿­¼¿¶˜qr®—„£Ä¨¤¶±Œ|vknvª¢’§¯¯²¨ÐÏ‘Wp’ž¥‹OK»ÚË¥†vzyzy½Ì¦ekˆ¶¼¡‘º¾¶›{¶‹³Á©©·¬xxwjlz¦£yˆ¤¯¯®q•ÍÍ£€~x›£’OH²Ñº›†|Œ‰|{”ÅÊ£gc¸º”˜¶»¶Ÿqk­ ‘²Ã¥°¶¤ptvŠ‹¤¤žt¡¯®¨b…ÉÌ¬£‘‰š¡UH«Á–~€‚”™„y¨ÊÅžei†¶¶±¹²šrb­£˜®¾¤°µ»—sw›Ò­£¥—n|›°®£b|ÅÉ°~£›‰›¡TG¢®ˆ€ˆ•™x¥ÉÂ cb‹µ±‰¡®´±œr`¡¦©¯­¡³¹ØØ|z¥Ô¸¥¦ƒqˆ›¯­¢fs½Ç³¡œ‡˜ŠSH™ž……–—yu•ÆÁ¨hcŠ±¬Œ¦©°¯ŸuU¬±·¢£³¼ÖÙ‘u˜Æ»§ªwž­¥¯® ke¸Ä~¼¡›—‡OG”„„‹–—vs’À¼°™s‘®¦Œ¤¦ª«štW‰²¹·œŸ°µÖÞ„u–½µ¦¥n›¯­¯¬›ƒf¯Á¾£šŒ”›„PJŒ|‚‡–“—”ln‹º¼ÈÚ¬š«¢˜¢ £§‚Wz»¾¸ƒš¬±ÎÕ–pŒ²·«¡g˜­¯®ª˜…`¢~À¿¦˜”™NG‰xƒ‹¦—–jm‡°»ÐØ«™§›˜ž˜™¤¡§{{ÃÀ´„˜¨«É×…j‰§¸­’X‹«®­¢’†b¾¾ª•“Œ–{MGvª—_n†¦¼ÓÖ˜›¢•™›– Ÿ¥vÄÃ­‡—¤¦ÀÒ‰f£¹¸ƒP|©®ª›†p~Š¹¼®•“PG|y~˜±£˜ƒWl‚ž¾ÕÒ˜—œ˜™˜„‹¡¢‚qÄÃ­œ¸©¤¿Ïœax¢º¿uNw¨¯©•ˆ…{Š·¼°‘xKG|z{˜±§˜Vj~—¾ÔÑŒ–š™˜“w€™ž €{ÆÅª¬Í¹¦»Êˆb{¤ººvMe¥®¥Œƒ~‹¢ËÁ°–ˆmKH|zy–³«™uNix‹½ÔÊ““˜™—s~”Ÿžv|ÁÄ®´Ëµ¦¸Â™y“¥º»£Yh£­¤†¬¬ÁâÍ´™Œ…jJJ|{~“µ¯—jNlw†ÃÑ¼”‘–˜—“pu‘œz…ÁÁ¯ºÆ¯£·¿ˆŒ–¦ºº®ahŸ« ~›ÿ®~¼ßÖµŒ‚eHJ~…”°¯—iLjw‰ÃÏ´š•–—“is›™‰¼¸²½Ã¨Ÿµ¸™–¦¹¹¬cp›¨ {™­®¬ÛÜ½ –’aJH‚€„‰¯®•aLgx›ÂË«–”–“knŠœœ”’®´µÀÀ¬£²·—•–¨µ¶ªny–¥uš«~¬ªÖÜÁ·Ä­€]KH…‚ƒƒ®­’[JexšÅÄ¢¡‘“‘•’nj‡«³¨¦²·À¼º²³³ž–•¦±¶«¥ºŸ ˜xœ¨©¥ÏÚÉÌÜËƒ[HJˆˆ‚{§¬’[J`z®É¼œ¥¬¡”rl†ž¯´¯Ÿ®¼Àº»·µ°Ÿ“’¡²´¯ÅÊ¢š—„˜~£¨¥½ÖÍÌÙÅ[HH–{£¨ŒYJ]¶Æº›«¸¯Œwfƒ°³¯Ÿ«»¼¸¹ºµ®–•”¡®²´ÍÏ§—‘~•£¦±ÒÐÍ×ÌƒXHK¢ž~y–¥‡XK[µÁ©˜«·°Š‰yh„Ÿ°²®›©½º®¶¹·ª¢”•œ¨±¸ÍÐ£’’Š~‘’¥¥©ÌÎÆÕÉVHM£§|xž‰XJV–´ºŸ’¬¶­ˆ„„~q„ ¯±¬Ÿ«¿·Ÿ°½¹°› À¯¥°¹ÌÏ˜Œ‡Œ‰¤¥¢ÄÊÆÒÍŒTJS§©„{‰˜ƒ^J]´²Š‰ª¶§y~q†¡®¯©¤­¿´–¬¹½± ²ÞË§¯¸ÌÌ—Š~‘‰¢£š±ÃÉÏÇŠTHXª¨„†€_KY¢°©z€¬´§~x‚‡{†£«ª¥¥°º­~ ¼½°œ´ÞÕ¬®»ÉÊ›„‰‘ƒ~Ÿ£š¥½ÉÎÊŒYK^¦£“‰†‰x`Kj¤­ª³§‚š²£‘‹£¨¢£¤³·§m–º¾²™´ÜÑª¬ºÅÃ™~~‘€€š ––·ÂÍÇ„Ya¢ž•‹‡tbMt ¦˜rs§° ÑÚºœ’¤£’ž¤°³_ˆ¸¿³•¦×Ò¯­½Ä»Ÿ{‹‘˜Ÿ™‹¯¿ËÃ¶§la‘˜ˆ~q^[†¡™“ws¤­ šÔÖ¹Ÿ™£Ÿ„•¤°­•^ˆ»¼³“ÎÐ¸°¼Á±›~zŒ~|ž•y¢ÀÌÆ·¦‚k–ƒš‘‰wlaˆ° –ˆz¡«°ÒÏ°œ¡˜t“¥¯©Šp ·¼±€ÀÏ¿·¼¾¨¥|Š{|‘Ÿ™|›¸ÌÁµ •s„nš“‰vjf‘³¦ŒŒƒœ¨š©ÌÃ ž¢Ÿk§®£|¨º»®|s¬ËÃ¹º¶£~Ÿ‹…z|‘££‹”³ÊÂ´ šzva””‹xhfŒ¯Ÿ‰‹‰¥™´ÊÀ›ž¥¤˜f‰§¬œv¦¶¹°˜z§ÄÅ¼·®ŸŸ™|“¤¤”…«Æ¾³ž™g\“–Œzhi•ª™†‰Œ‹š¢š»Æ¦‘Ÿª±¯{ˆ§¨•t––«¶µ±Œ•¿Ã¸´¬ÿ~›°«ƒƒ £•ªÂÅ´žž«hX‹–€jz¡ª–…Š‘˜œ•¾Á–Š ª±²†¥¥‰s‘‰®±³£Š¸Ã¹®ž›ž®¬†ƒŸ¡–¡ÀÃ¬•¢§mV|–‚k‰¢¦•†w‡‘•™–¹º¢ª±²š„¡¡‡v¨²°ª†±Âºª•™~š­¨|ˆŸ•‚½Ä®‘ž§q‰–‚mzœ£“‡q„“•š¼µ€¢©°°Ÿ‹œœ…„ŒŸ«©©’¬Áº£Š—œ«Ÿ†‰ˆš›’ƒ·Äªƒ–§ˆ«¬–„kw–”…j€”‘Ÿ¹¬n|¢©­®£˜˜‚Œ‚©¡§—¨À¼›~~•œŸ§±˜š—“…“·Ã¨~Œ§…­–‡njœ“„`y•‰£µž^~ ¦ªª£›Ÿ˜ƒ‹ˆ|‚™™”¥¡¬½·Šv’šž£˜ŸÃ®’ˆ“³Á¥t‰¦›š«ˆue‚˜”ƒ]r•‰¨°Vwª¨¨£¡©¢„Œˆx€˜•ˆš²º¼¶‡~n’˜š˜•—Á±¢Œ…²½¢›£¦¨Ÿ|bt–”„l—’”“§ªŠT|¢°®¡¤¨¥‹Œƒw”y~À½´jƒ†ˆ½³¬‹ˆƒ‘±º¤~££­v¦¤—¥ nl“”ƒ›À¥”š¦£zU|«´±›Ÿ¤¦¢Œyt~‡u{‹¾½±~|j„ˆ†ºµ±Œ…­µ… ¤«u §œ±µ€lŒ“…ˆ»¯”—¡›`[|¦´³”›£¤ vr{‹„r{‘Á¾«|b‰‹„‡g°¶²ƒ‚­°˜ˆŸ¢²s—¥œ°µŸt‰‘†µ³—œ›ŒV^|«´²‘“£¦œ‡ipxˆ~q{˜Á¾~¥~c„‹„‡tb©¶¹’{’©ª—Ÿš«‡£ž¦µ³q„‚q®´ ˜|Tcw¨´²„ŠŸ¤›…cnvƒysyÂ¿¤w`ƒ‹……n]”¶¼™v{•¥«¨˜œ£–‡ŸŸ¯»¼Š‚f¨µ¤¡‘lSep§´²‚|¥‹~altttuŸÀ~¿Ÿy`z†…‚bT‰µ¼˜qx’£°§¡›‘¢˜¤¼ÁÃ uˆ„h”´±¤Œ_Ucnª³²|vŸª£‰qajrwpsx§µ¿¨€bu‡„‚YR|µ¾ªmw¡¬£¤™œ¤œ‹“£¸ÂÅ¬|g„²³§Š]Xan¨³®up¢«¥ƒlbnsrms†«~±¿¬‹\t†‚\P¯¾²mr‘œ¦¥¡–£ ›”Œš¬ÃËÀƒ~ew®¸§‰W[`m¦²¬ji¤«¥|af“xms“ª°½­Š]p„‚YOwª¾¶hp›£¡™£›–†“¤ÁÊÃz|fkªº¤T_s‚¨±©ci¤ªŸs]l––zls–~¨±½°‡[rƒYNq£»²kj‹—žŸšŠ“¥  ‹’œ½ËÈ’x{h^¨·¦Sbƒ‹¢¯Ÿap£©—hXz˜‘tlu£®»±„]mƒ~SNp£ºµlj‰”ž”Œ¥¥¢µËÌuwjc£´¥~V^‹¬—Ys£¦•cX‹—‘hj|ÿ~©º³…_r‚wY^s··se†˜œl|©£¢”‰‰ ÆÑ³zuka®·§y[XxŠ›¨“Xx ¢‘l\‡˜…`k…¤£¤¿µˆb…†‚wq¤Š—¶²pf‚—˜ˆ~’©¢£˜€…˜ÂÐº|sle´¸¦x]TqŠš¥ƒW†Ÿ•šs–˜el“²~»¸ÞÎg‡‡‚qy¨£œ´±sc|ˆ”–‡´ã¨¢™ƒ¹ÌÃœvlz·¹©y_TnŒ˜Ÿ‡e‹œ—“™—qbmœµºÂß×—l…‡‚lm ¥š°¬‚auˆ•’ËÝ¦”¢›ˆ¢¨¬ÊÐÆ“q»¹¬~bPhŒ——e—œš“tgs¤¶µ¿Þ×œqƒ†„h_—¤œ®®‰_q„‘…ÏØ$
+       tile $00000204%€‰–‘Š–¢¡ˆ–Œƒ•¡¡¥§¦{“¡ ¤«°œx Ÿ «®—s‰þž~«¬šb…›ª¬—`™œ„««˜_~˜š…©«›]z–šm¨« [˜šl§ª˜e£«¢f¥ªnª­§bž¨›««¦[¡§›…­«¥`—¥ž‹«¨¤Yš¤›ž¬¯ª[’¢¢°»ÐÁ[ ¨¶ÃÓÌ[Š­·ÂÑÌUˆœ°¶½ÏÊ[~²´³ÍÈ~U²²­ÊÈUz ²¯®ÊÃU{¤±°¾ÌÁR{¥°±ÌÏÁV‚©¯ºÎÏÀU…¤¬ÇÐÌ¹[“™¢ÆÐÌ´`—™œÄÏÉ®f–š¡ÃÐÆ¥q˜›£ÅÐÇ¡u™š¥ÊÏÈœv–š¤ÅÑÆ“~•™¤ÃÒÇ‡{“˜¤ÇÒÇ†~™¢ÁÐÇ†~Œš ÀÐÉ~‘|šž¹ÏÉ‰z’™›±ËÉ˜u“–—¨ÉÈ•‘”‹›ÄÇ™£”‘Œ½Á—¯“Œ´¾–µ–‰‡¢¸•²™€†“²˜­—zz„‹¨”¬›vyƒ†œ’¨ {‹•†’‘§¡ˆ¢„ŒŒ¦¢Šž……Š¥¡›š‚ˆ£ ’š“z€†¡ž•™“yY~ƒžœ¦£~«Ÿ£ÅÍŸ€°  ÂÏ·€{²£ ¹ÌÅŠz®¡œ®ÈÁ“{©£›¤ÃÂƒ¦¦›¢ÄÃ¨„©¥™ÀÄ±’´¥˜°¿´˜¸£—š§º·ª£¡—š ²¶¯$
+       tile $00000205~Œ¤Ò¨“ÈØØÏÌ¢xº±•zÂº·˜|Œx~x°¢—ž”€žÅÈ¨q{‹™©¬¨š ¹¹œhz‘£¶„kibhv‘€‰¹ÍœÈ××ÎË³…µªt„Åº¶v‹Šxz–¿º› š¸µ©u€‰ž¨¤™•¶¹šgv¡·‹nf^auŒ…ÿŠ~ÂÄŠ˜Î×ÖÊÆºŒ¯¦‹iÆ»µx†ˆzv“¿²œ«­–¥¥¢€„‡œ–¨¥¸È¸¶›bpŠ¢¶˜maV_rŒ‘œ©ž¾¸nŸÍ×ÔÁÁ¶”¯¤‰fŠÇ¼±ˆ{†„tv¢»«ž«®Ÿ”ž£¦€„‰˜”¡ ¿ÌÇµ–cs„ µ¢m]S]rŒ“ª~ª¾ª_”ÏÖÐ·¾¾ž®¡\šÅ¿²Œ{‚€wz©¹£—¢ª¢“š£©ƒ„ˆ•“Ÿ—±ÈÅ²šlu€¦µªqXR\rŠ“¡»ºˆ^ŸÊÔÏ§¶½«©Ÿ{W§ÇÀ­‹‚~yu¬·£ª¦¥£‘”¢¨†ƒ‡”“ªÄÅ°˜‚ˆ¡³¯uVN[t‹—›~˜½±rY¨ËÑÇªº´§™kX°ËÄ®‚|ysx«±­ÃÁ§¤‘œ£‘„ˆ—“•ˆ•ÀÄ°•ˆ¶×¼³¯†SOYs‹•™’¾­[Y¦ÈÏÁœ¥¸º¤”e_½ÎË­zƒyu‰«®¬ÃÆ££’ˆŸ™„ˆ•—yv¶¸ª”†ºÛÆ²®‘WNXr——‰$
+       tile $00000205~¹ª•‡¤¸§‡„yXyš¨´¢€nvr†¡¨¶³ž]VŸÎÏË¶mƒ­®™”·¦s«¯š|K\­º¨Š‘¯š…Œ¶ÎÒ›³²³­˜Š˜µ«‡yYl™¨²šwksq’§¬³¯Ÿ__¦ÊÄÄ´yÄÂ­š´žn‚Yg¬µž‡ ¬…¼ÌÌ•½ÿ´~¬–‡ ¾¨‹uWj–¦°•ziku˜¨¬š‘™]i°Æ¾À´–ÂÄ³˜°cœªƒˆnj©°”ƒ©¬†—ÁÈÁ‹¹µ´®’‡²¾„ƒƒwUb—¥«zjixš©ª‰–†`w®¾°»·ƒšÂÃµš¬›\‘´‹‡~l¦ª‹‡ª¦†žÄÅ³†¶´~±¬…¸·„tVc™£¤‰uie~žª¨‹‰‘‡h†©·ÁÍ§ÁÃ²¨•T“»”ˆ€p£¦‚“°¤ˆˆ¨ÅÃ£…°´«©ˆ…¼¶…€sVa–¡ ‰qge›¬¦„Š‹k¥¨–ÇÍ´ÂÃºž¤’U†»ªŠ…ržŸ{œ¼µ‹Š²Å»‘ƒª~³¨§ˆ¸³†…u[f•Ÿ›„lhm~œ­£•sœ¡žŠ¾Ê»š´Ä¸©›V¶·ƒw™™w¹¶–ºÃ²Š©±¤¥‡‚½°†‚‹˜whœ–ƒiep€Ÿ­~“–¨™œ‹¯Æ³š®Ã¸¥À¹ƒ„³¿–„y”“wš³²œ–¿Á¦ˆŸª±$
+       tile $00000205~¨¡šŠ¢¨§Å×Íªyœ»ºµ‹gSužœ“sr‹Œ‡Šš–˜––zƒ©·¸ÜÕ˜pƒ†„fOŠ¡ °ºŸfk€’ ÑÇ«ƒŸ›’ž¥ ¼ÓÏ¬„¡ººµ’i^ªÐ·•t~Šˆ{‡™˜™™žš°¶›±ÙÒ˜s~…„`K{ž ­¹ªgg‚›ÆÑ~Æ¨~›‘Ÿ£˜µÌÏ¶§¶¹¸œje»ÕÊpˆ{t–œ—›œ‘Ÿ°µ§×Ð—rz…ƒ_Jmš¢¯¶«ib†¦ËÓ½¨q˜›“ž Œ¦ÌÏ·„¨²¸·›k^­ÔÒ§y|rkv—ž™ –”¡²«x¢ÓÍ‘s{„„`Lnš¢ª´¢ef„‹¦Í~Ð³§r–™‘šŠÅÐ»’®°·¸jU›ÑÔ£{zyjfq—œ˜œ“”¨±§n¢ÏÉŠ˜†„ec¬°¤­± gfƒ‹žÍÏ ¢k˜”˜›‡”¾Î¾Ÿ®ÃÀº¡kT‡ÏÓ­wpfbr˜›—™’–ª±fËÃ“ºÁ‚ajÂ¸¡¬®›grŠ‰§ÿÎ~€žc‡——••z‡´ÏÁ¬¼åË½¦r\uÊÒ»ƒshfl›Ÿœ–˜“™¯®€h§Ç·”È¼‰€_‡¿²ž©¬ªuŠ¤“¥ÍÆxšaƒ•””’vt¥ËÃ«½àÍÁ¦r[lÁÑÄŠ„‚k¡Ï²™””Ÿ°¨ni£Á°—È­…|eƒ»§›©³Üºª¬Ÿ²ËÂq$
+       tile $00000041?Ÿ”˜—§µª˜’“š±­‹•Š†Š°®†“‹‰†…¦®„’‰…† ­¿¤‰„…˜¦—¿§ˆ„„”£‰ºªˆƒƒŒ©$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       brit 1
+       }
+      }
+     }
+    ROBJ {
+     IDEN {
+      REFN 1
+      TIME "14:08:166335278"
+      }
+     DATA {
+      stor 0
+      w 200
+      h 200
+      dpth 8
+      npln 1
+      ctab $00000400 ÿÿÿ þþþ ýýý üüü ûûû úúú ùùù øøø ÷÷÷ ööö õõõ ôôô óóó òòò ñññ ððð ïïï îîî ííí ììì ëëë êêê ééé èèè ççç æææ ååå äää ããã âââ ááá ààà ßßß ÞÞÞ ÝÝÝ ÜÜÜ ÛÛÛ ÚÚÚ ÙÙÙ ØØØ ××× ÖÖÖ ÕÕÕ ÔÔÔ ÓÓÓ ÒÒÒ ÑÑÑ ÐÐÐ ÏÏÏ ÎÎÎ ÍÍÍ ÌÌÌ ËËË ÊÊÊ ÉÉÉ ÈÈÈ ÇÇÇ ÆÆÆ ÅÅÅ ÄÄÄ ÃÃÃ ÂÂÂ ÁÁÁ ÀÀÀ ¿¿¿ ¾¾¾ ½½½ ¼¼¼ »»» ººº ¹¹¹ ¸¸¸ ··· ¶¶¶ µµµ ´´´ ³³³ ²²² ±±± °°° ¯¯¯ ®®® ­­­ ¬¬¬ ««« ªªª ©©© ¨¨¨ §§§ ¦¦¦ ¥¥¥ ¤¤¤ £££ ¢¢¢ ¡¡¡     ŸŸŸ žžž  œœœ ››› ššš ™™™ ˜˜˜ ——— ––– ••• ””” “““ ’’’ ‘‘‘   ŽŽŽ  ŒŒŒ ‹‹‹ ŠŠŠ ‰‰‰ ˆˆˆ ‡‡‡ ††† ……… „„„ ƒƒƒ ‚‚‚  €€€  ~~~ }}} ||| {{{ zzz yyy xxx www vvv uuu ttt sss rrr qqq ppp ooo nnn mmm lll kkk jjj iii hhh ggg fff eee ddd ccc bbb aaa ``` ___ ^^^ ]]] \\\ [[[ ZZZ YYY XXX WWW VVV UUU TTT SSS RRR QQQ PPP OOO NNN MMM LLL KKK JJJ III HHH GGG FFF EEE DDD CCC BBB AAA @@@ ??? >>> === <<< ;;; ::: 999 888 777 666 555 444 333 222 111 000 /// ... --- ,,, +++ *** ))) ((( ''' &&& %%% $$$ ### """ !!!                          
+
+
+ 			            $
+      tils 64,64
+      tdta {
+       tile $00001020~¼šSc§ÈÎ½‘™¶»£‡ceÁÍÊ¢rx†Œ…’¨¤žÂÅ¶ ‘‡ƒ™™…‰–³§yr¡œª“‚¹ØË¯¬—\TYsŒ˜•w¸ƒOn¤ÅÉ°µ·£„\f¿ÌÈœpuŒ´­—¤š¢ÁÆ¼£„w™ˆ‡šËÇzgž§’{§ÕÆ¥ªžgxks—~vÓŠY–¼ÅÂ©y‰µ¶£€Vp¾ËÆ“`q–¹·£¡›ÁÈ¾¡‡kˆ˜‰ƒ›ÇÍ“až x¥ÔÏ¢¨žyŠ†v’–†kÙ¢yÌÓÇÂ›sƒ²µ¤tSr¸ÊÅ•Yq”·²¡†‹ÀÈ¿ž‡gz”ŠƒšÂËX–ž¡wœÛØ¶¤Ÿ{ˆ†{”•~ujÖ¥tÓÞÓº—nwª³§pW‡¹ÈÃŠSgµ²ž”x¾È¸ž“‡cv’Š€’½Èži—žŸ‰yÞáÂ¤œ„‡„”‘ngÓ¤…Öà×¶it¨° r{„µÆ¾Než´´œˆqŠ½Â®–ˆhs‰‰Š’µÃ¢™­¡ž‹u—ÞâÍ›™…ƒ†ˆ’~‰eaÍ§×ÜàÕ¬ˆan¤® v„±Ä»zPm£µ³—…e|¼Á¥œ™Œsj‚›¬œ¬À¦¬¥ž”vŠÝàÍœ•…y…Œ‚i{ÇºâßàÔ©‚]hŸª |ƒ®Á·mLl¤»¼›nbˆ¶¼™žzk{¡®¦¥¼ª–¨©ž‘tƒØßÊ“ˆy…Œ~wŠÁ¬ÝàßÒ°|Yc™¨—yƒ®¾±xMm©¾¾¢h]€·³š¥­šhm’¯©£µ¦“§ª”r|ÎßÓŠ…s…Œ‰r{‰¿¡ÓÞÜÍ¬vTa™­¦†±º¯hi¥º¾®n\‚³¬’¤³žƒne‚®©°¢†¢¬“vjÐÝ×Šƒƒu‡~‹„k‚†¸™ÐÈÅÅ·tP]›ÅÃ‰~…¯·±ži¢·¼°€i¬¥‰ž¶¥†p\r©©¢­¥ƒœ¬ž‘n`ÁÛÖŠ~w‡‹l€‚¯•¾£ ½®sR^œÇÂŒ|„®´±™†rª³¹·²Šƒªž¶©“sXjž¨£© m–ªŸ“sb¿×Órz|~‰Šxl€{©˜²Ÿ¢¿±xtr™Æ¾“{„®°­•†ˆ·²³··œˆ£š{µ³¨~ac’¥¦¡g’¥˜‰ˆ¸ÖÔžlw‹Šwu|¦¡¬ §È¯Š‡”È·”y„«®§’‰¶´¦´¹ª›Ÿ”tr°¶¯™¹”…¤¤£n‰¤˜‹½ÁÓÐŠct~ŒŠvr|w¡®¨ ¬Î²˜•©Ã³–yˆ«ª¥|‹¶³˜¬¹°šš“{cª¶°§Þ»‚ £¢›iu˜‰¼ÓÏÏ•ar‰Š{vzmŸª¤Ÿ°Ì³ž—¬ÍÆ¯™x…¥¨™‹~{µ²‘¡¶² —––†«¸²¤××’ž£ž™mk—œ—Œ¸ÎÎÉ›a~j‚‹‰zwf §¢›°Ê³¨–¼ÐË¬—v„¡¤–‰v‚¯°Œ’±³®•™—‹¬¹´¡ÄÚ›™¡Ÿ”ik–š•†±ÉÌÈ›]lz‰‡yu_Ÿ¥Ÿ˜§Ä½¨Œ¬ÎÍ¬™rz¢–†u€¬®‘ˆ«³¬—™”Š§¹´¤·Ù»—ž¡fb‘›–‡§ÇÏÅ ~_jr„†„zx¡Ÿ™Œ ¿¿ª±ÊÍ­œpu™ž„m€¡¨“u¢²¬š˜’†¡¸´¥›ÔÍœŸj^™°žƒ–ÅÓÁžaikz…†{‹’¡™”ˆŒ²Á¬žÇÇ«—ny–›€t„˜œ”g«®¡•’…Ÿ´´¦ŒÊÏ¡›ž‰f[¤¸«„‰ÀÏÅ~›bcfq„…~’ —~¨Ä½© ÂÉ­—st’˜‰€r„–—‘kƒ¤¯¤›Š€”²²¨‚¶Ê°¡¯`_©¸©€‡¾ÏË¥e`]l‚†‘’ž–‰uižÀÁµ™¾Ç­–z“‰ƒ•–“cq ®¥‘†˜®²§–Ã¾»Ãže]¥¸©~q·Ï~Í§c_\b‚„’”š‚k]‹¹Ç´»Å³•…sˆŸœ„’•‘ne•«¡“‡xŠª¯§‡ˆ½À½Ä¡tjŸ´§zq¯ÎÌ¦cs„sƒ…‘””Š~c[ƒ·Ç³ºÃ²”ˆy„”Ÿ¥€”jX§ —x‡¦®¦q®¿ÅÁ—‹‰™²§xj¥ÿË~«¨È—‚ˆ’ƒv]Su­Æ´´Á±†~~•ŸŸ~…“wPƒ¥¤–pzŸ¬¢ŠaŸ½ÉÀ•‰œ±£vcÈÊ»ÐÀÄ¨‚ˆŒ~fUPx¨ÃÂË»Á´‘„‡|––r€‘tPx£¤•l{¥ a‘¸ÊÂ–Š„›¯¬žmÆ~ÊÂÓÉÂ¥€ƒˆ…‡ˆt\RNs¢ÁÏÇÊÊ´ƒ€…x‹–œ‰g{z_kŸ£™f†¤§ŸŠ_v²ÍÁŠƒ˜¯¼Ä„‹ÂÇÄÐÉ»¨ƒ‡‚~mVOWl—¾ÎÅÞÞ¾|ƒ{‰”š]kŠ„…i™¢™ƒf‡­«›Šca¥Í¾‘‰›«¾Ã~„~ÀÆ¿ÍÁµ©…ƒ…uzveRMVj‰»Î¾ÚßÀ‚v|‰”™YhˆŒ†‚m–¢œ„^Š¬¬š†e[›ËÁ‡€š­ÁÂ~y¼Ã¼Ê²¬«„„krscbT`h…¶ËºÓÞÏ~tˆ›•––jUf‚‹†q­§Ÿ‰b‚©ª›jS†É¿‡€š³ÈÅ~~n´ÁÁÉÀ®µš„rznx™Šmz³Å±ÏÞ× r¸ã¼š‘_PW€‰ˆ‚¼§†nu§ª¦¬‚PsÄ¿†™ºËÅc°¿¾ÉÍ¿Äº‡€›¦e€ž®à“t»Á°ÉÞÖ¨k¼âÖ£ƒWNUy‰‡y¼¦™…vn£¨©ª‹Ok¿·‘Œš¼ÎÆ0a©»¿ÍÈ¼Å¿Œ„¬±e‡žÈçÀ€³½¤ÆÝØ©n¼ßÖœPKVuˆ…~™¾¥•†xlœþ§~yRm³®’Œ™¿ÏÄ€\¡·¿ÍÄ²ÇÇ‹v¦°jŒ›ÃãÃ‘´¶–¸Û×¯¦¶ÞÙ¡tOKWs‡…{±¾Ÿ‘‡xm™¤©¬ˆUo¬©‘“¢ÀÎ¾qVœ±¿ÌÁ­ÉÊ‰n›®j‰˜¼ÞÀ•¸´Ÿ±×ÖÉÞÊÝ×žk^jUq†„|´¹•‡{q£«~Å¿u|ž‘’¥¿ÅÍ¼nT‘­ÁÄµœÆÊhš«s”¸ÛÉ£µ´§·ÕÓÌÛÌÙÙ¨l©»pr…„µ±‹‹†œ‘¢¯ÉÏ§–˜“¦ÅÇÍºjO‰ªÁ°›ÃÈœc®v‘ÑÈ©³³«¹ÐÕÁÔÎØ×¥r¯¿t„Œµ«‡†“´˜Ÿ~­ÇÏÑ¡‹““ªÈÉË«fP€¦À˜‚Š¿È ^‚®ŠŒŒ“ËÏ®²²­³ÎÒºÊÌ×Õ®l¢¼¡w‚—²Ÿz„‡“´ˆž¨ÁÒÙ©…‡‹’«ÉÉÇ£cNw¢¿ƒ‡¾Å ^w°Œƒ‚ÆÎÉ¿¯­µÊÏ®¹Ð×Ò¨b’¸¨|{ž®“s€…’¯‡~š¥ºÕ×º…€ˆ’¨ÌÌÅUKv¤¿’„‰¯Á›_s«”ŠyyÁËÌÂ°ªºÅÌ«¨ÎÔÒ®b¯®‚|¨¨„h|†—®ƒš£·ÐÔÀ‡ˆ«ÌÍÂRLn¤¾“…Œ¬¿¬]k ~½ËÉÄ¨§·ÁÇ¥”ËÖÑ§i†›¨ƒz„¦¢uez…–¦~|š‘¸ÉÎÄ’|†‹¦ËÏ½…OKkª½’†Œ¦º§\bšž¥³“¶ËÊÅ££¹ÃÄ …ÄÓÒ¯yˆ¡ˆy”¦ši_vƒ”›y—ºÁÇÅ¤‹°ÌÌ¹MKi©º–ˆŸµ¦]a“¢·ÏÁ·ÌÏËÍ©¸ÂÀŸz¼ÔÑ®‡žŒ~ §œf_uˆ˜~šu–£¾ÅÄÅ²¡®ÌÍ¶wLLv®·”‰˜±¨_[Š£ÀÌÀµÊÎÍÐ¡°Á¾›z±ÏÐ´ˆ…Š›“¤¦›gcwˆ–—t‰ªÁÁºÁº£“¦ÊÌ«nJKu«²”Š”¬¥fU€¤ÄÉ´²ÇÊÎÑ§»¸š€¦ÏÏ³ˆ‚…˜‘™§ ‹t…ˆŠ~–‰s‡©¾¼°¿¾¹Ÿ–§ÊÌ£jHK§¯•‹”§¢cV‚ ÀÄ¯°ÂÈÌÆ– ¶³•x—ÉÍ·ˆ‚„–˜ ¨”|™š“•uu²±½¾š¼ÅÒÁœœÆÈœ`MT…¢ ’Œ‘”£ eR‚ ÁÁ£«ÀÂÀ¦Œ³°”uŠÄÊ¶ˆ”¨§Œ~‹~™—r„·²¼¸›¸ÉÒÑÂ¨…²œl‹‰œ•‘Œ‹ž›iU Á½•¨¾¾­£’®­r~·È¸Œ|v’¡ª¢†€€„›œ™f‘¸¯´µ”µÅÐÐÃ¬pw“–ÝË•™‘‹‹ˆ›™eT€™½¹™¦¹¶§¡š—«ª‘wu®Ä¶Šxn£­Ÿ€€‚~~˜¡mŸ´¨°°Ž«ÆÏÍÃ¯soœÞÚ”Š‹ˆˆ˜”m[~‘¬Â•Ÿ´³®«µ¦¨¦š¶ˆ¦À´tk¥©˜{€„z‘¢¤—´®£´²‚£¿ÐÈ¾³ŒsŸ±ÝÑ•ƒ‰ž‹…hX{’²¿…v¬¸ÏË¸«ž¨Á¥ º°Œme¥«v…~”¢¤¯¼§¤­­u›¿ÎÉ»°—€¬ÁØÏ€t“«¤šž‘‹jcy‹¹¸wm¬¿×Ò¹©™y–À±’¶°h^Š¤¨ˆt|†ˆŒ¡¥¾½šŸª—n’¼ÍÇ¿¶ –ÒâÕÁxp¤ŒlrŽ‡nbw”µ­`q¨¾ÔÒ½¦“v~©µ¯¬h]Š¥§…v{~Œ”’›ªÀ½™—§’f‰¸ËÅÄÃ£ ÑåÜ¨ˆ©¦ƒnv‰‰|pt‘¶¡[n¤ÁÓÐ¸Ÿl}› ©©’c_†¡¤‹„€‘›–´Ä»‘š£`€ºÊÅÂÅ¸›Ëåá¡Ÿ« vjz‡‚‚tZž²”Vp£½ÑÎ·š†o}›œœ®¥j{’žŸ‰~…’™ ¥½Ç¾Ž— ‡[z·Ç½ÁÆ¾›Àââ²¦˜ol}†~€zV£­„Pu ÀÎÊ¯‘‚s„œš›»¤Ÿ›¡¢œžo]p“££¶Æ½‘—j\†½Ãº¼ÇÀž­ßàÀ¦¡Šmm†Ž„z}yY£­wRv ¶ÍÊ­‰uˆš˜š¼­°ŸŸ—~nam—££·ÆÂ›—–hp¾Â³¶ÆÂ¢®ÉÝÈ¨Œgs„…z_ ¨q^yš¾ÏÉ¡‚wu——–¿­Á››œ™’q`m˜¢£ªÃÅ­–‰tv›½¾¶µÄÂ¨¥¹ÔÉ­˜it€‰Š”‚~œœ—¸ƒÃÒË›|ty™”“Ã¹Á—”—™“~‹t^l˜ ££¿Ç¿™€|}™¼»µ¬ÁÀ°¥©Å¼¶—€i{†{‹”…«˜ÍÛžžÊÓÌ‘wx¢·˜¯™¤–”•ˆu^s–ŸŸš¹ÇÃ›~~†—··¬©½À³¤ž©‘¡—vj{|€yŒ”³–ÑÓž¤ËÑÇ’wx«¶›‹ˆ­œ”„‘“~‰…x]x—”¯ÆÅ }|…š³³©´¿¹¡‹ž˜ynwy|”Šš“ ÏÄ›¿ÑÏÄ§‡v³µš„Š¶³­“~Ž…ƒrc|–ž˜‡£ÄÄ¡v|‰™®±¦™¬»·£Ž—¬yrusv“†—£Í©šÈÑÎÅÆ¢}¸¯•|„½¶³™}‹h‹{€y¨ž–”ŸÁÂ¥v~Š˜©¬¦—¸º¢sŸ®‚prmr|’„‘Œ¶ÈŸ£ÉÐÌÄÅ²ˆ³¨w†À·²’zˆ‰{|’µ´™Ÿ›‚Ÿ¸±§y‚ˆ›Ÿ¨¢•“¶º rzŽ°‰soil{‹‘‰Œ$
+       tile $00001021~ž¡Š·®„ƒ­Î°s‰˜“ƒccr~ ¬–r˜—ª’™•ux¤Ã®šÂ¹£¾·œ®Éœy’•|“¤­¡˜Á¿—©®›£¨§¶¥ƒ„´ÏÌ~ˆ•‘|]eq~£«‡e–™¡¡—ˆgsÀ©™—Á´¦µ¬›©Ê£†{ž½ž”©¥¢¿»…xœ¨~«—»ÐÂ±š{…¯ÏÍ‚ƒ‘~\iq‡°²‹W’œŸ£”yel›¼¥˜£¿¶¤¬ªœ’ŸÁ¨†|¦Å²‰ž©°½¶pr¨¨”½ÏÅ­–x„©ÍÌ˜{‹Œy]kq´¶‚P„žŸ¨kWg—½£—”¼²Ÿ¥¦•œ¿´‡~¢Ã´ƒe‹¨·»®jm ~²ª»ÏÄªˆs„¬ÊÉ­yˆˆxe|~“µ³qO‰žŸ¦VVc˜´£•“¹²œ¢Ÿ™™ÉÅŠ|¿ªzU|«¼¸¤ajÏÛ¾ŠÀÍÁ¥Œ~‡¬ÄÅ«|ƒ‡xqˆŠ•¶²lLy¡ ¨US_›´£š…´±˜–žŸœ§ÞÕ’{˜¾¨jLp¬¾¶–[€~ÛÞÄŠ¾Ïº¢¡¨”®ÂÁ³‚„~¡‹œ´­eL²¤¨~OO]š°¦£‘¯°š–š¡¦¨ÜÛšz’¼®^Jg¬¾²ƒ^˜ÞÜ¼šÛâÁ›¨ªœ¯½¸²‡‚»Ì Ÿ²¦[L²¾¯§vKM_š­¦¤’¨ª”– ©¯ÜÚœv“¾ÈgOc«¹©yc~³ÞÙµœåæÇ‘£ªž°·±®š~ÃÒ¨£°£XU¹½¶©uMK`™©¦¤›¥©•’ ©«ÚÙ’u˜¼É–wi¨¶¡ub¸ÞÖ°šßåÁŠª¢²²§›{~z°Ð´¥¯–RUµ¹·«pMKi—§¦¢–Ÿ¤Œ©µØÔŒt—µÈÉ«x¢°›v~g½ÜÔ«ÞäÍ{ˆª­¶©Š£žƒ{y¤ÏÇ¨«Vh°¼·­vMLi“¢¥¢—£Š‹ˆ˜¥´ÖÍr—±ÅÆ°€–ª•yrÅÚÑ¨‡×âÊqƒª¯¶¤š¡„xx˜ÌÅ²¨‚s“¨¼·©uPNj ¤¢”›‰˜•–£½ÓË‡q”¬ÆÇ±Š£»~~‹ÁØÏ´ŠÂ×Æk€¨³µ™n“ž†wuŒ¿ËÁ²|„–¤º¸«xSSg‹¡£›“š™ÊÉžŸ½Ï¸~u“©ÅÆ§„¤¾¢ˆ˜¿ÓÉ²™²ÁÊnt¨µ¯”k‹štv€½ÉÇ½w‚”£¾¸©uSUg‹£–˜™¥×Ù²¡¾Ì²yr”¨ÂÂœy ¹~¥¯¼ÌÅ¶§³»Æs´·«ƒcz–“ut~²ÈÈ·t’¡½¹ªxTVgŠœ¡‹˜’ŸÑÚÆ¥½È£yq“©¿º—~„³¥˜³¹ÆÄÅ¢³¾ÄsÊÅ¼¨x`r‘•xuy§ÈÇ¹œ‹Ÿ¿¹¨{|jŒž{•Œ»×Ì°»Âum©¸¨£|®¨Ÿ±µ³ÃÉ¡´¾À…ÇÄ·~`b‰þv~ªÈÆÁºœ ¿¸ª‘Á´t‰›šu‡“Š²ÓÍ³º¾lk‹©³¦£™x¨©¬¶ª¥ÂÊ£²»·z®È¸¤{\aƒŒwuu¢ÈÆ¿»š›¾¸ª ÃºxŒœ—q†‘’¯ÏÏ¿»ºŒgp‰«®¤¡‘j‘©¸´¦ÃÌ§±¸µt›É¹ ~YV|Š€v~s£ÇÅ»¹›Š›»·¨¨º—€‰™“~Œ¡ÁÎÉ¼±ƒ`l‡­°¡„f©¿³›—ÀË§°´­|‘Å¾žxVPx˜{y¨ÄÃ½´™‡“º¶¨¯¦ˆŠŠ˜‰£¦†œ·ÌÍ¼­€]k®¬Ÿ˜€a†¨¾±Œš½Ë§­°¨ƒ‰Ç»¡qUNpŸ£~~«Ã¿¹³˜ƒµ¶¦¬­ŠŒ’•„“ÄÈ•€˜¯ÇÍ¼£vYk“°®›”~r«ÀÅÂ´¿É¤«¬¥|Ã¼ŸuPMf ¢ƒ­¾º¸µ˜y‹³³¨±ª‹‹“…—¾ÈŸw‘¦ÄÌÂ tYp‘¬©•‘|t®ÀÑÞ»ÃÈ¤¨¨Ÿ„Á¿žsOKc~¡‡•«¶·¹³—s‡¯°§±«ˆ‹–Œ{Ÿ¯Ç¥n‰š»ÉÁ™sXr•¬¥“‹pk°¿ÊÜÎÁÅ¢¦Ÿš€{²¼žtRH[›Ÿ‡“©¨¿Å¸•p†«­«³ª†Œ—Š‡žŸÄ¬r‚–³Æ¹¢]u™¥¡‘ˆmb˜¯¹ÆÙÔ½ÃŸ£›–y°¾štPGV~”Ÿ›±§¥ÓÍ¼•gƒ¨ª©°¥‘’˜‰’š‰Áºz‹•¬À¯ª•]x›¡“†kf¢¯¯Â×ÑÃÃŸ¡š’Œz§¶¡u]NUž¹Ö¶žÑÍ½_†®«¦­ž’••Š—”x»¸›Ð¥ ¹®ª‘`~™Ÿ›“‚bp¨®¦ºÓÑÂÂŸª´œˆv›³¡… t~XŒ›·ÕÀªÑË·ƒY³°«¬–ˆ”•’“‹m²¸¬Ý·Ÿµ®©‘b{•›˜“‚_u©«Ÿ¯ÏÖÉÁŸ°¼Äw”¯ŸšµŸ[‰˜®ÓÌµÐÈ®ƒV’±°®ª‰””›‘b¯µ¯Û½›°¬©e€—–’ƒ[s¦§—ÍÓÊ¾™°¾Ø»xŠ¤œ¡²~™]†˜¨ÐÏÌÐÁ§|V‡°³¼¯zu’–›‹j]°°Ø¿—£©©“j‚Š’”’ˆew£¡¨ÆÕÉ½–®½ØÍž§¯‰W„—›ÆÕÑÏÁ¥pU‰®¶Æ¿za™ †]Tª±ÕÁ’£«¨•n‡–‘‰s~ œˆ—ÃÐÍ¹—¬¼ÕÙ–v”œ«~¬lX‚—“°×ÚÌ·¡hS~«·Å¼m^ŒŸ¡TO‰¦²ÍÆ™±´§’u€€–‘‡{{œ˜‰‡ºÒÉ´š¥¶ÎÚ²už°¦nW€•ŒžÖÝÊ­™eSx©·Â¹ac’¡ŸuKL|§¹°¼›¹µ¨—~{z‰”ˆ~x™“‡Œ»ÒË±¢²ËÙ¿~‰ª~´£\U„“…ŠÖÝÁ¦”]Nw¨·Â³Yc”¤žnHLh¦·¬±¡¶²¦•{wt„’…~x’…¹ÏÈ± ›­ÀÕÉ†±¹«YW†‘~xÔÛÂ¡‹[Ml¥·À¯Xb•£œfGJf¸ª­§µ«¢™rmŠ„€‹~±ÏÆ¯¡š§·ÏË”—~¹»°W^‰‹w†ÎÖ¿ ˆVOi¡¸Á³z^’ •hOH]–¶¬§²²¦Ÿ—~le|‰…‹Š~{²ÍÉ¯²¯¦­ÉÉ ¡º»©ea‡ˆqŒÁÑ¼ “eRa¡·ÀÁ—b‘s€JR´°§µ²Ÿ“j[w‹ˆ{–•Š{w±ÉÊ«ÍÆ«¡ÀÆ«~¥¹º²s„‚g—²É´Ÿ“rR` ¶¿¾¡g‹˜ÎUU„°®¨³®—›’€gVw‰…xƒ—–{v­ÆÆ¦ËÉ´ŸªÁ¹±º½À×·†|q›¬¿µŸrS`ž¶¾¶˜gƒ’ˆ˜Ê†j«²¬°¥”—cPu†„q‡–•uv¯ÁÁ¢ËÈ³š›º~¹¶¸»¾×Á…zyœª³ž‰iR`œµ¼³ˆhyŒ‡œÈ‰“©·³µ Œ”‹{gSxƒq©š•‹ur¬À¾œÅÉ·–~°¶µ·¶¸ÔÉŠtŠ™˜°œƒhM`µ»¬ˆfpˆ Á‡›¯§¶µ´ª†weUv~xª›”Œsw¤»¼’ÂÇ¶q~¤ž£°³²ÏÅ†s†’•­œ„hOcœ²¹©ƒ]kzˆ¢ºƒ˜¾ª³µ±¶›‰s`Ttxˆ«›“pr§¶¹‘¹Ç»‘mœ˜›®«ŸÊÇ›zŠŒr„¨›‚nPi—°¸¥Xew‰£¶€¸´¯´²¸›ˆyn]Xs|v¨˜“mtŸµ²µÆº—~¡™³ž–ÅÅœˆ~]y¡˜lSk—®µ¡~TXt‹ ­q™´²®²¶£„qg]Wrzx—±£•Œqt•³­‡²Å¼šŸ£š¢·™~»Äƒ„qY€§˜ƒmUk’¬°™rTXw‰•¤^†²·¥‘´³§~kb[Yqx~¡º­–‹sp“®«ˆ«Â·~ž•Ÿœ¤·Šn·Áª†b`ªÒ ‡mUj—¬­“‡\Xz‰šW„°¹©o¡³¬€f_X[pw†²¾®•Škj©¤©¢Á¸˜‹™§º‡`¨¾­…u[yÒÚÁ­rXi•§¨‘pX‰Š_‚¯¿ÅŒj°³z`kW[nv±¿­“‡ph¥«È¡¿~·š‡˜«»|` ¹µ‡ePˆØÔÆ¼|_f£¤’‘z\†ˆyqx­ÅÊ¥[Ž±€[v{|ku’³Â®‡le…Ÿ·È˜¹´“{—²Å†‚Œ±´ƒbT—ÜÌÅ¿™kc£Ÿ”–•f‡‰jtz©ÆÊµih±‡Wut·˜z”´È±†mn|žÀÉ—~¸²˜|•·Ó˜ˆ³Ë›\V¥ØÁÃ¾ž~f ™’–¥‹‰‹b€r§ÁÆ´„c¥‘Xqc´Â ³ÈªŒ……ž‹©ÂÍ´±Šy“žºÏ˜‰´ÚÄaY¿×¹À¸žueŠ¡”‘™¨—‰†\Œq¢½Ä´k¡Ÿnp`«ÃÂ‘´Ã¦‡žº– ÁÏ~¯­|‘Ÿ·Æ”‡ŠºÚÒncÄÏ§¼¹Ÿxc‡““«Ã¤ˆYšs¥·¶²§x¦§‚`dªÄÃ¢«½Ÿ“†¤²€žÂÉˆ¬ªŠ€¡¹¿‡Š²×ÑtƒÉË›»·žwbš”‰ÂÚ¬‹vT¢zŸ²µ¸¶ ­‘XnÂËÆ¢œº¡“‰©Ÿ{˜¿~Æ~¥©¥¸¹Œ†…¯×ÑƒšÆº–¸±˜v`‰œ‹s´ØÂ™šT¥€®¨»º ¢¨–UtÊÍÇ®ˆºª‘Š£º€Œ½¾dŽ¢“‚•ª´­Š‰‘¦ÏÏ¹Æ¾”µ®šu‰¦Ÿ{k¯×Ö¢¡›Y§Š—«§´¸¯ £RsÉÍÇ©|³¯’Ë‰‡~¾ÁS„¡¥ˆš°²§•Ÿ²ÉÎ´ÀÆÁ¥±²£œ›¤Ÿm`™×Ù¸¥¥Wªˆ•¦œ®·²£žPkÅËÆ©p¬®”šÃ‡¾¿V‚¢¢’œµ®œ•›¢¶ÄË¿»Ä½¤¢­£¢¦¥™][ŒÒØÌš¥R ‰”¡š˜µ´¤—uMjÀÊÃ©s®–‘˜¶—~‡º½\‰£¢—§·§’˜ª²¼ÈÏ¶­‰”•¨¡¦ª¤”\T~ÐÙÎŸP¥Œ”Œ³µ§“uNe¾ÈÂ¥uš¯‘š¹Æ´¼¹‹¡£˜¬½¯“™žª³ºÇÁ˜Š€‹£¡¨®¢Œ^RÖØÒ‘pP©šŒ™“‚­´°œqMdºÆÃ¤s–±ŸŽÄ~ÙÆº´¿ž ¡¤²ÈÒª™Ÿ­­³´¬”~ˆ…ž¡©° ‡`SÓØÒc[¦Š—šƒ§´¸¼’Ob±Å¿ s¥º¡ŽÅÖÀ´¬¼¥žž±µÍÔ°žŸª¦­±­‘o‡‹ƒ¡°²†^S‡ÐÖÑ¦dc££“™¼¦œ³¹¹†N\²Á½š|«¹¨Œ¢~ÆÔ³°­º§›–¯º¹´¡‰o‹¢«´ªŒi‚„ƒž¡¯µŸ`WŽÎÕÎ°c`Ÿ¢“ž¼©“°¹¶„Qc±¿¶•}¬³£ˆªÉÒ²¯®¸¦™–«¹§ŠŠ}`~ž©·§…j|z…›¢°µœd\¦ÍÑË³jtœ¡’š·§Š­¸²yRd°¼±«ª”~¯ÆÐ¤«­³¦•‰¤¶©ˆ}`|›©¶¥nxv‰Ÿ¢¯±žb^¢ÊËÈ¶n}¤©™•´¥v¨«”zTd®¸¨‰‹¥”…³ÆÍŸ´±­¨˜Œ™²¬Œ…}apš©´œwkuu“¤¦«­Ÿ€df©ÈÃÂ³w†¹»«š±žrœš{`n­´Ÿ‹ž£Š…¸ÅÉ›¾²$
+       tile $00001020~™\y“˜“‘li£ÈÃ²°ÕÏÄ¥q^e¨ÎÈ™®ÈŸÓ¹¢™Ÿ°XlŸ½«¿¢ƒzjŒ¹¥•§Ìéß¸­¢·Ç®œ”Yz’–—¿©˜¿Ã°ªÏÏÆ¥w\_™ËÊ§ÅÌ„³Öº¢—Œ¦®Xjœµ§®®š„xk—´’¤Éçâ®¬ª»Å©~ŸUn™­ÝÓ›œ°Â´™¾ÏÊ¨t]`‹ÃÈ­ÁÁ†œÔº¡•ˆ“©ª„Tjœ­¥·¨™…xnœ°Š¢Êéà¨¬­¼Ã£›‚RnŒ—«ß×œšªÃ·’¥ÍÌ¬m[X¼Ã«Â½mžÐº©”€–©¥hSi™§¤µ¦˜xt˜ª{ˆ¥Òçß£ª±½À~—˜‚RcŠ—²ÝÓ“—¥¿²€ËÎ°k[V€¸À³À³k®Ë¼Â¹ƒ™§ž^Si–¡®²¤•yww ¦l…£ÏæÒ›¦´¾¸’‹yNc‰–¹Ùº”¢¼±ŠÍÍ°mXYt­½¿¿ªc™ÈÀËÎž¥”WXf’°¯Ÿuv~ž™_‚¦ÚãÏ”¤µ¼~µzˆtO^†—¿Ôºx¹¬txÅÏ·jVWp ·Á½œa•Ä¾ÉÑ ¡OWeŒ™±©›‡sv{œ”^~¦Øà¿‹£·º©vvq^vƒ™ºÐ¸ˆš³­fiÀÎ½jV]l¡¼Á¾‹f“¾ºÊÕ¯ ›wNVbˆ ´©˜€mu›–k|«ÛÞ½¡±~¯¤rsma{–ÅÎÊ·”›®§jlÀÌ¶lj€yÓÓÈ½ˆ_’º¼ÌÜÄ¡–jMWe‰ª¸ª›xpy‚žÁ¯³ÙÛª{¥¯­œlhpby ÂÄÀ¹žš© cc·É¼sœµ–ÖÔÈµw_ ¶¶ÉÞÒ¤ˆ_NUf‰¬³§›wƒƒˆ¬Ä¶‡±ÛÛ¼„§~­¬—_`if|‡¢Â¼¦´¡™¢–hY¨Æ½’§°ŒÒÒÇ´k]‘´µÉÞÖ¨`LTeŠ¬­£•tŠ‹‰§Â°…¶ÙÛÇ¨­¬“\[lqƒŒ®Ã´ˆ¤›lUŸÁ¼°«ª€ÂÐÂ±gY’±µÉÝ×®{[ORe‘©¤Ÿq‰Š‰±¿–€¿ØÚÞÅ~±®ª‹XTt‡‰Œ·À¦‡ŒŸœ—ˆgVžÀ¼´¯§»ÏÁ«caŸ²µÈÛÔ²œ~[ai”¢£œ‰uˆŠ‰·¸‰€Æ×âëäÂ­¨‰ONƒ‘¾¼—€Šž£—„cT–¼¼¶¯¢|·Ï¾©fn±¹¶Ã×Ð¶¶ª’¸‚™¢›q‡ˆŒ³´u†ÅÓÜç~ãÃ­§SMº§–º·tŠœ¦|^T¸º¶¯–w·Í»šj{±¼ºÂÕÍ¸´¯¾á®˜™˜˜sg†‰²§x‘ÇÑÔââÂ­¤vMLÉ¯’ž¾²lm“ª«—y^S’´³µ®q¾Èµ–l|±º¾ÁÐÌº³¤°ÞÆ–—žŸwk…‰“®žnÅÍÅ~ÝßÌ®¡uLKÊ¯– ¼ªfs®Á´›t^P‡«¯´ª‰r¼Å°Šj{¯¼¿ÅÐË»²¢ªØÆ‘–«¾›n„‰ ´¡r ÂÉÁ×ÚÊ®kJLÈ­š®ºž[v·Á·£wXP…²³±§ƒzÅÏµ„nz­º¾ÆÄÅº´¡¦ÖÎ›¬Á¶{†‰£´¦€¨ÀÈ~ºÆÖÓ°›cJLÅ²œ­¸Tyº¿±¦yWR ÛÁ¯…„ÔÙ¶‚wvª¹ÃÄ¿¾¶³Ÿ‚ÑÌš«Å´y„Š£³©†¬ÂÇ¶¸ÒÖ´”YKKÂ©›±´‰R…¹¼ª£{\T¼âÉª–‡ÑÙ»xx¥¸ÃÃ¹´²°œ~ÌÑ”‡¤Ã¸‚„‹®ª’¯Á~Ç»¶Ê×ºWJKÀ¦¡±³tUŒ¸·¡ Œ‚`—ÝÉª‘ˆ¢Ó×µ€xu£µÁÂ¬«°¯š€ÁÌ›‡šÂ¼‹„›©¨¤­¹Á·¢ÅÔ¶‡WJHÃ¤¥¯­qX™¶²™š””s‘ÖÊ¡‰¨ÑÖ®xˆ‚¢µÂ¾¯©®¯“s·Ç¥…ÅÆ•…“™§«­~¶¼´”¿Ñº†SJJÀž¥­§ai®»¯‘šŸ—q|ËÅ ƒŒªÏÑ«Š³Ä²º¿»«®­®•’ÃÅ ‚ŠÃÅš‡Œˆ¥³®¹¸³˜¶Ï½ƒPJUºžª¤š¼¾¬‹²ÝÆvqÁÅœ~‘°ÏÏ«ŒÓØÁ¹¿´¨¬ª¬Ÿ×àÉ¦‚‹¿¾™ŠŒs¤³~ºË¼¯ µÌ¸yLH[¹— ¨¥ÀÒÈ¾¨…³çß‡q½½œ{°ÎÏ¬ŠÌÙÄ¸¼­¢¨ª©«ÝÞÆ¡‹º¿œˆpq¢µÅÖÃ­¬ÁÉ»{MH]°‘›£žÆ×ÔÁž|®ããŸz©»ž{‹®ÍÖÈ’ÆÕÌ¹º¤›¢©§ª×ÞÄªz¶¸Ÿ‘„chž~µÇÔÂ±ÊÑÈºxLG[¬„‘™­ÖÖÂy¡ÛâÀ€¦±¡u‹±ÏÕÉŸ¸ÔÊ·¶—Ÿ©¦¯ÏÖ»ªy˜·Å­–‚\bšµÆÑ¸¹ÉÏÃ¸xKHe©˜ƒ›ÔÖÆ¦„”ÅßÈŠ™¬Ÿ‡±ÎÒÆ¨µÏÏ¹²‡š¤©®ºÏ¶£vš¾Ä³˜yO`~™¹ÄÌ¬»ÆÊ¾±tLHb¨©›”ƒ’ÑÖË¬’µÚÒ—¤ z…¬ËÐÅ­¶ËÊ¹²—‡—¥©­¸Ë´¦€›ÁÅ²˜pK`•ºÃ¾›¹ÃÅ¹º‹SJ`°ÏÁ”~‰ÎÕÐµ•‰¥ÑÏ¯…¢¢w­ÊÏÂ¨¯ÈÍ¿½ºŒ“ ¨®¸Ã«Ÿ‡›ÁÄ­šnO~a“¹Áµ˜¸¿·ÁÖÊkJ`¯ËÆ’~ÃÒÐ¸™‰–¹Ê¿†™¡‘¯ÅÍ½¦¥ÃÌºÀ¼•œ«±¶Á¦œ‹ÀÄ°³Rc’ºÁ°Ÿ·½´ÄÞØŠNX¡ÅÁ”€’¸ÏÍ¾š†|¨ÇÁƒ™¦ÅßÂÂË½©ÁÎ¹À·’›²µ½»›œŸÊ¾²¼¶~]a’ÀÄº˜´·¨ÁÜØ€Pbž¿Á¢›²ÇÌÁŸ„u—Â½›–¨×ÞÉÀÄ¼¡¾Ë·¾®ƒ–°·º»—˜›«É·«¿»cg¡ÁÆ¾ ¯ª¢½ÛÒ’Lc²Á«„Ÿ­½ÄÂ¢ˆc€·» ”°ÖÛ»¹Ã¶œ½Ç½¸ªn‹’¦·¸¼˜——°Á³¯¾~»gp§ÀÄ¼®ªœ¿×ÑMe{Ÿ½«Ÿ¨¬¼Ä©†^p ´£–³Ù×³´Á´—‘¹Ä¹³œpˆŒŸ··º¨Ÿ™½¾ ¬Á°n«ºÂÀ­¡„–¶ÓÎ€Nex•Ã´— ¢˜´Ä¯‰Xh‘±§žÁÛÐ°®¼°—¼Ã¹°g„ˆ™¶´º³Ÿºµ‡¨~À³‹º¿¶¿¿³™~¸ÏÌƒMny³ËÄ¤ ›w«Â¹ˆ[_¢¦£½ÙÇ©¹®–°ÇÁ»¬‹a‚…’³´º¸§¢µ©|¤¿»ªÊÅ²¸¿´†n†±ÌÅ„Ot{ÀÁÂª”i ¿º†_Xiš¥¥ÂÖ´˜¥¶«—»ËÂ¹¥p[|•²´¹»§²±‘m~¨½¹­ÊÅ¤®¾±„s…©ÆÅsTƒÀÂÀ¬œ‡aš½º™YTkœ¤´Ì×ÏŸ¡±©ž·ÉÂµžlTy™±³¸»«·«ph£»²®ÈÄ—©½·ux‚¢Ã¾s^€~ÁÁ¿±™xV·±˜^_±¿£¹ÓØÚ³œ«¥ºÍÌ¼”_Pt~”­©°·¸³Ÿi~` ¹°¶Ç½†¢º²pv€¥Á¹rl€~Á½½²“hOz¬‘‡i|ÆÁ¥¼ÐÁ¿œ•©£ŸºÐÕ½VSqx©›”²½°‹U\•µ®´Åº£¹±jv ¾µlzƒ¹©¬¯]Nx †twÂ¹šÀËž’” ¢œ¼ÐÔÇŒNRp~š§šŒ¨Ã©m~R_œ³¯µÂµ|¶­nw|¤»¯j|‹®œ¡«ˆUSkŸŠ‡y“¿š‘ÂÏ–Šˆ‹žŸ ¶ÑÔÆuKT€’¨™Š¡Â¦`NX˜¯¬»À¢{‘±¨vvy§·¦m„ŠŠ œ ¥ƒPSf’‹ˆ~§ºÂÍž‹‡…›™œ´ÐÔÀqHS”Ÿ§—ˆ›¿ ~TKV–­«·¼Š—¥£y~„§³¨u…›£ ¢yNS_‰€©¹µÃÅÍ¡ƒ•˜ž°ÏÒ¿fJO~”œ¨•ˆš¼™PKV”«²¹¶“«ŸŸ‚‹–¨®œwŒ™˜©¡ ‚MR^‚Šˆˆ¬³ÞçÌÉ©ƒ’”›§ÍÑÆ^GNz‘Ÿ§—…”¶~™SK]‘«®¶¯ˆž²£•Š¥«Œ~‹Œ£‚§ ž†PR\v‹‰‰§¦ÔçÐËª€”™£ÉÏ¼aHLvž¥•„¬–UJ]–««°¦ˆ¦´­”‹•¡¦†„‘œ©w¤¤›„TOTu‰‰‘§‰ÑçËÄµ‹‚ˆ’–¦ÈÎ¼^T]v¤“ƒŒ~£•VH^–­²® ƒŸµ°‘“›Ÿ‚†’¡¨wž¦œˆXMO{ˆ‰”£…ÏåÑÂ³‹{~†•“ŸÁÌºixŸƒž¡Œ€‹—\K^“³»±Š¬¶®Œ’‘‡™š~‡Ÿ®u•¤›Š]M_†ˆ–¡»ÛãÑÁºŠzz‚•˜»È¶s˜£‹™  ‡|~‡”˜gMh–³»°›Ÿ²³´–˜•„““|†‡—§‡¢œŒ_LcŽˆ—¡ËÙâÓÏÖ˜{yƒ’Œ“»Ã®„œ ’¢¦ z…–mMh³¶¨›§³¬µšš£Œ‰€…„‹ ”†žž‰cKv|‰†“šÐØâÙÏÝ«y…‡·¼¤ˆœ™£§ž|Tž¥‘”sR…ÂÂ·¥š®´¥´˜Ž¤Š†‡~„zˆŸ›Œ˜£‘i_˜s‡…Ž˜ÒÔåâËÙ¶„yŒ…®µ¡”›‘£§œ{±»˜’[ªäÜÁ¤•²²ž¶¨w­Œƒþ~v‹¡š‹“¢šqƒ¢y‚}™ÏÓäãÄÒÀ‘|‡|ƒ¬®£’›ˆz¢¨›m§ºž„^«áàÄ ’¯¯“¶¯r£˜|qŠ™•š¤„¼µ~‚qÉØèäÆÄ½¡|~¨§ŸŸšz¢¨g—·ª‹‚fÛàÉž—®§·²m–¢z~yeŠŸš–Š•¤µ¾·~{}kÈÞêåÉ©¾«Šs„ ¬ÅÁ qz¢¨›^|­š‰ƒj‹ÓÞÎ›™«¡’µ®oxº„‰ˆf¡ž Ž”œ¸¿¼y|kŒÁÙèäÑ¸­“yi€´×Ö«xˆ¢¦‘Wl›~‡l|ÇÜÒ˜™¦—µ±qu³‚~™žuŒ¡£¡’‘°À¿˜wxm…¿×æãÏ¡®­¢ƒtgv–¤Ï×¾•–¡¥ŒVa–¢µ£us½áÚ¨£®“›²²vq™†›œv}¥¢¡”Š‰ž¼Ä¬{vn„¾ÈÛàÉ¥£­¦…qe{™ÃÕÂš– £†Op ¢¹¯„o½ëë»¥±—±¬trŠ’~ª®™y‘¦¡¢—‚†—ºÃ³|to{¬»®ÏÇ¨—¡¡“|¤–ˆ‡¤ËÈ ‘ž Xš¹·×ÆŒh­éìÍŸ«£›¯«xoƒ¢°‘­Ù¦¡˜…›²Á»™wo~®º®Œ¹©––”˜”Â¹„|€»Í³Žˆ|„­¸ÀÙÎ“lŠš«t¡¥š«¦…m}~˜‚ÄÔ¤•¡›Š ¥§ÀÆ¾‘t‘¶¹±‡}£““•¢Ÿ¿¬…~~¨®¢’wlt›¬³¾ØÏ—p‡Žse˜¤œª¦ŽjxŒ™—‡ÇÏ§ šŒ ¥£¼ÌÄ¦{œ´¹¹’op’“—©©£‹†‰š›œ––}ƒ ­œ·ÖÍ“o†ŽqVŒ¡ «±¢oFrˆš– ÈÀª†ž›“¢µÉÆ¨… ±·¸˜od¢’´—y„Œ‡{†—œ˜š¨¬š°ÔË“q€ŽlQ}ž ¨²¬omŠ˜¡ÂÈ¿$
+       tile $00000205~”µ©ˆ~ˆ­—«©Œz€ƒ¬œ§¨‹w|†½šŸ§‘rzŠ¾™ž¤m~‘»˜ž£’l‰•¼• Œm—·‘›ž‰u‘–¯™œŠ|””©‰˜š†‡”¦†•—‡„‘Œ¤€“–ƒ‹… zŒ‘ˆ‹‰€žuŠ’†ˆƒ€s„ŒŠ‡Œ•šgƒ‰‹®·~Ÿ`”’»Ãœ\»¿ŸÀ¹™YÏÛ¾Ä®•X–ËÜÍ´¨™PˆÅÚÖ´¯T~½ÖÛ»¥Ÿ¥´ÕÞÂ¢ ·¸°ÔÞÊšŸ·³¥ÏÜÎ›°¯¦ÌÙÏ œ««£Æ×Ï¤š©«¥ºÓÒ²”žª¥µÎÒ¾“¬ª®ÂÏÁ’¢·®©¹Ì¼©¸±¢¤Ä~¹Œ©¶³š¸µ“«´²‹‡±²“¥®«…|¦®—  Å¯uŸ©š”ºçÏˆ—£œ‡¸ãÚ”‘„žÝÝ¢ˆ–…–ÔÜ½w“ƒ–ÈØÇ€‡œƒŒ¹ÓÆ†‚—…ŠŸÇÇ{–‰‰”ÃÆ™wŠ†’¹Â­u“…„Šª¾²s“”ƒ¹«z‹¢˜°~¯„‰¡žŒ}³®—ƒŸš½µŸ‚›“™›²‚›š™¥¥‹¥¦œ ÁÊ¢ˆ€«œž¾Ê·…~¬ŸµÆÂŽ}ªžš«Á¾–§ ™¡¼¾Ÿ‡¤¤™Ÿ¼½¨ˆ§£—›¹½°•°¤—š«¸²š³¢–˜£³´ª  –—œ¬²¯“””¢°ª˜‘Ž‹—­¬$
+       tile $00001021~Œ½¿ŸÎÐÊ¿Á¸­¤Šm„À·±|…ˆ|xŽ¶¬š¨©“œ§£¡ƒ†„š—¨£±Á¸¸¡mrˆž¯•ribjyŠ’¨žºµu¥ÍÐÈ¶»´–­¢‰mŽÃ¸®‰~…„wxœ²¦œ§©¡š¡ ¥ƒ…†–”¡Ÿ·ÄÅ¸œmt‚œ¯žre_hyŠ”ž~©¨º©g›ÏÎÄ­¸»Ÿ­Ÿ€eÃ¼¯~‚y{¡°Ÿ•Ÿ¦£˜›¡§…„…““Ÿ—«ÂÅ¶ tu~¡¯§u`^gx‰“ž¡··‹f¤ËÌÃž±º«¨œ{`©Æ½¬‹ƒ{u¤¯Ÿ¦£¢¤–” ¦†‚…”“¥¿Æµžˆ…ˆœ­«ya[f{‹—~œ™¹¯wb¬ËÉ»•¦·³¦—la±ÉÁ­…{uv¢ª¨¼»¤¥•›¢ƒ‡˜”•ˆ’¼Åµ®Ëµ­¬ˆ_\dzŒ”™’¹¬bb«ÉÆ¶”¡¶¸£‘fg½ÌÇ¬ƒ}†{v…¢§§¼¿ ¤•ˆž—ƒ‡–˜zv²»°³Î½¬«’b[cyÿ–~Š·›\k¬ÉÄ²Š–´¹¢…dmÁËÆ£x|‰„Œ žš»¾²¡“†„˜–„‡—±¥zsž¡°œŒ¶ËÁªª˜g`dz–“y³†Yu©ÅÀ¦|Œ³µ¢^m¿ÉÄžwzŽ²§œ•žº¿·£‘ƒy–†…›ÇÃzhœ¢­š…§É¼¡§Ÿrtz’–~‹xÌb™¾Æ¹Ÿu‡²´¡€_w¾ÈÂ–iw—·±š™Œ—ºÁ¹¡Ž†nˆ•‡‚œÄÈcœ¡¦•‚¨ÊÄŸ¥ ‚‘Œ|–˜…mÑ¢~ÊÓÈº“o°³¢x_z¸ÇÀ—cw•µ«˜•ƒ‰½ÃºŒ…j{‘ˆ‚›¿Æ^š¢¦•¡ÓÌ±¢ ƒŒ—~—vlÎ¥zÑÞÓµkv¨±¥ub¹Æ¾]n’³¬–ŽwŽ¼Ã´Ž…fxˆ“ºÃštž£¤¢ÙÔ»¡Ÿ‰‹Œ‰—”piË¤‰ÔàØ´‰ft§®žxƒŠµÄ¹„XmŸ²­”„pˆ»¾¬’†juˆˆ‹”³¿ ž²§£‘}ÜÖÄšŒŠŠŒ~•ŒhbÆ§ÓØàÖ«ƒ_n£¬|†Š±Â¶}Xs¤³­e{¹½¥ ˜Štl‚™«œ«½ª¢±ª£˜~“Ý×Äš™Œ€‰“†lyÁ¸ÝÙßÕª}[i¡¨‚†ˆ¬½´qTp¥¸¶”lb†´¹š¡ŸŒzo}Ÿ®¥¤»®œ­®£•}ÙØÁ’•Ž€‰~Žƒ{ˆ»«×ÙÝÓ²zZeœ¦•†ˆ¬»­zUr©»·šf]~µ±›§¨•ps•¯¨¢´ª™¬¯¡—|†ÏÙÈ‘‹yˆŽŒxŒº¡ÎÖÙÎ®{`e˜ª¡……‰®·«mn¦··¥l\€±«”¥¬™†ul…®¨œ°¦¨±¡–€uÐØÌŒ‡‡z~ŠŒ†qˆ‹µšËÂÄÇ¹{]fš¿¼Ž„‡¬´­œn£µµ§|gŠ«¥ŒŸ®žˆwdvª§ ­¨‰¢±¢•xlÂ×ÌŽƒƒz‰Œr†ˆ®—º ¡¿°{_h›À¼†¬±¬˜ˆvª±³­©…‚©Ÿ…ž­¡”y`o §¡©£qœ¯£—}m¿ÓÌ’x~~‹‹yq‚‚§™¯¢Á³~}z˜Â¹–€…¬­©“‡Š¶±®­­•Š£›€…¬«¨ƒhh•¤œ¦¤l˜ª¡œŽ·ÑÍŸr{‹‹{zƒ¥¢ªŸ¦È±Ž•”À³—}ƒª¬£‘‹´³¢ª¯¢›Ÿ–yw¦­¯›·•‰¢¢¤ rŽ¨¡’½¾ÎÌj~x‹Švx~¡¬¦ž«Í³™”š¨¼°˜|†ª¨¡~Œ´²•£¯§šš•€i¡®¯§Ø·‡¡¡£žn{¢¡¹ÌÊÌ—iuˆŠz|}uŸ©¢­Ë³™®ÊÄ®šzƒ¥¦—Š~³±™¬ªŸ˜˜—ˆ¢¯±¥ÒÐ•Ÿ¡ ˜rrœ œ’µÆÉÇ~hn€‹‰{oŸ¦ š­È³§™¼ÍÄ«˜v¡¢“ˆw„­¯‹Œ§«ª–š˜ˆ¢°±¢ÁÒ˜™Ÿž–oqšŸšŒ®ÀÇÆcnyˆ†€yyiž£ž˜§Â¼¨Œ­ËÇ«™rxž ˜…v‚«­ƒ¢«¨˜š•†ž±²¤µÑ³— ’kg• ›Œ£½ÊÃ~ elq†…‚~…ŸŸ˜¡¾¾ªŽ±ÈÈ«›otšœŽƒm¡§‘ršª¨›˜•‚˜°±¥›ËÂ™žncœ³¢ˆ“»Í½ gjjz„„€–Ÿ˜“Š²À¬ŒŸÅÃ©–mw“™s„˜œ”e‰¤©¡••€—­²¦ÁÃ›Œk_¦º­‡‡¶È~Ãgdeqƒ„ƒ’–ž–Ž¦Â»£ ÀÆª•pr–‡qƒ–—’i~«¤šŽ{¬°§ƒ®¾©¡¬’dbªº«‚„´ÈÅ¦ja]l„…”•œ”ˆxnœ¾¿­š¼Ä­”}wŠ‘‡Š}‚•–•bn™ª¥’„|¨²¦·µ¸ÁŸh_¦¹«p­ÿÇ~§h`[cƒ„”•˜Œ€ob‹·Ä«‘¹Â°’€q…‹š•‚’•“lc¨¡“„s„©®¦†‚²·ºÂ¡tk¡µ¨zp¦ÆÆ¦hrrƒ‡“”—‰|g`„µÃªŽ¸À®‚vŒ‘š~”’iWŠ¤ —}s¦­¦Šn¤µÁ¿™‰†›³§wjžÃ~Æª¡¼’ƒ‰‘Žs`Xw©Ã«²¾­‹€z{Š’š—{…”‘tP££–}lvŸ«¡†_—³Å¾—‰‡±¢uc—ÀÅ¸É¶¹¡~ƒŠ‹Œ|dXUy¤¼¸Â¸½¯Œ~‚y’—p€“rPv¡¢’|hw¤‰_Š®Æ½˜†ƒ¯©˜l‹~¾Å½Ì¾·ž…Š‰„†rZSSuŸºÃ¾ÅÅ°{€uˆ’–ƒf{w]j¡•|c‚¤¥›„]rªÈ½’†ƒ™®·º€‡ºÀ¾È¾° ‚ƒ‰~}kUQ[n”·Â»Ú×¹{w~x†”|]l‹€€i™¡”}cƒ«©–„`_Èº’†›©·¹{~·¾¹Å·«¡……†twucQNYl‡´Â´ÖØ»}q|x†“|Yi‡Š‚}m—¡–~\†ª¨”€bY•Æ½‘„€šªº¸zw³»¶Â©¢£Œ…„jpra_Taj„¯À°Ï×Èzp‚”‘gTgˆ‚}q«¢—ƒ`¤¥–“gR‚Ä»…€™°¿º~zm¬¸¹À¶¤­˜…pvušŽ…mw«º§ÄÔÐŸr²Û¸œ“_X_ƒ†‚z~¸¦Žxy¥§¡¥€Rp¼»’‹˜·ÈÀ|a®¾½ÉÍ»¿µ‡€—¡m†ž°Ü•r²¶¦¿×Ï¦kµÝÐ£†WW]|†t‰¸¦š€u¢¦¤£ˆQh»´’“»Ê~Á}_¦¸¼ÌÈº¾¹‹ƒ¦ªl‹žÇâ¾}«²œ¼ØÑ©m´ÚÐ‚QT^z…€y”º¥–Žtœ¥¢¡wRj±¬“’‘œ½Ë¿|Z ¶¾ÌÄ¯ÁÀŠv¡ªp›ÂßÀŽ®­°ÖÐ¯Ÿ®ÙÒ¡wPT_y‰€vªºŸ“Ž€sš¢¤¥…Ukª§‘˜¤¾~Ê¹oU˜´ÀËÂ¯ÄÃˆp˜©oŒ˜¼Ú½š´®˜ªÏÏÁÑÀÓÑžp_p]zŽƒw­µ–Ž‚w‘¢¦¼¶qm‘’¨»ÂÉ»lSŽ²ÄÄ· ÃÃp›ªv‘“·ØÅž§® °ÍÌÃÎÁÏÒ§q¥¸u|­®Œ‘ž’¢ª¿Äšy———©Ã~ÄÉ¸hO‰¯Ä²ž”ÁÂ›m—­}‘‘žÎÄ—›¤³ÉÍ¹ÇÃÎÐ¥wª¼‘}Œ†­©ƒ‰Œ•²™ ¨½Ã´…Ž•Ž˜¬ÅÆÇ©eP«Ãœ†¿Âžg‹¬’Ž•ÉÊ†”’­ËÊ²¾ÁÎÎ¬qž¹ €‰}«Ÿ~†’±ŠŸ¤·Á¹šŠŒ—­ÿÅ~Ã¢bNx§Â”‡Œ¾Àc€²–’ˆ‡ÄÊ•Œ‚z­ÃÆ§¯ÈÓÍ§g³¨„†z–¦“x…Š«‰š¢±¿º¥‡†Ž—©ÇÈÁšUKw©Â–‡±¾˜d|®™ÀÇµ¯ˆ|Œ¾Ã¤¡ÈÒÏ­h®®Šƒ~Ÿ¢…nŠ”«…™¡«»·®‰…Ž’«Æ~É¿RLrªÁ—‰‘®¼¨at¥¢’„ƒ¼¼»½˜ƒz¢¾žŽÆÓÏ§u†©Š€œxk‰™¤™Ÿ ´´³‹~Œ¤ÅË»…OKr¯À–Œ’©¹£_jž£¨´§²¤ª¸ ˆ{‰»™€¾ÐÏ®‡“¤~Ž•mf{‡—›|– ›¯³‘•«~ÆÈ·NKp®½™“£µ£_h”¦¸È´¬£’µ¤‹~s¨˜uµÑÏ­…¡’‚™ž—kfzŒš˜x–˜©²—£¡“©ÅÉ´xMN}³º—Œ•±¥``Œ¦ÁÈ¹¬Ÿšµ¯’€k–v©ËÎ±Ÿ˜œ—li{‹˜•w“—„¢°¡Ÿ •~ Ã»¢yLP°¶–‹•™­£fY…§ÁÆ¿«ž¥´³˜…¾Ÿ}ŸËÍ±y˜œ—™Ÿ™‰Š˜Œ—‡v‘ž’š¯£¢ —¡Â¬ŸƒMRŠ¬³–Ž•´¹™gZˆ©·Ã½©š—³´£|…¼·{‘ÅÈ³’q“¢ž£›¬·—•utŒ›uŽ¬¤¡ ~™–¾…^^¨¥”’­Â¼™ppŸ·­Â¿ªšˆ¬´ª€y²¾††¾·³j‡¶¡¦¢‚…ŸÅØµ•qs‹˜g„¥£¡Ÿ™”«—š€fž‘¢›Ÿ²·ÀÀ qj©À­ÀÁ¬•€¢µ­‡r¤º¢z—°³‡eƒÁ­§’u…žÇÖÇfv‡™ˆkrŸ ~•Šˆ”—f·ÊÃ¾¯´µ¿Àªrb“¼§¼À³–sš²²ƒh†³­v~¬±Šcƒ¿º’sq‰™½ÓË|mt‡‘ˆŒžž›”sp“|u¾ÖÖÅÈ¾´¼¿­v^Š¶¢¸¿¶“l„¯³‘isª¯‡¨¯]ƒ¹·…rr‰”ºÐÅ‘™ƒ‰”»§Šš~ š‰ZlŠŠ|€ºÔÕØäÑ´¹¼®wYz±Ÿ±½¸“lu«²¡mfŸ°“x¤«’^x®²†qv‡Œ¶ÎÆ»º–†Š”¹¦‚˜ž™k\w„‡y½Õ×ÝãÛ¸¶º°{Ym­”¨º·“hcŸ¯¤pf¢¶žx™¢Œ\~¤¨„rt„‡ªÊÅ×È…†‘¼µ~–’ml‚…ƒz—¿ÑÔ×âÞº¯¸®„Wc¨—¥¸·˜‚ƒ­¦zg–´«„Š’_{›„vv…”«ÆÌ×È£‡~š½¿–‘Ÿ‹`kƒ„‚{ ½ÍÏÏÞÞ¾¬´¯ˆW\£––µ¶šž ‰§¨„h‘°§ˆŠa~‘’‚xz¥·±ÂÍØÆ¦“{ »¿~©¥ †\h‚ƒ~‚¦ºÅÌÃÚÜÂ©²­WXž’ˆ²´žŸ®™¥¦Šk©¢ŒŠbxŠŒ‚‘¶µ¯½ÎÖÁ¦™†ª´½³À¤‚Xf€‚w~¦·¾Ã¹ÓÚË¨¬«”]X˜‰{©²¡¡ÐÐ§¤—x…£žŠ‹gu{{„§ÕÉ· ´ÐÔº¥ ­°«~®¸¿¡zWe€u„¤°»½³Ë×Ï®ª¨gX•‡u¢®¤¬Õ×±¢š€€”˜“‰Œ…gptu†ÁÞÒ¸ž¶ÏÐ²¦®ÖÒ¨ µ½©ySa~€t•¢­µ¸¬¾ÓÏ©¥«¶W˜ƒrœª¦©ÔÕ©šˆ{ˆ“‘ˆŠ†hlqvÏàÑµ—¯ÐÃ¤¥»ÛÌ§š²ºªzR_|~~˜¡¤º²§´ÎÏª›©·§_$
+       tile $00001021~­§–‰Ÿ¹¨…z_n—¨²—yhoy™¤¥”’™‚bn³Ç¿¿³}Ž·½°˜­h›¦†spª°—‹«¤‹†–¼ÂÃ”¼³¬©“‰¯·‡ˆ‡|^g—¦¬‘yim{›¥£ŠŠ–†e{±¿²ºµ’¸¼²˜ª›b‘¯††r¨ªŽ¬Ÿˆ†œ¾À·Žµ~±«¨‘‡´±ˆ„…y^hš¤¥Šugiž¦ †Š‘‡lˆ¬¹¡ÀÈŸ•¸¼®›§•Z’µŽ‡‚u¥§‡™¯œ„ˆ¥¿¿¸Ÿ ¢¦¥Š‡·²ˆ„„x]g—¢ Šqeh›¨ ‚ŠŽ‹n‘¨¬›ÄÇ«•¹¼µ£“[†µ¢Š†v ¡¡¸¬†‰®¾¸—‡~§¯¤¤‰³¯‰…‰ybl–Ÿ›„mfp€›© €•›uœ¥¢¼Ã°’²¿²œ¨›\€°¯„y››}¡µ¬‘Žµ½²‘‘§®¢£ˆƒ·¬‰†Ž™{o‘œ–ƒjer‚ž©›’–¥Ž™ ‘‡®¾©’³Å³¢½¶„„­·•„z––}ž®ª™”¹¼©Ž~Ÿ¨®ŸŠ²ª†‡­É¯z‹—’ƒhkv€Ÿ©•t––¦™š}¤»¤’£Åµ »´›Ž©Ášy”˜‚—¡­¢–»»›…§­š¡¥£±¢…ˆ²ÊÉ…Œ”}dmu¡§‡h”˜žž˜pyž¸Ÿ‘Ä°¢²ªšŽ¥Ã …zŸ¼¡‘“©¦Ÿ¸¸‹~~œ§«–·É»¬˜~ˆ®ËÊ‰ˆŒdpv‡¬¯‹[‘ž¡¡•€nrœ´œ¦Áµ ª¨›’¡¿¥…{¦Ã³‚Ÿ©«·µxx§©”¹È¾¨“{ˆ©ÉÉœŠ‹{ert°³ƒU†¢¤¨‘san™¶š˜¾±œ£¤œ–ž¿°„|¢Â´†jŽ§±µ®~rs ±­·É¿¥†vˆ¬ÆÆ¯€‰‡{l€‘°°tTŠ¢¤¦_`jš°›”»±›š¡Ÿ›œÆ¾†z¾«~\€©µ´¥ioÊØÀŠ¼È½¡‰€Š«ÁÂ­‚…†|w‹‰’±¯oQz¤¥©…^]gœ³¡“…¶²–”Ÿž¨ØÌŒy˜½ªoTu©¶²~™cƒÖÛÆŠºÊ¶›¦•­¿¾´ˆ…„ ‰™¯«iP³¨©‚XXeœ°¦œŽ°°™”™¡§ªÕÏ“w’¼±gSm§¶¯‡e™ØÙ½šÔÛ¼–¡©œ®»·´ƒ‚‚¸Çœ›®¥aV¬¾±©yRTgš«¦§«–‘”¡©¬ÓÎ”t”¾ÊrYj¦²~§~i±ÙÖ±žâàÂŒ©ž®µ²°žƒ‚‚ÁË¢ž¬£a^²»·¬{TRe˜ª¥ž—¦ª”‘¡©¨ÑÌ‹t˜¼Ë}o£°¢zhµÙÓ¯ŸÞÞ¼…Š©¡±° ©ž€~®Ê±¦«—X^®¸¸®xTRn–¨¦›”¡¥‘ž©´ÎÇ†t—¶ÉÊ¬}ž~«›{l¹ØÐ©“ÝßÆw„©¬¶§¥‡}£ÈÃ¨¨‘`o©¸¸°}TSn•£¥›™Ÿ¤ŽŒ‹š¥±ÌÀ‡s—²ÇÈ°ƒ“¦—}vÁÖÍ¨ÖÜÃn©®µ¥†œ †}|˜ÇÁ±¥†z–¢¸¸¬|WRo“¡£›–žŒ—™˜£¹È¾r”©ÇÈ±ˆ~Ÿµœ½ÔÌ±ÂÑÁh}§²´›u”‡}yŒ»Æº­‰˜¶¹®XVmŽ¢£••œšžÅÉ  ¹Ä­zv“§ÆÇ¨‚ ¸¡Š˜ºÐÆ­³½Âks§µ®—rŒš’xz€ºÆ¿·|‡–œ¹¹¬|YWlŽž¢‘˜›¤Ñ×²¢ºÂ¨ut”¨ÃÃ~xœ³£‘­·ÉÁ²ª´·½p‰³·ªˆj{’”{x°ÅÀ²y†”š¹¹¬~ZWlž †‘™•¡ÌØÄ¥¹¿›vs“¨À¼˜|ƒ®£˜°³ÄÀ¿¥³¹»qÁÃ¸¨~gr–}y{¥Ä¾´ž—º¸«€|~oŽžžx—“¹ÕÉ¯¸º–sp©¹«~¢‰{©¥¡­®³¾Ç¤´¹·¾½´Ÿƒgb…{zy¨À½¼¹Œ˜º¸¬“º«tŒœšrˆ•“²ÑÉ±·¶Šlm‹§µ©¢”x¤¦­±¤¦½Æ¦²¶®w¨À´¤€a`|yy¡À½»¹šˆ”¹·¬¡»°xŽ–nˆ”’”®ÍÊ¼·³‡gr‰©°~§ k¦·­Ÿž¾Ç©¯³¬r–Áµ¢ƒ]UyŠ‚|w¥¾¼··›…”¶¶§§²‹š“yƒ’‘£¿ÉÄ¸«€bn‡ª±£œgŽ¦½«•˜»É¨®³¥y½ºŸ}ZPu–€}¤ºº¹²˜‚Žµµ¦­ ‚‡‹™ƒ¢¦’ŠžµÇÈ¶¨}_lŒª~­¡˜}c†¥½¨ˆ—¸Å¨«® †¿¸¢vWNnœ¢„‚¦¹·µ±–~‹°¶§ª¦„‰“–„¿Å–…—®ÃÇ·žu\l‘¬®œ•{r§¹º¸®ºÄ£©©žy}»¹ yQMfœ¡…‘§´³µ²•u‡®²¨®¢…ˆ”‘…¸Å {”¦¿Ç¼œt\q~¨©—’ytª¸ÄÐ´½Ã¢§¥™€|¹¾ vOKd™ ‰•¤­°µ°’oƒª¯§®£‚ˆ—{—ªÃ¦s”¸Ä¼•s[s’¨¥•olŽ«·¾ÏÅ¼ÁŸ¤•|x¬ºžtQI]—›ˆ’¢ ¸À´m‚¦¬ª¯¢€ˆ˜‹…–›Á¬x±Áµ_u~•¡ “†ld•ª±»ÌË¸Àš¢™’Šv°»šsPIXœ™¬¡ÊÇ·e£©¨¬ŠŽ™“†¾¸}‰Ž¥»¬¥‘_x–œ–ƒjgž©¨·ÊÈ½Áš š‡w£³Ÿs[OW›³Ì®˜ÉÇ·Š^¨©¥¨—‹•“v¹¶šÆœ›´«¥Žb~}”›œ’bp£¨Ÿ°ÇÈ¼¾™¥±™ƒt™°ž˜rY‰—±Ê¶£ÉÄ°~XŠ¬­©§‚““…l¯µ©Ñ¬˜°ª¥Žcy–›’€_u¤¤™¦ÄÌÃ½™©¶½—u’«›“«™\‡”§ÇÀ­ÍÁ¨~VŒ©­«¥ƒz’˜|a«²«Ï²”«¨¥Œ~f~‹’™€\r  ‘–ÂÉÄº’§·Ï³w‰¡—™¨“]„”¡ÄÃÂÈº wU‚¨°¸©vq“˜‡g]š­«Ì´¥¥j…Ž—„ev›Š ¼ËÃ¹¥¶ÎÄ~š™ž¦„X‚“”ºÈÇÇºžlTƒ¦³Á·u_Œ–œ[T§¬Éµ‹œ¦¤~‘m}‚‹“Ž„q{š•ƒ‘¹ÇÆ´”ª¸ÌÓ˜{”›£¥rd„˜•­ÊÎÉµŸhT©³À±i\†šœZN†¤²ÊÄ›®¯£‘w}‘š’†y}Ÿ™‹ˆ²ÆÄ³œ¢²ÄÔ²zŽœ©§ye„—œÉÑÇ¬˜fT|§³¾¯^`‹œ›xULz¥µ¬»¶¯~¤•~xx—‡|zœ•Š±ÈÇ°ŸŸ®ÁÓ½ƒŠ¦±©icŠ•ˆˆÈÐ¿¥”^Ow¦·¾ªW`ŽžšsRLh¤·¨±¢³­¢“{ssˆ•Žˆ|y”’‡¯ÆÄ°¡™¨¶ËÆŠ‘«¸°fd”wÇÔÄ¤\Nm¥¶½¦V_ž™lPJfœ·¥­§²~§ž–}nm…“Ž†‚ƒ‚¨ÉÂ®¢˜¢­ÄÇ–˜²»´cj‘Œz†ÉÑÃ¥‹XPk¡·½ªu\ž˜nWI^•³§¢±¯¢œ”{ie€Œ„ŽŽ‚|©ÇÄ­±«¡¤¾Ç¡¡³·­nku“ÅÏÀ¦•fTh¡¶½¶`•x‚LU°ª¡³~¯œš}g[zŽ‰€’—€w©ÄÅªÊÃ¥™¶Ä«¥³ºµ“zŒˆm·È¸¥–rVg¡´¼´˜eˆ™“’ÆWX…®§¡°«•˜|gYzŒŠ~”˜v§ÁÁ¥ÈÁ­—¢¿¶®·½ÁÒ´Žƒv¢±¾¸¥sVgŸ³»¬e€”ŽšÂ…k€©ª¤~­¥“•‹~m\}Œ‰w„“—‘xv©¼¼£ÅÀ«’”¶·´´½ÀÑ¼Œ‚~¢£§¶¤ŽnTg²·ª‚fw¿Šyy¥®ª± Œ’‰|raƒˆw¢—˜wr§¼»žÁÁ¯{¬´³¶º¼ÐÂ}Ÿ“•³¢ŠnPfž²µ£‚do„Œ °‰v£­~«¯©„zpb‚Œ†}£™–tw¡·¸—¿¿®Šo ž ¯·¶É¾‹|Œ™…’°¢‹oRh¯´¡}\k~‹¡†„zŸª«¬´™ˆ€zl`€ŠŠ£™•rs£±¶–µÀ²‹l˜˜›¿Æ¥Ã¿’“x«¡‰tRm˜­²|Xg{‹¡z…„}Ÿ~­ª­µš‡zvhb~‡‘¢–•ou›°¯“²À±‘‹œ”™ÁØž½¾œ††cx¢°Æ®f‰ž¤¡™yU[xŸƒ›´«­´¡ƒsph`}…˜ª –‹ru’­«³Á´“™€‹ÃÒ“´½œ‰Œ{^€¦®Í¶b‹ –xTSY[zŠ•Ÿƒ~¥Ï¹¯³¦otf|ƒ‡¢³©–‹tq¨©Ž®À°kcžÃ¾‘®º§‹ˆmd§Í°Î·l‹ž—vPO`e|‰t¬‚„¯ÖÌ±²«‚ÃÂ Ã²—´·ª•‰mk¢¤‡°¾’_\]xŸÄ·“ž·©‹g|ËÍ³Íµj†˜vOObm‡‰n­ƒ~†ºÙÎ«±±ˆ«Â·¼ããÙ½¹©’‡qjŠŸŸŒÊÁŠ_[Ym¦Â®‘’²°p\ŠÐ£¶Ì»sxš–vOO`m‘s­‚ŒÇÝÁ ®¤¡¼¾°ÓäßÒÓ½£Ž†mgƒšÆÁžbXVk¯¿®‡«®‰m_—Áš½Ï¿Œ{˜“uOT^jŒ“lª~˜ÍÝ³•£¢ª¿¹ ÑãÝÉÐÉŸ‡„no{—™“¾Â©eVRnµÀ¦Œ§Äžg`¤¬–¼ËÀ©{•’nRUYm‹“e¨˜ŸÈÖb—³¾±†ÏãÚ½ÈÊ „€‚šˆ”•—µÂµrVNu³¼¡Šy˜ÒÃka»š“¼É¾«w’nea[f‰“b~¥§¼¾n`‰»¾§wÎà×½ÄÍ®‰|w® ‘“ž§Âº{TLq·»¡‡z’ÒÏuiº“»Ê¾±Œx´µ`j‰‘’^¢š«µ¾sY†¡º¹ŒiÌÞÒ±½Æ»ŠzkŒš˜˜›À½’VMw¹º¡‹r…ÑÍy…¶•¹Å½¹Œ†ÆÁz‘‘~_œ«·ºt[w©À·{rÐÝÏª¶Á½“{j«¨ž—•»À¨[P†º·ŸkÑÌ…š°–‡°ÁÁÈ¬‹ˆÁÁ„¿ “‘W™ž«·ºkVx±¾¬m‚ÞÝÉ¢¢µÁ™xgz•³›”Š¹À¯iV“¸´žnvÊÊš¶­•‚´¼ÁÇ´‰†Á¶À¦•~Y•›«··rPu´¼ªb®äÞÃœ¨¾ |cv”«¦wµÀ³kXš´¬œe€ÄÈ¯¼ª•€«»ÂÆ²ˆƒ¼¦Œ½¦–‹U—«·¶rOuµ¹£b¼æÞ½– · ‚_r™¡§p¨¾±vf›¯¥™^…¿Å¸·¡’„§·ÁÆ½Œ„‰«™x²¨~š‡R‹–ª·µlNv²¶bÊæÛ¯’€¬§„_|ž §£h¥½´{rž¨Ÿ—lƒ¸ÂÇ±–€¤´ÃÇ¼„†¢—r¯©š€N†”´¹¯lTŠ°¯Šv×äÕª‘r|ª§…^{žž£¤hžº¹‡z ¡™–Œ‘µÅÊ¦Š‡ ·ÅÆº’„‡™•l¨©œzN€“³¸³‚SŠª§‰ÂÞãÏ¤xnœ¦‰c‹Ÿœ¡¡$
+       tile $0000101F§œ›’ž –¯ÂÆ±€¤­¶º oj·™Åžv†‰|u€” þ›~’žª«Œ§ÒÉ’p{ŒkQp›¡ª±¬pgŒ˜«ÇÉ·§u—›”‹¢ÂÆ²…¤©µ¹Ÿnc«°Ì¨ƒsmv”  –” ­¢y¢ÏÈŒp|‹lSpš¡¦¯¤jk‹“«ÉÈ®¢}“™”™–ˆ•©·­š–´¹¡n\›ÂÎ§ƒ€{lhr”ž›~“•ª´¡o¢ËÄ‹…•‹qh§®£©¯¡ll‰“£ÊÊž¡m˜”˜™‡’¶Æ¹¥¸¼º¥w`‰ÉÍ°‡~tidr•›š›’—®µgÇ¿°º’‹mp»µ ©­œlw‘«ËÊ‚že†——••~ˆ®Ç»§±ÖÅ½©~izÅÌ»Š{kim—››˜~š”š²²‚h¦Ã³¾¶‰kŠ¸¯§«ªy¦™©ÉÃ{šb‚•””“|y¡Ä½¦²ÒÇÀ¨}it¾ÌÂ‘‹…lÆ¬›š–• ³¬qh¢¾­•Ä­†pˆ´¤š§±Ö·ª­¤µÉ¿u™]x“˜“‘sp¡Á½¯ªÉÈÂ¥zko¨ÉÅž±ÅšÉ²ž~˜’‘ ³¡Zkžº©œ¾¦Œ…u²¢•¥ÇàÙ¶®¦¹Ç¯œ“Zy’––º©„˜ºÀ³ªÄÈÃ¤~ikšÇÆªÆÊƒ¬Ì´ž•Ž‘¨±”Ziš²¥­¯Ÿƒuš®’£ÄÞÛ­¬­½Æ­ŸWn™ªÔÍœ¬¿¶·ÈÆ¦zikÂÇ¯ÂÁ…—Ëµ~ž“Š•ª­‰Ui™ª£µ©žŽƒxŸªˆ¢ÅßÙ¨¬¯¾Â¥œ‰Vn—¨ÕÏ›§¿¹˜¡ÆÇ©rfd†¼Ã¬Ã¾p˜Çµ¦‘‚˜«¨oSg–¤¢³¥™‡‚}›¤z‰¤ÍÝØ£ª³¾¾—˜ŠZf‹—¯×Ë•˜¢»´ˆÃÈ¬nfb‡ºÁ³Àµp§Ã~¶¼´„š©¡dSg“Ÿ«°¡”€¢ l†£ÊÝÌ›¥µ¿·’Œ‚Xh›¹Õ¹•¡·³‡ÅÆ¬oae}°¾¼½¬i•ÀºÅÈŸ©˜]Wd›­®Œ{€‡ –`„¥ÔÛÉ”£¶½´|ˆ}ZežÁÑ¹{‘´­}~¾È²k]cy¥¹½¹Ÿh’~¼¸ÃÊ¢¥…SVdŠ™°©›‡xƒŸ“_€¥ÒØº‹¢·»ªxxzez‹ ¼Íµ‰“›°¬pq»É·k_hv¦½½¸m‘··ÆÑ®¤ }PUa… ³¨—q~†Ÿ˜l~¬ÕÖ¸ ±±¥xyug~ŠÅÉÈ´•œ¬¥st¿È°nqˆƒÔÒÃµŠf~‘³¶È×Á¤œqOVc‡©·ª›zs€ˆ¡Àª±ÓÓ¦{£¯¯Ÿrovg€Š¦Á¾½·›¨ll¶Åµtž·ž×ÒÂ®zf¢¯°ÄØÎ§fOTd‡«²¨›yƒˆŽ®Ã±‹¯ÔÓ¶‚¥­®›fgnk„§¿´§±¡š¢–mc¨Â¶§²”ÓÐÀ¬m^c”±¯ÁØÒª†gMScˆ«­¤•v‰©Á¯‡³ÒÓ¿‰¥­®™bcnt‹”²¿¬ˆœ¤œ ‘s_Ÿ¾´ª«­‰ÅÎ»©h_’¬¯Á×Ò°ƒaOQcŽ¨¥ ŽtˆŽ²¾˜‚»ÑÑÓ»þ­~“_]uˆ‘”¹»ž…Ÿ›šŒm_ž½´­¯ªŠ¾Í¹£cež®¯ÃÕÐ³ €Z_g‘¢¤žv‡ŒŠ¶¸ƒÁÐÝÞ×¼¬«‘WTƒ‘•˜¾·~Œž£šˆh]–º´¯­¥…ºËµ¡ep­µ°¾ÑÍ¶·§­}–¢Ÿ„r…‰²´{ˆÃÌÒÙÕ¼¬~ªŠ[Rµ§—¹±‡sŒœ¦‘c[²±¯­š€ºÉ²“hy­»´½ÏÊ¸´ª´Ò¥•š›šwh„Š‘°¨~’ÅÍËÔÔ»ª§€VQÂ¯™¤¼¬im”©«š~b[’´«®­”zÀÄ¬jy­¸¸¼ÊÈº³¡§Ðº™˜ ¡zkƒ‰•¬ŸuŸÂÈ½ÏÑÄ~­¥XOÄ¯œ¥º¤ds®½³žxfXˆ¬¨®«Ž{½À¨…hw¯¹¹ÀÌÇº±ž¢Ê»˜ª¼™l‚‰¡°¢x¡¿Â¸ÊÌÂ¬¢vVPÃ¯ ±¸™[v¶½¶¥z[Y‡®««©‰ÅÊ­kv¨µ¹ÂÁÁ¹´žÈÂ™’¬¿¯xƒ‰¢¯¦…©¼Á±ºÉ~É® oROÁ³ ¬µUyµ»°§|ZZ Ó¸«‹ŠÒÒ®}sr¤´¾À¼º¶³›~ÄÁ™ªÂ¬u‰¡­¨Š­½¿­­ÅË²šeRM¿ªŸ¯±‡T…´·ª¤~_\ºÙÀ«–Œ‘ÏÓ³|stŸ³¿¿¶±²°˜zÀÆ—ˆ¤À®}Š›©ª”¯½¿±«~¾Ì·•cPM¾§¢¯°uX‹²´¢¡Œ€gšÕÀ©’Œ£ÏÑ­{sqœ°½¿©©°¯–|¶ÃŠš»²…‹™¤¨¤¬µ¹­™¹É´ŽbPIÁ¤¦­ªs[–°«šœ—tÏÂ¡¨ÍÐ§t‚}š°¾»ª§®®p­¿¤ˆ¼ºŽ‹‘–§ª­³´ªh´Æ·^MK¾ž¦ª¥ek©³¨“›œ’q}Ä¿ …ŒªËÌ¤„©¸©µ»¸¦¬­¬‘¸½Ÿ…Šº¹’ƒ‹Š‡¥±®µ°©«Ä»ŠZLT¸žš¥¢‚—µµ¦±Ô¼us»Á€¯ËÆ¤†ÅÊ·´»°£þª~šËÒÆ¥„Šµ³‘…‰~s£°¹Å³¥—ªÁ·€UIZ¶˜š£¢»Ê¿´¢‡°ÜÒ„r¸¹œ}Ž®ÉÆ¥…¿Ëº³¸¨§ª§¤ÑÑÃ €‰°´”‰…qqžµÂÏº¤¢µ¿ºTI[®’•›ÀÏÊ¶™~­ØÖ™z¥¸ž{‰¬ÈÌ¾ŒºÇÂ´¶Ÿ–¢©~¢£ËÒÀ¨{‰¬­–‹eiš´ÃÌ¹§½Ä¿¹~QHYª‚‹—–ªÎË·Œ{¢ÐÕ·£¯ t‰®ÊË¾˜­ÇÁ²±’‹›©¡§ÄÊ¸§z’¬¹£^c–¯ÂÉ°®¼Â»¶}PHb¨~‡’‚™ÌËº¡„–¼Ó½ˆ˜¬|„­ÈÇ» «ÂÆ³¬Šƒ–~ £¦±Å³ v”²¸¨‘wRa”²ÀÄ¦°º¾·°yPH_§¡“Ž‚‘ÉÊ¿¦Œ­ÎÆ“¥žv‚¨ÆÆº¤«¿Â³«‘ƒ” £¤¯Á±¢”µ¹¨oNa²¼·–¯·¹³·ŒUJ^ªÃ¶Ž|ˆÆÉÃ®’†žÆÃ¨†¡žzu¨¼Ä·Ÿ¥½Ä¸´°‡~›¡¥¯º©›„“µ¸£’mRbŽ°¹¯”®³­»ÐÃjJ^¯ÇÂ’~‹½ÑÎ¶™Œ˜¹Á¶ŠœŸªŒÅº§£½ÉºÀ¸ˆ–¨­±½¥Ÿ›¹¼¬³‘XjŽ±º­™®¹±½×Ó‹Tc¢Á½“€³ÎÌ»š‰©À¸†š£¾Ö¼tÂ½¯¡»Ë¹À´~‡‹–­±¸·›ž“œÂ¶¬»³ciŽ¶½·“­±¦»ÕÓƒTjŸ¿½Ÿ€—­ÆË¾ž‡vš¾³›—¦ÎÖÂv«¾¨–¼È´¾«€ˆ¬³·¹—šœ¨Á¯¥½¸jiš¶¾·›©¥Ÿ·ÔÎ“Oi•µ½¦ƒ›¨¼ÃÀ¡Šc„¶³Ÿ•°ÏÔ¶ž¹£ ¶Äº¹~«o‡Ž¡®¶¸˜™™¬¹«¨¼¸nq µ¼µ¨¤š™¹ÑÏ†Rjƒ¤¹¥ž¥«»¿§ˆ^t¡¯ —±ÒÐ¯†›¼ž“³¿¶´Ÿu‹Ž“²´·¦¡š»·š¥¾­u~¢¯¹¹¨œƒ”±ÎÐŠVj›¾­•Ÿ¡™³Â¯‹Xk“®¤ž½ÔÊ¬Š£½“µ¾¶~²”mˆŠ‹§¨·³ ž¹²‡£½°³´¬¶ ~Ž³ËÎWp‚¶Ç»¡Ÿ›zªÀ¸‹\a„¡¡¢ºÔÁ™‹¦»›¯¾¾¸¯‘g†‡—”¸·¨¢³¨~¢²©ªÁ¹¨¤r³v‚‹®ÈÇYtƒÁ¾¹¥œ”lž½¹ŠcYmš¡¥¿Ò¯‹¨·›´Â¾~·©xb€„Œz{ªº¨°­’q¥¢™¬À¹›kq~y“¥Ò€]}ŠÀ¼·§›ˆc–»¹›`Vnœ¡°ÈÑÄ…§³ °À¿¶¡s]}‡‰yu¹«´¨tlœ›¢¿¸t[pz~•£Ü§f~†Á¹µ¬™{YŠµ±šeb«»¡µÎÑž— ©Ÿ²Ä~È½˜fYy”wi‹´·±me•”£¥¸§MWpy€ ¥‚š×Öw~†¿´³­“lQx«”‹nÃ½£·Ì©s™ ¨Ÿ±ÇÑ¾–^\œuf®»®ŠZm—’¤¦²`HUs|‘«©~ŸÎ×œ€Š·¡¤ªbOuŸŠx|Â¶™²²“nzš¡¨–²~ÇÏÈ“W[”ž’r_r¤À¨oW‡š˜£¦‰LGUr–°µ¥w’ÐÕÂ‘«•š§‰ZSižŠ}•»‹ˆ™žhwž¡¥‡­ÈÏÇ~T`£œrXgœ¼¥d`“•£§‡JHUp³µ•t‘ÌÒ¸—‘–•™¢„UTf’Ž‹§³‡œœ‡ew ¢£‡~ªÈÐÂ{Rv¨¢‘pV]“³ Yv“™¤§|HJYp³´r™ÃÏµ’Œˆ”™Ÿ{SWc‹ƒ©«r‚Ÿž‘it¤¢Ÿ”ªÉÍÁqU¦¤mRS…ªše€Œ› ¦¬PT]p³°ux—ÇÉ°‹Œˆ˜šƒRXd„ŒŠ‹¬ |„œ››vy¥¢œ~†¢ÇÍÇj{’¡¥pR] š†~€˜£¨¶±jxrq ³ª~’‘¾¹«ˆˆ–š›†UYbx‹Œ§ƒ—œž~…¥¡˜ƒžÄË¾v¤†Ÿ«—qf©­™{u–£ª¸´r|t¨² †“•® £~Œ…‘›™„XV[wŠŠ“¦Š€ƒ–œ£‘–£ ~“{™ÃÊ¾²£~ ¯¢mj¹¹¡—yk‘£¬¹³p|~w§°˜~’•°¢ ƒ‹…Œš‹‚qt[t‰Š˜¢ˆƒ–©´¿§Ÿn‹¹ÈÄÏ›uœ­ªt^®¸¤”Œwc¢­¹©hz~‚§¬y•°¤Ÿ‚Šƒ…}zzw‡Š¦ž„‚–ª¿Æ®~œŠk„¯¾ÊÍ§”ª©q]ª·Ÿ’Œv„¦¥¬º¨ewª¥‡p•®©ž†ˆƒ}kvv•¤¡zˆ˜§”‚‚“™¬ÁÉ®˜‡w­¨ÈÎÍ›’©©y^—®œŒx«Æ°®¸¨cz‹¥±­ŠlŠ”«¬œˆ„wyt“£ „”¡‡‚ƒƒ‘–®ÂÈ~²•…ƒ‘ ¥ÁÊÌ¯‹¥§tVƒŒžŒ€²Å´®¶¤ewŒ£µ´¤b…–¦®™ˆ}v‚„y‹¡Ÿ…žž„€ƒŠ™²ÁÆ°|›¤½ÄÈ¶¢¦zW~ƒ–Œ‰y Ä¶¯³¡`t ³³¤q„•¦­—“…suƒ…{Œžžƒ‚ž•{~ƒŒš³Á~Å³‰{uŠ™¤·ºÁº‘ ¤~Uzƒ‘Œ‡yœÄº­¯bw“¢¯±§t€”¢¥Œ‘…ns„|‡™›†šu{ˆ–™™°ÁÃª†ys…›¥³±¶¸‘›¡yUz„“ˆ…x—¿¹­®˜„‰–¡°­¨s” ¢…‹hp{‚†’™‹—†rzŒžœ™³~¿Âª„€ƒ‚–¢®§®¹ž—zUn†‘…€t…º»¯«¬ÒÆ£¤­©¦ƒ–ž›yŠ‹km{‚€„‰“‘Œ’zpt˜°½Á¬‡ƒ¡©œŸµ¦–™|ev‡Œˆzs„·¹­«²××´¦«§£œ¢¡n†“µ|‰“‹{npŠ—,ª·¾«‘‹€€Œ¦’¯¨™—‚¼«‹ƒvp{´·³¨¥Ï×¾¦ª¡ ¨§š‹i~$
+       tile $00000205~‹•†„ˆ¬­‡“Š„ƒ„£¬…œ‘ƒ…ž«º ƒ„–¤–º£ƒ‚’ Šµ¥ƒ~‹¥”°¥ƒy‡©–§¥‡u~‚¨›¤£†sy„·™œ¢Œnw‡¸˜›Ÿˆjzµ—œžŒi„µ”›œ‡j‡’±“šš„qŠ‘©šš†w¤Œ›šƒŒ~¡‰˜˜ƒ~ŠˆŸ„–˜…Š‚›“……„}™{Œ”ƒ‚}˜y†ˆ‚‡•n…“‡…¦®šgƒ—”Š²¹˜`¹¼˜¶°•]œËÔ´¹¦’[•ÆÕÂ« –T‰ÂÒÊ«¦™W¹ÏÏ±œ~£±ÎÒ·›¯³­ÍÑ¾” ®®£ÉÐÁ•š¨«¤ÇÍÂ~š™£¦¡ÄÌÂž—¡¦¢¹ÈÅ«‘—¤¢´ÃÆ¶•¥«®¸Ã¸Ž§·®¤¶Ê¾­¹®žŸÃ»Ž¬¸±š–¸¸”­µ²Š‹¶·—§°«†€ª´œ¢¤Á­y¢¯ —»âËŒ—©¢Š¹ßÕ—’¤£‡¡ÚØ¤‹£ˆšÒØ½|š£…šÇÔÆ„Ž¢†ºÐÄÿ‰~ž‡Ž¢ÅÅ“‚œŽ˜ÀÃ›~”‚«—·¾­{™|¯—©»±y™y«•´«€‘s§“ƒ«¯‰œ~¤˜{­®š·€ §¦À³©¿~š«²®®¯º¤¯¥£­¹‚‹˜©¢™©´ˆ‡¢¤ ¥®Š‡¥¥ ¢¨‰„ ¢žœž¢†ƒ˜™žžƒ†™’”• Ÿ$
+       tile $0000101F~–q–¦§±ÖÒ¦™›‹zw‡‰„u‚¶¢’ÌÞÑ°‹·ÏÂ˜£¸×Ê¨•±º§rM`{~—¡´®¦±ßÖ´™§µ®i”yq‹¢¦ÁßØ—‘š{eƒ‹ˆˆ‚v—Å»šÒÝÍ©‡½Ì®£ÁÕÅŸ‡ª¸­rK_z{Š–¥¨¯ª¤©ÞßÃ–˜±­~€”ƒz…ž¨Ïåá›Š›œˆ_z‰Š‡v¯Ä­ŸÖÝÆ£ŠÀÉ§¢ÈÑÁ”’¬©hL_x{…“§¦©¦££ÖßÎ—«¬Œ—®¶™£Àäâ§~œ§¥ms†‰„{~¸Â ˜ÓÛÅšƒÁÄŠžÂÏÁ“{€Ÿ«hLaw|†’šœ¤¥¡”ÍÞÎš…¢~ª—›µ¹’Ÿ¼âà«|œ¨¥wl…ˆ„{”ÈÅ† ÓÖ»“‹¿ÀƒwœÉÍÁ‹y•¦cK`v€ŒŸ ›¤£žÃÜÖ£„“¨œ™¶¶‰ž³ÚÞ®‡™¦¤l\‚ˆ†w¤ÇÄŒ¤§¼¦‹“¸±unÓÏÅ—mŠ§iL_t„”±¨™œ´®£´Ú×¤|~‡£œš³±‰›¶×ÚÆ‹™¦ v\……x®Å½zš’¡œ†‰««mnšÐÐÌ¡l‚Š¡bM[t‹˜­¤˜¥Å½¦ªÖ×±wƒž›˜¯©xwœ±ÈÔÊ’¤ŸmX{ƒƒ{¶Ä±u ”¢ˆƒ†£˜nl¡ÎÏÍ¾k‚ˆœcL_xŒ”¨Ÿ“¬Ã¾¦ŸÏÖ¸ÿv~“›™¬¢ln˜¯¿ÏÎŸ¢ŸrRw{½Á•uŸ–ž{…‡ŸŒjyÀÌÎÍÁxƒ‡–cL`w‰¡œŒªÁ¾¡˜ÈÔÆ‚s˜œ©™lg—±¯ÃÏ¸“Ÿ›kSq|“¾¾”~ —Ÿtˆ‰ž„i•ËÎÍÌÃƒƒ‰˜jXiz„…›™‰°ÂÀ“‘»ÒÌ—~w‡”Ÿ¤•ae’¬«¾Úâ£›™lRmy›¾º™Ÿ˜˜n…‡™€n†ÊÎÌÉÁ‰’¢‡›“€‡˜˜…¯ÂÀ•Œ»ÐÍ¡|w¦£ˆWe›¢£µâã¹œ“uSj‚ž®»°Œ˜œ—‘l‰‡—uƒÆÍÊÉ¿¦›ž«²ÕÅŒ~—•‚­ÁÀ‘ÀÔÎ~ª€q‹¨ŸzVtšž¨ÝâÈœkWgš´¶¹¥…˜œ—…p‰ˆ™Ä’„ÆÌÈ¿ºª©¡ª·ÏÎ¤xy”“tªÁ¿“˜ÄÔÎ°‚n…§›uPsššŸÙàÁ•‹iWe™µ¹µ’„Ÿœ”xt‡„ŸÇ±ÆËÆ³±«£¥©°ÆÎ®€w“‘t¡À½¿Ó~Ì±Šs~¤•gLr˜œ”ÕÞÂ–‡`Uiž·¸®|žš‘pv„„¡Æ¶ˆÀÊÅª¨¬¥§«¥¼Ì¿†‘r¥À½€µÎÍµ|~¥‘YKy—š’ŒÆÛÁœƒ]WfŸºµŸz„ ˜‹hu‚ŸÄ¥ˆÀÉÃž¡ª±©¨­žÇÂ‡r¨¾»‰l«ÿÉ~µ~z¥‘XLw•˜†·ÙÂ{YXj¤¹²™t‡¡—„bqy|¼£œ¿ÈÀž¨½¸¬©¥’ÁÃœ|Œ‚n¢½¹„ažÁÌµ|{¨‡WLz“˜›Ö×Ã wWUh¢¹» w…—ƒhkq{›¸¦´¾Æ¾žÁÍÃ±ª¬t¹Á¦ƒŠ¯¹¶€X˜»~Ë¸’~{¦OLt–¡Ÿ£ÖÚÂ¥vTSs¨ºÈÆ†Šš˜~agmx™°¦µ»Å¹¢ÃÌÁ¶¬ªt­½¶†Ÿ²·¹WµÇ²‘{|¤yNPp˜ÄÏªÍ×Ã¦sNRv©¼ÉÉƒœ™|a`bv—­¦¶¸Â¸ŸÂÅ¿»¯¬k’·µš…ƒ©±»Ä£[r~¨Â±”{{¢pLOw˜ÎÎ¦ÅÙÁ¬hLR‡¨·ÇÎƒŠš—„^\`u”ª¥°´¿´°À¾¶¿±ªiw­¶ ƒ†¨¯¼Ã³^e£¾²{{ cKPv™ÇÎ¥ÀÓÁ§jLUˆ©¹ÇÃy‰˜”z[WYvˆ¢¦­¬º¯«¼²­¾³®gi¤³¤‚ˆ§«¶Â³_~b˜´¯‡z{˜_KT~˜ÇÔÆµÏÄªiLX¨¸ÇÈœŒ–wVP_y|’¤¥¬¶¯®¸¥¨Áµ®e_™±¨†•¥©³À­^[Œ›§†xz“_jk|•ÆÔÒ»ÍÄ°rMb«ÀÌËÃ˜“vSNbyy… ¢¨°¬³³—›Ã·¯pXŒ®²Œ™¡¡°½¬~^W‡‹‹‚|b·³…’ÀÓÑÁÆÅ¯qNh”§ÀÎÌÃœ’ŒyOK^yy„Ÿ˜¦©©²®“Áº®iVx§®‘š˜¬º¯kb†‹š‘‚†[¬µ‘”ÀÊÏÅÅ¿¯pRp•¡¼ÏÌÃž‡vMH]yzš’ž¦ª²©nˆÀº°sT”»®¡œš•¥·~®j_…‹–‡|V³˜’ºÃÍÆ·¬¬yWm“™·ÏÌÂ‘Œ„nNJ[xz€—™¡®­™`¾½¯pc´Î³§©´•¢²ªjfƒŠ–ŒmNŒ®£•·ºÃÂ®¤¨…^r™ºÎËÄ‘…ne_Wy|‡˜…‘™±ª‰Tz¶¼°ppÄÌ­«»Æ˜Ÿ~®¥sq‚Š’hLk©£¢»¶´¿­¢§€c{’”µÌËÅtŠ†]z„¡¹‡‡˜¯¤xRw­»±v“ÈÉ®²µ½Œš¬¢~z†ŒŒ_L]¢¨¬½¸»°¢¦„tŸ ˜³ÈÊÄ‹{‰†c‹ Âƒ‚®ŸiVz˜·­w£Ç¾§´­«†~•¤žˆ•ˆ€‹ŠYGO™¥µ¼·“³°¢¥{| ¡•±ÅÉÄ˜zzˆ€^€‘¢½‰Ÿ«œg[|™³±ƒ¨Å«¥³®Ÿ€Š ›¥Ÿ—z†Œˆ‰UGR…£´»µ¬°£¥|užž™®¿ÆÁ™uz†x[ƒ•«¼€‚¢¨‘[f{”´­†¹Á¢Ÿ²­•~~†›—  ˜{„‹†ˆPGM†£²º²v›ª¥¥~q›š–ªºÁ½sw‚…p\ƒ–¦·~ƒ¢£‡Wjy²«»º˜£²¬‘vƒ—™  •k‚‹ƒ†NJOvœ´¹°kƒ­¤¢wp—š™¦²»ºœrvƒ‚_Y‡˜¦´x Ÿl[yz•°©§¼²ˆ¡²«~ˆq’“ ¡–fƒŠŒ“S]ap™±·®ju§¥¤tj’—¡¬²´±œ{x{X]…˜Ÿ¦zƒ›•i ·‘¬«±¹©…ª¹¿Œmw‹–¡¡cƒŒ ©]z~t“¯¶¬kn¤¥¥€h™¯Á¶®² {€yT^‰˜”Ÿ‚ƒ–zÃÓ™Œ¥©¾¸–‡°Ò~Ýžisˆ©£aŒ¦±e~~pˆ°¶ªbf™¤¦‚e‰˜µÂ½®²¤„€~tU_‰—“ž‡“‡wÊÎ¡‡¢±¿¶Œˆ±ÙÝ®lk’ÃÔ³r`~Œ­½l|zk‚¬¸³p_•¦¬“j†•°ÁÂ³Á¶‚|lO`ˆ˜•ž„†|ˆÎÏœ›¶¾²†“³~ÚÛ¢ni›Ûßµfa~‹²¿izyix¨¼¼€X•®½µh~¢¾Á¸¿µ—‚zeM`™—œƒ†s«ÙÛ¤|™º¼¥…˜­××“lf—ÜÝ¹^cz‘»Ápyubl©¼º‡]‹±¹¼j€šº¿¼½®œƒv\LfŒ˜–˜‚€n¶ÙÛª›¸¸˜ƒŸ~°ÑÓ‘ik¡ÙØ¡\fx”»½rxq\l§»º‡V…°½¶l{Œ“µ½¿»£¡‹vVNk‹™——†~n¶ÖÙ¼…›·µ”†¥ÑÑ‘rv¯ÚÔ•Yevš¹ºsvkWe°¾¸{T°¹¯s|‹”²¾¾º¤¯©ƒMNmˆ——”˜‚|¹ÑÖÁ‡¢µ­‘n–¦ÎÉ¼’¸×ÓŠVcw¸µwtfTg·À¸~U€±¾°y|‹—²¼¾·£¶®ƒPPk–•™œˆ|ºÊÐÅ“¢±¦‘šÊÌÜÈˆ·×ÎlVhz¢µ®vr^Pe·¿ºWˆ®¾¯„š›­¹½¶¡´­€MSi”þ•~œ˜yˆ¼ÄÈÆ¦¡®‹‘ÅÌÝÈƒ¿ÕÃkUg¥°›wnWNj³¾¹{fŠ¯¼ª‰•ž §·»µ¢³®|MTg“•–’s¤ÂÊÆÆµ¢©œ’‡œÁÂÚÂ…ÆÓ·peh©«ŠvlVLfµ½¸ƒš³²ºž‹šœž¤±·­¦¯®yKUj“•G”œ‰r«ÅÇ¼Â½«¶¬Œ‚m˜½ÉÐ±…ÊÑ­~ym§£yfPKc±»³„¹½¶¶ž›—¢³³«©®­€LTqŒ’’˜šƒªÂÃ³þÁ~ÍÂ˜x[¢»¿±Ÿ–ÉÎ§xyq”¥hwaMLaªº³¿»¶¬‡¡¡¢¢°®®»¹«xNRn‹’’šŸ«¶³ÂÆœ¾É×ÕÉ¢p[ ¸ÁŸ™šÇÈvyx›¢|]xgn_i¨¹°š¿¼±§–¥±»¬­¦®À½°|RRlˆ‘•²§¸¼µÁÁžºÍÿ×~Êªm`¢µ¿ —¨ÇÆ…x~‚›œlT{„Í˜iª¶¬š½¹­ y–«´¹¬©›¯¿»±žcPkˆ‘¡ÀÀ¸½±¹½˜·ÉÖÖÈ¯ge£³ºŸ˜©Ã»vs†™—[OœÊ©c¨µ§Ÿ¼¶§‘n–°¶·¤¥±½º¯žgOq‡“ž¾Ã¼¹ª´´¯ËÔ~ÓÈ³lf ­» •µÀ®qs€†™”aOƒªÅši¨²®¬¹³¢€f•¯³°¥¡Œµº¶­gPr‡š¦µÄÀ²¦·°~¦ÃÕÍÂ·‰k¡¸·œ›¸»hq‚†›œyP‹±Á†f¨¶ÓÐ»­xm”£¤¨¡œ®³²ªrPqŠ¢§²ÅÀ«§¯«pžÄ~ÓÎ¿´–z°É¸›–¼·‘gm„ˆ™‘xSˆººvh©¿Ü×½¬˜sr“ž¢ž™ ª­­©™sVp‹¥¦³ÄÂ¢¬“f”ÁÒÌÄ»¡”ÚçÎ’ ¹²ˆcj†‡’‹wR“¶¯^n§½Ù×Á©’qx•›ª¹›œª«©©™sVqŠ£¨±ÄÂœš¨\ˆ~½ÐÊÊÉ¤ž×éÞ–£¶ª~en‰ˆŠˆ|R·£Xk£ÁØÕ»¡Œfw—™ŸÁ×ªŸªª¤£•sVpŒ¦§¶ÈÁ“ž£ˆV|¿ÏÉÇÌ»—Íçâ ¥³¤q`r‹‡ƒ„uVž´•Sn¢¾ÖÓ»œ…iw—™Å×²¡©¨Ÿ ’qVn“¦§ÀËÄ‘šŸ‚P~t¼ÌÁÇÌÁ—Áäãµ¤®›jbtŠ†‚{S¤¯„NuŸÂÔÐ²’n™—šÂÕ³¡¨¦œžlYl’¤¥¹ÊÃ”™›bRÁÈ½ÁÌÃœ«àáÄ®©Œic~‹…{zS¤¬qNvŸ·ÓÐ°‰~pƒ—•™ÀÕ¶£¥£ž—j]j–¤¥ºËÇ ™”a&išÁÇ¶ºËÅ¡¬ÈÞÍ±¥ci|‰‚ˆzY ¥eXy™ÀÕÏ¤‚up‰þ”~ÃÞÇ ¡ š’n\j˜£¥¬ÈÊ´™…nr™¿Ã¹¹ÊÅ¨¢·ÕÎ¶Ÿ‚fkx…€˜ƒzœ˜·„œÇÚÒ{su—’ŒÈËÇœ™œš“Šq[j˜ ¥¦ÄÌÈœ{w|—¾¿¹¯ÇÃ°¡¥ÅÁÀž‚esv‚|˜†¬˜›ÎÞ¡žÏÛÔ’uw£¸—~Š²š¨š’™–‡r\r– ¡œ½ÍËžyy†–¸º¯¬ÂÂ³Ÿ–¥‘¨žwess{y˜µ•×× ¤ÑÙÏ“tv¬¸š‰…°ž —ˆ–”ˆ„v[w—žž”±ËÌ¤xw†š´µ¬Ÿ¹À¹›™œ¤zinpt|”ˆ™‘ ÕÆ—Á×ØÍ©„qµ·š0‚‡º¸²–“’ƒpc|–Ÿ˜†¤ÈË£qxŠ™®²©œ°¼·žw‰š´zlkily’ƒ–$
+       tile $00001020~c‘·¶”‚›š‘“’š“ªÉÈ•‹…†™¸ÆÄ±„ˆœwk§­£yMy³º½•bŒ¥ž—ÓàßÍ¢Šu`‘£l‘¡œžŸ^‡²´”‹—•‹“’—§È·ƒ€›ºÅÁ§Œƒ‰šsl¨µ¹{Mw‹³¼¼§n‡ž’œ×ÞÜÒ©‡s[‡s— ››~š_€®±–“’…ˆ’™Š¸¡Švz—½Ä½žŒ„‰’cg¦·Á{Nqµ»¹–r„–…¦ÕÞØÏ¦…nPx–’ƒ—˜›–`y©¬–•€‡’—ƒ•¦ ‚kuœºÃ·”‹†ŠYb£¸É–Tk²½·š{{‰¤ÖÙÊÇ¦…ePg‡’Š–—•~—”mt¡¨šœ£†…“‘’¬§ ~Wlzš½Áª‰‡‰ŠŒXf¢¼ÒÆpeŠ²¼¶šww‚Š²ÕØÀÂ¢„jK]’’•’“”kpš¤œ¤³ž†Œ’’ž¬§ tSg{¤¼¼“w…ŠŠTf¡½×á ^ˆ¬º³–rr“«°ÒÏ²¶¥‚hMRw•–~‘|n“žš¦°š…Œ“‰ ª§ iMayª³­„r„‰~VhžÀÚÞ–Y…¬º²–pkŒ«²ÏÀ¯²©„gKN¦ž“‘‡†ƒn’š›©©”†‹‡Ÿ§§¡kL\y®ª›p€‘‰yUj¤ÄØÛ–UŠ«¶­šwi‹«´É²­²©‚bKT´Ê®©~˜rŒ–˜©£Œ„‹‹ ¥¦ž^JVz¯©œ“n…ˆsVpµÏÜØS†©³ªšf…«³Ä¡§±ª€`JW¨Á´ÉÆ‡€Š‰u†’˜¨ž…Š‰‹ž¤¥ aK[¯°“~†lXp¸ÐÝ×ƒT†§³¨›eƒ¬´»“¢°©‚^LO£¾´~ÌÖ‡‰y{Š“£š~ˆ…Š¤¤¢h]\±±’„‹…gVm¸ÕÝÔ…V¥¯¥–Š[­´´‹¥°©‚uxiŸ»³ËÜ“‚Š‰zw…“ •r~†„›¢¥ „ŸŠ‘¯°œŠ†Š€iVl±ØÝÏt_ ª¢“[x¯³¥‹±²­„Š·š¸~°¾Ú›‚‰†|v‹›ˆm…¦¡ ¥ ™ÖÅ¬­–‹ŠŠ‡|hVi¯ØÞÎvi£¤ xU®²ž„¬²­‡•¶¦‘³±¯Ú¨…‡„€py““†u„”¨¥Ÿ£¡ªÙÈ¨©¥‚Šˆ…€z`b¯ÙÝÉer|¡  ’pPˆ¯¯—wª±¬…’±¥‘ÿ¯~ Ñ²Šˆ‚ry‘Œ‰ƒž¨¤™¡ ¿ÕÁ§¥ ‹y‰‹„‹¡{c¤ØÝÆb‚z¡ Ÿ”cT‡¬«‰w¦±«‚‚®ªŒ¬¯šË²Œ‡~r{Š‡~~†£§’Ÿ¡ÆÒ±£ –‡n…‹ƒ‹{q¦ÚÜ¾[|œž”_]ˆ­¯†mž¯ª€ª©«~¬½·’ˆ~rŠˆ†{z…¤§œªÁÐÌ±£™…h…Š‚œˆª¾ÙÚ¹]’—™›—eg‡ÀÏ•jž®©ƒr§®™ª©~ª³—Š|~sˆ‡„yzˆ¥¥‰´ÙØË­ ”†‚^ƒˆ¡¦¶Å×ØµR’’‘”˜•lgÑß´hš¬­¤Œ°¾³~ª¦ƒ§¶™||u†‡‡…|Œ¦¤„†·×ØÄ¦‰Y{†‚‹¶Ê¿È×Ö°T‘”“~p‹ÏÝ·a«­®£³Â½®¥x–¶›‹{zx€ƒ†˜‚˜¥žw€¾Ø×Ä£˜yXt‚‡¾É½Ç×ÔªSŠŒ‹ŠŒ„•ÌÚ²`Œ©¯®“±Á~Á¯¡nƒ°{w|€„›‡—¥šiz»×Õ¸“~{x[j~˜ÁÆµÊÔÏœT…‘ŒˆŒ›£˜Ç×®a‚¨®¬“©¿Â®žfr¬“zv~~Œš’Ÿ£…iz»×Ó¯™Š{{s^by~•Ã¿®ÌÓÍ Oƒ‹ƒ{Œ§± ÁÔ­c’§­ªyš~¾Ã´šks§ zu‚|~{‹›˜žŸ|ev¾ÖÔ­”†uyq\Xnz£ÁºŸÉÐÅPzŠ‹qŠ¨®¥½Ï¯j™¦«¦|˜ºÃ¼—eg  ‹zx|ƒ|‰›  œbavÁÕÔ¯’‚~|nXThy©À¶¨ÄÏÀŒNr‡‹~i€¥¨£ÁÌc‘¥©¥g~†¯ÂÄšh]›£‹|€‰³ ›£Ÿ“YavÃÔÐ°Š©pUN]|¯¿±®ÃÏºRk…‰yarž•˜»Ç§_¤§šf†¬¿Ç—f^˜Ÿ‚|»µœ¦ž‡S`‰ÈÓÎ«„–²ŸuRL[y¶»²®»Í±‡Mh„†y\kš”—´Á£^£¦˜~\‚£¾ÃšcXŸ’Œ‰|‘¶¸‘Ÿ¦œvO`˜ËÓÊ«”¯¥tOHS‚¶¶™°·Ê¯‰Na…uWk•”˜º¾Ÿ]…¡¢†Yzœ»Å¡vq‡ •—’{®·žŸ¨™fPg¸×ÖÉ¡tˆ¬¤sNGO•¶°ƒ²´À£{Mi–ƒ[n“•œ¸º¢g‹ ž~‚[x”·Â¬¿«‰œ—–•€v¤µ§¡¦ŒUOs½ÙØÄ–m„ª¢|PGX™¶¦…·´·œ~Or§¶•cq• ¸ÁÐ¾ŸŸœrWp‹²ÀµÁ³‡™”–”‚q˜±­¦¦’ePxÀØØÁˆg¤¦~PG[¦µ “º³±˜uNz¦¸¯hrŒ–¨¼Ëãà¿¡~™pV~Œ«¼»Á˜v”–•”„p€­®¨¦¬“^~¾××Á{`Š©¥~WJc¥±š–À³®“wMq¤º¸muŒ–§¼ÍââÊŸ–j]°±¨¸Á·”k‘–”“„mu£­¨§¬jƒÅ×Õºmh­³§žYv ©‘Ÿ¾¯¬jOi¡¼¶xx‰•¨»ÏáàË~¡ha³¿±´¶¡‰w‘›’“‡mm™«­¥§šn…ºÖÓ¶ef­³§ªªn~¢‘¢»¬ª’jLj»¬y‡”¨ºÏÞÞÊ¤ŒeY¨½¬³¬œr˜’’†mi†ª®£¬ u…ÁÔÒ¥ak¬¯¢¦¬„“”Ÿ³§§’gOa¯“ƒ¦µÉÛÜ~Ì¢ƒaP‹º··¶ƒ¥Ÿ”’ˆme†¨®¶Ì¯ƒ¾ÒÏ¨is©® Ÿ©¤Š‡‘›¬£¤•iK\Ÿ„†zˆ¦¶Ë×ÛÏ©\M{µ¸¹´š“ ¾®—ƒn`u£«ÂÓÂ¦´ÐË£Ÿ…¦¬‘¦¬•„{“ µ¯¥’hLY‡•…†t…ž±ÀÕ~ÛÍ¯z]Lj§·¿¶œœª½¬Ÿ†m^n®ÄÑ¾ªœ¹ÎÊ¢²¦¤«›‚š­¡{x—§¼»¨’rLVw™‡‰€jŸ³ÁÐÚÎ¡z[J[š·Áµ¦§¯º¬¡‡n[h–§ÁÏ½§ ¹ÌÁ”¯¨¥¦”~‡¬žr—¨»¼«pMVj”ˆŠ|e|¯Á~×ÛÑªu\KV¶Á¬¢§®¶©¢…jYf‰©ÄÌµ¡ž¾É»ƒ¦­¤¢{©¤k‡˜¦º¼¬wLU€¥‘ŠxWu›«ÆÛÞÖ¬v[KP{·¾¤œ§©¶¥¡†kWb¢ÁË¹¢¤¼Æ¶u­ª Œy{¤¡x›ª·ºª‰zNc£Ï§ŒvTk—¦~ÂÖÞ×¨x^LN{´»›¥ª´¡„g\[s£ÁÍÏÁª¼Â©bŒª©‰ŠŸ¨›‡œ©³·«‰yRa¹Ï°ŒlPk“§ÁÔÝ×°p[JN|¯¸‹¤©» “‡{k[kŸÀÎÜ×»¿½Ÿ[~ª¬™…–À·›—œª°³ª†wU_©Ê³‘mNb~¥¿ÎÛÜÇv[KO{¥­œ‡¤ªÁ©›”‹†{jj£ÀÉ×ÙÄ¼·—Ue¥¬›‚›¾·ž ”¨ª©±ª†sVT¢Å³‘fL]Œ¶ÅÇØÝÕƒ[LW„•£œ¦­Á»š”„‡ÇŒ©¾¿Ï×ËÁ±‹P\¡ªœŸÄÀ¤¢¥±ª¤¬§„q]S’¿¶–`K_~”ËÊÄÔÝÙˆYL_ˆ–£¥­ÅÃ–”„×Í¨¼º¸ÒÏÀª„OR—¨›¦Ä¿¢§·¶¨“¨¥„n^N›º´–bK[“ÆÈÀÅÛÚ›[Lm‰œ¨¤­ÄÉ’“„ŠÒÎ±¹°¦ÏÕÈ¥tNW•¦ž†·Ä½¥¥·¶¦‹£¢‡kaO‡·¸ŸeK~`’ÅÆ¸ÃÚÚ«XOs…‹‹Ÿ«§®ÃÐŒ“’„‹ÑÓ®¶«˜ÆÓÍ xKX™­¢»Ã»ª¡¶¶¡€¡ž~f`S…µ¹¢cK]•ÃÄ­¦×ØµaVrˆ† ¯¤¨ÁÏ†”“ÌÔ³¬Ÿ»ÐÎ¢gLf®¸ª“ºÁ¸§™··¤wšœf_aƒ³¿Áƒ~OX‘ÂÂ¢“ÓÑÁmlr„ˆ¢¯£¥ÁÏy–š¤ÁÓ¶žš…­ÏË cMy³µ§›·¼µ©™µ¶©v–˜{`\ux±ÅÇ¡SVÀÀ“…ÉÍË˜µ¾t€†¤°Ÿ›¾ÏpŒš›«»Ï¼ž™ÌË£gO…²³£¤²´´©š³´¤„’—€^Ywy«ÅÈ~´bW—¾¼‰xÂÍË£ÅÎ{‡ ­™¤ÄÏiŠšŸ¥³Íº›–‚‘ÈÉ¤]R±®§­«±«¢­°±µ™”{YV„n¨ÀÄ´[™º¸xe¾ÌË¨¾Îuˆž§’­ÇÓ_‰œ ¥žÇÁ™”„ÃÇ¦\V–¯§ž¬©®© ¨¬Ðã¼‘€XS’n¢»~Â³‹cž¸²tb´ÌÊ ºËy‰™£‡¢ÆÕ[‡œ¢¢«º¾—‘˜¿Ä«^f «›¥µ©˜ªªŸž™ËâÀ€UR¢p¦´³²¤r¥´©bg²ÌË¥ Æ§ƒŒ•œ|ŸÇÏWƒ¡£Ÿ¤š–ƒ¬ÅÄ²fq¢§’­Â®œ£«£•‰Æß¾‹{VN«yž~¯²¹¶‰Ÿ°¡YqÉÎË¥šÁª’–t–ÃËW€ ¤¢€ƒ‹‡¨ÁÂ²rz¡£Œ³ÁªŸ©Ÿ‹q¶ÝÌŒ~XM¯œ«¥¾¿ ¢ª›VwÏÏÊ²„¼­—»zˆÁÃS~Ÿ¤¡¤„ƒ’‡~ ¾Á±~Ÿ–‹¯¾¨Ÿª¡yh°ÜÛª|XL±‹~”§¥¸½² ¥SvÍÏÊ«w¶³›Î…‚ÁÇO ¤£¦‰……y›·¾­Œ“œ‹§¸¦  ¨¡j\˜Üß¾ƒ[J´Š’¢™±¼¶¤Ÿ€PnÉÎÉ«j±´”™Ç‚ÀÅN¡¢œ¤‡…q˜²¿«–”—‚“š®¥££§›YVŠ×ÞÐ€XG´~‹—™º¸¦˜tMlÅÌÆ«n¢´——¹—‚»ÃS†¢¢¡¤…Œ~wŸ¯º«¤”{‘’¨£¦§¥–XO{ÕßÒ‡[K³”‡™’Œ·¹©•tMfÁËÅ§q ´ž™½Îµ½¿ˆ £¤¦Š…‹~pšª¹¬©’…zŒ‡££¨¬¢[M‹ÛÞ×XS~²ž‡•‘±¸´ŸpKe½ÉÆ¦rœ¶ œÉãÉ»¹ÂŸ ¡²¹‹…‰yj•¦°­¨‘{ƒ‰ž¤«¯ ˆ]M|ØÞ×š]\¯¢†“šª¸½Ã•Lb´ÈÂ¡r®Á£ÌáÃµ¯¿§žž³ºš„ˆ|f£¬®©l‚†~ž¥³±‡[M…ÖÜÕ¥`.e¬¨–À§·¾ÁˆKYµÃ¿›~µÀ«‹¢ÍÞ´¯®¾ª›•±»£ƒ‡y`ˆ¡«±§‹gþjŸ¥µ¶ž]OŒÔÛÒ¯_b¨§‘œÀª“´¾¿†J]³Á¸–·»¥‡«ÑÚ±­®½ª™•¬º¤ƒ†yYz¨µ¤…jzv¦·¶œ_R¤Ò×Ï²hx¥¥‘™º¨‰°½»yJ]°¾²–¶±•Œ±ÍÖ¡©®$
+       tile $00001021~£×¹‚‹qƒ”‡qhˆœ˜£²¼ª–~‰œ£Œmª¥–”–ÎÇ’‹zpk²¶µ©¹ÔÌ¯ª–™Ÿ¦¨œ‚er°ÝÁ€„‰zc‘–¬³‚c†š—Ÿ¬¸­–‘||„šžŠg¦¦—’­Ì·‹ˆiiyª´´¦…§ÐÏµ¦–¥¦™{_~j¯ÞÄ†…ˆw^x•ª´‘cƒ™™š¤³ª—sz‚“š‡c™¤™’©È©†‡ybe{‘¥³«‡•ÊÐ¾¤Š‘ž¦¦šw]j¬ÞÉ‰‚‡qTi‘£´”`€˜› –ž¯©—‹pw€—†j‘¢›’¸Á™ƒ„y]ay‡£²©“ÆÎÄ¨ƒ‰™¤¥˜t~Yb°ÚÃ‰„†pSi‹¢µ†a~”Ÿ«¨š´°šˆgt‰”–®›¡œ’»¾ƒtV^uƒ±ª‰®ÓÏÈ©u–£¤–nT`¯ÕÇ…„vlhˆŒ¥¸ˆct•¬ÉÏ±Ã¼ž…bp~†•¬Á°¢››Ã·t|uT]wƒ°©ºÒÏË«yv‘£¢“~mPS²ÒÄ•„ƒ†v…ˆ¡¼œfx”±ËÎ«ÂÁ¦ƒWg{„¤ÃÅ¥š©Â±jx~uP^u‚œ¯¨–»ËÎÐ²|n¢ •jLP·É¸’†‚„y€†¢Â™cv‘°ËÈ©ÁÀ§|Rbw‚‰ÊÞ¸·À©`w{qPfz‚ž¬¦¼ÄÔÙ¿wh ¢~žvMMµÄ³‘„€ƒ|…¦À…en¯ÉÂ•¾À«|P]t…›Ä­°£¶»™esxnmŸ‰ƒš¨¤¢¸¹ÑØÇx_ŠŸ¦ª“ON³Á¬‘„yƒ§½‚cr´Ç»»¿±zOVq|ƒ±¡£¥¹¶frvs˜º˜†œ¨¥¦´¬È×Í[…œ~¤©–RL¸Ê¨‡{~|‚x©¸~aq‡°Ãº†¹À´ƒYPq|€˜·££«¸­‡kktu¬­›’šª¯±¶žÀÕÍ…X|˜¤¨–RM¿ÜÃ—…xz~€y­¶uajŠ³Á±ˆ¼À¸šha„…€Ÿ¾¦¤±¶™ujqq£¤ˆ—«°°´²ÓÍ‹Uz~—¡¦”NK¾ÜÐŸ‡uyw||µÎ—bnŒ¸¿­¼¿¶˜qr®—„£Ä¨¤¶±Œ|vknvª¢’§¯¯²¨ÐÏ‘Wp’ž¥‹OK»ÚË¥†vzyzy½Ì¦ekˆ¶¼¡‘º¾¶›{¶‹³Á©©·¬xxwjlz¦£yˆ¤¯¯®q•ÍÍ£€~x›£’OH²Ñº›†|Œ‰|{”ÅÊ£gc¸º”˜¶»¶Ÿqk­ ‘²Ã¥°¶¤ptvŠ‹¤¤žt¡¯®¨b…ÉÌ¬£‘‰š¡UH«Á–~€‚”™„y¨ÊÅžei†¶¶±¹²šrb­£˜®¾¤°µ»—sw›Ò­£¥—n|›°®£b|ÅÉ°~£›‰›¡TG¢®ˆ€ˆ•™x¥ÉÂ cb‹µ±‰¡®´±œr`¡¦©¯­¡³¹ØØ|z¥Ô¸¥¦ƒqˆ›¯­¢fs½Ç³¡œ‡˜ŠSH™ž……–—yu•ÆÁ¨hcŠ±¬Œ¦©°¯ŸuU¬±·¢£³¼ÖÙ‘u˜Æ»§ªwž­¥¯® ke¸Ä~¼¡›—‡OG”„„‹–—vs’À¼°™s‘®¦Œ¤¦ª«štW‰²¹·œŸ°µÖÞ„u–½µ¦¥n›¯­¯¬›ƒf¯Á¾£šŒ”›„PJŒ|‚‡–“—”ln‹º¼ÈÚ¬š«¢˜¢ £§‚Wz»¾¸ƒš¬±ÎÕ–pŒ²·«¡g˜­¯®ª˜…`¢~À¿¦˜”™NG‰xƒ‹¦—–jm‡°»ÐØ«™§›˜ž˜™¤¡§{{ÃÀ´„˜¨«É×…j‰§¸­’X‹«®­¢’†b¾¾ª•“Œ–{MGvª—_n†¦¼ÓÖ˜›¢•™›– Ÿ¥vÄÃ­‡—¤¦ÀÒ‰f£¹¸ƒP|©®ª›†p~Š¹¼®•“PG|y~˜±£˜ƒWl‚ž¾ÕÒ˜—œ˜™˜„‹¡¢‚qÄÃ­œ¸©¤¿Ïœax¢º¿uNw¨¯©•ˆ…{Š·¼°‘xKG|z{˜±§˜Vj~—¾ÔÑŒ–š™˜“w€™ž €{ÆÅª¬Í¹¦»Êˆb{¤ººvMe¥®¥Œƒ~‹¢ËÁ°–ˆmKH|zy–³«™uNix‹½ÔÊ““˜™—s~”Ÿžv|ÁÄ®´Ëµ¦¸Â™y“¥º»£Yh£­¤†¬¬ÁâÍ´™Œ…jJJ|{~“µ¯—jNlw†ÃÑ¼”‘–˜—“pu‘œz…ÁÁ¯ºÆ¯£·¿ˆŒ–¦ºº®ahŸ« ~›ÿ®~¼ßÖµŒ‚eHJ~…”°¯—iLjw‰ÃÏ´š•–—“is›™‰¼¸²½Ã¨Ÿµ¸™–¦¹¹¬cp›¨ {™­®¬ÛÜ½ –’aJH‚€„‰¯®•aLgx›ÂË«–”–“knŠœœ”’®´µÀÀ¬£²·—•–¨µ¶ªny–¥uš«~¬ªÖÜÁ·Ä­€]KH…‚ƒƒ®­’[JexšÅÄ¢¡‘“‘•’nj‡«³¨¦²·À¼º²³³ž–•¦±¶«¥ºŸ ˜xœ¨©¥ÏÚÉÌÜËƒ[HJˆˆ‚{§¬’[J`z®É¼œ¥¬¡”rl†ž¯´¯Ÿ®¼Àº»·µ°Ÿ“’¡²´¯ÅÊ¢š—„˜~£¨¥½ÖÍÌÙÅ[HH–{£¨ŒYJ]¶Æº›«¸¯Œwfƒ°³¯Ÿ«»¼¸¹ºµ®–•”¡®²´ÍÏ§—‘~•£¦±ÒÐÍ×ÌƒXHK¢ž~y–¥‡XK[µÁ©˜«·°Š‰yh„Ÿ°²®›©½º®¶¹·ª¢”•œ¨±¸ÍÐ£’’Š~‘’¥¥©ÌÎÆÕÉVHM£§|xž‰XJV–´ºŸ’¬¶­ˆ„„~q„ ¯±¬Ÿ«¿·Ÿ°½¹°› À¯¥°¹ÌÏ˜Œ‡Œ‰¤¥¢ÄÊÆÒÍŒTJS§©„{‰˜ƒ^J]´²Š‰ª¶§y~q†¡®¯©¤­¿´–¬¹½± ²ÞË§¯¸ÌÌ—Š~‘‰¢£š±ÃÉÏÇŠTHXª¨„†€_KY¢°©z€¬´§~x‚‡{†£«ª¥¥°º­~ ¼½°œ´ÞÕ¬®»ÉÊ›„‰‘ƒ~Ÿ£š¥½ÉÎÊŒYK^¦£“‰†‰x`Kj¤­ª³§‚š²£‘‹£¨¢£¤³·§m–º¾²™´ÜÑª¬ºÅÃ™~~‘€€š ––·ÂÍÇ„Ya¢ž•‹‡tbMt ¦˜rs§° ÑÚºœ’¤£’ž¤°³_ˆ¸¿³•¦×Ò¯­½Ä»Ÿ{‹‘˜Ÿ™‹¯¿ËÃ¶§la‘˜ˆ~q^[†¡™“ws¤­ šÔÖ¹Ÿ™£Ÿ„•¤°­•^ˆ»¼³“ÎÐ¸°¼Á±›~zŒ~|ž•y¢ÀÌÆ·¦‚k–ƒš‘‰wlaˆ° –ˆz¡«°ÒÏ°œ¡˜t“¥¯©Šp ·¼±€ÀÏ¿·¼¾¨¥|Š{|‘Ÿ™|›¸ÌÁµ •s„nš“‰vjf‘³¦ŒŒƒœ¨š©ÌÃ ž¢Ÿk§®£|¨º»®|s¬ËÃ¹º¶£~Ÿ‹…z|‘££‹”³ÊÂ´ šzva””‹xhfŒ¯Ÿ‰‹‰¥™´ÊÀ›ž¥¤˜f‰§¬œv¦¶¹°˜z§ÄÅ¼·®ŸŸ™|“¤¤”…«Æ¾³ž™g\“–Œzhi•ª™†‰Œ‹š¢š»Æ¦‘Ÿª±¯{ˆ§¨•t––«¶µ±Œ•¿Ã¸´¬ÿ~›°«ƒƒ £•ªÂÅ´žž«hX‹–€jz¡ª–…Š‘˜œ•¾Á–Š ª±²†¥¥‰s‘‰®±³£Š¸Ã¹®ž›ž®¬†ƒŸ¡–¡ÀÃ¬•¢§mV|–‚k‰¢¦•†w‡‘•™–¹º¢ª±²š„¡¡‡v¨²°ª†±Âºª•™~š­¨|ˆŸ•‚½Ä®‘ž§q‰–‚mzœ£“‡q„“•š¼µ€¢©°°Ÿ‹œœ…„ŒŸ«©©’¬Áº£Š—œ«Ÿ†‰ˆš›’ƒ·Äªƒ–§ˆ«¬–„kw–”…j€”‘Ÿ¹¬n|¢©­®£˜˜‚Œ‚©¡§—¨À¼›~~•œŸ§±˜š—“…“·Ã¨~Œ§…­–‡njœ“„`y•‰£µž^~ ¦ªª£›Ÿ˜ƒ‹ˆ|‚™™”¥¡¬½·Šv’šž£˜ŸÃ®’ˆ“³Á¥t‰¦›š«ˆue‚˜”ƒ]r•‰¨°Vwª¨¨£¡©¢„Œˆx€˜•ˆš²º¼¶‡~n’˜š˜•—Á±¢Œ…²½¢›£¦¨Ÿ|bt–”„l—’”“§ªŠT|¢°®¡¤¨¥‹Œƒw”y~À½´jƒ†ˆ½³¬‹ˆƒ‘±º¤~££­v¦¤—¥ nl“”ƒ›À¥”š¦£zU|«´±›Ÿ¤¦¢Œyt~‡u{‹¾½±~|j„ˆ†ºµ±Œ…­µ… ¤«u §œ±µ€lŒ“…ˆ»¯”—¡›`[|¦´³”›£¤ vr{‹„r{‘Á¾«|b‰‹„‡g°¶²ƒ‚­°˜ˆŸ¢²s—¥œ°µŸt‰‘†µ³—œ›ŒV^|«´²‘“£¦œ‡ipxˆ~q{˜Á¾~¥~c„‹„‡tb©¶¹’{’©ª—Ÿš«‡£ž¦µ³q„‚q®´ ˜|Tcw¨´²„ŠŸ¤›…cnvƒysyÂ¿¤w`ƒ‹……n]”¶¼™v{•¥«¨˜œ£–‡ŸŸ¯»¼Š‚f¨µ¤¡‘lSep§´²‚|¥‹~altttuŸÀ~¿Ÿy`z†…‚bT‰µ¼˜qx’£°§¡›‘¢˜¤¼ÁÃ uˆ„h”´±¤Œ_Ucnª³²|vŸª£‰qajrwpsx§µ¿¨€bu‡„‚YR|µ¾ªmw¡¬£¤™œ¤œ‹“£¸ÂÅ¬|g„²³§Š]Xan¨³®up¢«¥ƒlbnsrms†«~±¿¬‹\t†‚\P¯¾²mr‘œ¦¥¡–£ ›”Œš¬ÃËÀƒ~ew®¸§‰W[`m¦²¬ji¤«¥|af“xms“ª°½­Š]p„‚YOwª¾¶hp›£¡™£›–†“¤ÁÊÃz|fkªº¤T_s‚¨±©ci¤ªŸs]l––zls–~¨±½°‡[rƒYNq£»²kj‹—žŸšŠ“¥  ‹’œ½ËÈ’x{h^¨·¦Sbƒ‹¢¯Ÿap£©—hXz˜‘tlu£®»±„]mƒ~SNp£ºµlj‰”ž”Œ¥¥¢µËÌuwjc£´¥~V^‹¬—Ys£¦•cX‹—‘hj|ÿ~©º³…_r‚wY^s··se†˜œl|©£¢”‰‰ ÆÑ³zuka®·§y[XxŠ›¨“Xx ¢‘l\‡˜…`k…¤£¤¿µˆb…†‚wq¤Š—¶²pf‚—˜ˆ~’©¢£˜€…˜ÂÐº|sle´¸¦x]TqŠš¥ƒW†Ÿ•šs–˜el“²~»¸ÞÎg‡‡‚qy¨£œ´±sc|ˆ”–‡´ã¨¢™ƒ¹ÌÃœvlz·¹©y_TnŒ˜Ÿ‡e‹œ—“™—qbmœµºÂß×—l…‡‚lm ¥š°¬‚auˆ•’ËÝ¦”¢›ˆ¢¨¬ÊÐÆ“q»¹¬~bPhŒ——e—œš“tgs¤¶µ¿Þ×œqƒ†„h_—¤œ®®‰_q„‘…ÏØ$
+       tile $00000204%€‰–‘Š–¢¡ˆ–Œƒ•¡¡¥§¦{“¡ ¤«°œx Ÿ «®—s‰þž~«¬šb…›ª¬—`™œ„««˜_~˜š…©«›]z–šm¨« [˜šl§ª˜e£«¢f¥ªnª­§bž¨›««¦[¡§›…­«¥`—¥ž‹«¨¤Yš¤›ž¬¯ª[’¢¢°»ÐÁ[ ¨¶ÃÓÌ[Š­·ÂÑÌUˆœ°¶½ÏÊ[~²´³ÍÈ~U²²­ÊÈUz ²¯®ÊÃU{¤±°¾ÌÁR{¥°±ÌÏÁV‚©¯ºÎÏÀU…¤¬ÇÐÌ¹[“™¢ÆÐÌ´`—™œÄÏÉ®f–š¡ÃÐÆ¥q˜›£ÅÐÇ¡u™š¥ÊÏÈœv–š¤ÅÑÆ“~•™¤ÃÒÇ‡{“˜¤ÇÒÇ†~™¢ÁÐÇ†~Œš ÀÐÉ~‘|šž¹ÏÉ‰z’™›±ËÉ˜u“–—¨ÉÈ•‘”‹›ÄÇ™£”‘Œ½Á—¯“Œ´¾–µ–‰‡¢¸•²™€†“²˜­—zz„‹¨”¬›vyƒ†œ’¨ {‹•†’‘§¡ˆ¢„ŒŒ¦¢Šž……Š¥¡›š‚ˆ£ ’š“z€†¡ž•™“yY~ƒžœ¦£~«Ÿ£ÅÍŸ€°  ÂÏ·€{²£ ¹ÌÅŠz®¡œ®ÈÁ“{©£›¤ÃÂƒ¦¦›¢ÄÃ¨„©¥™ÀÄ±’´¥˜°¿´˜¸£—š§º·ª£¡—š ²¶¯$
+       tile $00000205~Œ¤Ò¨“ÈØØÏÌ¢xº±•zÂº·˜|Œx~x°¢—ž”€žÅÈ¨q{‹™©¬¨š ¹¹œhz‘£¶„kibhv‘€‰¹ÍœÈ××ÎË³…µªt„Åº¶v‹Šxz–¿º› š¸µ©u€‰ž¨¤™•¶¹šgv¡·‹nf^auŒ…ÿŠ~ÂÄŠ˜Î×ÖÊÆºŒ¯¦‹iÆ»µx†ˆzv“¿²œ«­–¥¥¢€„‡œ–¨¥¸È¸¶›bpŠ¢¶˜maV_rŒ‘œ©ž¾¸nŸÍ×ÔÁÁ¶”¯¤‰fŠÇ¼±ˆ{†„tv¢»«ž«®Ÿ”ž£¦€„‰˜”¡ ¿ÌÇµ–cs„ µ¢m]S]rŒ“ª~ª¾ª_”ÏÖÐ·¾¾ž®¡\šÅ¿²Œ{‚€wz©¹£—¢ª¢“š£©ƒ„ˆ•“Ÿ—±ÈÅ²šlu€¦µªqXR\rŠ“¡»ºˆ^ŸÊÔÏ§¶½«©Ÿ{W§ÇÀ­‹‚~yu¬·£ª¦¥£‘”¢¨†ƒ‡”“ªÄÅ°˜‚ˆ¡³¯uVN[t‹—›~˜½±rY¨ËÑÇªº´§™kX°ËÄ®‚|ysx«±­ÃÁ§¤‘œ£‘„ˆ—“•ˆ•ÀÄ°•ˆ¶×¼³¯†SOYs‹•™’¾­[Y¦ÈÏÁœ¥¸º¤”e_½ÎË­zƒyu‰«®¬ÃÆ££’ˆŸ™„ˆ•—yv¶¸ª”†ºÛÆ²®‘WNXr——‰$
+       tile $00000205~¹ª•‡¤¸§‡„yXyš¨´¢€nvr†¡¨¶³ž]VŸÎÏË¶mƒ­®™”·¦s«¯š|K\­º¨Š‘¯š…Œ¶ÎÒ›³²³­˜Š˜µ«‡yYl™¨²šwksq’§¬³¯Ÿ__¦ÊÄÄ´yÄÂ­š´žn‚Yg¬µž‡ ¬…¼ÌÌ•½ÿ´~¬–‡ ¾¨‹uWj–¦°•ziku˜¨¬š‘™]i°Æ¾À´–ÂÄ³˜°cœªƒˆnj©°”ƒ©¬†—ÁÈÁ‹¹µ´®’‡²¾„ƒƒwUb—¥«zjixš©ª‰–†`w®¾°»·ƒšÂÃµš¬›\‘´‹‡~l¦ª‹‡ª¦†žÄÅ³†¶´~±¬…¸·„tVc™£¤‰uie~žª¨‹‰‘‡h†©·ÁÍ§ÁÃ²¨•T“»”ˆ€p£¦‚“°¤ˆˆ¨ÅÃ£…°´«©ˆ…¼¶…€sVa–¡ ‰qge›¬¦„Š‹k¥¨–ÇÍ´ÂÃºž¤’U†»ªŠ…ržŸ{œ¼µ‹Š²Å»‘ƒª~³¨§ˆ¸³†…u[f•Ÿ›„lhm~œ­£•sœ¡žŠ¾Ê»š´Ä¸©›V¶·ƒw™™w¹¶–ºÃ²Š©±¤¥‡‚½°†‚‹˜whœ–ƒiep€Ÿ­~“–¨™œ‹¯Æ³š®Ã¸¥À¹ƒ„³¿–„y”“wš³²œ–¿Á¦ˆŸª±$
+       tile $00000205~¨¡šŠ¢¨§Å×Íªyœ»ºµ‹gSužœ“sr‹Œ‡Šš–˜––zƒ©·¸ÜÕ˜pƒ†„fOŠ¡ °ºŸfk€’ ÑÇ«ƒŸ›’ž¥ ¼ÓÏ¬„¡ººµ’i^ªÐ·•t~Šˆ{‡™˜™™žš°¶›±ÙÒ˜s~…„`K{ž ­¹ªgg‚›ÆÑ~Æ¨~›‘Ÿ£˜µÌÏ¶§¶¹¸œje»ÕÊpˆ{t–œ—›œ‘Ÿ°µ§×Ð—rz…ƒ_Jmš¢¯¶«ib†¦ËÓ½¨q˜›“ž Œ¦ÌÏ·„¨²¸·›k^­ÔÒ§y|rkv—ž™ –”¡²«x¢ÓÍ‘s{„„`Lnš¢ª´¢ef„‹¦Í~Ð³§r–™‘šŠÅÐ»’®°·¸jU›ÑÔ£{zyjfq—œ˜œ“”¨±§n¢ÏÉŠ˜†„ec¬°¤­± gfƒ‹žÍÏ ¢k˜”˜›‡”¾Î¾Ÿ®ÃÀº¡kT‡ÏÓ­wpfbr˜›—™’–ª±fËÃ“ºÁ‚ajÂ¸¡¬®›grŠ‰§ÿÎ~€žc‡——••z‡´ÏÁ¬¼åË½¦r\uÊÒ»ƒshfl›Ÿœ–˜“™¯®€h§Ç·”È¼‰€_‡¿²ž©¬ªuŠ¤“¥ÍÆxšaƒ•””’vt¥ËÃ«½àÍÁ¦r[lÁÑÄŠ„‚k¡Ï²™””Ÿ°¨ni£Á°—È­…|eƒ»§›©³Üºª¬Ÿ²ËÂq$
+       tile $00000041?Ÿ”˜—§µª˜’“š±­‹•Š†Š°®†“‹‰†…¦®„’‰…† ­¿¤‰„…˜¦—¿§ˆ„„”£‰ºªˆƒƒŒ©$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       brit 1
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }
