@@ -1,0 +1,1005 @@
+//Microsoft Developer Studio generated resource script.
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// French (Switzerland) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_FRS)
+#ifdef _WIN32
+LANGUAGE LANG_FRENCH, SUBLANG_FRENCH_SWISS
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "blupi.ico"
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 0,4,0,0
+ PRODUCTVERSION 0,4,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "100c04b0"
+        BEGIN
+            VALUE "CompanyName", "EPSITEC\0"
+
+            VALUE "FileDescription", "Blupi\0"
+
+            VALUE "FileVersion", "0, 4, 0, 0\0"
+
+            VALUE "InternalName", "Planet Blupi\0"
+
+            VALUE "LegalCopyright", "Copyright   1997\0"
+
+            VALUE "OriginalFilename", "Blupi.exe\0"
+            
+            VALUE "ProductName", "EPSITEC Planet Blupi\0"
+
+            VALUE "ProductVersion", "0, 4, 0, 0\0"            
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x100c, 1200 
+//        VALUE "번역", 0x100c, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_POINTER             CURSOR  DISCARDABLE     "cursor1.cur"
+IDC_MAP                 CURSOR  DISCARDABLE     "map.cur"
+IDC_ARROWU              CURSOR  DISCARDABLE     "arrowup.cur"
+IDC_ARROWD              CURSOR  DISCARDABLE     "arrowdow.cur"
+IDC_ARROWL              CURSOR  DISCARDABLE     "arrowlef.cur"
+IDC_ARROWR              CURSOR  DISCARDABLE     "arrowrig.cur"
+IDC_ARROWUL             CURSOR  DISCARDABLE     "arrowul.cur"
+IDC_ARROWUR             CURSOR  DISCARDABLE     "arrowur.cur"
+IDC_ARROWDR             CURSOR  DISCARDABLE     "arrowdr.cur"
+IDC_ARROWDL             CURSOR  DISCARDABLE     "arrowdl.cur"
+IDC_WAIT                CURSOR  DISCARDABLE     "wait.cur"
+IDC_EMPTY               CURSOR  DISCARDABLE     "empty.cur"
+IDC_FILL                CURSOR  DISCARDABLE     "fill.cur"
+IDC_ARROW               CURSOR  DISCARDABLE     "arrow.cur"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_ACTION_GO            "Go"
+    TX_ACTION_GO            "이동하기"
+
+//    TX_ACTION_STOP          "Stop"
+    TX_ACTION_STOP          "멈추기"
+
+//    TX_ACTION_MANGE         "Eat"
+    TX_ACTION_MANGE         "먹기"
+
+//    TX_ACTION_CARRY         "Take"
+    TX_ACTION_CARRY         "집어들기"
+
+//    TX_ACTION_DEPOSE        "Drop"
+    TX_ACTION_DEPOSE        "내려놓기"
+
+//    TX_ACTION_ABAT          "Cut down a tree"
+    TX_ACTION_ABAT          "나무 베기"
+
+//    TX_ACTION_ROC           "Carve a rock"    
+    TX_ACTION_ROC           "돌 다듬기"
+    
+//    TX_ACTION_CULTIVE       "Grow tomatoes"
+    TX_ACTION_CULTIVE       "토마토 키우기"
+
+//    TX_ACTION_BUILD1        "Garden shed"
+    TX_ACTION_BUILD1        "채소밭 헛간"
+
+//    TX_ACTION_BUILD2        "Incubator"
+    TX_ACTION_BUILD2        "부화기"
+
+//    TX_ACTION_BUILD3        "Laboratory"
+    TX_ACTION_BUILD3        "실험실"
+
+//    TX_ACTION_BUILD4        "Mine"
+    TX_ACTION_BUILD4        "광산"
+
+//    TX_ACTION_BUILD5        "Workshop"
+    TX_ACTION_BUILD5        "공장"
+
+//    TX_ACTION_BUILD6        "Teleporter"
+    TX_ACTION_BUILD6        "공간이동기"
+
+//    TX_ACTION_MUR           "Wall"
+    TX_ACTION_MUR           "벽"
+END
+
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_ACTION_PALIS         "Palisade"
+    TX_ACTION_PALIS         "나무울타리"
+
+//    TX_ACTION_ABATn         "Cut down  trees"
+    TX_ACTION_ABATn         "계속해서 나무베기"
+
+//    TX_ACTION_ROCn          "Carve rocks"
+    TX_ACTION_ROCn          "계속해서 돌다듬기"
+
+//    TX_ACTION_PONT          "Bridge"
+    TX_ACTION_PONT          "다리"
+
+//    TX_ACTION_TOUR          "Protection tower"
+    TX_ACTION_TOUR          "방어용 탑"
+
+//    TX_ACTION_BOIT          "Drink"
+    TX_ACTION_BOIT          "마시기"
+
+//    TX_ACTION_LABO          "Transform"
+    TX_ACTION_LABO          "변환"
+
+//    TX_ACTION_FLEUR         "Make bunch of flowers"
+    TX_ACTION_FLEUR         "꽃다발 만들기"
+
+//    TX_ACTION_FLEURn        "Make bunches of flowers"
+    TX_ACTION_FLEURn        "계속해서 꽃다발 만들기"
+
+//    TX_ACTION_DYNAMITE      "Blow up"
+    TX_ACTION_DYNAMITE      "폭파"
+
+//    TX_ACTION_BATEAU        "Boat"
+    TX_ACTION_BATEAU        "보트"
+
+//    TX_ACTION_DJEEP         "Leave Jeep"
+    TX_ACTION_DJEEP         "짚차에서 내리기"
+
+//    TX_ACTION_DRAPEAU       "Prospect for iron"
+    TX_ACTION_DRAPEAU       "철광 찾기"
+
+//    TX_ACTION_EXTRAIT       "Extract iron"
+    TX_ACTION_EXTRAIT       "철을 추출해내기"
+
+//    TX_ACTION_FABJEEP       "Make a Jeep"
+    TX_ACTION_FABJEEP       "짚차 만들기"
+
+//    TX_ACTION_FABMINE       "Make a time bomb"
+    TX_ACTION_FABMINE       "시한폭탄 만들기"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_ERROR_MISC           "Impossible"
+    TX_ERROR_MISC           "수행 불가능"
+
+//    TX_ERROR_GROUND         "Inadequate ground"
+    TX_ERROR_GROUND         "부적당한 장소"
+
+//    TX_ERROR_FREE           "Occupied ground"
+    TX_ERROR_FREE           "점유된 장소"
+
+//    TX_ERROR_PONTOP         "Opposite bank no good"
+    TX_ERROR_PONTOP         "반대편 뚝은 좋지않음"
+
+//    TX_ERROR_PONTTERM       "Bridge finished"
+    TX_ERROR_PONTTERM       "다리가 완성됨"
+
+//    TX_ERROR_TOURISOL       "(isolated tower)"
+    TX_ERROR_TOURISOL       "(따로떨어진 탑)"
+ 
+//    TX_ERROR_TOUREAU        "Too close to water"
+    TX_ERROR_TOUREAU        "너무 물에 가까운 곳임"
+ 
+//    TX_ERROR_TELE2          "Already two teleporters"
+    TX_ERROR_TELE2          "이미 두 개의 공간이동장치가 있음"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_IONAMEEX             "training %d, time %d"
+    TX_IONAMEEX             "훈련중 %d, 시간 %d"
+
+//    TX_IOFREE               "free slot"
+    TX_IOFREE               "빈 장소"
+
+
+//    TX_TERMMIN              "Lost if less than %d Blupis"
+    TX_TERMMIN              "그 수가 %d 명의 블루피 보다 작다면 승리를 놓치는 것임"
+
+//    TX_TERMMAX              "Impossible to win if less than %d Blupis"
+    TX_TERMMAX              "만약 블루피들의 수가 %d 보다 적다면 승리는 불가능함"
+
+//    TX_BUTTON_JOUER         "Missions"
+    TX_BUTTON_JOUER         "임무"
+
+//    TX_BUTTON_APPRENDRE     "Training"
+    TX_BUTTON_APPRENDRE     "훈련"
+
+//    TX_BUTTON_QUITTER       "Quit BLUPI"
+    TX_BUTTON_QUITTER       "블루피 게임에서 빠져나가기"
+
+//    TX_BUTTON_PREVP         "Previous game"
+    TX_BUTTON_PREVP         "이전 게임으로"
+
+//    TX_BUTTON_NEXTP         "Next game"
+    TX_BUTTON_NEXTP         "다음 게임으로"
+
+//    TX_BUTTON_PLAYP         "Play this game"
+    TX_BUTTON_PLAYP         "이 게임을 시작하기"
+
+//    TX_BUTTON_BUILDP        "Construct this game"
+    TX_BUTTON_BUILDP        "이 게임의 판을 구성하기"
+
+//    TX_BUTTON_TERM          "Finish"
+    TX_BUTTON_TERM          "끝내기"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_BUTTON_READP         "Open another game "
+    TX_BUTTON_READP         "다른 게임을 열기"
+
+//    TX_BUTTON_WRITEP        "Save this game"
+    TX_BUTTON_WRITEP        "이 게임을 저장하기"
+
+//    TX_BUTTON_CANCELP       "Quit this game"
+    TX_BUTTON_CANCELP       "이 게임을 빠져나가기"
+
+//    TX_BUTTON_CONTP         "Continue this game"
+    TX_BUTTON_CONTP         "이 게임을 계속하기"
+
+
+//    TX_BUTTON_REPEAT        "Restart this game"
+    TX_BUTTON_REPEAT        "이 게임을 다시 시작하기"
+
+//    TX_BUTTON_BUTTON        "Available buttons"
+    TX_BUTTON_BUTTON        "사용가능한 단추"
+
+//    TX_BUTTON_CTERM         "Ending conditions"
+    TX_BUTTON_CTERM         "게임의 임무를 마치기 위한 조건"
+
+//    TX_BUTTON_TERMC         "Quit construction"
+    TX_BUTTON_TERMC         "판 구성에서 빠져 나가기"
+
+//    TX_BUTTON_TERMHBLUPI    "Blupi on striped paving stones"
+    TX_BUTTON_TERMHBLUPI    "줄무늬로 덮인 돌위에 있는 블루피"
+
+//    TX_BUTTON_TERMHPLANCHE  "Planks on striped paving stones"
+    TX_BUTTON_TERMHPLANCHE  "줄무늬로 덮인 돌위에 놓인 나무 판자들"
+
+//    TX_BUTTON_TERMFIRE      "Fire out"
+    TX_BUTTON_TERMFIRE      "불끄기"
+
+    TX_BUTTON_TERMDEC       "(-)"
+
+
+    TX_BUTTON_TERMINC       "(+)"
+
+
+//    TX_PAUSE                "Game paused"
+    TX_PAUSE                "게임을 잠시 멈추기"
+
+//    TX_JAUGE1               "Blupi's energy"
+    TX_JAUGE1               "블루피의 에너지"
+
+//    TX_JAUGE2               "Work done"
+    TX_JAUGE2               "작업을 끝마침"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_BUTTON_SETUP         "Settings"
+    TX_BUTTON_SETUP         "설정"
+
+//    TX_BUTTON_MUSIC         "Music choice"
+    TX_BUTTON_MUSIC         "음악 선택"
+
+
+//    TX_BUTTON_SETUP1        "Slower"
+    TX_BUTTON_SETUP1        "더 느리게"
+
+//    TX_BUTTON_SETUP2        "Faster"
+    TX_BUTTON_SETUP2        "더 빠르게"
+
+//    TX_BUTTON_SETUP3        "Reduce volume"
+    TX_BUTTON_SETUP3        "볼륨 줄이기"
+
+//    TX_BUTTON_SETUP4        "Increase volume"
+    TX_BUTTON_SETUP4        "볼륨 키우기"
+
+//    TX_BUTTON_MUSIC1        "No music"
+    TX_BUTTON_MUSIC1        "음악 소리 없애기"
+
+//    TX_BUTTON_MUSIC2        "Music number 1"
+    TX_BUTTON_MUSIC2        "음악 번호 1"
+
+//    TX_BUTTON_MUSIC3        "Music number 2"
+    TX_BUTTON_MUSIC2        "음악 번호 2"
+
+//    TX_BUTTON_MUSIC4        "Music number 3"
+    TX_BUTTON_MUSIC2        "음악 번호 3"
+
+//    TX_BUTTON_MUSIC5        "Music number 4"
+    TX_BUTTON_MUSIC2        "음악 번호 4"
+
+//    TX_BUTTON_MUSIC6        "Music number 5"
+    TX_BUTTON_MUSIC2        "음악 번호 5"
+
+//    TX_BUTTON_MUSIC7        "Music number 6"
+    TX_BUTTON_MUSIC2        "음악 번호 6"
+
+//    TX_BUTTON_MUSIC8        "Music number 7"
+    TX_BUTTON_MUSIC2        "음악 번호 7"
+
+//    TX_BUTTON_MUSIC9        "Music number 8"
+    TX_BUTTON_MUSIC2        "음악 번호 8"
+
+//    TX_BUTTON_MUSIC10       "Music number 9"
+    TX_BUTTON_MUSIC2        "음악 번호 9"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+
+//    TX_BUTTON_REGION        "Scenery choice"
+    TX_BUTTON_REGION        "풍경 선택"
+
+//    TX_BUTTON_TERMMBLUPI    "Blupi in house"
+    TX_BUTTON_TERMMBLUPI    "집안에 있는 블루피"
+
+//    TX_BUTTON_TERMKILL      "No more enemies"
+    TX_BUTTON_TERMKILL      "더 이상 적이 없음"
+
+//    TX_TERM                 "Ending conditions"
+    TX_TERM                 "게임의 임무를 마치기 위한 조건"
+
+//    TX_BUTTON               "Available buttons"
+    TX_BUTTON               "사용가능한 단추"
+
+//    TX_MUSIC                "Music choice"
+    TX_MUSIC                "음악 선택"
+
+//    TX_SCHOOL               "Training number"
+    TX_SCHOOL               "훈련 번호"
+
+//    TX_MISSION              "Mission number"
+    TX_MISSION              "임무 번호"
+
+//    TX_IONAMEMI             "mission %d, time %d"
+    TX_IONAMEMI             "임무 %d, 시간 %d"
+
+//    TX_BUTTON_TERMHTOMATE   "Tomatoes on striped paving stones"
+    TX_BUTTON_TERMHTOMATE   "줄무늬로 덮인 돌위에 놓인 토마토들"
+
+//    TX_BUTTON_SETUP5        "Reduce volume"
+    TX_BUTTON_SETUP5        "볼륨 줄이기"
+
+//    TX_BUTTON_SETUP6        "Increase volume"
+    TX_BUTTON_SETUP6        "볼륨 키우기"
+
+//    TX_BUTTON_SETUP7        "No video"
+    TX_BUTTON_SETUP7        "동영상 안보기"
+
+//    TX_BUTTON_SETUP8        "Show videos"
+    TX_BUTTON_SETUP8        "동영상 보기"
+
+//    TX_OUI                  "Yes"
+    TX_OUI                  "예"
+
+
+//    TX_NON                  "No"
+    TX_NON                  "아니오"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_OBJ_BLUPIm           "Sick Blupi"
+    TX_OBJ_BLUPIm           "아픈 블루피"
+
+//    TX_OBJ_BLUPIf           "Tired Blupi"
+    TX_OBJ_BLUPIf           "지친 블루피"
+
+//    TX_OBJ_BLUPI            "Blupi"
+    TX_OBJ_BLUPI            "블루피"
+
+//    TX_OBJ_BATEAU           "Boat"
+    TX_OBJ_BATEAU           "보트"
+
+//    TX_OBJ_JEEP             "Jeep"
+    TX_OBJ_JEEP             "짚차"
+
+//    TX_OBJ_PIEGE            "Sticky trap"
+    TX_OBJ_PIEGE            "끈끈이 덫"
+
+//    TX_OBJ_POISON           "Poison"
+    TX_OBJ_POISON           "독"
+
+//    TX_OBJ_DYNAMITE         "Dynamite"
+    TX_OBJ_DYNAMITE         "다이나 마이트"
+
+//    TX_OBJ_MINE             "Time bomb"
+    TX_OBJ_MINE             "시한 폭탄"
+
+//    TX_OBJ_TOMATE           "Tomatoes"
+    TX_OBJ_TOMATE           "토마토들"
+
+//    TX_OBJ_POTION           "Medical potion"
+    TX_OBJ_POTION           "일회분 내복약"
+
+//    TX_OBJ_PLANCHE          "Planks"
+    TX_OBJ_PLANCHE          "판자"
+
+//    TX_OBJ_PIERRE           "Stones"
+    TX_OBJ_PIERRE           "돌들"
+
+
+//    TX_OBJ_DRAPEAU          "Flag"
+    TX_OBJ_DRAPEAU          "깃발"
+
+//    TX_OBJ_FER              "Iron"
+    TX_OBJ_FER              "철"
+
+//    TX_OBJ_FLEUR1           "Flowers"
+    TX_OBJ_FLEUR1           "꽃들"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_OBJ_FLEUR2           "Flowers"
+    TX_OBJ_FLEUR2           "꽃들"
+
+//    TX_OBJ_FLEUR3           "Flowers"
+    TX_OBJ_FLEUR3           "꽃들"
+
+//    TX_OBJ_CABANE           "Garden shed"
+    TX_OBJ_CABANE           "채소밭 헛간"
+
+//    TX_OBJ_LABO             "Laboratory"
+    TX_OBJ_LABO             "실험실"
+
+//    TX_OBJ_MINEFER          "Mine"
+    TX_OBJ_MINEFER          "광산"
+
+//    TX_OBJ_USINE            "Workshop"
+    TX_OBJ_USINE            "공장"
+
+//    TX_OBJ_TOUR             "Protection tower"
+    TX_OBJ_TOUR             "방어용 탑"
+
+//    TX_OBJ_FEU              "Fire"
+    TX_OBJ_FEU              "불"
+
+//    TX_OBJ_ROBOT            "Master robot"
+    TX_OBJ_ROBOT            "지배자 로봇"
+
+//    TX_OBJ_TRACKS           "Bulldozer"
+    TX_OBJ_TRACKS           "불도우저"
+
+//    TX_OBJ_BOMBE            "Bouncing bomb"
+    TX_OBJ_BOMBE            "통통 튀는 폭탄"
+
+
+//    TX_OBJ_ARAIGNEE         "Spider"
+    TX_OBJ_ARAIGNEE         "거미"
+
+//    TX_OBJ_VIRUS            "Virus"
+    TX_OBJ_VIRUS            "바이러스"
+
+//    TX_OBJ_ELECTRO          "Electrocutor"
+    TX_OBJ_ELECTRO          "전기 처형기"
+
+//    TX_OBJ_ARBRE            "Tree"
+    TX_OBJ_ARBRE            "나무"
+
+//    TX_OBJ_MUR              "Wall"
+    TX_OBJ_MUR              "벽"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_OBJ_ARBREb           "Tree trunks"
+    TX_OBJ_ARBREb           "나무 줄기"
+
+//    TX_OBJ_ROC              "Rocks"
+    TX_OBJ_ROC              "바위들"
+
+//    TX_OBJ_OEUF             "Eggs"
+    TX_OBJ_OEUF             "알들"
+
+//    TX_OBJ_PALISSADE        "Palisade"
+    TX_OBJ_PALISSADE        "나무울타리"
+
+//    TX_OBJ_ENNEMIp          "Trapped enemy"
+    TX_OBJ_ENNEMIp          "덫에 걸린 적"
+
+//    TX_OBJ_ENNEMI           "Enemy construction"
+    TX_OBJ_ENNEMI           "적의 구조물"
+
+//    TX_OBJ_HERBE            "Normal ground"
+    TX_OBJ_HERBE            "자연상태의 땅"
+
+//    TX_OBJ_MOUSSE           "Inflammable ground"
+    TX_OBJ_MOUSSE           "불타기 쉬운 땅"
+
+//    TX_OBJ_TERRE            "Sterile ground"
+    TX_OBJ_TERRE            "불모지"
+
+ 
+//    TX_OBJ_EAU              "Water"
+    TX_OBJ_EAU              "물"
+
+//    TX_OBJ_RIVE             "Bank"
+    TX_OBJ_RIVE             "뚝" 
+
+//    TX_OBJ_MIXTE            "Miscellaneous ground"
+    TX_OBJ_MIXTE            "잡토지"
+ 
+
+//    TX_OBJ_PONT             "Bridge"
+    TX_OBJ_PONT             "다리"
+
+//    TX_OBJ_COUVEUSE         "Incubator"
+    TX_OBJ_COUVEUSE         "부화기"
+
+//    TX_OBJ_GLACE            "Ice"
+    TX_OBJ_GLACE            "얼음"
+
+//    TX_OBJ_MAISON           "Blupi's house"
+    TX_OBJ_MAISON           "블루피의 집"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_OBJ_HACHURE          "Striped paving stones"
+    TX_OBJ_HACHURE          "줄무늬로 덮힌 돌들"
+
+//    TX_OBJ_MOUSSEb          "Burnt ground"
+    TX_OBJ_MOUSSEb          "그을린 땅"
+
+//    TX_OBJ_BOUQUET1         "Bunch of flowers"
+    TX_OBJ_BOUQUET1         "꽃다발"
+
+//    TX_OBJ_BOUQUET2         "Bunch of flowers"
+    TX_OBJ_BOUQUET2         "꽃다발"
+
+//    TX_OBJ_BOUQUET3         "Bunch of flowers"
+    TX_OBJ_BOUQUET3         "꽃다발"
+
+//    TX_OBJ_DALLE            "Paving stones"
+    TX_OBJ_DALLE            "포장된 돌"
+
+//    TX_OBJ_ENNEMIs          "Enemy ground "
+    TX_OBJ_ENNEMIs          "적지"
+
+
+//    TX_OBJ_DISCIPLE         "Helper robot"
+    TX_OBJ_DISCIPLE         "도우미 로봇"
+
+//    TX_OBJ_METAL            "Platinium"
+    TX_OBJ_METAL            "백금"
+
+//    TX_OBJ_FUSEE            "Enemy rocket"
+    TX_OBJ_FUSEE            "적의 로켓"
+
+//    TX_OBJ_TELEPORTE        "Teleporter"
+    TX_OBJ_TELEPORTE        "공간이동기"
+
+//    TX_OBJ_ARMURE           "Armour"
+    TX_OBJ_ARMURE           "갑옷"
+
+//    TX_OBJ_DALLESPEC        "Special pavings"
+    TX_OBJ_DALLESPEC        "특별한 포장"
+
+//    TX_OBJ_COUVTELE         "Incubator or teleporter"
+    TX_OBJ_COUVTELE         "부화기 또는 공간이동기"
+
+//    TX_OBJ_BATIMENT         "Buildings"
+    TX_OBJ_BATIMENT         "건물들"
+
+//    TX_OBJ_BATENNEMIS       "Enemy buildings"
+    TX_OBJ_BATENNEMIS       "적의 건물들"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_WIN1                 "Well done !"
+    TX_WIN1                 "잘 했어요 !"
+
+//    TX_WIN2                 "Yes, great..."
+    TX_WIN2                 "예, 훌륭해요..."
+
+//    TX_WIN3                 "Very good."
+    TX_WIN3                 "아주 좋아요."
+
+//    TX_WIN4                 "Excellent..."
+    TX_WIN4                 "탁월해요..."
+
+//    TX_WIN5                 "Mission over..."
+    TX_WIN5                 "임무를 마쳤어요..."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_LOST1                "You have failed, try again..."
+    TX_LOST1                "실패했군요, 다시 한 번 하심이..."
+
+//    TX_LOST2                "No, wrong way ..."
+    TX_LOST2                "아닙니다, 잘못된 방법이었어요 ..."
+
+//    TX_LOST3                "Bang, failed again !"
+    TX_LOST3                "빵, 또 틀렸군요 !"
+
+//    TX_LOST4                "Another mistake..."
+    TX_LOST4                "또 다시 실수를..."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_LOST5                "No, not that way !"
+    TX_LOST5                "아니예요, 그 방법이 아니라니까요 !"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_LASTWIN1             "Now go on mission."
+    TX_LASTWIN1             "이제 임무를 계속합니다."
+
+//    TX_LASTWIN2             "Very good, success on all missions !"
+    TX_LASTWIN2             "매우 좋군요, 모든 임무를 완수했습니다 !"
+
+//    TX_LASTWIN3             "Last construction resolved !"
+    TX_LASTWIN3             "마지막 판을 해결했습니다 !"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_BUTTON_SETUP9        "Slower"
+    TX_BUTTON_SETUP9        "느리게"
+
+//    TX_BUTTON_SETUP10       "Faster"
+    TX_BUTTON_SETUP10       "빠르게"
+
+//    TX_INFO_SETUP1          "Global game\nspeed"
+    TX_INFO_SETUP1          "전체 게임\n속도"
+
+//    TX_INFO_SETUP2          "Sound effect\nvolume"
+    TX_INFO_SETUP2          "사운드 효과\n볼륨"
+//    TX_INFO_SETUP3          "Music\nvolume"
+    TX_INFO_SETUP3          "음악\n볼륨"
+
+//    TX_INFO_SETUP4          "Video\nsequences"
+    TX_INFO_SETUP4          "비디오\n화면"
+
+//    TX_INFO_SETUP5          "Scroll speed\nwith mouse"
+    TX_INFO_SETUP5          "마우스에 따른\n화면 움직임 속도"
+
+//    TX_INFO_NOSCROLL        "None"
+    TX_INFO_NOSCROLL        "화면 움직임 없음"
+
+//    TX_BUTTON_REGION1       "Prairie"
+    TX_BUTTON_REGION1       "초원"
+
+//    TX_BUTTON_REGION2       "Desert"
+    TX_BUTTON_REGION2       "사막"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_BUTTON_REGION3       "Forest under snow"
+    TX_BUTTON_REGION3       "눈 덮인 숲"
+
+//    TX_BUTTON_REGION4       "Forest"
+    TX_BUTTON_REGION4       "숲"
+
+//    TX_REGION               "Scenery choice"
+    TX_REGION               "풍경 선택"
+
+//    TX_BUTTON_PLAY_STOP     "Interrupt"
+    TX_BUTTON_PLAY_STOP     "중단"
+
+//    TX_BUTTON_PLAY_SETUP    "Settings"
+    TX_BUTTON_PLAY_SETUP    "설정"
+
+//    TX_BUTTON_PLAY_WRITE    "Save"
+    TX_BUTTON_PLAY_WRITE    "저장"
+
+//    TX_INSERT               "Insert CD-Rom Planet Blupi and wait a few seconds..."
+    TX_INSERT               "행성 블루피 게임 씨디를 넣고 잠시만 기다리세요..."
+
+//    TX_BUTTON_PREVH         "Previous page"
+    TX_BUTTON_PREVH         "이전 페이지"
+
+
+//    TX_BUTTON_NEXTH         "Next page"
+    TX_BUTTON_NEXTH         "다음 페이지"
+
+//    TX_BUTTON_TERMHMETAL    "Platinium on striped paving stones"
+    TX_BUTTON_TERMHMETAL    "줄무늬 돌위에 놓인 백금"
+
+//    TX_BUTTON_HELP          "Help"
+    TX_BUTTON_HELP          "도움말"
+
+//    TX_HELP                 "Help number"
+    TX_HELP                 "도움말 번호"
+
+//    TX_BUTTON_PRIVE         "Construction"
+    TX_BUTTON_PRIVE         "게임판 구성"
+
+//    TX_PRIVATE              "Construction number"
+    TX_PRIVATE              "게임판 구성번호"
+
+//    TX_IONAMEPR             "Construction %d, time %d"
+    TX_IONAMEPR             "게임판 구성번호 %d, 시간 %d"
+
+//    TX_PRIVATE_HACHBLUPI    "1|Go on striped\n1| paving stones."
+    TX_PRIVATE_HACHBLUPI    "1|줄무늬로 덮힌 \n1| 돌 위로 가기."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_ACTION_FABDISC       "Make a helper robot"
+    TX_ACTION_FABDISC       "도우미 로봇을 만들기"
+
+//    TX_ACTION_REPEAT        "Repeat"
+    TX_ACTION_REPEAT        "반복하기"
+
+//    TX_ACTION_QARMURE       "Quit"
+    TX_ACTION_QARMURE       "빠져나가기"
+
+//    TX_ACTION_FABARMURE     "Make armour"
+    TX_ACTION_FABARMURE     "갑옷을 만들기"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_PRIVATE_HACHPLANCHE  "1|Drop planks on striped \n1|paving stones."
+    TX_PRIVATE_HACHPLANCHE  "1|줄무늬로 덮인 돌위에 \n1|판자를 내려놓기."
+
+
+//    TX_PRIVATE_HACHTOMATE   "1|Drop tomatoes on striped \n1|paving stones."
+    TX_PRIVATE_HACHTOMATE   "1|줄무늬로 덮인 돌위에 \n1|토마토를 내려놓기."
+
+//    TX_PRIVATE_HACHMETAL    "1|Drop platinium on striped \n1|paving stones."
+    TX_PRIVATE_HACHMETAL    "1|줄무늬로 덮인 돌위에 \n1|백금을 내려놓기."
+
+//    TX_PRIVATE_STOPFIRE     "1|Resist until\n1|fire extinction ..."
+    TX_PRIVATE_STOPFIRE     "1|불이 꺼질 때 까지\n1|버티시오 ..."
+
+//    TX_PRIVATE_HOMEBLUPI    "1|Each Blupi in\n1|his house."
+    TX_PRIVATE_HOMEBLUPI    "1|각각의 블루피들을 \n그들의 집안에 데려다 놓기."
+
+//    TX_PRIVATE_KILLROBOTS   "1|Kill all\n1|enemies !"
+    TX_PRIVATE_KILLROBOTS   "1|모든 적들을\n1|없애기 !"
+
+//    TX_BUTTON_UNDO          "Cancel last operation"
+    TX_BUTTON_UNDO          "마지막 작전을 취소하기"
+
+//    TX_DEMO_END1            "You have played the DEMO version of Planet Blupi."
+    TX_DEMO_END1            "여러분은 데모판의 행성 블루피 게임을 하셨습니다."
+
+//    TX_DEMO_END2            "We hope you have had as much fun playing the game as we had making it !"
+    TX_DEMO_END2            "우리는 여러분이 이 게임을 우리가 이 게임을 만들 때처럼 재미있게 플레이 하셨기를 바랍니다 !"
+
+//    TX_DEMO_END3            "This game is an original creation of EPSITEC SA, CH-1092 Belmont"
+    TX_DEMO_END3            "이 게임은 벨몬트 CH-1092에 있는 엡시택 점포 자동화 회사의 창작품입니다."
+
+//    TX_DEMO_END4            "http://www.blupi.com            blupi@epsitec.ch"
+    TX_DEMO_END4            "http://www.blupi.com            blupi@epsitec.ch"
+
+//    TX_FULL_END1            "You have played Planet Blupi."
+    TX_FULL_END1            "여러분은 행성 블루피라는 게임을 하셨습니다."
+
+//    TX_FULL_END2            "We hope you have had as much fun playing the game as we had making it !"
+    TX_DEMO_END2            "우리는 여러분이 이 게임을 우리가 이 게임을 만들 때처럼 재미있게 플레이 하셨기를 바랍니다 !"
+
+//    TX_FULL_END3            "This game is an original creation of EPSITEC SA, CH-1092 Belmont"
+    TX_FULL_END3            "이 게임은 벨몬트 CH-1092에 있는 엡시택 점포 자동화 회사의 창작품입니다."          
+
+//    TX_FULL_END4            "http://www.blupi.com            blupi@epsitec.ch"
+    TX_FULL_END4            "http://www.blupi.com            blupi@epsitec.ch"       
+
+//    TX_PRIVATE_OBJECTIF     "1|Goal :"
+    TX_PRIVATE_OBJECTIF     "1|목표 :"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_PRIVATE_NBBLUPI      "1|The Blupi population must \n1|be of at least  %d Blupis."
+    TX_PRIVATE_NBBLUPI      "1|블루피의 인구수가 \n1|적어도 %d명의 블루피는 되어야만 합니다."
+
+//    TX_BUTTON_SKILL         "Skill level"
+    TX_BUTTON_SKILL         "기술 단계"
+
+//    TX_SKILL1               "Easy"
+    TX_SKILL1               "쉬운"
+
+//    TX_SKILL2               "Difficult"
+    TX_SKILL2               "어려운"
+
+//    TX_BUTTON_DEMO          "Demo"
+    TX_BUTTON_DEMO          "데모"
+
+//    TX_DEMOREC              "REC"
+    TX_DEMOREC              "기록"
+
+
+//    TX_DEMOPLAY             "Demo"
+    TX_DEMOPLAY             "데모"
+
+//    TX_BUTTON_TERMHROBOT    "Robot on striped paving stones"
+    TX_BUTTON_TERMHROBOT    "줄무늬로 덮인 돌위에 있는 로봇"
+
+//    TX_PRIVATE_HACHROBOT    "1|The robot must reach\n1|the striped paving stones."
+    TX_PRIVATE_HACHROBOT    "1|로봇은 반드시 줄무늬로 덮인 \n1|돌위에 도달해야만 합니다."
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_REPEAT_CULTIVE       "1: Grow tomatoes\n2: Eat"
+    TX_REPEAT_CULTIVE       "1: 토마토를 키우기\n2: 먹기"
+
+
+//    TX_REPEAT_FLEUR         "1: Make a bunch\n2: Transform"
+    TX_REPEAT_FLEUR         "1: 한 다발을 만들기\n2: 변환"
+
+//    TX_REPEAT_FLEURQ        "1: Take\n2: Transform"
+    TX_REPEAT_FLEURQ        "1: 집어들기\n2: 변환"
+
+//    TX_REPEAT_FABMINE       "1: Extract iron\n2: Make a bomb"
+    TX_REPEAT_FABMINE       "1: 철을 추출하기\n2: 폭탄 제조하기"
+
+//    TX_REPEAT_FABJEEP       "1: Extract iron\n2: Make a Jeep"
+    TX_REPEAT_FABJEEP       "1: 철을 추출하기\n2: 짚차를 만들기"
+
+//    TX_REPEAT_PALIS         "1: Cut down a tree \n2: Make a palisade"
+    TX_REPEAT_PALIS         "1: 나무 한 그루 베기 \n2: 나무울타리 만들기"
+
+//    TX_REPEAT_PALISQ        "1: Take\n2: Build palisade"
+    TX_REPEAT_PALISQ        "1: 집어들기\n2: 나무울타리 세우기"
+
+//    TX_REPEAT_PONT          "1: Cut down a tree \n2: Build a bridge"
+    TX_REPEAT_PONT          "1: 나무 한그루를 베기 \n2: 다리 만들기"
+
+//    TX_REPEAT_PONTQ         "1: Take\n2: Build a bridge"
+    TX_REPEAT_PONTQ         "1: 집어들기\n2: 다리 만들기"
+
+//    TX_REPEAT_BATEAU        "1: Cut down a tree \n2: Make a boat"
+    TX_REPEAT_BATEAU        "1: 나무 한 그루를 베기 \n2: 배를 만들기"
+
+//    TX_REPEAT_BATEAUQ       "1: Take\n2: Make a boat"
+    TX_REPEAT_BATEAUQ       "1: 집어들기\n2: 배를 만들기"
+
+//    TX_REPEAT_FABARMURE     "1: Extract iron\n2: Make an armour"
+    TX_REPEAT_FABARMURE     "1: 철을 추출해내기\n2: 갑옷 만들기"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_OBJ_MURPAL           "Wall or palisade"
+    TX_OBJ_MURPAL           "벽이나 나무울타리"
+
+//    TX_OBJ_OBJET            "Items"
+    TX_OBJ_OBJET            "아이템들"
+
+//    TX_OBJ_ARME             "Weapons"
+    TX_OBJ_ARME             "무기들"
+
+
+//    TX_OBJ_VEHICULE         "Transport"
+    TX_OBJ_VEHICULE         "전송"
+
+//    TX_OBJ_STARTFEU         "Starting fire"
+    TX_OBJ_STARTFEU         "불을 일으키기"
+
+//    TX_OBJ_DELOBJ           "Delete item"
+    TX_OBJ_DELOBJ           "아이템을 지우기"
+
+//    TX_OBJ_DELPERSO         "Delete figure"
+    TX_OBJ_DELPERSO         "도안을 지우기"
+
+
+//    TX_OBJ_DELFEU           "Delete fire"
+    TX_OBJ_DELFEU           "불을 지우기"
+
+//    TX_OBJ_PLANTE           "Decorative plants"
+    TX_OBJ_PLANTE           "장식용 식물"
+
+//    TX_OBJ_BARENNEMIS       "Enemy barrier"
+    TX_OBJ_BARENNEMIS       "적의 장벽"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+//    TX_DIRECT_N             "N"
+    TX_DIRECT_N             "북"
+
+//    TX_DIRECT_S             "S"
+    TX_DIRECT_S             "남"
+
+//    TX_DIRECT_E             "E"
+    TX_DIRECT_E             "동"
+
+//    TX_DIRECT_O             "W"
+    TX_DIRECT_O             "서"
+END
+
+#endif    // French (Switzerland) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
+
+
+

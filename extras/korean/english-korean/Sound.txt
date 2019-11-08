@@ -1,0 +1,97 @@
+sound.txt
+
+Blupi ne peut pas faire ce qu'on lui demande :
+SOUND_BOING1 56 j'y arrive pas / I can't do that
+SOUND_BOING1 56 j'y arrive pas / 난 그렇게 할수 없어요 -> 그건 안돼요.
+SOUND_BOING2 57 impossible / Impossible
+SOUND_BOING2 57 impossible / 불가능하네요 ->안돼요.
+SOUND_BOING3 58 mais non / Oh no !
+SOUND_BOING3 58 mais non / 오 안돼요 ! ->이런.
+
+Blupi est sⓟectionn  :
+SOUND_OK1 02 oui ? / yes ?
+SOUND_OK1 02 oui ? / 예 ?
+SOUND_OK2 03 oh  / Hi !
+SOUND_OK2 03 oh  / 안녕하세요 ! -> 안녕
+SOUND_OK3 04 ma異re ? / Master ?
+SOUND_OK3 04 ma異re ? / 주인님 ?
+SOUND_OK4 59 c'est   quel sujet ? / What's the news ?
+SOUND_OK4 59 c'est   quel sujet ? / 새로운 소식이 뭔데요 ? -> 
+SOUND_OK5 60   vos ordres ! / Hello boss
+SOUND_OK5 60   vos ordres ! / 안녕하세요 두목님 -> 안녕 주인님.
+SOUND_OK6 61 qu'est-ce qu'y y'a ? / 무슨일이세요 ?
+
+Blupi est sⓟectionn  lorsqu'il est fatigu  :
+SOUND_OK1f 62 ouaip ! / Not again
+SOUND_OK1f 62 ouaip ! / 다시는 안됩니다 -> 다신 안돼요.
+SOUND_OK2f 63 j'vous demande pardon ? / I beg your pardon
+SOUND_OK2f 63 j'vous demande pardon ? / 죄송합니다; 다시한번 말씀해 주실래요 ? -> 뭐라구요?
+
+SOUND_OK3f 64 quoi encore ! / Now what
+SOUND_OK3f 64 quoi encore ! / 자 어떡할건데요 -> 자 이젠요.
+
+Blupi est franchement trop sⓟectionn  :
+SOUND_OK1e 65 　 suffit maint'nant. / I'm fed up
+SOUND_OK1e 65 　 suffit maint'nant. / 전 배부른데요  -> 배불러요.
+SOUND_OK2e 66 laissez-moi tranquille. / Leave me alone
+SOUND_OK2e 66 laissez-moi tranquille. / 절 내버려 둬 주세요 -> 내버려둬요.
+SOUND_OK3e 67 j'vais m'fㅍher ! / You're drive in me mad
+SOUND_OK3e 67 j'vais m'fㅍher ! / 당신은 절 돌아버리게 만드시는군요 -> 미치겠어요.
+
+Blupi commence une action :
+SOUND_GO1 05 d'accord ! / It want be long
+SOUND_GO1 05 d'accord ! / 오랫동안 원하던 바입니다. -> 바라던 바예요.
+SOUND_GO2 06 j'y vais / Let's go
+SOUND_GO2 06 j'y vais / 가자구요
+SOUND_GO3 07 un instant / Just a sec
+SOUND_GO3 07 un instant / 잠시만요
+SOUND_GO4 68 * c'est vous l'patron / You're the boss
+SOUND_GO4 68 * c'est vous l'patron / 당신이 두목이예요 ->당신이 주인님이예요.
+SOUND_GO5 69 * c'est d'accord / Why not ?
+SOUND_GO5 69 * c'est d'accord / 왜 안되는데요 ? -> 왜 안돼죠.
+SOUND_GO6 70 * entendu / Right
+SOUND_GO6 70 * entendu / 맞습니다 -> 맞아요.
+* = si sⓟection multiple (pluriel)
+
+Blupi a termin  une action :
+SOUND_TERM1 08 et voil  / There you are
+SOUND_TERM1 08 et voil  / 그곳이 바로 당신이 있는곳입니다 -> 거기예요.
+SOUND_TERM2 09 j'y suis / Done that
+SOUND_TERM2 09 j'y suis / 제가 그것을 완수했습니다 -> 했어요.
+SOUND_TERM3 10 termin  / Finished
+SOUND_TERM3 10 termin  / 끝났습니다  -> 끝났어요.
+SOUND_TERM4 71 c'est fait / It's done
+SOUND_TERM4 71 c'est fait / 그게 완수되었네요 -> 다 됐어요.
+SOUND_TERM5 72 c'est fini / It's finished
+SOUND_TERM5 72 c'est fini / 그게 끝났는 데요 -> 끝났어요.
+SOUND_TERM6 73 j'ai fini / I've finished
+SOUND_TERM6 73 j'ai fini / 제가 끝냈습니다 -> 제가 끝냈어요.
+
+Blupi prend son ⓟan pour sauter :
+SOUND_HOP 14 hop / jump
+SOUND_HOP 14 hop / 뛰어넘기 -> 뛰어
+
+Blupi br모e :
+SOUND_BRULE 17 ahhhhhhhhhhh... / aaaaaoutch
+SOUND_BRULE 17 ahhhhhhhhhhh... / 아아아아아우취
+
+Blupi meurt d'ⓣuisement :
+SOUND_TCHAO 18 pffff... hennnn... / fiuuuu pfff...
+SOUND_TCHAO 18 pffff... hennnn... / 휘유 푸우...
+
+Blupi mange des tomates :
+SOUND_MANGE 19 miam miam / yami yami
+SOUND_MANGE 19 miam miam / 냠냠
+
+Blupi attrape un virus :
+SOUND_VIRUS 27 atchou / atichou
+SOUND_VIRUS 27 atchou / 에에취
+
+Blupi cueille des fleurs :
+SOUND_FLEUR 33 lalalalala (chantл
+SOUND_FLEUR 33 랄라라라라 (찬가л
+
+Blupi est ⓖras  par un bulldozer :
+SOUND_AIE 37 aie / 아우우우우 아르그그그그
+
+

@@ -1,0 +1,2186 @@
+$1
+1|Goal :
+1|목표 :
+1|
+1|Each Blupi must enter a house. To
+1|do so, always use the left button of
+1|the mouse.
+1|각각의 블러피는 반드시 각자 한 집에 
+1|들어가야만 합니다. 그렇게 하기 위해서,
+1|항상 마우스의 왼쪽 단추를 사용하세요.
+
+2|1) Click on a Blupi
+2|    A blue ring will appear around
+2|    him indicating he is selected.
+2|1) 블러피 위에 마우스화살표를 위치시킨후 마우스 왼쪽 단추를 눌러주세요.
+2|   하나의 파란 원이 그 블러피 주위에 나타날터인데 그 파란원이 가리키는
+2|   것은 바로 그 블러피가 선택되었다는 것입니다.
+2|
+2|2) Click on his house
+2|2) 블러피의 집위에 마우스화살표를 위치시킨후 마우스 왼쪽 단추를 눌러주세요.
+2|
+2|3) Click on the button "go"
+2|3) 메뉴중에 "이동하기"에 화살표를 위치시킨후 마우스 왼쪽 단추를 눌러주세요.
+2|
+2|4) Repeat the operations for the
+2|    second Blupi.
+2|4) 두 번째 블러피에게도 위 동작들을 
+2|   반복해보세요.
+
+
+
+
+
+
+
+
+
+         After having read these instructions
+         click on the dice below.
+         이러한 지시사항을 읽은 뒤 아래에 있는 주사위위에
+         화살표를 위치시킨후 마우스 왼쪽 단추를 누르세요.
+          
+
+$2
+Here is a second exercise a bit more 
+complicated :
+$2
+여기 있는 두 번째 연습은 약간 더 
+복잡합니다:
+
+1|Transport both piles of planks on
+1|the striped paving stones on 
+1|the right.
+1|
+1|2개로 나뉘어 쌓여있는 나무 판자무더기를
+1|오른쪽에 있는 줄무늬로 덮인 돌위에
+1|옮겨놓으세요.
+1|
+1|Blupi must eat tomatoes to
+1|gather enough strength for
+1|this operation. Note that
+2|when he eats, the red ring at
+2|his feet turns blue. This
+2|indicates his energy level.
+2|
+2|    red  = tired
+2|    blue = full shape
+1|블러피가 토마토를 먹어야만이 이러한
+1|동작을 수행할 힘을 모을수 있습니다.
+1|주의할 것은 블러피가 토마토를 먹을 때 블러피의
+2|발밑에 있던 붉은색의 링이 파란색으로 
+2|바뀐다는 것입니다. 이것은 바로 블러피의
+2|에너지 단계를 나타내는 것입니다.
+2|
+2|    붉은색  = 지친상태
+2|    파란색  = 에너지가 끝까지 차있는 상태
+
+
+
+Clue :
+To scroll your screen, you may
+draw your mouse to the side of
+the screen or use the keyboard
+arrows.
+
+단서 :
+여러분의 화면을 전후좌우로 움직이려면, 
+여러분의 마우스를 화면의 전후좌우로 
+움직이거나 또는 자판의 화살표(방향키)
+를 사용하세요.
+
+
+$3
+1|Find the eggs ...
+$3
+1|알를 찾으시오 ....
+1|
+1|By putting them on the
+1|incubator, four new Blupis
+1|will hatch.
+1|
+1|그 알들을 집어들어 부화기 위에
+1|갖다 놓으면, 4명의 새로운 블러피
+1|들이 알을 까고 나올것입니다.
+
+
+
+
+
+
+Clue :
+It is more efficient to
+use the mouse in one hand
+and use the other hand
+for the keyboard arrows.
+
+단서 :
+좀더 유용한 방법으로는 한손으로는
+마우스를, 다른 한손으로는 네 개의
+자판 화살표(방향키)를 이용하는
+것입니다.
+
+$4
+1|Goal :
+1|
+1|The four Blupis must reach the
+1|houses on the northern islands.
+
+$4
+1|목표 :
+1|
+1|네명의 블러피들이 반드시 북쪽 섬위에
+1|있는 집들에 도착하여야만 하는것입니다.
+
+
+
+2|Each Blupi must eat to have
+2|enough strength to jump.
+2|각각의 블러피는 반드시 토마토를 먹어
+2|충분히 힘을 길러야만 점프를 할 수 있습니다.
+
+$5
+1|Goal :
+1|
+1|Drop two batches of tomatoes
+1|on the striped paving stones.
+
+$5
+1|목표 :
+1|
+1|두 묶음의 토마토를 줄무늬로 덮인
+1|돌위에 내려놓는 것입니다.
+
+2|To do so you must cut the trees
+2|down, build a garden shed, grow
+2|tomatoes and deposit two batches
+2|of tomatoes on the striped paving
+2|stones (do not eat them).
+
+2|그렇게 하기 위해선, 여러분들은 반드시
+2|나무들을 베어서, 채소밭 창고를 지은후
+2|토마토를 키우고, 키운 토마토중 두 묶음의 
+2|토마토를 들고가 줄무늬로 덮인 돌들위에
+2|놓아두어야만 합니다.
+
+
+$6
+1|Goal :
+1|
+1|Each Blupi must reach a house on
+1|a small island.
+1|Unfortunately there is only enough
+1|food for one Blupi.
+2|You will have to find a way of
+2|producing enough food for all
+2|of them.
+2|
+2|Fortunately, the island has.
+2|lots of trees
+
+$6
+1|목표 :
+1|
+1|각각의 블러피들은 반드시 한 작은섬 위의
+1|집에 도달하여야만 합니다. 불행히도 
+1|단지 한명의 블러피만 만족시킬 수 
+1|있는 음식만이 있을뿐이랍니다.
+2|여러분은 블러피 모두를 만족시킬만큼
+2|충분한 양의 음식을 만들 수 있는
+2|방법을 찾아 내야만 합니다.
+2|
+2|불행중 다행인 것은, 그 섬에 많은 나무
+2|들이 있다는 사실입니다.
+
+
+#h1
+Blupi is living quietly on his island
+when a strange meteorite falls on
+an arid region.
+
+#h1
+블러피는 그들의 섬위에서 평온하게 
+살고 있었는데, 어느날 한 이상한 운석이
+불모지에 떨어졌습니다.
+
+It is only later that Blupi realizes
+that his crops are always being
+destroyed by huge spiders.
+
+단지, 후에 블러피가 깨닫게 된것이지만
+블러피의 농작물들이 항상 파손되었는데
+바로 거대한 거미들이 한짓이었습니다.
+
+Despite Blupi's excellent physical
+condition, he now sneezes
+and has caught a curious disease.
+
+블러피의 뛰어난 육체적 조건에도 
+불구하고, 블러피는 이제 재채기를
+하고 기이한 질병에 걸리곤 했습니다.
+
+#h2
+What is going on ?
+
+#h2
+무슨일이 벌어지는 거야?
+
+Well, the strange meteorite is in
+fact a spaceship carrying a very
+special robot.
+글쎄... , 그 이상한 운석이 사실은 
+우주선이었는데 매우 특별한 로봇
+을 데리고 온 것 같아. 
+
+This robot builds factories which
+produce enemies.
+이 로봇이 공장을 세우는데 그공장은  
+우리의 적들을 만들어 낸데.
+
+Blupi must exploit all the natural
+resources to get rid of these
+intruders.
+블러피는 모든 자연적인 재료들을 
+찾아 이 침입자들을 제거해야만
+합니다.
+
+
+#1
+The spaceship crash has set fire
+to the forest. Blupi' village is
+now threatened.
+
+#1
+그 우주선의 충돌로 그 숲에 불이
+났습니다. 블러피의 마을은 이제 
+그 불로 인하여 위협받고 있습니다. 
+
+1|Goal :
+1|
+1|Prevent the village from burning.
+1|To do so, there is only one way :
+1|Cut some trees down on the left.
+
+1|목표 :
+1|
+1|그 마을이 불타는 것을 막는것
+1|그렇게 하기위해서는, 단지 한가지 방법만이 있을뿐입니다.
+1|나무들을 잘라서 왼쪽에 내려놓는 것입니다.
+
+
+
+
+
+
+2|Clue :
+2|
+2|If a Blupi is hidden by trees,
+2|press space bar. Doing so will
+2|render the trees temporarily
+2|transparent.
+
+2|단서 :
+2|
+2|만약 블러피가 나무옆에 숨어 있다면,
+2|스페이스바를 누르세요. 그렇게 하면
+2|나무를 잠시동안이나마 투명하게 그려주어
+2|블러피를 볼수 있게 해줍니다.
+
+
+@1
+1|Solution :
+1|
+1|Order the Blupi on the left to
+1|cut several trees down. The
+1|two other Blupis will carry
+1|the planks away.
+
+@1
+1|해결책 :
+1|
+1|옆에있는 블러피에게 명령하여
+1|몇개의 나무를 베어내도록 하세요.
+1|나머지 두명의 블러피는 그 나무판자
+1|를 멀리 옮겨 놓아야 할 것입니다.
+
+#2
+1|Situation :
+1|
+1|Blupi is far away from his village
+1|and lost. He must organize himself
+1|before going to look for his village.
+1|
+1|1) Build a garden shed and grow
+1|    tomatoes
+
+#2
+1|상황 :
+1|
+1|블러피가 마을로 부터 멀리 떨어져 길을 잃었습니다.
+1|블러피는 반드시 마을을 찾으려 하기전에 그 스스로
+1|마을과 같은 것을 세워야만 합니다.
+1|
+1|1) 채소밭 창고를 짓고 토마토를
+1|   키우세요. 
+
+
+2|2) Build an incubator to obtain
+2|    support
+2|
+
+2|2) 부화기를 만들어 지원받을 수 있는
+2|    인원을 보충하십시오,
+2|
+
+
+2|3) Feed the four Blupis and go and
+2|    find the village.
+2|
+
+2|3) 그렇게 보충한 네명의 블러피를 잘 먹인후
+2|    마을을 찾아가도록 하십시오.
+2|
+
+
+2|Watch out :
+2|
+2|Something unusual is going to
+2|happen.
+
+2|주의 할 점 :
+2|
+2|어떤 이상한 일이 벌어질수도
+2|있습니다.
+
+
+@2
+1|Clues :
+1|
+1|First of, all you must build
+1|two palisades in the north
+1|to stop the spider from coming.
+1|Only then will it be possible
+2|to build a garden shed and
+2|grow tomatoes in peace.
+2|
+2|To reach the four houses
+2|you must go east.
+
+@2
+1|단서 :
+1|
+1|무엇보다도 먼저, 여러분은 두 개의 
+1|나무 울타리를 북쪽으로 세워 거미가 
+1|오는 것을 막아야만 합니다.
+1|그렇게 하여야만 채소밭 창고를 세우고 
+2|토마토를 평화롭게 키우는 것이
+2|가능할 것입니다. 
+2|
+2|4개의 집이 있는곳으로 가려면 
+2|여러분은 반드시 동쪽으로 가야만 합니다.
+
+
+#3
+1|Goal :
+1|
+1|Prevent the four lost Blupis from
+1|burning.
+1|
+1|Finish the wall.
+
+#3
+1|목표l :
+1|
+1|길잃은 네명의 블러피들이 불에 타
+1|죽는 것을 막아야 합니다.
+1|
+1|그 벽을 완성하세요.
+
+
+2|Watch out :
+2|
+2|The ground is made of  moss 
+2|which burns very easily.
+
+2|주의 할 점 :
+2|
+2|그 땅이 이끼로 덮여있어
+2|불이 번지기가 매우 쉽습니다.
+
+
+
+
+
+
+@3
+1|Solution :
+1|
+1|1) Carve a rock.
+1|    Smaller rocks are quicker to
+1|    carve.
+
+@3
+1|해결책 :
+1|
+1|1) 먼저 돌을 다듬으세요.
+1|   더 작은 돌들이 더 빨리
+1|   다듬어 진답니다.
+
+2|2) Build a wall between the two
+2|    existing walls.
+2|
+2|3) Wait for the fire to stop.
+
+2|2) 벽을 만들 때 이미 있는
+2|   벽 사이에 만드세요. 
+2|
+2|3) 불이 다 꺼지기를 기다리세요.
+
+
+#4
+1|Goal :
+1|
+1|Make the four blupis reach the
+1|striped paving stones.
+
+#4
+1|목표 :
+1|
+1|네명의 블러피들이 줄무늬로 덮힌 돌위에
+1|도달하도록 해주어야 합니다.
+
+@4
+1|Solution :
+1|
+1|1) Cut a tree down
+1|
+1|2) Carry the planks to the
+1|    water edge.
+1|
+1|3) Build a bridge towards the
+1|   two tired Blupis.
+
+@4
+1|해결책 :
+1|
+1|1) 나무를 하나 베어냅니다.
+1|
+1|2) 그 나무판자들을 물가로
+1|   옮깁니다.
+1|
+1|3) 다리를 만들어 그 두명의 지친 블러피
+1|   쪽으로 놓습니다.
+
+
+2|4) Repeat this operation
+2|    three times.
+2|
+2|The tired Blupis may now
+2|cross the bridge and reach
+2|the striped paving stones.
+
+2|4) 이 동작을 반복하기를 3번
+2|   합니다.
+2|
+2|그 지친 블러피들은 아마도 이제
+2|다리를 건너 줄무늬로 덮인 돌들에
+2|도달할 수 있을것입니다.
+
+
+#5
+1|The trap :
+1|Careful, the ground where the
+1|Blupis are prisoners can easily
+1|burn and fire is approaching.
+
+#5
+1|함정 :
+1|주의하세요, 그 블러피들이 지금 있는 땅
+1|은 죄수들이 있던곳으로 쉽게 불이 번지며
+1|현재 불이 접근해오고 있는 중입니다.
+
+1|
+1|Goal :
+1|Resist until the fire has 
+1|burnt out.
+
+1|
+1|목표 :
+1|불이 꺼질때까지
+1|버티어야 합니다.
+
+
+2|Watch out :
+2|Building a wall is a very 
+2|exhausting job for Blupi. Once
+2|finished, he will die !
+
+2|주의할 점 :
+2|벽을 세우는 것은 블러피에게는 매우 
+2|힘이드는 일입니다. 일단 벽이 완성되면 
+2|블러피는 그 수명을 다하게 될것입니다.
+
+
+
+Clue :
+If the game does not run fast
+enough for you, press key F6
+to speed it up. F5 runs the
+game at it's normal speed.
+
+단서 :
+만약 그 게임의 실행이 여러분이 만족할 만큼
+빠르지 않다면 F6키를 눌러 속도를 빠르게
+하세요. F5는 게임의 실행을 보통속도로 
+진행하게 합니다.
+
+
+@5
+1|Clues :
+1|
+1|You must build four walls on
+1|the gray paving stones. You
+1|will have to cut down two
+1|trees to build a garden
+1|shed and an incubator.
+
+@5
+1|단서 :
+1|
+1|여러분은 회색으로 덮인 돌위에 
+1|4개의 벽을 세워야만 합니다.
+1|여러분은 또한 두 개의 나무들을
+1|베어내서 채소밭 창고를 세우고
+1|부화기를 만들어야만 할것입니다.
+
+
+2|When the walls are finished,
+2|you will have to wait until
+2|the fire comes and stops.
+
+2|벽이 다 완성되었을 때, 여러분은  
+2|그불이 다가와 꺼지기를 
+2|기다려야만 할 것입니다.
+
+#6
+1|Goal :
+1|
+1|A danger is present: protect
+1|the camp as fast as possible
+1|with four towers.
+
+#6
+1|목표 :
+1|
+1|위험이 존재합니다: 야영지를
+1|보호하려면 가능한한 빨리 
+1|네 개의 탑을 세우세요.
+
+2|You will be able to join the
+2|striped paving stones in
+2|the south-east.
+
+2|여러분은 남동쪽에 있는
+2|줄무늬로 덮인 돌들로 
+2|합류할 수 있을 것입니다.
+
+
+
+
+
+
+
+
+Clue :
+
+You may select several Blupis at
+the same time by maintaining
+the shift key pressed while
+clicking on each Blupi.
+
+
+단서 :
+
+여러분은 아마도 여러 블러피들을 동시에 선택하려
+할 수 있는데 그렇게 하려면 바로 shift키를 누른
+상태에서 각각의 블러피에 마우스 화살표를
+위치시킨후 마우스 왼쪽 단추를 누르시면 됩니다.
+
+
+@6
+1|Solution :
+1|
+1|You must ask four Blupis to
+1|quickly carve a rock each.
+1|The small rocks are easier
+1|to carve.
+1|
+1|Transport the four piles of
+1|stones onto the gray paving
+1|stones and start building
+1|protection towers.
+
+@6
+1|해결책 :
+1|
+1|여러분은 4명의 블러피에게 부탁하여
+1|각자 빨리 돌들을 다듬도록 해야만 합니다.
+1|작은돌들은 더 쉽게 다듬어 진다는
+1|사실을 명심하십시오.
+1|
+1|4개의 돌무더기를 회색으로
+1|덮인 돌위로 이동시킨후,
+1|방어용 탑 세우기를
+1|시작하시기 바랍니다.
+
+
+2|Wait for the arrival and
+2|destruction of the viruses.
+2|
+2|The other four Blupis can
+2|quietly go to the striped
+2|paving stones in the
+2|south-east.
+
+2|바이러스들의 도착과 소멸
+2|을 기다리세요.
+2|
+2|그후 다른 4명의 블러피들이
+2|평온하게 남동쪽에 있는
+2|줄무늬로 덮인 돌들로
+2|갈수 있게 말입니다
+
+
+#7
+1|Goal :
+1|
+1|The four Blupis must reach 
+1|the striped paving stones. 
+1|You shall have to take care
+1|of the farthest Blupi.
+
+#7
+1|목표 :
+1|
+1|네명의 블러피들이 줄무늬로
+1|덮인 돌들에 도달하여야만 합니다.
+1|여러분은 가장 멀리 떨어진 블러피에게 
+1|세심한 주의를 기울여야만 할것입니다.
+
+
+
+
+2|Watch out :
+2|
+2|The ground is inappropriate
+2|for building a garden shed.
+
+2|주의 할 점 :
+2|
+2|그 지반이 채소밭 창고를 짓는데
+2|부적당 하답니다.
+
+
+@7
+1|Solution :
+1|
+1|Ask a Blupi to remove the
+1|tomatoes so that the spiders
+1|cannot eat them.
+1|
+1|With another Blupi, jump on
+1|the eastern island, build a
+1|bridge that will join it to
+1|the striped paving stones.
+
+@7
+1|해결책 :
+1|
+1|한 블러피에게 부탁하기를
+1|그 토마토를 제거해서 거미가
+1|그 토마토를 먹을수 없게 하세요.
+1|
+1|다른 블러피로는, 동쪽섬으로 뛰어
+1|넘어가 다리를 하나 만들어 연결하여
+1|나머지 블러피들이 줄무늬로 덮인 돌
+1|있는곳으로 합류할 수 있도록 해주세요.
+
+2|Carry the tomatoes
+2|towards the tired Blupi so
+2|he can eat them.
+
+2|토마토를 지친 블러피에게
+2|가져다 주어 그 지친 블러피가
+2|토마토를 먹을수 있게 해주십시오.
+
+#8
+1|Goal :
+1|
+1|Avoid one or two Blupis from
+1|being contaminated and find a
+1|remedy for the sick ones.
+1|
+1|Finally each Blupi must enter 
+1|a house. 
+
+#8
+1|목표 :
+1|
+1|하나나 두명의 블러피가 바이러스에
+1|감염되는 것을 피해주시고, 만약 아픈
+1|블러피들이 있다면 그들을 위한 약을 찾아주세요.
+1|
+1|최종적으로는 각각의 블러피가 각자의
+1|집에 들어가야만 합니다.
+
+
+
+
+
+
+
+2|Clue :
+2|
+2|Construct a laboratory.
+
+2|단서 :
+2|
+2|실험실을 세우세요.
+
+@8
+1|Clues :
+1|
+1|A laboratory must be made of
+1|stones. It will enable you to 
+1|transform the yellow flowers
+1|into a remedy for the sick
+1|Blupis.
+
+@8
+1|단서 :
+1|
+1|실험실은 반드시 돌로 만들어
+1|진답니다. 실험실에서 여러분은
+1|노란꽃들을 변환하여 아픈 블러피
+1|들을 위해 치료약을 만드는 것이
+1|가능합니다.
+
+2|You will have to build a bridge
+2|to bring the remedy to the sick
+2|Blupis.
+2|
+2|The houses are in the south-east.
+
+2|여러분들은 다리를 놓아야만
+2|약을 가져와 아픈 블러피를
+2|치료할 수 있을 것입니다.
+2|
+2|그 집들은 남동쪽에 있습니다.
+
+#9
+1|Goal :
+1|
+1|Find a way to cross the ice rink.
+1|
+
+#9
+1|목표 :
+1|
+1|얼음스케이트장을 건너갈 방법을 찾으십시오.
+1|
+
+
+
+
+
+
+2|Note :
+2|
+2|Blupi can walk on ice. However
+2|the ice being slippery, he will
+2|loose a lot of strength.
+
+2|주의할 점 :
+2|
+2|블러피는 얼음위를 걸을 수 있습니다.
+2|그러나 얼음이 미끄러워 블러피는 더
+2|많은 기운을 잃어버릴 것입니다.
+
+@9
+1|Clues :
+1|
+1|Two towers will have to be built
+1|to protect the Blupis from the
+1|spiders.
+1|
+1|You will have to build
+1|a garden shed and an incubator
+1|in order to let the eggs hatch.
+
+@9
+1|단서 :
+1|
+1|두개의 탑이 세워져야만
+1|블러피들을 거미로 부터 
+1|보호할 수 있을 것입니다.
+1|
+1|여러분은 채소밭 창고를 지어야만
+1|하고 알들이 부화할 수 있도록
+1|부화기를 만들어야만 합니다.
+
+
+2|Blupi loses a lot of strength
+2|when he crosses the ice rink.
+2|Therefore, you must bring him
+2|tomatoes before he crosses.
+
+2|블러피가 많은 기운을 소모할때는 언제
+2|인가 하면 바로 얼음스케이트장을 건너
+2|갈 때 입니다. 그러므로 여러분은 블러피가 
+2|건너가기 전에 토마토를 들고 가게 해야만 합니다.
+
+#10
+1|Goal :
+1|
+1|Reach the island in the
+1|north-east and blow the
+1|palisade up.
+
+2|All you have to do now is
+2|to place four Blupis on the
+2|striped paving stones.
+
+#10
+1|목표 :
+1|
+1|북동쪽에 있는 섬에
+1|가서 나무 울타리를
+1|폭파하는 것입니다.
+
+2|All you have to do now is
+2|to place four Blupis on the
+2|striped paving stones.
+
+2|지금 여러분이 하여야 할 전부라고
+2|할수 있는 것은 4명의 블러피들을
+2|줄무늬로 덮인 돌위 데려다 놓는 것입니다.
+
+
+@10
+1|Clues :
+1|
+1|Build a bridge in the direction of
+1|the four prisoners. This enables
+1|you to carve a rock that shall
+1|be taken to the garden shed to
+1|build a laboratory.
+1|
+1|The blue flowers are in the
+1|south-east. Thanks to the
+1|laboratory they can be
+1|transformed into dynamite.
+
+@10
+1|단서 :
+1|
+1|다리를 4명의 감금된 블러피 방향으로
+1|세우십시오. 이렇게 하면 여러분들이
+1|돌들을 다듬을 수 있고 결국 채소밭
+1|창고쪽으로 가져와 실험실을
+1|세울수 있게 됩니다.
+1|
+1|파란색 꽃들은 남동쪽에
+1|있습니다. 고맙게도 실험실
+1|에서 그 꽃들을 다이나마이트
+1|로 변환할 수 있습니다.
+
+
+2|Use the dynamite to destroy
+2|the palisade which is holding
+2|the four Blupis prisoners.
+2|
+2|First of all, you will have to
+2|draw back the prisoners to
+2|protect them from the explosion.
+
+2|다이나마이트를 이용해 나무 
+2|울타리를 파괴해 4명의 감금된
+2|블러피들이 풀려날 수 있도록 해 주세요.
+2|
+2|무엇보다도 먼저, 여러분들이 꼭 해야만 할것이
+2|있는데 바로 그 감금된 블러피들을 뒤쪽으로 빼
+2|그 폭발로 부터 보호하는 일입니다.
+
+
+#11
+1|Goal :
+1|
+1|Reach the houses in the
+1|north-east. Be careful,
+1|they are well guarded.
+
+#11
+1|목표 :
+1|
+1|북동쪽에 있는 집에 가야합니다.
+1|조심하세요, 그 집들은 블러피들이 들어오지
+1|못하도록 적들이 잘 지키고 있습니다.
+
+
+@11
+1|Clues :
+1|
+1|Build a bridge towards the
+1|north-west island and then
+1|make at least four packs
+1|of dynamite.
+
+@11
+1|단서 :
+1|
+1|다리를 북서쪽 섬으로 향하게 
+1|만들어 놓고 그 다음에는
+1|적어도 4개의 다이나마이트를 
+1|만들어야 합니다.
+
+
+2|Drop the dynamite in the
+2|north fairly close the
+2|bulldozers.
+2|
+2|As long as the dynamite is
+2|not made, avoid going north
+2|or you will attract the
+2|bulldozers.
+
+2|다이나마이트를 북쪽장소에
+2|내려놓는데, 그곳은 불도우저와
+2|꽤 근접해 있답니다.
+2|
+2|다이나마이트가 만들어 지지
+2|않는 한 북쪽으로 가는 것은
+2|피하세요, 그렇지 않으면 여러분들은
+2|불도우저와 마주치게 될것입니다.
+
+
+#12
+1|Goal :
+1|
+1|Three Blupis must join the
+1|isolated Blupi on an island
+1|in the north-west.
+
+#12
+1|목표 :
+1|
+1|세명의 블러피들은 따로떨어진 블러피
+1|들과 합류하여야만 하는데 그 블러피는
+1|북서쪽에 있는 섬위에 있습니다.
+
+
+@12
+1|Clues :
+1|
+1|Build a garden shed and grow
+1|tomatoes.
+1|
+1|Make dynamite with the blue
+1|flowers that can be found in
+1|the north-east.
+
+@12
+1|단서 :
+1|
+1|채소밭 창고를 만들어
+1|토마토를 키우세요.
+1|
+1|파란꽃을 가지고 다이나마이트를
+1|만드는데 그 꽃들은 북동쪽에서
+1|찾게 될수 있답니다.
+
+
+2|Transport the dynamite to the
+2|island situated in the west.
+2|
+2|Be careful, the way there
+2|hides two viruses.
+
+2|그 다이나마이트를 서쪽에
+2|위치한 섬으로 가져가세요.
+2|
+2|주의할 점은, 그 가는 길 중에 2마리의
+2|바이러스들이 숨어 있다는 것입니다.
+
+#13
+1|Goal :
+1|
+1|Get rid of the six spiders.
+1|
+1|The first four it will be 
+1|easy. The two remaining
+1|will be more difficult. 
+
+#13
+1|목표 :
+1|
+1|6마리의 거미들을 제거하세요.
+1|
+1|첫번째 네 마리는 쉬울 것입니다.
+1|나머지 두 마리는 상대적으로
+1|좀 더 어려울것입니다.
+
+
+
+
+
+
+2|Clue :
+2|
+2|Find out how to produce poison
+2|in the laboratory.
+
+2|단서 :
+2|
+2|어떻게 독을 실험실에서
+2|만들어내는지 알아내세요.
+
+
+
+@13
+1|Clues :
+1|
+1|The first four spiders will be
+1|caught with traps made from
+1|the green flowers in the
+1|laboratory.
+1|
+1|The traps must be placed close to
+1|the spiders.
+
+@13
+1|단서 :
+1|
+1|첫번째 네 마리의 거미들은 
+1|함정으로 잡힐수 있는데 그 
+1|함정은 실험실에서 녹색 꽃을 
+1|사용해 만들어 집니다.
+1|
+1|그 함정은 거미곁에 근접하여
+1|놓여져야 합니다.
+
+
+2|The two last ones will be
+2|poisoned with the tomatoes
+2|that have been altered
+2|in the laboratory.
+2|
+2|Build a bridge to carry
+2|the tomatoes to the laboratory.
+
+2|마지막 남은 두 마리는 독을 넣은
+2|토마토로 중독될 수 있을것인데,
+2|실험실에서 토마토에 독을 주입
+2|할 수 있습니다.
+2|
+2|다리를 만들고 그 다리를 이용하여
+2|토마토를 실험실로 운반하십시오.
+
+
+#14
+1|Goal :
+1|
+1|Blupi must simply go home.
+1|
+
+#14
+1|목표 :
+1|
+1|블러피가 다만 집에 가야만 한다는 것입니다.
+1|
+
+
+@14
+1|Clues :
+1|
+1|Prospect for iron under the 
+1|small pebbles. Drop the planks
+1|on the flag and build a mine.
+1|
+1|Carve a rock to build a
+1|workshop so that you can use
+1|the iron.
+
+@14
+1|단서 :
+1|
+1|조그만 조약돌 밑에 있는 철을
+1|캐세요. 그 나무판자를 깃발
+1|위에 내려놓고 광산을 만드세요.
+1|
+1|돌을 다듬어 공장을 세우면
+1|여러분은 철을 유용하게
+1|이용할 수 있습니다.
+
+
+2|Take a bomb, jump into the
+2|jeep and go east. The jeep
+2|will protect you from the
+2|bulldozers.
+2|
+2|When you will get to the
+2|palisade, you must leave the
+2|jeep quickly, drop the time
+2|bomb, switch it on, get back
+2|into the jeep and buzz off.
+
+2|폭탄을 집어들고, 짚차에 뛰어올라타
+2|동쪽으로 가세요. 그 짚차가
+2|여러분들을 불도우저로 부터
+2|지켜줄 것입니다.
+2|
+2|여러분들이 그 나무울타리에 오게되었을때, 
+2|여러분은 반드시 짚차에서 재빨리 
+2|내려 시한 폭탄을 내려놓고, 스위치를 
+2|킨다음 짚차로 돌아와 웅소리를 내며 
+2|그 자리를 벗어나야만 합니다.
+
+
+
+
+
+#15
+1|Goal :
+1|
+1|Only one Blupi must reach
+1|the house in the north-east.
+
+#15
+1|목표 :
+1|
+1|단지 하나의 블러피만이 북동쪽에 있는
+1|집에 도착하기만 하면 됩니다.
+
+
+2|To do so, you must destroy
+2|the numerous enemy
+2|installations.
+
+2|그렇게 하기 위해서, 여러분이 해야만
+2|할일은 바로 수많은 적들의 시설들을 
+2|파괴해야만 한다는 것입니다.
+
+
+@15
+1|Clues :
+1|
+1|Build a  garden shed and two 
+1|protection towers on the gray 
+1|paving stones.
+1|
+1|Build a bridge to join the is-
+1|land in the east. Pick different
+1|sorts of flowers and bring them
+1|back to base camp.
+
+@15
+1|단서 :
+1|
+1|채소밭 창고를 하나 짓고
+1|두개의 방어용 탑을 회색으로
+1|덮인 돌위에 세우세요.
+1|
+1|다리를 만들어 동쪽에 있는 섬에 
+1|연결하세요. 다른 종류의 꽃들을 
+1|따서 그 꽃들을 출발점이 된 
+1|야영지로 가져오세요.
+
+
+2|Build a laboratory, make
+2|dynamite and sticky traps.
+2|Protect the camp from the inside
+2|with the sticky traps and the
+2|outside, with the dynamite.
+2|
+2|When you think you have 
+2|enough dynamite and traps, send
+2|a small commando to the north-
+2|east to destroy the enemy camp.
+
+2|실험실을 지어서, 다이나마이트를
+2|만들고 끈끈이 덫을 만드세요.
+2|그 야영지를 보호하려면 내부는
+2|끈끈이 덫을 사용하고, 외부는
+2|다이나마이트를 사용하세요.
+2|
+2|여러분이 생각하기에 충분한 다이나마이트와 
+2|끈끈이 덫을 가졌다는 느낌이 들면 한명의 
+2|블러피를 특공대로 삼아 북동쪽으로 보내 
+2|적의 야영지를 파괴토록 하세요.
+
+#16
+1|Situation :
+1|
+1|Blupi is lost in an arid part of
+1|his planet with no trees.
+
+#16
+1|상황 :
+1|
+1|블러피가 길을 잃었는데 그곳은 그의 행성중
+1|불모지로써 나무 한그루조차도 없는 곳이랍니다.
+
+
+
+
+2|Goal :
+2|
+2|The two Blupis must go back
+2|home to their village.
+
+2|목표 :
+2|
+2|두명의 블러피들이 반드시 블러피 마을에
+2|있는 집으로 되돌아 가야만 합니다.
+
+@16
+1|Clues :
+1|
+1|Find the mine in the north-east,
+1|carve a rock to build a 
+1|workshop, make a time bomb
+1|and two jeeps, and seek the
+1|enemy camp in the south-west.
+
+@16
+1|단서 :
+1|
+1|북동쪽에 있는 광산을 찾아낸후,
+1|돌을 다듬어 공장을 지어서
+1|시한 폭탄과 두 대의 짚차를
+1|만들어 남서쪽에 있는 적의
+1|야영지를 찾아나서세요.
+
+
+2|Blow up the barrier protecting
+2|the enemy camp. Try to blow
+2|up the bulldozer as well.
+2|
+2|Go south and look for the only
+2|tree and make a teleporter.
+
+2|적의 야영지를 둘러싸고 있는 장벽을
+2|폭파하십시오. 불도우저도 마찬가지로
+2|폭파하도록 해보세요.
+2|
+2|남쪽으로 가서 유일하게 존재하는
+2|나무를 찾아 공간이동기를 만드세요.
+
+
+#17
+1|Goal :
+1|
+1|The five Blupis must reach
+1|a house.
+
+#17
+1|목표 :
+1|
+1|다섯명의 블러피들이 반드시
+1|집에 도달해야만 합니다.
+
+2|Careful, one house is
+2|behind the enemy camp.
+
+
+2|주의할 것은, 한 집이 적의
+2|야영지 뒤에 있다는 점입니다.
+
+
+
+
+
+
+
+
+
+
+
+Clue :
+
+You may select several Blupis
+at the same time by maintaining
+the Shift key pressed while
+clicking on each Blupi.
+
+단서 :
+
+여러분이 아마도 동시에 여러 블러피들을 선택하려
+할 지도 모르는데 그렇게 하려면 Shift키를 누른
+상태에서 각각의 블러피에게 화살표를 위치시킨후 
+마우스 왼쪽단추를 눌러주세요.
+
+
+@17
+1|Clues :
+1|
+1|A Blupi can now go to the house
+1|on the western side of the island.
+1|The four others must leave very
+1|quickly because of the bulldozers.
+1|The Blupis must go north-east.
+
+@17
+1|단서 :
+1|
+1|하나의 블러피만이 지금 그 섬의 왼쪽부분에 있는
+1|집에 갈수 있습니다.
+1|나머지 네명의 블러피들은 현위치를 매우 재빠르게
+1|벗어나야 하는데 왜냐하면 불도우저들 때문입니다.
+1|그 네명의 블러피들은 북동쪽으로 가야만 합니다.
+
+
+2|Further north-east, you will join
+2|a village surrounded by palisades.
+2|
+2|North of the village, there is a
+2|lot of iron.
+2|
+2|Make a boat and go north-east
+2|with a time bomb.
+
+2|북동쪽으로 좀더 멀리 가다보면, 여러분은 나무
+2|울타리로 둘러싸인 마을을 만날 수 있을것입니다.
+2|
+2|그 마을의 동쪽에 많은량의
+2|철이 묻혀 있습니다.
+2|
+2|배를 한척 만들어 시한 폭탄을 가지고
+2|북동쪽으로 가세요.
+
+#18
+1|Situation :
+1|
+1|While Blupi was collecting
+1|flowers, he did not realize
+1|that he was far away from
+1|his home. He is now lost in
+1|a region full of enemies.
+
+#18
+1|상황 :
+1|
+1|블러피가 꽃을 모으고 있는동안
+1|자기도 모르게 집으로 부터 멀리
+1|떨어진 곳까지 오게 되었습니다.
+1|블러피가 지금 길을 잃어 헤메이고 
+1|있는 지역은 적들로 가득차 있습니다.
+
+
+
+
+
+
+2|Goal :
+2|
+2|Blupi must flee and find a
+2|way of getting home.
+2|목표 :
+2|
+2|블러피는 당장 그 현위치에서 도망가
+2|집으로 가는 길을 찾아야만 합니다.
+
+
+@18
+1|Clues :
+1|
+1|Find the water stretch to the
+1|west. Make a boat. Be careful,
+1|a lot of viruses are crawling
+1|around.
+
+@18
+1|단서 :
+1|
+1|물이 서쪽으로 뻗어나가는 곳을
+1|찾으세요. 그리고 배를 한척 만드세요.
+1|이때, 주의 할점은 수많은 바이러스들이
+1|주위에 우글거린다는 점입니다.
+
+2|With the boat, you can cross
+2|the wall and disembark on the
+2|riverbank.
+2|
+2|Home is not so far now. Be
+2|careful you must avoid the
+2|bulldozers.
+
+2|그 배를 이용해, 여러분은 
+2|그 벽을 가로질러 강둑위에
+2|갈수 있고 상륙할 수 있습니다.
+2|
+2|집은 이제 그렇게 멀지만은 않습니다.
+2|주의할 점은 여러분들이 불도우저들을
+2|피해야만 한다는 것입니다.
+
+
+#19
+1|Situation :
+1|
+1|Four bulldozers are threatening
+1|Blupi's village.
+
+
+#19
+1|상황 :
+1|
+1|네대의 불도우저가 블러피의
+1|마을을 위협하고 있습니다.
+
+
+
+
+2|Goal :
+2|
+2|Destroy the bulldozers
+
+2|목표 :
+2|
+2|그 불도우저들을 파괴하는 것입니다.
+
+
+@19
+1|Clues :
+1|
+1|Ask a Blupi to extract iron
+1|and build an armour. It will
+1|protect him from the fire.
+1|
+1|Go east and build a boat.
+1|Embark and look for another
+1|island with a tree. Cut the
+1|tree down and put the wood
+2|on a bigger island. Make a
+2|teleporter. It will bring you
+2|to the armoury.
+2|
+2|Put some dynamite near the
+2|surrounding wall and blow it
+2|up. With the rest of the
+2|dynamite, you can destroy
+2|the bulldozers.
+
+@19
+1|단서 :
+1|
+1|한 블러피에게 철을 추출해 갑옷을
+1|만들도록 지시하세요. 그 갑옷이
+1|블러피를 화재로 부터 보호해 줄것입니다.
+1|
+1|동쪽으로 가 배를 한척 만드세요.
+1|배를 타고 다른섬에 가 나무 한 그루를
+1|찾아보십시오. 나무를 찾으면 그 나무를
+1|베어내어 좀 더 큰 섬에 갖다 놓으세요.
+2|그 다음 공간이동기를 만드세요.
+2|그 공간이동기가 여러분을 병기고로
+2|데려다 줄겁니다.
+2|
+2|약간의 다이나마이트를 주위에 둘러쌓인
+2|벽 가까이에 갖다놓고 그 다이나마이트를
+2|터뜨리세요. 나머지 다이나마이트를
+2|가지고 여러분은 그 불도우저들을
+2|파괴할 수 있답니다.
+
+#20
+1|Goal :
+1|
+1|Destroy all enemy installations.
+1|
+
+#20
+1|목표 :
+1|
+1|모든 적의 시설을 파괴하는 것입니다.
+1|
+
+
+@20
+1|Clues :
+1|
+1|Produce as much dynamite,
+1|traps, etc. as possible before
+1|blowing up the barriers that
+1|protect the enemy camp.
+
+@20
+1|단서 :
+1|
+1|충분한 량의 다아나마이트와 끈끈이 덫,
+1|기타 등등을 적의 야영지를 둘러싼
+1|그 장벽을 폭파하기 전에 가능한한
+1|많이 만드세요.
+
+#21
+1|Situation :
+1|
+1|Blupi has been captured by
+1|a nasty robot. He is held 
+1|prisoner in the robot's
+1|base camp.
+
+#21
+1|상황 :
+1|
+1|블러피가 심술궂은 로봇에 의해
+1|납치 되었습니다. 블러피가 현재
+1|감금되어 있는곳은 로봇의
+1|출발점이 된 야영지 랍니다.
+
+
+
+
+2|Goal :
+2|
+2|Blupi must escape and find
+2|his house.
+
+2|목표 :
+2|
+2|블러피는 반드시 탈출하여
+2|자기 집을 찾아야만 합니다.
+
+
+@21
+1|Clues :
+1|
+1|Take the dynamite from the
+1|northeast. Place it next to a
+1|blue barrier facing a gap in the
+1|rocks. The bulldozer will come
+1|and make the dynamite explode. 
+1|This will destroy the barrier.
+
+@21
+1|단서 :
+1|
+1|우선 북동쪽에 있는 다이나마이트를 얻으세요. 
+1|그 다이나마이트를 파란색 장벽곁에 놓아 두는데
+1|그 장벽은 바위들 사이에 있는 틈새와 맞닿아
+1|있습니다. 다이나마이트를 내려놓고 나면
+1|불도우저가 와 부딪혀 다이나마이트가 폭발하게
+1|될 것입니다. 이렇게 하면 그 장벽이 파괴 될 것입니다.
+
+2|Run to the east until you reach
+2|the river. Make a boat with the
+2|planks. You will need the second
+2|pile of planks to build a boat
+2|later. Before doing so, you will
+2|have to catch the electrocutor
+2|with the sticky trap and make a
+2|time bomb in order to destroy
+2|the blue barrier in the east.
+
+2|여러분이 강에 도달할 때까지 동쪽으로 달려가세요.
+2|강가에 도달하면 나무판자를 이용해 배 한척을
+2|만드십시오. 여러분이 나중에 배를 더 만드려면
+2|두 번째 나무판자 묶음이 필요할 것입니다.
+2|참, 위와같은 행동을 취하기 전에 여러분은
+2|전기처형기 부터 처리해야 하는데 그 전기 
+2|처형기는 끈끈이 덫으로 잡을수 있습니다.
+2|그 다음에는 시한폭탄을 만들어 동쪽에
+2|있는 파란색 장벽을 파괴하셔야 합니다.
+
+#22
+1|Goals :
+1|
+1|1) Make boats.
+1|
+1|2) Explore all the islands.
+1|
+1|3) Destroy all enemy installations.
+
+#22
+1|목표 :
+1|
+1|1) 배들을 만드는 것이 첫번째입니다.
+1|
+1|2) 두 번째는 모든 섬들을 탐험하는 것이지요.
+1|
+1|3) 마지막으로 모든 적의시설을 파괴하는 것이 세 번째 목표입니다.
+
+
+@22
+1|Clues :
+1|
+1|The island in the north-east
+1|has a lot of iron.
+
+2|The island to the east has
+2|all that is required to make
+2|dynamite and sticky traps.
+
+@22
+1|단서 :
+1|
+1|북동쪽에 있는 섬에 수많은 
+1|철이 매장되어 있답니다.
+
+2|그 동쪽에 있는 섬에 있는것들은
+2|전부 다이나마이트와 끈끈이 덫을
+2|만드는데 필요한 것들 이랍니다.
+
+
+#23
+1|Situation :
+1|
+1|Blupi is very curious: after
+1|having observed the robot
+1|for so long, he now realizes
+1|that he has lost himself.
+
+#23
+1|상황 :
+1|
+1|블러피는 매우 호기심이 강합니다:
+1|그런데 오랜동안 그 로봇을 관찰하다보니
+1|블러피는 현재 자기 자신이 길을 잃어
+1|버렸다는 것을 알게 되었습니다.
+
+
+
+
+2|Goal :
+2|
+2|Bring in support and destroy
+2|the enemy !
+
+2|목표 :
+2|
+2|지원해줄 블러피를 데려와
+2|적들을 파괴하세요.
+
+
+
+@23
+1|Clues :
+1|
+1|The isolated Blupi must go
+1|away from the robot and go
+1|west. Blupi must carve a
+1|rock to be able to reachthe
+1|wood, and then make a
+1|teleporter.
+
+@23
+1|단서 :
+1|
+1|따로 떨어진 블러피는 로봇으로 부터
+1|멀리 떨어져 서쪽으로 가야만 합니다.
+1|그 다음, 블러피는 돌을 다듬어 나무
+1|판자에 가 닿을 수 있도록 해야만
+1|합니다. 그 후에는 공간이동기를 
+1|만들어야 겠지요.
+
+
+2|With a second group of Blupis,
+2|you must make a boat, find the
+2|bomb in the north-east and
+2|blow up the barrier in the
+2|south. This will enable you
+2|to bring the wood onto the
+2|departure island in order
+2|to make a teleporter enabling
+2|you to join and help the lost
+2|Blupi.
+
+2|두번째 집단을 이루고 있는
+2|블러피들을 이용해 여러분은 배를 
+2|한척 만들어, 북동쪽에 있는 폭탄을
+2|찾아야만 하고, 그 다음에는 남쪽에
+2|있는 장벽을 폭파해야만 합니다. 
+2|이렇게 함으로써 여러분은 나무 판자를
+2|가지고 이탈된 섬위로 와 공간이동기를
+2|만들어 여러분이 길을 잃은 블러피와
+2|합류하여 그 길잃은 블러피를 도와줄 수
+2|있답니다.
+
+
+
+
+#24
+1|Situation :
+1|
+1|The region is full of enemies.
+1|
+
+#24
+1|상황 :
+1|
+1|그 지역이 적들로 꽉 차있습니다.
+1|
+
+
+2|Goal :
+2|
+2|Destroy all enemies.
+
+2|목표 :
+2|
+2|모든 적들을 파괴하는 것 이랍니다.
+
+
+@24
+1|Clues :
+1|
+1|Go south-east to avoid the
+1|fire and make a boat with
+1|the only tree left.
+1|
+1|In the camp, you will find
+1|some iron.
+
+@24
+1|단서 :
+1|
+1|불을 피하기 위해 남동쪽으로 가
+1|유일하게 남은 나무 한그루를 이용해
+1|배 한척을 만드세요.
+1|
+1|그 야영지에서, 여러분은 약간의
+1|철을 발견할 것입니다.
+
+
+2|North of the camp, you will
+2|find some eggs.
+
+2|그 야영지의 북쪽에서, 여러분은
+2|약간의 알들을 발견할 것입니다.
+
+
+#25
+1|Blupi has been suspecting
+1|that the robot brought
+1|something strange on his
+1|planet :
+1|
+1|  Platinium....
+1|
+1|The platinium, which is placed
+2|next to the robot's rocket,
+2|will give him access to enemy
+2|technology.
+2|
+
+#25
+1|블러피가 의심해오고 있던 것은
+1|바로 그 로봇이 블러피의 행성에 
+1|무엇인가 이상한 것을 가져온 
+1|것이 아닌가 하는 것입니다.
+1|
+1|  바로 백금이...
+1|
+1|그 백금은 로봇의 로켓 바로
+2|옆에 놓여졌는데, 그 백금을
+2|이용해 블러피가 적의 기술에
+2|한발 접근하게 될 것입니다.
+2|
+
+
+2|Goal :
+2|Bring a cube of platinum onto
+2|the striped paving stones.
+
+2|목표 :
+2|백금 정방체 하나를 가지고 줄무늬로
+2|덮인 돌위에 오는 것 이랍니다.
+
+
+@25
+1|Clues :
+1|
+1|Destroy the two bulldozers with
+1|the sticky traps. Make a boat in
+1|the north of the first enemy
+1|camp, then embark with a time
+1|bomb and go east.
+1|
+1|Look for a path between the
+1|rocks going southwards. The
+2|enemy camp with the rocket
+2|is far in the east. You will
+2|have to blow up a barrier to
+2|be able to get hold of the
+2|platinium.
+2|
+2|Bring the platinium back to
+2|base camp.
+
+@25
+1|단서 :
+1|
+1|2개의 불도우저를 끈끈이 덫을 이용해 
+1|제거하세요. 그 다음 첫 번째 적 야영지의 
+1|동쪽에 배 한 척을 만들어 시한폭탄을 
+1|가지고 적 야영지가 있는 지역에 상륙하여 
+1|동쪽으로 가세요.
+1|
+1|돌들 사이에 있는 길을 찾아서
+1|남쪽 방향으로 가세요. 
+2|가다보면 로켓이 있는 적의 
+2|야영지가 먼 동쪽에 있다는 것을
+2|알게 됩니다. 여러분은 장벽을
+2|폭파해 그 백금을 손에 쥘 수
+2|있어야만 할 것입니다.
+2|
+2|마지막으로 그 백금을 가지고 출발점이 된
+2|블러피의 야영지로 돌아오세요.
+
+
+#26
+1|The cube of Platinum will give
+1|you access to enemy technology
+1|so use it correctly.
+
+#26
+1|그 백금의 정방체가 여러분에게 가져다 줄수 있는
+1|것은 바로 여러분들이 적의 기술에 접근하여 백금을 
+1|정확하게 사용하도록 하는것입니다.
+
+
+
+
+2|Goal :
+2|
+2|Help Blupi find his house.
+
+2|목표  :
+2|
+2|블러피를 도와 블러피의 집을 찾아주세요.
+
+
+@26
+1|Clues :
+1|
+1|Make a helping robot with the
+1|cube of platinum in the factory
+1|and make a time bomb.
+1|
+1|Take the robot and the bomb.
+1|The robot can cross the western
+1|enemy camp without being
+2|noticed. Blow up the barrier
+2|in the north and take the
+2|tomatoes to feed the Blupi
+2|in the base camp.
+2|
+2|Put the tomatoes down before
+2|the first jump.
+
+@26
+1|단서 :
+1|
+1|백금 정방체를 이용해 도우미
+1|로봇을 공장에서 만들고 시한
+1|폭탄을 하나 만드세요.
+1|
+1|로봇과 시한폭탄을 집어드세요.
+1|그 로봇을 이용하면 서쪽에 있는
+1|적의 야영지를 지나갈 때 눈치채
+2|이지 않을수 있습니다. 그 다음에는
+2|북쪽에 있는 장벽을 폭파하고 토마토를
+2|가져다가 출발점이된 블러피의 야영지로
+2|가지고 가 블러피가 먹을수있도록 하세요.
+2|
+2|토마토를 내려놓은 다음에
+2|첫번째 건너뛰기를 하세요.
+
+
+#27
+1|Situation :
+1|
+1|The robot has had the cheek
+1|to install his village nearby
+1|Blupi's village.
+
+#27
+1|상황 :
+1|
+1|그 로봇이 건방지게도 로봇의 
+1|마을을 블러피의 마을 가까운
+1|곳에 설치했습니다.
+
+
+
+
+2|Goal :
+2|
+2|Reach enemy camp and
+2|destroy everything.
+
+2|목표 :
+2|
+2|적의 야영지에 가
+2|모든 것을 파괴하세요.
+
+
+@27
+1|Clues :
+1|
+1|Make a teleporter as fast as
+1|possible so that you reach
+1|the island with the eggs.
+1|Build two protection towers
+1|where the piles of stones
+1|are. Build palisades on the
+1|left and on the right of
+1|each tower.
+
+@27
+1|단서 :
+1|
+1|공간이동기를 가능한한 빨리
+1|만들어 여러분이 그 알들이 
+1|있는 섬으로 가세요.
+1|그 다음 두 개의 방어용 탑을
+1|세우는데 그 장소는 돌무더기가
+1|있는 곳입니다. 탑이 세워진후
+1|나무 울타리는 각각 탑의 왼쪽과
+1|오른쪽에 세우세요.
+
+
+2|Now you can breathe !
+2|
+2|You have to ways of reaching
+2|the enemy camp in the north,
+2|either by boat or by
+2|building a bridge.
+2| 
+2|Up to you to choose !
+
+2|이제 여러분이 숨 쉴수만 하군요 !
+2|
+2|여러분은 북쪽에 있는 적의 야영지에
+2|갈수 있는 방법을 찾아야 하는데,
+2|배를 이용하거나 다리를 만들어
+2|연결하는 것이 그방법이 될것입니다.
+2| 
+2|둘중에 여러분이 택하세요!
+
+
+#28
+1|Situation :
+1|
+1|Whilst building his house,
+1|Blupi made a mistake :
+1|he built a wall around it.
+
+#28
+1|상황 :
+1|
+1|블러피가 집을 짓는 도중
+1|실수를 한가지 했습니다:
+1|집주위를 전부 벽으로 감싼 것입니다.
+
+
+
+2|Goal :
+2|
+2|Blupi must simply go home.
+
+2|목표 :
+2|
+2|블러피는 다만 집에 가야만 한다는 것입니다.
+
+
+
+@28
+1|Clues :
+1|
+1|A small island in the north
+1|has a lot of eggs.
+1|
+1|You will have to cross the
+1|enemy camp very quickly
+1|in order to avoid the
+1|bulldozers coming from the
+1|north and from the south,
+2|so that you can pick the
+2|blue flowers.
+2|Another Blupi can take them
+2|away to make dynamite.
+2|
+2|The only rocks that can be
+2|used are south of the enemy
+2|camp, just outside the
+2|protection wall.
+
+@28
+1|단서 :
+1|
+1|작은 섬 하나가 북쪽에 있는데 
+1|수많은 알들이 그 섬에 있습니다.
+1|
+1|여러분은 적의 야영지를
+1|재빠르게 가로질러 가야
+1|하는데 북쪽과 남쪽으로
+1|부터 오는 불도우저들을
+1|피하기 위해서 이며,
+2|일단 무사히 피해오면 여러분
+2|들은 파란꽃들을 딸 수 있답니다.
+2|다른 블러피는 그 꽃들을 가지고 가
+2|다이나마이트를 만들 수 있습니다.
+2|
+2|사용할 수 있는 유일한 돌이
+2|적의 야영지 남쪽에 있는데,
+2|바로 방어용 탑 바깥쪽에 
+2|있답니다.
+
+
+#29
+1|Situation :
+1|
+1|The free space is being more
+1|and more occupied by the robot
+1|and his acolytes.
+
+#29
+1|상황 :
+1|
+1|비어있는 공간이 점점 더
+1|로봇과 로봇의 조수에 의해
+1|점령당하고 있습니다.
+
+
+
+
+2|Goal :
+2|
+2|Blupi must build his village
+2|and work out good defense
+2|tactics.
+2|
+2|He will then attack and
+2|eliminate all of his enemies.
+
+2|목표 :
+2|
+2|블러피는 블러피의 마을을
+2|건설하고 쓸만한 좋은 방어
+2|전술을 세워야 합니다.
+2|
+2|그다음에는 블러피가 공격을 하여
+2|블러피의 모든 적들을 제거할 것입니다.
+
+@29
+1|Clues :
+1|
+1|He must build protection towers
+1|on the north-west side, on the
+1|north-east side and on the
+1|south-east side. All the rocks
+1|are in the north-west.
+1|
+1|Do not cut the trees near the
+1|palisades. They can be useful
+1|against the jumping bombs !
+
+@29
+1|단서 :
+1|
+1|블러피는 방어용 탑을 북서쪽,
+1|북동쪽, 그리고 남동쪽위에
+1|세워야만 합니다. 
+1|모든 돌들은 북서쪽에
+1|있답니다. 
+1|
+1|나무 울타릴 곁에 있는 나무를 자르지
+1|마세요. 그 나무들은 통통튀어 건너오는 
+1|폭탄을 막는데 유용하게 쓰인답니다.
+
+2|동쪽에있는 녹색 꽃들로 여러분은
+2|끈끈이 덫을 만들어 그 마을을
+2|방어할 수 있답니다.
+2|
+2|남서쪽에 있는 철을 추출하여
+2|폭탄과 갑옷을 만드세요.
+
+#30
+1|Situation :
+1|
+1|This war can no longer last.
+1|Blupi and the last robot have
+1|come to an agreement :
+1|He will help the robot back to
+1|his rocket and, in return,
+1|the robot will definitively
+1|leave Blupi's planet.
+
+#30
+1|상황 :
+1|
+1|이 전쟁을 더 이상 끌수없습니다.
+1|블러피와 마지막으로 남은 로봇은
+1|계약을 맺게 되었습니다 : 
+1|블러피는 그 로봇을 로봇의 로켓으로
+1|되돌아갈 수 있도록 돕고,
+1|그 로봇은 확실히 블러피의 행성을
+1|떠날것이라는 것입니다.
+
+
+
+2|Goal :
+2|
+2|Prepare the path to the rocket
+2|so that the robot can leave
+2|the planet. Having lost the
+2|battle, the robot is angry so
+2|he refuses to move until the
+2|path is finished.
+
+2|목표 :
+2|
+2|로켓으로 가는 길을 준비하여
+2|그 로봇이 블러피의 행성을
+2|떠날 수 있도록 해주세요. 
+2|만약 그 싸움에 진다면 그 로봇은
+2|화가 나 그 길이 완성될 때 까지
+2|움직이길 거부할 것입니다.
+
+@30
+1|Clues :
+1|
+1|Carve a rock in the southeast.
+1|Cut a tree down and make a
+1|boat. With the boat, look
+1|for an island in the north-east.
+1|Look for some iron, build a
+1|mine and a factory. Make a
+2|bomb that will enable you to
+2|blow up the barriers around
+2|the robot.
+2|
+2|All you have to do is to build
+2|a bridge so that the robot can
+2|go back into his rocket.
+
+@30
+1|단서 :
+1|
+1|남동쪽에 있는 돌을 다듬으세요.
+1|그 다음, 나무 한 그루를 잘라내 배
+1|한척을 만드세요. 그 배를 이용해
+1|북동쪽에 있는 섬을 찾아보세요.
+1|약간의 철을 찾고, 광산과 공장을 
+1|만드세요.
+2|폭탄을 만들어 여러분들은
+2|그 로봇을 둘러싸고 있는 장벽을
+2|폭파할 수 있을 것입니다.
+2|
+2|여러분이 해야만 할 일의 전부라는 것이
+2|바로 다리를 만들어 그 로봇이 로봇의 
+2|로켓으로 돌아갈 수 있도록 해주는 것입니다.
+
+#31
+
+@31
+
+

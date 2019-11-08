@@ -1,0 +1,41 @@
+sound.txt
+
+sound002.wav    / Yes.           예
+sound003.wav    / Hi.            안녕하세요.
+sound004.wav    / Yes,master.    예, 주인님.
+sound005.wav    / OK.            좋아요.
+sound006.wav    / Let's go.      가자구요.
+sound007.wav    / Just a sec.    잠시만요.
+sound008.wav    / There you are. 거기예요.
+sound009.wav    / Done that.     다했어요.
+sound010.wav    / Finished.      끝났어요.
+sound014.wav    / hop.           점프.       
+
+sound056.wav    / I can't do that     할수 없어요.
+sound057.wav    / Impossible          불가능해요.
+sound058.wav    / No way!             안돼요.
+sound059.wav    / What do you want.   왜 그러시는데요.
+sound060.wav    / Hey boss            예 주인님.
+sound061.wav    / Whawt's up!         무슨 일이세요.
+sound062.wav    / Not again.          힘이 없어요.
+sound063.wav    / I beg your pardon.  뭐라고요?
+sound064.wav    / Now what.           자 이젠요.
+sound065.wav    / I'm fed up.         짜증나네요.
+sound066.wav    / Leave me alone.     절 내버려 두세요. 
+sound067.wavS   / You're drive in me crazy.   미치겠네요.
+sound068.wav    / You're the boss.    예 알았어요.
+sound069.wav    / Why not ?           물론이죠.
+sound070.wav    / All Right           맞아요.           
+sound071.wav    / It's done.          다 됐어요.
+sound072.wav    / It's finished.      끝났어요.
+sound073.wav    / I've finished.      끝냈어요.
+
+<감탄사는 웨이브 화일을 참조로 녹음 요망>
+sound017.wav    /ahhhhhhhhhhh...      아아아아아아~.
+sound018.wav    /fiuuuu pfff...       휘유 푸우...
+sound019.wav    /miam miam.           냠냠.
+sound027.wav    /atichou.             에에취.
+sound033.wav    /lalalalala           랄라라라라
+sound037.wav    /aie                  으아아아아.
+
+
