@@ -50,7 +50,7 @@
     }
    }
   oopt 1
-  Ofil "Z:\\RayDream41\\RayDream.tif"
+  Ofil "C:\\RayDream41\\RayDream.tif"
   movi 0
   tchf 0
   anim {
@@ -76,20 +76,20 @@ wkmg {
    wind {
     winf {
      type 1214866759
-     locH 705
-     locV 23
-     sizH 279
-     sizV 476
+     locH 1129
+     locV 79
+     sizH 612
+     sizV 778
      flot 0
      shwn 1
      stat 1
      }
     winf {
      type 1348817523
-     locH 15
-     locV 52
-     sizH 1264
-     sizV 744
+     locH 96
+     locV 344
+     sizH 1040
+     sizV 486
      flot 0
      shwn 1
      stat 1
@@ -97,13 +97,13 @@ wkmg {
 MInf {
  CaPo 3
  CaNm "Caméra 1"
- ShLv 3
+ ShLv 4
  Zoom 9
- Plns 161
+ Plns 177
  WBxm -15,-17.396,-18.95406
  WBxM 19.79199,17.396,15.83794
  WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
- VisR 3900,2206,4627,3453
+ VisR 4029,2318,4498,3341
  }
       }
      }
@@ -120,6 +120,24 @@ MInf {
    TbSw 0
    dock {
 dock {
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 25,25,54,500
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
  name "Zoom"
  dwin {
   shwn 1
@@ -129,16 +147,16 @@ dock {
   dbnd 0,0,0,0
   nbnd 0,0,0,0
   }
- name "Standard"
+ name "Rendu"
  dwin {
   shwn 1
   dsts 2
   lsts 2
-  ubnd 139,293,534,324
+  ubnd 0,0,0,0
   dbnd 0,0,0,0
-  nbnd 139,293,534,324
+  nbnd 0,0,0,0
   }
- name "Rendu"
+ name "Plans"
  dwin {
   shwn 1
   dsts 2
@@ -152,36 +170,18 @@ dock {
   shwn 1
   dsts 2
   lsts 2
-  ubnd 19,770,49,1145
+  ubnd 0,0,0,0
   dbnd 0,0,0,0
-  nbnd 19,770,49,1145
+  nbnd 0,0,0,0
   }
  name "Etat"
  dwin {
   shwn 1
   dsts 4
   lsts 4
-  ubnd 25,25,45,1177
+  ubnd 25,25,43,1050
   dbnd 0,0,0,0
-  nbnd 25,25,45,1177
-  }
- name "Outils"
- dwin {
-  shwn 1
-  dsts 1
-  lsts 1
-  ubnd 25,25,462,56
-  dbnd 0,0,0,0
-  nbnd 191,224,466,255
-  }
- name "Plans"
- dwin {
-  shwn 1
-  dsts 1
-  lsts 1
-  ubnd 176,113,206,145
-  dbnd 0,0,0,0
-  nbnd 176,113,206,145
+  nbnd 25,25,43,1050
   }
  }
     }
@@ -235,7 +235,7 @@ sc {
            IMAP 0
            MDTA {
             REFN 0
-            TIME "00:11:36114530078"
+            TIME "22:30:56175625"
             }
            }
           whit 0
@@ -548,8 +548,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1.11005,0.50061
+      mbox 0,0,1.11005,0.50061
       shdr {
        scmp {
         prkd 1
@@ -866,8 +866,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,3.4071,2.41228
+      mbox 0,0,3.4071,2.41228
       shdr {
        scmp {
         prkd 1
@@ -1399,10 +1399,10 @@ sc {
     mapk 0
     elms {
      sprm {
-      uvsp 0
+      uvsp 8
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,23.90753,1.46817
+      mbox 0,0,23.90753,1.46817
       shdr {
        scmp {
         prkd 1
@@ -1690,8 +1690,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,12.45905,0.61183
+      mbox 0,0,12.45905,0.61183
       shdr {
        scmp {
         prkd 1
@@ -1935,8 +1935,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,30.56528,0.75681
+      mbox 0,0,30.56528,0.75681
       shdr {
        scmp {
         prkd 1
@@ -2146,8 +2146,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,11.62019,0.81223
+      mbox 0,0,11.62019,0.81223
       shdr {
        scmp {
         prkd 1
@@ -2383,7 +2383,7 @@ sc {
            IMAP 0
            MDTA {
             REFN 1
-            TIME "00:11:36114530078"
+            TIME "22:30:56175625"
             }
            }
           whit 0
@@ -2414,7 +2414,7 @@ sc {
            IMAP 0
            MDTA {
             REFN 2
-            TIME "00:11:36114530078"
+            TIME "22:30:56175625"
             }
            }
           whit 0
@@ -2612,8 +2612,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,13.91844,1.2462
+      mbox 0,0,13.91844,1.2462
       shdr {
        scmp {
         prkd 1
@@ -2930,8 +2930,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.31601,4.78328
+      mbox 0,0,0.31601,4.78328
       shdr {
        scmp {
         prkd 1
@@ -3370,8 +3370,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0,0
+      mbox 0,0,0,0
       shdr {
        scmp {
         prkd 1
@@ -3491,8 +3491,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.13791,0.1348
+      mbox 0,0,0.13791,0.1348
       shdr {
        scmp {
         prkd 1
@@ -4092,8 +4092,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.10847
+      mbox 0,0,1,0.10847
       shdr {
        scmp {
         prkd 1
@@ -4301,8 +4301,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,1
+      mbox 0,0,1,1
       shdr {
        scmp {
         prkd 1
@@ -4410,8 +4410,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,1
+      mbox 0,0,1,1
       shdr {
        scmp {
         prkd 1
@@ -4519,8 +4519,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.07077
+      mbox 0,0,1,0.07077
       shdr {
        scmp {
         prkd 1
@@ -4960,8 +4960,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.07077
+      mbox 0,0,1,0.07077
       shdr {
        scmp {
         prkd 1
@@ -5081,8 +5081,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0,0
+      mbox 0,0,0,0
       shdr {
        scmp {
         prkd 1
@@ -5274,8 +5274,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.98816,1
+      mbox 0,0,0.98816,1
       shdr {
        scmp {
         prkd 1
@@ -5459,8 +5459,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.98816,1
+      mbox 0,0,0.98816,1
       shdr {
        scmp {
         prkd 1
@@ -5644,8 +5644,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0,0
+      mbox 0,0,0,0
       shdr {
        scmp {
         prkd 1
@@ -5765,8 +5765,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0,0
+      mbox 0,0,0,0
       shdr {
        scmp {
         prkd 1
@@ -5958,8 +5958,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0,0
+      mbox 0,0,0,0
       shdr {
        scmp {
         prkd 1
@@ -6223,8 +6223,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.68483,0.11348
+      mbox 0,0,0.68483,0.11348
       shdr {
        scmp {
         prkd 1
@@ -6488,8 +6488,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.11348
+      mbox 0,0,1,0.11348
       shdr {
        scmp {
         prkd 1
@@ -6641,8 +6641,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.99208
+      mbox 0,0,1,0.99208
       shdr {
        scmp {
         prkd 1
@@ -6888,8 +6888,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.99208
+      mbox 0,0,1,0.99208
       shdr {
        scmp {
         prkd 1
@@ -7135,8 +7135,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.55133,1
+      mbox 0,0,0.55133,1
       shdr {
        scmp {
         prkd 1
@@ -7644,8 +7644,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0,0
+      mbox 0,0,0,0
       shdr {
        scmp {
         prkd 1
@@ -7909,8 +7909,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.55133,1
+      mbox 0,0,0.55133,1
       shdr {
        scmp {
         prkd 1
@@ -8118,8 +8118,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.13791,0.1348
+      mbox 0,0,0.13791,0.1348
       shdr {
        scmp {
         prkd 1
@@ -8719,8 +8719,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.10847
+      mbox 0,0,1,0.10847
       shdr {
        scmp {
         prkd 1
@@ -8928,8 +8928,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,1
+      mbox 0,0,1,1
       shdr {
        scmp {
         prkd 1
@@ -9037,8 +9037,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,1
+      mbox 0,0,1,1
       shdr {
        scmp {
         prkd 1
@@ -9146,8 +9146,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.07077
+      mbox 0,0,1,0.07077
       shdr {
        scmp {
         prkd 1
@@ -9587,8 +9587,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.68483,0.11348
+      mbox 0,0,0.68483,0.11348
       shdr {
        scmp {
         prkd 1
@@ -9852,8 +9852,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.07077
+      mbox 0,0,1,0.07077
       shdr {
        scmp {
         prkd 1
@@ -9973,8 +9973,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.98816,1
+      mbox 0,0,0.98816,1
       shdr {
        scmp {
         prkd 1
@@ -10158,8 +10158,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.98816,1
+      mbox 0,0,0.98816,1
       shdr {
        scmp {
         prkd 1
@@ -10343,8 +10343,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.11348
+      mbox 0,0,1,0.11348
       shdr {
        scmp {
         prkd 1
@@ -10496,8 +10496,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.99208
+      mbox 0,0,1,0.99208
       shdr {
        scmp {
         prkd 1
@@ -10743,8 +10743,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1,0.99208
+      mbox 0,0,1,0.99208
       shdr {
        scmp {
         prkd 1
@@ -10990,8 +10990,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.55133,1
+      mbox 0,0,0.55133,1
       shdr {
        scmp {
         prkd 1
@@ -11499,8 +11499,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,0.55133,1
+      mbox 0,0,0.55133,1
       shdr {
        scmp {
         prkd 1
@@ -11708,8 +11708,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,1.7442,1.49474
-      mbox 0,0,1.7442,1.49474
+      bbox 0,0,0.85612,0.01601
+      mbox 0,0,0.85612,0.01601
       shdr {
        scmp {
         prkd 1
@@ -11849,8 +11849,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,11.98372,9.39362
+      mbox 0,0,11.98372,9.39362
       shdr {
        scmp {
         prkd 1
@@ -12144,8 +12144,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,11.32835,0.09807
+      mbox 0,0,11.32835,0.09807
       shdr {
        scmp {
         prkd 1
@@ -12285,10 +12285,10 @@ sc {
     mapk 0
     elms {
      sprm {
-      uvsp 0
+      uvsp 12
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,3.60287,3.60287
+      mbox 0,0,3.60287,3.60287
       shdr {
        scmp {
         prkd 1
@@ -12487,7 +12487,7 @@ sc {
            IMAP 0
            MDTA {
             REFN 3
-            TIME "00:11:36114530125"
+            TIME "22:30:56175671"
             }
            }
           whit 0
@@ -12640,8 +12640,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,3.51511,23.11298
+      mbox 0,0,3.51511,23.11298
       shdr {
        scmp {
         prkd 1
@@ -12881,8 +12881,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,1.88496,83.30423
+      mbox 0,0,1.88496,83.30423
       shdr {
        scmp {
         prkd 1
@@ -14630,8 +14630,8 @@ sc {
      sprm {
       uvsp 0
       aexp 1
-      bbox 0,0,2,2
-      mbox 0,0,2,2
+      bbox 0,0,12.80695,2.34668
+      mbox 0,0,12.80695,2.34668
       shdr {
        scmp {
         prkd 1
@@ -14988,7 +14988,7 @@ sc {
              IMAP 0
              MDTA {
               REFN 4
-              TIME "00:11:36114530125"
+              TIME "22:30:56175671"
               }
              }
             whit 0
@@ -15089,7 +15089,7 @@ sc {
              IMAP 0
              MDTA {
               REFN 5
-              TIME "00:11:36114530125"
+              TIME "22:30:56175671"
               }
              }
             whit 0
@@ -15166,8 +15166,8 @@ sc {
        sprm {
         uvsp 0
         aexp 1
-        bbox 0,0,4,3
-        mbox 0,0,4,3
+        bbox 0,0,2,2
+        mbox 0,0,2,2
         shdr {
          scmp {
           prkd 1
@@ -15431,8 +15431,8 @@ sc {
            sprm {
             uvsp 0
             aexp 1
-            bbox 0,0,2,2
-            mbox 0,0,2,2
+            bbox 0,0,3.66666,6.28319
+            mbox 0,0,3.66666,6.28319
             shdr {
              scmp {
               prkd 1
@@ -16343,7 +16343,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 6
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -16439,7 +16439,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 7
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -16581,7 +16581,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 8
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -17591,7 +17591,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 9
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -17687,7 +17687,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 10
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -17829,7 +17829,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 11
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -18393,7 +18393,7 @@ sc {
                  IMAP 0
                  MDTA {
                   REFN 12
-                  TIME "00:11:36114530125"
+                  TIME "22:30:56175671"
                   }
                  }
                 whit 0
@@ -18470,7 +18470,7 @@ sc {
           mapk 0
           elms {
            sprm {
-            uvsp 0
+            uvsp 12
             aexp 1
             bbox 0,0,2,2
             mbox 0,0,2,2
@@ -18773,7 +18773,7 @@ sc {
                IMAP 0
                MDTA {
                 REFN 13
-                TIME "00:11:36114530125"
+                TIME "22:30:56175671"
                 }
                }
               whit 0
@@ -18993,7 +18993,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 14
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -19098,7 +19098,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 15
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -19203,7 +19203,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 16
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -19252,7 +19252,8 @@ sc {
            AnTr 1
            Cloa 1
            tran {
-            po 3.12181,2.22922,-1.08165
+            po 3.12184,2.22919,-1.08165
+            Scal 0.99997
             hp 0.01006,-1.61179,-0.32581
             }
            XYZs 0.99463,0.80589,0.64055
@@ -19308,7 +19309,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 17
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -19353,7 +19354,7 @@ sc {
            uK 0
            }
           }
-         boxM 3.41896,2.99254,-0.78809
+         boxM 3.41898,2.99248,-0.78809
          boxm 2.83521,-0.40332,-1.33646
          open 0
          }
@@ -19429,7 +19430,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 18
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -19534,7 +19535,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 19
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -19639,7 +19640,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 20
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -19744,7 +19745,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 21
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -19849,7 +19850,7 @@ sc {
                    IMAP 0
                    MDTA {
                     REFN 22
-                    TIME "00:11:36114530125"
+                    TIME "22:30:56175671"
                     }
                    }
                   whit 0
@@ -19898,18 +19899,245 @@ sc {
          boxm 2.83521,-0.40334,-2.07695
          open 0
          }
+        gr {
+         nm "Groupe 5"
+         AnTr 1
+         Cloa 1
+         tran {
+          po 3.12691,2.26482,-2.54906
+          Scal 0.99994
+          hp 3.12704,1.73334,-1.80276
+          }
+         XYZs 1,1,1
+         MPSt 0
+         so {
+          inpr {
+           nm "Flag"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 3.12181,0.47423,-1.82216
+            hp 0.01006,-1.61179,-0.32581
+            }
+           XYZs 0.99463,0.80589,0.64055
+           defo {
+            affi {
+             ScaX 0.99463
+             ScaY 0.80589
+             ScaZ 0.64055
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 1
+            mapd 4
+            mapn 1
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 smap {
+                  MInf {
+                   tile 0
+                   seam 0
+                   cnth 1
+                   cntv 1
+                   flph 0
+                   flpv 1
+                   rotc 0
+                   intp 1
+                   invC 0
+                   brit 1
+                   }
+                  prkd 0
+                  CMAp {
+                   IMAP 0
+                   MDTA {
+                    REFN 23
+                    TIME "22:30:56175671"
+                    }
+                   }
+                  whit 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Flag"
+           ur ""
+           uK 0
+           }
+          inpr {
+           nm "Flag"
+           AnTr 1
+           Cloa 1
+           tran {
+            po 3.12181,1.356,-1.82216
+            hp 0.01006,-1.61179,-0.32581
+            }
+           XYZs 0.99463,0.80589,0.64055
+           defo {
+            affi {
+             ScaX 0.99463
+             ScaY 0.80589
+             ScaZ 0.64055
+             R1,1 1
+             R1,2 0
+             R1,3 0
+             R2,1 0
+             R2,2 1
+             R2,3 0
+             R3,1 0
+             R3,2 0
+             R3,3 1
+             Tra1 0
+             Tra2 0
+             Tra3 0
+             }
+            }
+           MPSt 0
+           sh {
+            mapk 1
+            mapd 4
+            mapn 1
+            elms {
+             sprm {
+              uvsp 0
+              aexp 1
+              bbox 0,0,2,2
+              mbox 0,0,2,2
+              shdr {
+               scmp {
+                prkd 1
+                ssub {
+                 smap {
+                  MInf {
+                   tile 0
+                   seam 0
+                   cnth 1
+                   cntv 1
+                   flph 0
+                   flpv 1
+                   rotc 0
+                   intp 1
+                   invC 0
+                   brit 1
+                   }
+                  prkd 0
+                  CMAp {
+                   IMAP 0
+                   MDTA {
+                    REFN 24
+                    TIME "22:30:56175671"
+                    }
+                   }
+                  whit 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0.5
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sval {
+                  prkd 1
+                  Val 0
+                  }
+                 sclr {
+                  prkd 1
+                  colr 0,0,0
+                  }
+                 }
+                }
+               }
+              opac 1
+              }
+             }
+            }
+           ob "Flag"
+           ur ""
+           uK 0
+           }
+          }
+         boxM 3.41896,2.11931,-1.52859
+         boxm 2.83521,0.47417,-2.07697
+         open 0
+         }
         }
-       boxM 3.41893,3.86995,-0.78812
-       boxm 2.83519,-0.40332,-2.07697
+       boxM 3.41895,3.86995,-0.78812
+       boxm 2.83507,-0.40332,-2.82324
        open 0
        }
       }
-     boxM 3.37691,3.14606,-0.80942
-     boxm 2.86923,-0.57036,-1.93031
+     boxM 3.37692,3.14606,-0.80942
+     boxm 2.86913,-0.57036,-2.57935
      open 1
      }
     }
-   boxM 38.18799,13.36374,8.26549
+   boxM 24.92415,13.36374,8.26549
    boxm 2.56705,-13.30328,-13.79468
    open 1
    }
@@ -19924,7 +20152,7 @@ sc {
     ROBJ {
      IDEN {
       REFN 0
-      TIME "00:11:36114530078"
+      TIME "22:30:56175625"
       }
      DATA {
       stor 0
@@ -19972,7 +20200,7 @@ Y+6.…7`*+]$
     ROBJ {
      IDEN {
       REFN 1
-      TIME "00:11:36114530078"
+      TIME "22:30:56175625"
       }
      DATA {
       stor 0
@@ -21459,7 +21687,7 @@ bheIUU 4*/DTf+
     ROBJ {
      IDEN {
       REFN 2
-      TIME "00:11:36114530078"
+      TIME "22:30:56175625"
       }
      DATA {
       stor 0
@@ -21508,7 +21736,7 @@ bheIUU 4*/DTf+
     ROBJ {
      IDEN {
       REFN 3
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -21556,7 +21784,7 @@ Y+6.…7`*+]$
     ROBJ {
      IDEN {
       REFN 4
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -21682,7 +21910,7 @@ C5DD6DR`SEEþFS77SþEý7E77EEDRQQD6))ERREFFMCCOOPPûCÿ5üC 5þDQRDýEÿFSF)ý7ÿEû7ÿE
     ROBJ {
      IDEN {
       REFN 5
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -21734,7 +21962,7 @@ KPTXU?PPXOXüI~>PPITDdPddI?XPPT]PTe]gl0dPIXX>8D++828KPXPTT?IPDKPTKXOPTX_D]DOIPIIP
     ROBJ {
      IDEN {
       REFN 6
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -21898,7 +22126,7 @@ $'/).1'("!&'-!!%(2)!-%3.'("%$&#0&~*
     ROBJ {
      IDEN {
       REFN 7
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -21981,7 +22209,7 @@ $'/).1'("!&'-!!%(2)!-%3.'("%$&#0&~*
     ROBJ {
      IDEN {
       REFN 8
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -22137,7 +22365,7 @@ $2$%(2%0(Õ$%6
     ROBJ {
      IDEN {
       REFN 9
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -22301,7 +22529,7 @@ $'/).1'("!&'-!!%(2)!-%3.'("%$&#0&~*
     ROBJ {
      IDEN {
       REFN 10
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -22384,7 +22612,7 @@ $'/).1'("!&'-!!%(2)!-%3.'("%$&#0&~*
     ROBJ {
      IDEN {
       REFN 11
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -22540,7 +22768,7 @@ $2$%(2%0(Õ$%6
     ROBJ {
      IDEN {
       REFN 12
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23212,7 +23440,7 @@ $2$%(2%0(Õ$%6
     ROBJ {
      IDEN {
       REFN 13
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23415,7 +23643,7 @@ h%"%(!%#%!!*%%%"&#!%!!#!#"'+!##+ "++!''!*!%+!+#"!-%
     ROBJ {
      IDEN {
       REFN 14
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23455,7 +23683,7 @@ h%"%(!%#%!!*%%%"&#!%!!#!#"'+!##+ "++!''!*!%+!+#"!-%
     ROBJ {
      IDEN {
       REFN 15
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23550,7 +23778,7 @@ Y±±Åÿü²±±…óXýÿÜpõXZ¬ýüÿÇbõXaÅüÿü¬YóXþÿº[òXøþÿ —ñX Ÿþÿô|ñXþÿ «ñXhýþÿ …
     ROBJ {
      IDEN {
       REFN 16
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23590,7 +23818,7 @@ Y±±Åÿü²±±…óXýÿÜpõXZ¬ýüÿÇbõXaÅüÿü¬YóXþÿº[òXøþÿ —ñX Ÿþÿô|ñXþÿ «ñXhýþÿ …
     ROBJ {
      IDEN {
       REFN 17
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23630,7 +23858,7 @@ Y±±Åÿü²±±…óXýÿÜpõXZ¬ýüÿÇbõXaÅüÿü¬YóXþÿº[òXøþÿ —ñX Ÿþÿô|ñXþÿ «ñXhýþÿ …
     ROBJ {
      IDEN {
       REFN 18
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23670,7 +23898,7 @@ Y±±Åÿü²±±…óXýÿÜpõXZ¬ýüÿÇbõXaÅüÿü¬YóXþÿº[òXøþÿ —ñX Ÿþÿô|ñXþÿ «ñXhýþÿ …
     ROBJ {
      IDEN {
       REFN 19
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23710,7 +23938,7 @@ Y±±Åÿü²±±…óXýÿÜpõXZ¬ýüÿÇbõXaÅüÿü¬YóXþÿº[òXøþÿ —ñX Ÿþÿô|ñXþÿ «ñXhýþÿ …
     ROBJ {
      IDEN {
       REFN 20
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23750,7 +23978,7 @@ Y±±Åÿü²±±…óXýÿÜpõXZ¬ýüÿÇbõXaÅüÿü¬YóXþÿº[òXøþÿ —ñX Ÿþÿô|ñXþÿ «ñXhýþÿ …
     ROBJ {
      IDEN {
       REFN 21
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23822,7 +24050,7 @@ _``^]]`]]\^Ìe`_þ]ÿ`^[[Ëe	]\\]``_]Z\Ëeþ\ÿ`_][`Êe]\_`_]\Èe\``_]\dÈeÿ`_\\cÇe
     ROBJ {
      IDEN {
       REFN 22
-      TIME "00:11:36114530125"
+      TIME "22:30:56175671"
       }
      DATA {
       stor 0
@@ -23844,6 +24072,68 @@ _``^]]`]]\^Ìe`_þ]ÿ`^[[Ëe	]\\]``_]Z\Ëeþ\ÿ`_][`Êe]\_`_]\Èe\``_]\dÈeÿ`_\\cÇe
        tile $0000008AÁõGGGGGGGGGGGGGÁ\õõõõõõõõÁ÷XXXXXXXXXXXXXÁk÷÷÷÷÷÷÷÷Áú©©©©©©©©©©©©©Á²úúúúúúúú$
        tile $0000008AÁõGGGGGGGGGGGGGÁ\õõõõõõõõÁ÷XXXXXXXXXXXXXÁk÷÷÷÷÷÷÷÷Áú©©©©©©©©©©©©©Á²úúúúúúúú$
        tile $0000008AÁõGGGGGGGGGGGGGÁ\õõõõõõõõÁ÷XXXXXXXXXXXXXÁk÷÷÷÷÷÷÷÷Áú©©©©©©©©©©©©©Á²úúúúúúúú$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       brit 1
+       }
+      }
+     }
+    ROBJ {
+     IDEN {
+      REFN 23
+      TIME "22:30:56175671"
+      }
+     DATA {
+      stor 0
+      w 70
+      h 47
+      dpth 40
+      npln 5
+      tils 60,54
+      tdta {
+       tile $0000033C eÆ ÎcÇ ÿÎ aÈ þÎ ^É ýÎ \Ê üÎ ZË ûÎ WÌ úÎ UÍ ùÎ SÎ øÎ PÏ ÷Î NÐ öÎ LÑ õÎ IÒ ôÎ GÓ óÎ EÔ òÎ CÕ ñÎ AÖ ðÎ ?× ïÎ <Ø îÎ ;Ù íÎ 8Ú ìÎ 7Û ëÎ 5Ü êÎ 	Ý ëÎ 5Ü ìÎ 7Û íÎ 8Ú îÎ ;Ù ïÎ <Ø ðÎ ?× ñÎ AÖ òÎ àÕÍóÎ ïÔÿôÎ îÓÿõÎ îÒÿöÎ íÑÿ÷Î íÐÿøÎ ìÏÿùÎ ëÎÿúÎ ëÍÿûÎ êÌÿüÎ êËÿýÎ éÊÿþÎ éÉÿÿÎ èÈÿÎçÇÿ çÆÿ Æ Ç ÿ È þ É ý Ê ü Ë û Ì ú Í ù Î ø Ï ÷ Ð ö Ñ õ Ò ô Ó ó Ô ò Õñ YÖzð Z×zï [Øzî \Ùzí ]Úzì ^Ûzë _Üzê vÝzë _Üzì ^Ûzí ]Úzî \Ùzï [Øzð Z×zñ YÖzò ªÕæó ¯Ôÿô ­Óÿõ «Òÿö ¨Ñÿ÷ ¥Ðÿø £Ïÿù  Îÿú Íÿû ›Ìÿü —Ëÿý •Êÿþ ’Éÿÿ ÈÿŒÇÿ ŠÆÿ Æ &Ç ÿ& È þ& É ý& Ê ü& Ë û& Ì ú& Í ù& Î ø& Ï ÷& Ð ö& Ñ õ& Ò ô& Ó ó& Ô ò& Õñ& 6Ö=ð& 6×=ï& 6Ø=î& 6Ù=í& 7Ú=ì& 7Û=ë& 7Ü=ê& <Ý=ë& 7Ü=ì& 7Û=í& 7Ú=î& 6Ù=ï& 6Ø=ð& 6×=ñ& 6Ö=ò& ­ÕÙó& ¶Ôÿô& ´Óÿõ& ²Òÿö& ¯Ñÿ÷& ­Ðÿø& «Ïÿù& ¨Îÿú& ¦Íÿû& ¤Ìÿü& ¡Ëÿý& žÊÿþ& œÉÿÿ& ™Èÿ&–Çÿ ”Æÿ$
+       tile $0000002C  Ë ÷Íÿëÿ ë ÷zëz÷æÿëÿ ë ÷=ë=÷Ùÿëÿ$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       brit 1
+       }
+      }
+     }
+    ROBJ {
+     IDEN {
+      REFN 24
+      TIME "22:30:56175671"
+      }
+     DATA {
+      stor 0
+      w 70
+      h 47
+      dpth 40
+      npln 5
+      tils 60,54
+      tdta {
+       tile $00000367ÉÉÉÉÉíÉÅÌÿ¶ÿ ðÇÿüšÊÿñ×ÓâÕÔÖÓÍÿÕâÒæáÊØèðÎÿçÇ×ÎÈËÕÌûÑÿ÷³ýÿÐ¹ÖÍÃÈæÿÔ¸ÓÿàÀ÷âÉ®«ºÁÈóóÑ½üÔÿ÷äÿÏÎÁÍëÙ©åñíäÓÿóþàÐÙäÑïË“ÛãÛþÓÿØÑÓÎ³ÕÌÝÊ©¨ëÍÎîÔÿÆÿÿÎÏ¡V«ù­ñêûÜÔÿçÿÍîèã5´§ÈÌÌÎÒÿ
+ÕÐÖîèãÓ´ÉÈÍþÐ åÔÿÑýÿèèáÝÑÍ¦ÍàëöÔÔÿìþÿíèáÜæÊÉÉÿêþýÔÿëêïÿâáë®ÜÉóÿçë÷Ôÿ„hòÿúóÌôÿÿÓc„Šÿ°ÿÅÌÉÉÉÉÉíÉíÅ$Æ¶Æ ÃÇÆÅ¦ÊÆÊÄÏ˜ÌƒÎÇÍÆÍ!•$ÁÃ<ÖÎÆ½^ªq”w³…ÃÑÆ®|ÃÆ¹¹Ã’´¸»ÆªŠÓÆµ£ÂtZ(l‡—ØÍ­›ÄÔÆÀÏÆ@dˆ¡Ã¬NÏàÁÏÓÆ¿ün>®È®Ì¶¶ŒþÓÆqOY(¡¸`rU"ÑUsÔÆ(ÿÆ3¦‹€z.öSàÉòUÔÆ­ÿ¡†qH®(xpQeÿÅÔÆ9:¡ƒn<%C‰:ZtÔÆOúÆšƒfV|C…>…ËßAÔÆ»þÆ¡ƒdRÁnwˆÆÊþÂÔÆÅÖÂÆ†fír–{­ÆÊ×ÁÔÆ©¬ÂÆÃØÉÑÆÆ»›©ªÆ°ÆÅ$ííÅ ¶  Ç ŽË Hq¸ ¦Î ¢KGiÎ !5R<UK`3Ñ B  ?K[#FK 9LÔ >!\u}{M-9Ó w  #-,À¹dÈ©vÓ 
+ü!8I/Ê«8Á¯?þÓ ,C:$p[EG«(6Ô %ÿ 0Gy–@÷l©[òÔ  ÿLB;›f@+*cÿÓ LA:&6"."Ô %ú EA71:#,"`ÞÔ !þ A6/º*+. \þÓ 5~ 8áL‘, W~Ô À«Æ z{X  LÇ¹µ ° Åí$
+       tile $00000024“É÷Ìÿ›ÿ÷Ì“É“÷$Æ›Æ÷$““÷ › ÷“$
        }
       DefM {
        tile 0
